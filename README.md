@@ -1,9 +1,9 @@
 # Awesome-Black-Friday-Cyber-Monday-deals
-Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneur, 
+Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneur, 2021
 
-## Contents
+# Contents
 
-* [Books](#books)
+* [Books](#books) 
 * [Courses](#courses)
 * [SaaS Softwares](#saas-softwares)
 * [Themes](#themes)
@@ -11,6 +11,15 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 * [Standalone scripts](#standalone-scripts)
 * [Marketplace](#marketplace)
 
+# Contribution ✍️✍️
+
+Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2021.
+
+**To contribute:**
+1. Send the details in issue section tab
+2. Or, click on README.md file, click edit and add the resource in related section with all details
+
+***
 
 ## Books
 
