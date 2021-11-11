@@ -3,7 +3,7 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 
 # Contents
 
-* [Books](#books) 
+* [Books](#books) 📚
 * [Courses](#courses)
 * [SaaS Softwares](#saas-softwares)
 * [Themes](#themes)
