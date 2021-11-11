@@ -3,13 +3,13 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 
 # Contents
 
-* [Books](#books) 📚
-* [Courses](#courses)
-* [SaaS Softwares](#saas-softwares)
-* [Themes](#themes)
-* [Plugins](#plugins)
-* [Standalone scripts](#standalone-scripts)
-* [Marketplace](#marketplace)
+* 📚 [Books](#books)
+* 👩‍🏫 [Courses](#courses)
+* ♻️ [SaaS Softwares](#saas-softwares)
+* 🎨 [Themes](#themes)
+* 🔌 [Plugins](#plugins)
+* 🧬 [Standalone scripts](#standalone-scripts)
+* 🛒 [Marketplaces](#marketplaces)
 
 # Contribution ✍️✍️
 
@@ -57,7 +57,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 0 | [Name](www.example-link.com) | This is just an example format, write the description here.  | 50% discount, coupon code - bf2021 | 11-Nov-2021 to 25-Dec-2021 |
 
-## Marketplace
+## Marketplaces
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
