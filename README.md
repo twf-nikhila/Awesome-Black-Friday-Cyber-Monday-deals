@@ -17,7 +17,7 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2021.
 
 **To contribute:**
-1. Send the details in issue section tab
+1. Send the details in issues and I wil add it asap.
 2. Or, click on README.md file, click edit and add the resource in related section with all details
 
 ***
