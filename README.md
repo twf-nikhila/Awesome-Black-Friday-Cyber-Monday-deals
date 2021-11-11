@@ -61,5 +61,6 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 0 | [Name](www.example-link.com) | This is just an example format, write the description here.  | 50% discount, coupon code - bf2021 | 11-Nov-2021 to 25-Dec-2021 |
+| 1 | [AppSumo](https://appsumo.8odi.net/doknAQ) | LTD marketplace  | LTD discounts | November 21, 2021 to November 30, 2021 |
+| 2 | [Envato](https://1.envato.market/Ygq5e) | Standalone scripts, Plugins/Themes, Audio, Video, Stock images and more  | 30-50% discount | 23rd November, 5am (UTC) to 1st December, 12:59pm (UTC) 2021 |
 
