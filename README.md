@@ -32,7 +32,6 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 0 | [Course Name](www.example-link.com) | This is just an example format, write the description here.  | 50% discount, coupon code - bf2021 | 11-Nov-2021 to 25-Dec-2021 |
 | 1 | [Udemy](https://www.udemy.com/) | Video courses on all sorts of content  | Courses can go as low as $9.99 (New customers get regular details, but sales happen intermittently all year round for everyone too! | Almost always a sale on black friday/cyber monday, but worth having an account with notifications turned on (you get them straight in your inbox) |
 
 ## SaaS Softwares
