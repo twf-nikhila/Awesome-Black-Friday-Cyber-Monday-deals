@@ -38,7 +38,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 0 | [Name](www.example-link.com) | This is just an example format, write the description here.  | 50% discount, coupon code - bf2021 | 11-Nov-2021 to 25-Dec-2021 |
+| 1 | [Launcher](https://uselauncher.com/) | Deploy your Laravel applications with Docker. Incredible simple, still customizable. | 25% discount on the year plan, in addition to support for Purchasing Power Parity. Coupon code: BFCM2021 | 26-Nov-2021 to 29-Nov-2021 (Black Friday/Cyber Monday) |
 
 ## Themes
 
