@@ -39,6 +39,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Launcher](https://uselauncher.com/) | Deploy your Laravel applications with Docker. Incredible simple, still customizable. | 25% discount on the year plan, in addition to support for Purchasing Power Parity. Coupon code: BFCM2021 | 26-Nov-2021 to 29-Nov-2021 (Black Friday/Cyber Monday) |
+| 2 | [Carrd](https://carrd.co/) | Simple, free, fully responsive one-page sites for pretty much anything. A personal profile, a landing page to capture emails,
+or something a bit more elaborate, Carrd has you covered. | 40% off ALL Pro upgrades/renewals/gift plans. Use code ITSBF2021 | Not Mentioned |
 
 ## Themes
 
