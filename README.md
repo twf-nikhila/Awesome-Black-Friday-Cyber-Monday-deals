@@ -34,6 +34,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Udemy](https://www.udemy.com/) | Video courses on all sorts of content  | Courses can go as low as $9.99 (New customers get regular details, but sales happen intermittently all year round for everyone too! | Almost always a sale on black friday/cyber monday, but worth having an account with notifications turned on (you get them straight in your inbox) |
 | 2 | [THE AFFILIATE LAB](https://affiliatelab.im/black-friday-2021) | Get A Proven, Test-backed Blueprint for Ranking, Monetizing, and Flipping High-Competition Affiliate Websites  | 50% OFF | Starts Nov 26, 2021 |
+| 3 | [Laravel Level-up, Code Readability by Jason McCreary](https://jasonmccreary.me/products/packages) | Improve your Laravel apps with streamlined, tested code. Learn everything for writing less complex, more readable code. | Bundle offers | Not mentioned |
 
 ## SaaS Softwares
 
