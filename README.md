@@ -26,7 +26,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 0 | [Book Name](www.example-link.com) | This is just an example format, write the book here.  | 50% discount, coupon code - bf2021 | 11-Nov-2021 to 25-Dec-2021 |
+| 1 | [The Landing Page Hot Tips Ebook by Rob Hope](https://robhope.com/bf2021) | The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources.  | $20 (save 60%) | Started - End date not mentioned |
 
 ## Courses
 
