@@ -43,6 +43,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 1 | [Launcher](https://uselauncher.com/) | Deploy your Laravel applications with Docker. Incredible simple, still customizable. | 25% discount on the year plan, in addition to support for Purchasing Power Parity. Coupon code: BFCM2021 | 26-Nov-2021 to 29-Nov-2021 (Black Friday/Cyber Monday) |
 | 2 | [Carrd](https://carrd.co/) | Simple, free, fully responsive one-page sites for pretty much anything. A personal profile, a landing page to capture emails, or something a bit more elaborate, Carrd has you covered. | 40% off ALL Pro upgrades/renewals/gift plans. Use code ITSBF2021 | Not Mentioned |
 | 3 | [EmailOctopus](https://emailoctopus.com/black-friday) | Email marketing tool | 50% off for first three months. Use the link | Ends 29th November |
+| 4 | [Cryptee](https://crypt.ee) | Secure cloud file storage | 10% off | Ends 1st January |
+| 5 | [ProtonVPN](https://protonvpn.com/getvpn?ref=vpn_special_offer_2021-headerbar_black#pricing) | VPN Services | 50% off 2-years for new accounts | Not Mentioned |
 
 ## Themes
 
