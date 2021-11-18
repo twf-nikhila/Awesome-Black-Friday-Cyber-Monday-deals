@@ -4,6 +4,7 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 
 # Contents
 
+* 💻 [Apps](#apps)
 * 📚 [Books](#books)
 * 👩‍🏫 [Courses](#courses)
 * ♻️ [SaaS Softwares](#saas-softwares)
