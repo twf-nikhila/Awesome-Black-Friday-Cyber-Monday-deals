@@ -67,7 +67,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 9 | [ContentStudio.io](https://contentstudio.io/special-offer) | ContentStudio is a content marketing and social media management platform for individuals and businesses to grow their social presence. | 50% off on annual plans for first year.| 18-Nov-2021 to 30-Nov-2021
 | 10 | [Replug.io](https://replug.io/special-offer) | Monitor, Compare and Optimize all your marketing links in one place, and get the most return from your shared links with the most advanced link management and optimization tool. | Up-to 70% OFF on annual plan (lifetime discount) .| 18-Nov-2021 to 30-Nov-2021
 | 11 | [ActionForms.io](https://www.actionforms.io) | ActionForms.io provide a backend for your all your Forms. Send forms using our Backend - Without code | 30% OFF | 16-Nov-2021 to 30-Nov-2021
-
+| 12 | [AlterClass.io](https://alterclass.io/teaching) | The all-in-one platform for creating and selling your programming courses online. You got skills. Monetize them! | 14-day free trial (no cc required) + Up-to 25% OFF on annual plan (no coupon needed) | -
 
 ## Themes
 
