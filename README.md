@@ -28,7 +28,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [DevUtils.app](https://devutils.app) | Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data. | BLACKFRIDAY_2021C – 30% OFF | 22 Nov 2021 - 30 Nov 2021 |
-| 2 | [ReactApp.dev](https://apphafen.gumroad.com/l/reactappstarter/bf2021?_ga=2.177698341.1616762832.1637169758-1089577730.1636663375&_gl=1*1j9m8ka*_ga*MTA4OTU3NzczMC4xNjM2NjYzMzc1*_ga_6LJN6D94N6*MTYzNzIyMTI2OS4yNi4xLjE2MzcyMjEyNzMuMA..) | Ultimate React.js App starter \- Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project. | 50% OFF with the code bf2021 | 17 Nov 2021 - 15 Dec 2021 |
+| 2 | [ReactApp.dev](https://apphafen.gumroad.com/l/reactappstarter/bf2021) | Ultimate React.js App starter \- Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project. | 50% OFF with the code bf2021 | 17 Nov 2021 - 15 Dec 2021 |
 
 ## Books
 
