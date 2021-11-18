@@ -33,7 +33,11 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [The Landing Page Hot Tips Ebook by Rob Hope](https://robhope.com/bf2021) | The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources.  | $20 (save 60%) | Started - End date not mentioned |
+| 1 | [🔥 The Landing Page Hot Tips Ebook by Rob Hope](https://robhope.com/bf2021) | The Landing Page Hot Tips Ebook features 100 digestible lessons to implement into your Landing Pages. Each tip features a few paragraphs, visual references and related resources.  | $20 (save 60%) | Started - End date not mentioned |
+| 2 | [🎖️ Live Intentionally: 90 Day Self-Improvement Program by LifeMathMoney Harsh Strongman](https://lifemathmoney.gumroad.com/l/tough) | Live Intentionally is a 90 Day Self-Improvement Project that will re-calibrate your entire existence - it will change your habits, daily routine, mindset, and make you strong and disciplined. Over 90 days, the project will make you what god intended you to be - A MAN, not a chubby junkie snorting lines of porn and McDonald's fast food.  | Code is "blackfriday" for 30% off on everything | Started - Ends December 1st|
+| 3 | [🐦The Art of Twitter: Build a Business That Makes You $100/Day by LifeMathMoney Harsh Strongman, 260K followers](https://lifemathmoney.gumroad.com/l/TwitterGuide) | Do you also want to start an online business that makes you thousands of dollars as you sleep? The Art of Twitter is a business guide that will teach you how to grow a Twitter account from scratch (from 0 to 10000+ followers) and MONETIZE it to make $100+ every single day. | Code is "blackfriday" for 30% off on everything | Started - Ends December 1st|
+| 4 | [💰 Access the LMM Crypto Portfolio by LifeMathMoney Harsh Strongman](https://lifemathmoney.gumroad.com/l/cvault) | This membership gives you access to my crypto portfolio. You will see which coins I own, why I bought them, and my investment philosophy. You will also receive updates every time I make a change to the portfolio. | Code is "blackfriday" for 30% off on everything | Started - Ends December 1st|
+| 4 | [LifeMathMoney Harsh Strongman](https://lifemathmoney.gumroad.com/) | Any books | Code is "blackfriday" for 30% off on everything | Started - Ends December 1st|
 
 ## Courses
 
