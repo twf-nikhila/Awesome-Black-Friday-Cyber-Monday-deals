@@ -4,6 +4,7 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 
 # Contents
 
+* 💻 [Apps](#apps)
 * 📚 [Books](#books)
 * 👩‍🏫 [Courses](#courses)
 * ♻️ [SaaS Softwares](#saas-softwares)
@@ -21,6 +22,12 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 2. Or, click on README.md file, click edit and add the resource in related section with all details
 
 ***
+
+## Apps
+
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [DevUtils.app](https://devutils.app) | Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data. | BLACKFRIDAY_2021C – 30% OFF | 22 Nov 2021 - 30 Nov 2021 |
 
 ## Books
 
