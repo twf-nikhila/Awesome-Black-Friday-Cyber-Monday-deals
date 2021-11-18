@@ -22,6 +22,12 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 ***
 
+## Apps
+
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [DevUtils.app](https://devutils.app) | Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data. | BLACKFRIDAY_2021C – 30% OFF | 22 Nov 2021 - 30 Nov 2021 |
+
 ## Books
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
