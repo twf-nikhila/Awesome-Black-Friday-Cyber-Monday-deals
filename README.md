@@ -60,6 +60,9 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 6 | [Shift Workbench](https://laravelshift.com/workbench) | automate over 50 common refactoring tasks on your Laravel or PHP projects. | 25% on a Workbench desktop app license | Valid upto Nov 30, 2021 |
 | 7 | [Laravel Shifty Everything Plan](https://laravelshift.com/shifty-plans) | Never worry about upgrading your Laravel projects with Shifts included, plus webhooks, weekly automation, and full access to the Shift Workbench. | $400 off the "Everything Plan" | Valid upto Nov 30, 2021 |
 | 8 | [MDX.one](https://mdx.one) | Notion to Blog in Minutes | 30% off all the plans. Coupon code: BFCM2021 | 22-Nov-2021 to 30-Nov-2021
+| 9 | [ContentStudio.io](https://contentstudio.io/special-offer) | ContentStudio is a content marketing and social media management platform for individuals and businesses to grow their social presence. | 50% off on annual plans for first year.| 18-Nov-2021 to 30-Nov-2021
+| 10 | [Replug.io](https://replug.io/special-offer) | Monitor, Compare and Optimize all your marketing links in one place, and get the most return from your shared links with the most advanced link management and optimization tool. | Up-to 70% OFF on annual plan (lifetime discount) .| 18-Nov-2021 to 30-Nov-2021
+
 
 ## Themes
 
