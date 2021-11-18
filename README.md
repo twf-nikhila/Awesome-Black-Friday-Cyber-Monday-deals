@@ -58,7 +58,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 4 | [Cryptee](https://crypt.ee) | Secure cloud file storage | 10% off | Ends 1st January |
 | 5 | [ProtonVPN](https://protonvpn.com/getvpn?ref=vpn_special_offer_2021-headerbar_black#pricing) | VPN Services | 50% off 2-years for new accounts | Not Mentioned |
 | 6 | [Shift Workbench](https://laravelshift.com/workbench) | automate over 50 common refactoring tasks on your Laravel or PHP projects. | 25% on a Workbench desktop app license | Valid upto Nov 30, 2021 |
-| 7 | [Laravel Shifty Everything Plan](https://laravelshift.com/shifty-plans) | Never worry about upgrading your Laravel projects with Shifts included, plus webhooks, weekly automation, and full access to the Shift Workbench. | $400 off the "Everything Plan" | Valid upto Nov 30, 2021 |
+| 6 | [Laravel Shifty Everything Plan](https://laravelshift.com/shifty-plans) | Never worry about upgrading your Laravel projects with Shifts included, plus webhooks, weekly automation, and full access to the Shift Workbench. | $400 off the "Everything Plan" | Valid upto Nov 30, 2021 |
+| 7 | [MDX.one](https://mdx.one) | Notion to Blog in Minutes | 30% off all the plans. Coupon code: BFCM2021 | 22-Nov-2021 to 30-Nov-2021
 
 ## Themes
 
