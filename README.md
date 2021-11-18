@@ -29,6 +29,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [DevUtils.app](https://devutils.app) | Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data. | BLACKFRIDAY_2021C – 30% OFF | 22 Nov 2021 - 30 Nov 2021 |
 | 2 | [ReactApp.dev](https://apphafen.gumroad.com/l/reactappstarter/bf2021) | Ultimate React.js App starter \- Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project. | 50% OFF with the code bf2021 | 17 Nov 2021 - 15 Dec 2021 |
+| 3 | [ExpenseBuddy.app](https://expensebuddy.app/) | The most elegant expense and budget trackers app available with an interactive, personalized chart, informative report and one-touch expense logging | $1.99 (save 33%) | 12 Nov 2021 - 30 Nov 2021 |
 
 ## Books
 
@@ -70,6 +71,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 11 | [ActionForms.io](https://www.actionforms.io) | ActionForms.io provide a backend for your all your Forms. Send forms using our Backend - Without code | 30% OFF | 16-Nov-2021 to 30-Nov-2021
 | 12 | [AlterClass.io](https://alterclass.io/teaching) | The all-in-one platform for creating and selling your programming courses online. You got skills. Monetize them! | 14-day free trial (no cc required) + Up-to 25% OFF on annual plan (no coupon needed) | -
 | 13 | [SnapHRM](https://shop.froiden.com/product/snaphrm-hr-management-software/) | Self hosted version of HR Management software | 50% OFF | 17-Nov-2021 to 30-Nov-2021 
+| 14 | [Typing Hero](https://typinghero.app) | The text expander for Android that helps you to write anything without mistakes in seconds. Save time and get your work done faster! | 20% off on the Lifetime License, no coupon needed | Nov 28-30, 2021
 
 ## Themes
 
