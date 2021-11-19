@@ -56,6 +56,10 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Laravel Level-up, Code Readability by Jason McCreary](https://jasonmccreary.me/products/packages) | Improve your Laravel apps with streamlined, tested code. Learn everything for writing less complex, more readable code. | Bundle offers | Not mentioned |
 | 4 | [Burp Certified Practitioner Certification](https://portswigger.net/web-security/certification) | Burp Certified Practitioner exam (3 hours hands-on exam, training available for free through Burp Academy) | ~~99$~~ 9$, full refund if completed by December 15th | Not mentioned |
 | 5 | [Everyone Can Build a Twitter Audience by Daniel Vassallo](https://dvassallo.gumroad.com/l/twitter-audience) |  I'll show you how I built my Twitter audience, and how you can do it too. My Twitter account might be the most valuable asset I own, and there is no better time than now to start building yours. | $25 (Usually $40) | Not mentioned |
+| 6 | [LARAVEL PACKAGE TRAINING V2.0 by spatie](https://spatie.be/products/laravel-package-training) |  Learn how to create a Laravel package and become the next package maestro | 30% discount | November 22 until the end of Cyber Monday |
+| 7 | [Testing Laravel by spatie](https://spatie.be/products/testing-laravel) |  Learn how to automatically test your Laravel app using PHPUnit and Pest | 30% discount | November 22 until the end of Cyber Monday |
+| 8 | [LARAVEL BEYOND CRUD by spatie](https://spatie.be/products/laravel-beyond-crud) | Learn how to build larger-than-average Laravel applications and maintain them for years to come | 30% discount | November 22 until the end of Cyber Monday |
+| 9 | [FRONT LINE PHP by spatie](https://spatie.be/products/laravel-beyond-crud) |  An ebook on cutting edge tactics in PHP 8, accompanied by videos and practical examples. | 30% discount | November 22 until the end of Cyber Monday |
 
 ## SaaS Softwares
 
@@ -92,7 +96,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 0 | [Name](www.example-link.com) | This is just an example format, write the description here.  | 50% discount, coupon code - bf2021 | 11-Nov-2021 to 25-Dec-2021 |
+| 1 | [Laravel Backup, Mailcoach, Flare, Media Library Pro](https://spatie.be/products) | Email marketing, Server backup,Error debugging and more by spatie  |30% off on all our products | November 22 until the end of Cyber Monday |
 
 ## Marketplaces
 
