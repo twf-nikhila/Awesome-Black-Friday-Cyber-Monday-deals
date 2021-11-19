@@ -7,7 +7,7 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 * 💻 [Apps](#apps)
 * 📚 [Books](#books)
 * 👩‍🏫 [Courses](#courses)
-* ♻️ [SaaS Softwares](#saas-softwares)
+* ♻️ [SaaS Software](#saas-software)
 * 🎨 [Themes](#themes)
 * 🔌 [Plugins](#plugins)
 * 🧬 [Standalone scripts](#standalone-scripts)
@@ -61,7 +61,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [LARAVEL BEYOND CRUD by spatie](https://spatie.be/products/laravel-beyond-crud) | Learn how to build larger-than-average Laravel applications and maintain them for years to come | 30% discount | November 22 until the end of Cyber Monday |
 | 9 | [FRONT LINE PHP by spatie](https://spatie.be/products/laravel-beyond-crud) |  An ebook on cutting edge tactics in PHP 8, accompanied by videos and practical examples. | 30% discount | November 22 until the end of Cyber Monday |
 
-## SaaS Softwares
+## SaaS Software
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
