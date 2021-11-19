@@ -18,7 +18,7 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2021.
 
 **To contribute:**
-1. Send the details in issues and I wil add it asap.
+1. Send the details in issues and I will add it ASAP
 2. Or, click on README.md file, click edit and add the resource in related section with all details
 
 ***
@@ -31,6 +31,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 2 | [ReactApp.dev](https://apphafen.gumroad.com/l/reactappstarter/bf2021) | Ultimate React.js App starter \- Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project. | 50% OFF with the code bf2021 | 17 Nov 2021 - 15 Dec 2021 |
 | 3 | [ExpenseBuddy.app](https://expensebuddy.app/) | The most elegant expense and budget trackers app available with an interactive, personalized chart, informative report and one-touch expense logging | $1.99 (save 33%) | 22 Nov 2021 - 30 Nov 2021 |
 | 4 | [Proxyman.io](https://proxyman.io) | Proxyman is a native, high-performance Web Debugging Proxy macOS app, which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease. | 30% OFF - PROXYMAN_BLACK_FRIDAY_2021 | 22 Nov 2021 - 30 Nov 2021 |
+| 5 | [Tinker2.app](https://tinker2.app) | A Laravel Tinker desktop app that helps you run testing code on the local machine and remote server without modifying source code. | BLACKFRIDAY - 50% off | 20 Nov 2021 - 30 Nov 2021 |
 
 ## Books
 
