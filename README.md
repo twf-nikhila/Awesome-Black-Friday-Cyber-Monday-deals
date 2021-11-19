@@ -30,6 +30,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 1 | [DevUtils.app](https://devutils.app) | Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data. | BLACKFRIDAY_2021C – 30% OFF | 22 Nov 2021 - 30 Nov 2021 |
 | 2 | [ReactApp.dev](https://apphafen.gumroad.com/l/reactappstarter/bf2021) | Ultimate React.js App starter \- Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project. | 50% OFF with the code bf2021 | 17 Nov 2021 - 15 Dec 2021 |
 | 3 | [ExpenseBuddy.app](https://expensebuddy.app/) | The most elegant expense and budget trackers app available with an interactive, personalized chart, informative report and one-touch expense logging | $1.99 (save 33%) | 22 Nov 2021 - 30 Nov 2021 |
+| 4 | [Proxyman.io](https://proxyman.io) | Proxyman is a native, high-performance Web Debugging Proxy macOS app, which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease. | 30% OFF - PROXYMAN_BLACK_FRIDAY_2021 | 22 Nov 2021 - 30 Nov 2021 |
 
 ## Books
 
