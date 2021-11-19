@@ -60,6 +60,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [Testing Laravel by spatie](https://spatie.be/products/testing-laravel) |  Learn how to automatically test your Laravel app using PHPUnit and Pest | 30% discount | November 22 until the end of Cyber Monday |
 | 8 | [LARAVEL BEYOND CRUD by spatie](https://spatie.be/products/laravel-beyond-crud) | Learn how to build larger-than-average Laravel applications and maintain them for years to come | 30% discount | November 22 until the end of Cyber Monday |
 | 9 | [FRONT LINE PHP by spatie](https://spatie.be/products/laravel-beyond-crud) |  An ebook on cutting edge tactics in PHP 8, accompanied by videos and practical examples. | 30% discount | November 22 until the end of Cyber Monday |
+| 10 | [Building websites with WordPress](https://nmiletic.gumroad.com/l/kSrqD?offer_code=black-friday) |  This course is for web development beginners, looking to learn how to create and launch WordPress websites. | 80% discount | Until November 30 |
 
 ## SaaS Softwares
 
