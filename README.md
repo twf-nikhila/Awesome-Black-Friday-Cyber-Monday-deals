@@ -80,6 +80,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 12 | [AlterClass.io](https://alterclass.io/teaching) | The all-in-one platform for creating and selling your programming courses online. You got skills. Monetize them! | 14-day free trial (no cc required) + Up-to 25% OFF on annual plan (no coupon needed) | -
 | 13 | [SnapHRM](https://shop.froiden.com/product/snaphrm-hr-management-software/) | Self hosted version of HR Management software | 50% OFF | 17-Nov-2021 to 30-Nov-2021 
 | 14 | [Typing Hero](https://typinghero.app) | The text expander for Android that helps you to write anything without mistakes in seconds. Save time and get your work done faster! | 20% off on the Lifetime License, no coupon needed | Nov 19-30, 2021
+| 15 | [TypeDream](https://typedream.com/) | The new way to make a website. Everything you need to build your website in record time. Simple to design and manage with no-code. | Annual Plan $100 instead of $144, Monthly plan $12 instead of $15, Coupon: BLACKFRIDAYYEARLY, BLACKFRIDAYMONTHLY | Nov 30, 2021
 
 ## Themes
 
