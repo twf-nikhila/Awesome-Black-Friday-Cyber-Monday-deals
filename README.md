@@ -81,6 +81,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 13 | [SnapHRM](https://shop.froiden.com/product/snaphrm-hr-management-software/) | Self hosted version of HR Management software | 50% OFF | 17-Nov-2021 to 30-Nov-2021 
 | 14 | [Typing Hero](https://typinghero.app) | The text expander for Android that helps you to write anything without mistakes in seconds. Save time and get your work done faster! | 20% off on the Lifetime License, no coupon needed | Nov 19-30, 2021
 | 15 | [TypeDream](https://typedream.com/) | The new way to make a website. Everything you need to build your website in record time. Simple to design and manage with no-code. | Annual Plan $100 instead of $144, Monthly plan $12 instead of $15, Coupon: BLACKFRIDAYYEARLY, BLACKFRIDAYMONTHLY | Nov 30, 2021
+| 16 | [GetTheAudience](https://gettheaudience.com/) | Tool that helps entrepreneurs and creators to develop an audience for their product or service. | 25% OFF the first year or first month, Coupon: [bf-ideate-25](https://gettheaudience.com/checkout-ideate-yearly/) | Nov 21 - Dec 1st, 2021
 
 ## Themes
 
