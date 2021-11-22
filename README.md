@@ -111,6 +111,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 1 | [AppSumo](https://appsumo.8odi.net/doknAQ) | LTD marketplace  | LTD discounts | November 21, 2021 to November 30, 2021 |
 | 2 | [Form Engineer Lifetime Deal](https://appsumo.com/products/form-engineer-platinum/) | 10% off for Plus Members | Only on AppSumo | November 21, 2021 to November 30, 2021 |
 | 3 | [Envato](https://1.envato.market/Ygq5e) | Standalone scripts, Plugins/Themes, Audio, Video, Stock images and more  | 30-50% discount | 23rd November, 5am (UTC) to 1st December, 12:59pm (UTC) 2021 |
+| 4 | [ManyPixels](https://www.manypixels.co/) | Get Your Graphic Design Team in a Few Clicks. Your on-demand graphic design service. Simple, fast and affordable.  | 50% OFF Sale , coupon code BF50| Not mentioned |
 
 
 
