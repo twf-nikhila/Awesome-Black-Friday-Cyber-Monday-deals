@@ -110,7 +110,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 0 | [Name](www.example-link.com) | This is just an example format, write the description here.  | 50% discount, coupon code - bf2021 | 11-Nov-2021 to 25-Dec-2021 |
+| 1 | [seedprod](https://www.seedprod.com/black-friday/) | Landing Page Builder for WordPress  | Up To 65% | Starts Nov, 21 2021 |
+| 2 | [cruip](https://cruip.com/unlimited-access/) | Landing page templates for startups. Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.  | $59, instead of $119 | first 100 customers |
 
 ## Plugins
 
