@@ -40,6 +40,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [ExpenseBuddy.app](https://expensebuddy.app/) | The most elegant expense and budget trackers app available with an interactive, personalized chart, informative report and one-touch expense logging | $1.99 (save 33%) | 22 Nov 2021 - 30 Nov 2021 |
 | 4 | [Proxyman.io](https://proxyman.io) | Proxyman is a native, high-performance Web Debugging Proxy macOS app, which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease. | 30% OFF - PROXYMAN_BLACK_FRIDAY_2021 | 22 Nov 2021 - 30 Nov 2021 |
 | 5 | [Tinker2.app](https://tinker2.app) | A Laravel Tinker desktop app that helps you run testing code on the local machine and remote server without modifying source code. | BLACKFRIDAY - 50% off | 20 Nov 2021 - 30 Nov 2021 |
+| 6 | [Mission Control Plus](https://www.fadel.io/missioncontrolplus) | MAC app. Mission Control Plus Put the 'control' back in Mission Control. Manage your windows in Mission Control, adding keyboard navigation, shortcuts and more. | 20% off for Black Friday using Code BLACKFRIDAY | Not mentioned |
+| 7 | [Batteries for Mac](https://www.fadel.io/batteries) | Track all your devices' batteries from your Mac. | 20% off for Black Friday using Code BLACKFRIDAY | Not mentioned |
 
 ## Books
 
