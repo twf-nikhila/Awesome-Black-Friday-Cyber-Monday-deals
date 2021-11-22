@@ -107,6 +107,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 16 | [GetTheAudience](https://gettheaudience.com/) | Tool that helps entrepreneurs and creators to develop an audience for their product or service. | 25% OFF the first year or first month, Coupon: [bf-ideate-25](https://gettheaudience.com/checkout-ideate-yearly/) | Nov 21 - Dec 1st, 2021
 | 17 | [Eager](https://eager.app) | Customer Support Help Desk, Live Chat, Notification Feed, and Help Widget | Recurring 35% OFF Annual Plans, Coupon: [BFSALE2021](https://eager.app/sale) | Nov 20 - Dec 1st, 2021
 | 18 | [Nessus Professional](https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-promotion=GBF) | Spend less time and effort assessing, prioritizing and remediating vulnerabilities so you can stay one step ahead of attackers. | 50% Off, Use Code "TakeHalf" | Not mentioned
+| 19 | [Vadootv](https://www.vadoo.tv/) | Vadootv is a video hosting and marketing platform for creators. Upload videos with a single click. Record, manage, share & more | 30% Off on Monthly plans, Use Code BLACKFRIDAY30. 15% Off on Lifetime Deal, Use Code BLACKFRIDAY15 | Nov 20 - Dec 1st, 2021
+| 20 | [UUKI](https://www.uuki.live/) | Community platform for Creators. Alternative to Circle.so, Mighty Networks | 20% Off on Lifetime Deal, Use Code BLACKFRIDAY20 | Nov 20 - Dec 1st, 2021	
 
 ## Themes
 
