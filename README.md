@@ -80,6 +80,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 12 | [Creator-maker starter pack](https://yihuichan.gumroad.com/l/gcgSP) |  A curated list of resources and tools for new/aspiring creators and makers. (Comes with a blog post to explain more) | 20% off using the code indiesale2021 | 22 Nov 2021 - 30 Nov 2021 |
 | 13 | [Mastering PhpStorm](https://masteringphpstorm.com) | A video course for the state-of-the-art PHP developer who wants to work efficiently and successfully in a beautiful IDE. | 30% off  | 22 Nov 2021 |
 | 14 | [Laracast](https://laracasts.com/sales/2021) | Screencasts for the modern.developer; Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more. | 50% off  | 22 Nov 2021 to 28 Nov 2021 |
+| 15 | [Servers for hackers, Shipping Docker, Scaling Laravel, MySQL Backups, Deploy PHP](https://serversforhackers.com/holidays) | Teaching the server tech you need for development and production. Eliminating the frustration of server configuration. | 40% off  | November 22nd to November 29th |
 
 ## SaaS Software
 
