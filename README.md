@@ -44,6 +44,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [Tinker2.app](https://tinker2.app) | A Laravel Tinker desktop app that helps you run testing code on the local machine and remote server without modifying source code. | BLACKFRIDAY - 50% off | 20 Nov 2021 - 30 Nov 2021 |
 | 6 | [Mission Control Plus](https://www.fadel.io/missioncontrolplus) | MAC app. Mission Control Plus Put the 'control' back in Mission Control. Manage your windows in Mission Control, adding keyboard navigation, shortcuts and more. | 20% off for Black Friday using Code BLACKFRIDAY | Not mentioned |
 | 7 | [Batteries for Mac](https://www.fadel.io/batteries) | Track all your devices' batteries from your Mac. | 20% off for Black Friday using Code BLACKFRIDAY | Not mentioned |
+| 8 | [Tower](https://www.git-tower.com) | Git client for macOS and Windows. | 50% off | 22 Nov 2021 - 3 Dec 2021 |
 
 ## Books
 
