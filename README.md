@@ -81,6 +81,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 13 | [Mastering PhpStorm](https://masteringphpstorm.com) | A video course for the state-of-the-art PHP developer who wants to work efficiently and successfully in a beautiful IDE. | 30% off  | 22 Nov 2021 |
 | 14 | [Laracast](https://laracasts.com/sales/2021) | Screencasts for the modern.developer; Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more. | 50% off  | 22 Nov 2021 to 28 Nov 2021 |
 | 15 | [Servers for hackers, Shipping Docker, Scaling Laravel, MySQL Backups, Deploy PHP](https://serversforhackers.com/holidays) | Teaching the server tech you need for development and production. Eliminating the frustration of server configuration. | 40% off  | November 22nd to November 29th |
+| 16 | [Laravel Eloquent Performance](https://eloquent-course.reinink.ca/) | Learn how to drastically improve the performance of your Laravel applications by pushing more work to the database, all while still using the Eloquent ORM. | 33% off  | Started - Ends November 30th |
 
 ## SaaS Software
 
