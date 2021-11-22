@@ -105,6 +105,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 15 | [TypeDream](https://typedream.com/) | The new way to make a website. Everything you need to build your website in record time. Simple to design and manage with no-code. | Annual Plan $100 instead of $144, Monthly plan $12 instead of $15, Coupon: BLACKFRIDAYYEARLY, BLACKFRIDAYMONTHLY | Nov 30, 2021
 | 16 | [GetTheAudience](https://gettheaudience.com/) | Tool that helps entrepreneurs and creators to develop an audience for their product or service. | 25% OFF the first year or first month, Coupon: [bf-ideate-25](https://gettheaudience.com/checkout-ideate-yearly/) | Nov 21 - Dec 1st, 2021
 | 17 | [Eager](https://eager.app) | Customer Support Help Desk, Live Chat, Notification Feed, and Help Widget | Recurring 35% OFF Annual Plans, Coupon: [BFSALE2021](https://eager.app/sale) | Nov 20 - Dec 1st, 2021
+| 18 | [Nessus Professional](https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-promotion=GBF) | Spend less time and effort assessing, prioritizing and remediating vulnerabilities so you can stay one step ahead of attackers. | 50% Off, Use Code "TakeHalf" | Not mentioned
 
 ## Themes
 
