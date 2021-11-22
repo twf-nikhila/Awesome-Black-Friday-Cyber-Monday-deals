@@ -60,6 +60,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [The Wisdom of Atomic Habits](https://thewisdomproject.gumroad.com/l/wisdom_atomic_habits) |  The most actionable summary of the book Atomic Habits. Get the best insights to build life-changing habits in 30 minutes instead of 4 hours. Most wisdom per word of any info product. | code "bfcm" for 50% off the retail price. | Started - Ends December 1st|
 | 9 | [SaaS Pricer](https://saasprices.gumroad.com/l/saasprices) |  a curation of SaaS pricing pages and their analysis on Airtable format | code "blackfriday21 " for 70% discount and the yearly subscription is 9 USD / year | - |
 | 10 | [Laravel Secrets](https://laravelsecrets.com/?ref=blackfriday21) |  A book full of Laravel hidden knowledge, snippets and more | code "blackfriday21 " for 60% discount | Started - Ends November 29th |
+| 11 | [Tracking Personal Finances using Python](https://siddhantgoel.gumroad.com/l/personal-finances-python/bfcm21) |  Learn to track your personal finances using a developer-friendly workflow built in Python | code "bfcm21 " for 20% discount | Started - Ends November 29th |
 
 ## Courses
 
