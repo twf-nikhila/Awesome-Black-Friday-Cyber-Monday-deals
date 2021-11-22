@@ -54,6 +54,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [The Toolkit for Atomic Habits](https://thewisdomproject.gumroad.com/l/habit_toolkit) |  The complete guide to deploying the wisdom of the book Atomic Habits in your day-to-day life. 48 Page beautifully designed and illustrated printable PDF + Notion template + Google Sheet template. Complete behavior change system | code "bfcm" for 50% off the retail price. | Started - Ends December 1st|
 | 8 | [The Wisdom of Atomic Habits](https://thewisdomproject.gumroad.com/l/wisdom_atomic_habits) |  The most actionable summary of the book Atomic Habits. Get the best insights to build life-changing habits in 30 minutes instead of 4 hours. Most wisdom per word of any info product. | code "bfcm" for 50% off the retail price. | Started - Ends December 1st|
 | 9 | [SaaS Pricer](https://saasprices.gumroad.com/l/saasprices) |  a curation of SaaS pricing pages and their analysis on Airtable format | code "blackfriday21 " for 70% discount and the yearly subscription is 9 USD / year | - |
+| 10 | [Laravel Secrets](https://laravelsecrets.com/?ref=blackfriday21) |  A book full of Laravel hidden knowledge, snippets and more | code "blackfriday21 " for 60% discount | Started - Ends November 29th |
 
 ## Courses
 
