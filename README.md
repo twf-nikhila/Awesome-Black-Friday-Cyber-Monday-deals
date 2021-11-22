@@ -82,6 +82,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 14 | [Laracast](https://laracasts.com/sales/2021) | Screencasts for the modern.developer; Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more. | 50% off  | 22 Nov 2021 to 28 Nov 2021 |
 | 15 | [Servers for hackers, Shipping Docker, Scaling Laravel, MySQL Backups, Deploy PHP](https://serversforhackers.com/holidays) | Teaching the server tech you need for development and production. Eliminating the frustration of server configuration. | 40% off  | November 22nd to November 29th |
 | 16 | [Laravel Eloquent Performance](https://eloquent-course.reinink.ca/) | Learn how to drastically improve the performance of your Laravel applications by pushing more work to the database, all while still using the Eloquent ORM. | 33% off  | Started - Ends November 30th |
+| 17 | [Desktop apps with Electron, PHP Package Development, ](https://beyondco.de/cyber-week) | Electron & PHP package development. | 50% off  | Started - Ends not mentioned |
 
 ## SaaS Software
 
@@ -116,12 +117,16 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [seedprod](https://www.seedprod.com/black-friday/) | Landing Page Builder for WordPress  | Up To 65% | Starts Nov, 21 2021 |
+| 2 | [Windy](https://beyondco.de/cyber-week) | Transform every element on any website into Tailwind CSS. | up to 50% | Started - end not mentioned |
 
 ## Standalone scripts
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Laravel Backup, Mailcoach, Flare, Media Library Pro](https://spatie.be/products) | Email marketing, Server backup,Error debugging and more by spatie  |30% off on all our products | November 22 until the end of Cyber Monday |
+| 2 | [Expose Pro](https://beyondco.de/cyber-week) | Create public URLs for local sites through any firewall and VPN. Receive webhooks on your machine, test local sites on mobile devices or share them with others. | up to 50% | Started - end not mentioned |
+| 3 | [Invoker](https://beyondco.de/cyber-week) | Invoker is a slick and simple desktop application that gives you all the tools you need to manage your Laravel projects. | up to 50% | Started - end not mentioned |
+| 4 | [Tinkerwell](https://beyondco.de/cyber-week) | Tinkerwell can run code within your PHP applications. It works locally and on remote servers – no package required. It includes a Laravel default project so that you can start right away. | Started - end not mentioned |
 
 ## Marketplaces
 
