@@ -72,6 +72,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 11 | [Notion template to review and plan your week ](https://yihuichan.gumroad.com/l/KfyIPC) |  Reflect, focus, and plan your week with Notion (Comes with a blog post to explain how!) | 20% off using the code indiesale2021 | 22 Nov 2021 - 30 Nov 2021 |
 | 12 | [Creator-maker starter pack](https://yihuichan.gumroad.com/l/gcgSP) |  A curated list of resources and tools for new/aspiring creators and makers. (Comes with a blog post to explain more) | 20% off using the code indiesale2021 | 22 Nov 2021 - 30 Nov 2021 |
 | 13 | [Mastering PhpStorm](https://masteringphpstorm.com) | A video course for the state-of-the-art PHP developer who wants to work efficiently and successfully in a beautiful IDE. | 30% off  | 22 Nov 2021 |
+| 14 | [Laracast](https://laracasts.com/sales/2021) | Screencasts for the modern.developer; Push your web development skills to the next level, through expert screencasts on Laravel, Vue, and so much more. | 50% off  | 22 Nov 2021 to 28 Nov 2021 |
 
 ## SaaS Software
 
