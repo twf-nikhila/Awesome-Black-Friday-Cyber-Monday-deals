@@ -61,6 +61,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [LARAVEL BEYOND CRUD by spatie](https://spatie.be/products/laravel-beyond-crud) | Learn how to build larger-than-average Laravel applications and maintain them for years to come | 30% discount | November 22 until the end of Cyber Monday |
 | 9 | [FRONT LINE PHP by spatie](https://spatie.be/products/laravel-beyond-crud) |  An ebook on cutting edge tactics in PHP 8, accompanied by videos and practical examples. | 30% discount | November 22 until the end of Cyber Monday |
 | 10 | [Building websites with WordPress](https://nmiletic.gumroad.com/l/kSrqD?offer_code=black-friday) |  This course is for web development beginners, looking to learn how to create and launch WordPress websites. | 80% discount | Until November 30 |
+| 11 | [Notion template to review and plan your week ](https://yihuichan.gumroad.com/l/KfyIPC) |  Reflect, focus, and plan your week with Notion (Comes with a blog post to explain how!) | 20% off using the code indiesale2021 | 22 Nov 2021 - 30 Nov 2021 |
+| 12 | [Creator-maker starter pack](https://yihuichan.gumroad.com/l/gcgSP) |  A curated list of resources and tools for new/aspiring creators and makers. (Comes with a blog post to explain more) | 20% off using the code indiesale2021 | 22 Nov 2021 - 30 Nov 2021 |
 
 ## SaaS Software
 
