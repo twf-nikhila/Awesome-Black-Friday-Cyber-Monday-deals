@@ -13,6 +13,14 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 * 🧬 [Standalone scripts](#standalone-scripts)
 * 🛒 [Marketplaces](#marketplaces)
 
+# Sponsorship
+
+I spent a few hours, with community, every day updating this repository to help the community discover new deals. Sponsors can help me to continue doing this by paying bills for my time and in return **getting special benefits** for it. This will allow me to spend even more time bringing the best.
+
+1. **Why sponsor?:** To get a special highlight at the top, which brings immediate visitors' attention to your product. More visitors mean more sales. 
+2. **What do I get as a sponsor?:** As a sponsor, you get a special highlight at the top of this repository. With brand/product logo, Caption, Sub-heading & link to the product. This will definitely help to attract more visitors/customers to your product.
+3. **Sponsorship cost & duration:** Cost is [$50 for 1 year](https://www.paypal.com/paypalme/NikhilAgrawal/50usd). Meaning this year's sponsor will be changed 1 week before next black friday. For more info contact me in nikhil_agrawal at live dot com
+
 # Contribution ✍️✍️
 
 Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2021.
