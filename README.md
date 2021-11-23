@@ -85,6 +85,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 15 | [Servers for hackers, Shipping Docker, Scaling Laravel, MySQL Backups, Deploy PHP](https://serversforhackers.com/holidays) | Teaching the server tech you need for development and production. Eliminating the frustration of server configuration. | 40% off  | November 22nd to November 29th |
 | 16 | [Laravel Eloquent Performance](https://eloquent-course.reinink.ca/) | Learn how to drastically improve the performance of your Laravel applications by pushing more work to the database, all while still using the Eloquent ORM. | 33% off  | Started - Ends November 30th |
 | 17 | [Desktop apps with Electron, PHP Package Development, ](https://beyondco.de/cyber-week) | Electron & PHP package development. | 50% off  | Started - Ends not mentioned |
+| 18 | [Laravel Security in Depth](https://larasec.substack.com/blackfriday2021) | Monthly newsletter that covers Laravel Security topics in Depth, with interactive demos where you can safely explore known vulnerabilities. | 25% off, forever  | Started - Ends end of november |
+| 19 | [Wes Bos Javascript courses - ](https://wesbos.com/courses) | Javascript courses like Master Gatsby, Beginner JavaScript,Fullstack Advanced React and GraphQL, Fullstack Advanced React and GraphQL, JavaScript30, React For Beginners, CSS Grid, Learn Node, Sublime Text Power User | All courses 50% off  | Started - Ends end of 2021 |
 
 ## SaaS Software
 
@@ -110,6 +112,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 18 | [Nessus Professional](https://store.tenable.com/1479/purl-webNessusOneYearOptin?x-promotion=GBF) | Spend less time and effort assessing, prioritizing and remediating vulnerabilities so you can stay one step ahead of attackers. | 50% Off, Use Code "TakeHalf" | Not mentioned
 | 19 | [Vadootv](https://www.vadoo.tv/) | Vadootv is a video hosting and marketing platform for creators. Upload videos with a single click. Record, manage, share & more | 30% Off on Monthly plans, Use Code BLACKFRIDAY30. 15% Off on Lifetime Deal, Use Code BLACKFRIDAY15 | Nov 20 - Dec 1st, 2021
 | 20 | [UUKI](https://www.uuki.live/) | Community platform for Creators. Alternative to Circle.so, Mighty Networks | 20% Off on Lifetime Deal, Use Code BLACKFRIDAY20 | Nov 20 - Dec 1st, 2021	
+| 21 | [FeedHive ](feedhive.io) | Community platform for Creators. Alternative to Circle.so, Mighty Networks | 50% discount on all of our plans for the entire first year!,click the "Upgrade" button from within the app, switch to yearly payment, and then use the promo code: BLACKFRIDAY. | Not mentioned
 
 ## Themes
 
@@ -117,6 +120,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [seedprod](https://www.seedprod.com/black-friday/) | Landing Page Builder for WordPress  | Up To 65% | Starts Nov, 21 2021 |
 | 2 | [cruip](https://cruip.com/unlimited-access/) | Landing page templates for startups. Beautifully designed HTML, React, Vue.js, and Tailwind templates! Save weeks of time and build your startup landing page in minutes.  | $59, instead of $119 | first 100 customers |
+| 3 | [Creative Tim](https://www.creative-tim.com/campaign) | UI Kits, Templates, Bootstrap & Tailwind| UP TO 80% OFF | Ends Nov 26, 2021 |
 
 ## Plugins
 
