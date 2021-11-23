@@ -66,7 +66,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 10 | [Laravel Secrets](https://laravelsecrets.com/?ref=blackfriday21) |  A book full of Laravel hidden knowledge, snippets and more | code "blackfriday21 " for 60% discount | Started - Ends November 29th |
 | 11 | [Tracking Personal Finances using Python](https://siddhantgoel.gumroad.com/l/personal-finances-python/bfcm21) |  Learn to track your personal finances using a developer-friendly workflow built in Python | code "bfcm21 " for 20% discount | Started - Ends November 29th |
 | 12 | [Zero to Sold & The Embedded Entrepreneur](https://bootstrappedfounder.gumroad.com/) by [Arvid Kahl](https://thebootstrappedfounder.com/) |  Learn how to build, run, grow, and sell a bootstrapped business the audience-first way — from someone who has actually done it before. | code "bf21" for 50% discount (eBooks & Audiobooks) | Started - Ends November 29th |
-| 13 | [THE MOM TEST + JUST F*&KING SHIP + THE TINY MBA Bundle](https://stackingthebricks.com/bundle/) |  FROM AMY HOY, ALEX HILLMAN, & ROB FITZPATRICK Learn, Launch, & Sell | TOTAL BUNDLE VALUE: $67.99, Just $39.99 for a limited time! | Started - not mentioned |
+| 13 | [THE MOM TEST + JUST F*&KING SHIP + THE TINY MBA Bundle](https://stackingthebricks.com/bundle/) |  FROM AMY HOY, ALEX HILLMAN, & ROB FITZPATRICK Learn, Launch, & Sell | TOTAL BUNDLE VALUE: $67.99, Just $39.99 for a limited time! | Started - Ends November 29th midnight |
 
 ## Courses
 
