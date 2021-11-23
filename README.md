@@ -49,6 +49,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [Batteries for Mac](https://www.fadel.io/batteries) | Track all your devices' batteries from your Mac. | 20% off for Black Friday using Code BLACKFRIDAY | Not mentioned |
 | 8 | [Tower](https://www.git-tower.com) | Git client for macOS and Windows. | 50% off | 22 Nov 2021 - 3 Dec 2021 |
 | 9 | [Logology](https://www.logology.co) | Get a designer-quality logo for your startup in 5 minutes. | 50% off with code BF21 | 22 Nov 2021 - 29th Nov 2021 |
+| 10 | [Observer](https://observer.dev) | All your favorite Laravel Horizon features (and a few new ones) all packed into a single desktop application. A must-have productivity booster for every Laravel developer. | 50% off with code BLACKFRIDAY | 22 Nov 2021 - 29th Nov 2021 |
 
 ## Books
 
