@@ -124,6 +124,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [seedprod](https://www.seedprod.com/black-friday/) | Landing Page Builder for WordPress  | Up To 65% | Starts Nov, 21 2021 |
 | 2 | [Windy](https://beyondco.de/cyber-week) | Transform every element on any website into Tailwind CSS. | up to 50% | Started - end not mentioned |
+| 3 | [lightGallery.js](http://lightgalleryjs.com/) | A lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript. | 50% Off on organization license. Use coupon code "blackfriday" | 22 Nov 2021 - 30 Nov 2021 |
 
 ## Standalone scripts
 
