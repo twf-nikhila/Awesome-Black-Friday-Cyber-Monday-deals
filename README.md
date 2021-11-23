@@ -133,6 +133,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 2 | [Expose Pro](https://beyondco.de/cyber-week) | Create public URLs for local sites through any firewall and VPN. Receive webhooks on your machine, test local sites on mobile devices or share them with others. | up to 50% | Started - end not mentioned |
 | 3 | [Invoker](https://beyondco.de/cyber-week) | Invoker is a slick and simple desktop application that gives you all the tools you need to manage your Laravel projects. | up to 50% | Started - end not mentioned |
 | 4 | [Tinkerwell](https://beyondco.de/cyber-week) | Tinkerwell can run code within your PHP applications. It works locally and on remote servers – no package required. It includes a Laravel default project so that you can start right away. | Started - end not mentioned |
+| 5 | [Gravity](https://usegravity.app) | Build a Node.js & React app at warp speed with a SaaS boilerplate | 20% OFF
 
 ## Marketplaces
 
