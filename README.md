@@ -23,6 +23,9 @@ I spent a few hours, with community, every day updating this repository to help 
 2. **What do I get as a sponsor?:** As a sponsor, you get a special highlight at the top of this repository. With brand/product logo, Caption, Sub-heading & link to the product. This will definitely help to attract more visitors/customers to your product.
 3. **Sponsorship cost & duration:** Cost is [$50 for 1 year](https://www.paypal.com/paypalme/NikhilAgrawal/50usd). Meaning this year's sponsor will be changed 1 week before next black friday. For more info contact me in nikhil_agrawal at live dot com
 
+# Resources
+1️⃣ [How To Generate More Sales On Black Friday Course](https://gumroad.gumroad.com/l/blackfridaycourse)
+
 # Contribution ✍️✍️
 
 Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2021.
