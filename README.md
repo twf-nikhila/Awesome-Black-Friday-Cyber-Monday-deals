@@ -75,6 +75,18 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 ***
 
+### Zero to Sold & The Embedded Entrepreneur by Arvid Kahl
+<p align="center">
+  <img width="200" src="https://i.imgur.com/zYuurKy.jpg" alt="Zero to Sold & The Embedded">
+</p>
+
+**[Zero to Sold & The Embedded Entrepreneur by Arvid Kahl](https://bootstrappedfounder.gumroad.com/)**
+
+*Learn how to build, run, and sell a sustainable bootstrapped business the audience-first way.*<br /> 
+**(Use coupon code "bf21" to get 50% off on all Gumroad eBooks and audiobooks.)**
+
+***
+
 ## Apps
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
