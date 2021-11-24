@@ -2,7 +2,7 @@
 
 Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneur, 2021
 
-**Scheduled for [ProductHunt Launch](https://www.producthunt.com/posts/awesome-black-friday-deals) launch on - Nov 24th, 2021**
+**Launched Today on [ProductHunt](https://www.producthunt.com/posts/awesome-black-friday-deals) Nov 24th, 2021**
 
 # Contents
 
