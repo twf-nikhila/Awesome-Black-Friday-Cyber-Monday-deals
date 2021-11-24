@@ -214,6 +214,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Envato](https://1.envato.market/Ygq5e) | Standalone scripts, Plugins/Themes, Audio, Video, Stock images and more  | 30-50% discount | 23rd November, 5am (UTC) to 1st December, 12:59pm (UTC) 2021 |
 | 4 | [ManyPixels](https://www.manypixels.co/) | Get Your Graphic Design Team in a Few Clicks. Your on-demand graphic design service. Simple, fast and affordable.  | 50% OFF Sale , coupon code BF50| Not mentioned |
 | 5 | [Starter Story](https://www.starterstory.com/blackfriday) | Learn how people are starting successful businesses. | 65% off| November 26 - 29, 2021 |
+| 6 | [Bootstrap Themes](https://themes.getbootstrap.com/) | Bootstrap Themes, Admin panels, Landing page, UI Kits & More | Flat 40% OFF, coupon - BLACKANDCYBER21 | valid until Nov. 30th |
 
 
 
