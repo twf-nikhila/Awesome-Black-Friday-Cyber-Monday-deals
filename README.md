@@ -41,7 +41,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 # **Sponsors Spotlight**
 
-#### devutils
+### devutils
 
 <p align="center">
   <img width="200" src="https://i.imgur.com/5AXH1bZ.png" alt="devutils">
@@ -50,7 +50,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 [devutils.app](https://devutils.app/)
 *Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.*
 ***
-#### Life Math Money
+### Life Math Money
 <p align="center">
   <img width="200" src="https://i.imgur.com/bf6tsog.jpg" alt="Life Math Money">
 </p>
@@ -60,6 +60,18 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 *Get Rich. Get Fit. Get Smarter. Learn what the schools won't teach you.*<br /> 
 **(All courses 40% discount for blackfriday. Use code blackfriday) - <br /> *🌟 100's of 5-star reviews***
 
+
+***
+
+### The Illimitable Men Audiobook
+<p align="center">
+  <img width="200" src="https://theillimitablemenaudiobook.carrd.co/assets/images/image01.jpg?v=33891d5c" alt="The Illimitable Men Audiobook">
+</p>
+
+**[The Illimitable Men Audiobook](https://theillimitablemenaudiobook.carrd.co/)**
+
+*A Collection With The Actionable Wisdom to Become a Much Powerful Man that Attracts Women, and Smoothly Plays the Game of Life Like The Top-Tier Men*<br /> 
+***Play the Game of Life Like the Top 20% of Men* <br /> (40% discount for blackfriday. Use code blackfriday)**
 
 ***
 
