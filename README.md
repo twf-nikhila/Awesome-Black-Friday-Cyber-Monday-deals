@@ -39,7 +39,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 # **Sponsors Spotlight**
 
 ![devutils](https://i.imgur.com/5AXH1bZ.png)
-[devutils .app](https://devutils.app/)
+[devutils.app](https://devutils.app/)
 *Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.*
 
 ***
