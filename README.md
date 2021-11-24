@@ -26,6 +26,9 @@ I spent a few hours, with community, every day updating this repository to help 
 # Resources
 1️⃣ [How To Generate More Sales On Black Friday Course](https://gumroad.gumroad.com/l/blackfridaycourse)
 
+# Request ❓
+[Add your request here](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/issues/44)
+
 # Contribution ✍️✍️
 
 Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2021.
