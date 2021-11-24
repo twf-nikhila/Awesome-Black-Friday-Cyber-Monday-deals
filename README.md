@@ -91,6 +91,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 10 | [Observer](https://observer.dev) | All your favorite Laravel Horizon features (and a few new ones) all packed into a single desktop application. A must-have productivity booster for every Laravel developer. | 50% off with code BLACKFRIDAY | 22 Nov 2021 - 29th Nov 2021 |
 | 11 | [SVG Shaper](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) | Convert simple SVG files to SwiftUI Shapes/Views. | 33% off | 22 Nov 2021 - 26th Nov 2021 |
 | 12 | [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185) | Open iChat Chatlogs on macOS 11+ | 25% off | 22 Nov 2021 - 26th Nov 2021 |
+| 13 | [Polypane](https://polypane.app/) | the browser that helps you build more responsive, accessible and performant websites. | 30% off | 24 Nov 2021 - 29th Nov 2021 |
 
 ## Books
 
