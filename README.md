@@ -70,8 +70,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 **[The Illimitable Men Audiobook](https://theillimitablemenaudiobook.carrd.co/)**
 
-*A Collection With The Actionable Wisdom to Become a Much Powerful Man that Attracts Women, and Smoothly Plays the Game of Life Like The Top-Tier Men*<br /> 
-***Play the Game of Life Like the Top 20% of Men* <br /> (40% discount for blackfriday. Use code blackfriday)**
+*The “forbidden knowledge” leveraged by the top 20% of men to play the game of life with an advantage.*<br /> 
+**(40% discount for blackfriday. Use code blackfriday)**
 
 ***
 
