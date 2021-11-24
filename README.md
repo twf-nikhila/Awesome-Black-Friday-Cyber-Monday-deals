@@ -178,6 +178,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 20 | [UUKI](https://www.uuki.live/) | Community platform for Creators. Alternative to Circle.so, Mighty Networks | 20% Off on Lifetime Deal, Use Code BLACKFRIDAY20 | Nov 20 - Dec 1st, 2021	
 | 21 | [FeedHive ](feedhive.io) | Community platform for Creators. Alternative to Circle.so, Mighty Networks | 50% discount on all of our plans for the entire first year!,click the "Upgrade" button from within the app, switch to yearly payment, and then use the promo code: BLACKFRIDAY. | Not mentioned
 | 22 | [Bipdash](bipdash.com) | Library of the creator economy. Bipdash helps you grow as a creator, marketer, indie hacker or startup founder by curating the best twitter threads | Subscribe to the email digest for free | Not mentioned
+| 23 | [Linkz.ai](linkz.ai) | Smart link auto-previews that keep visitors on your website with one line of code | 50% off on all plans for 6 months. Code: BLACKCYBER2021 | Expires November 29, 2021 23:59
 
 ## Themes
 
