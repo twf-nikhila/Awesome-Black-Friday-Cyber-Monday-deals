@@ -43,14 +43,22 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 #### devutils
 
-![devutils](https://i.imgur.com/5AXH1bZ.png)
+<p align="center">
+  <img width="200" src="https://i.imgur.com/5AXH1bZ.png" alt="devutils">
+</p>
+
 [devutils.app](https://devutils.app/)
 *Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.*
 ***
 #### Life Math Money
-![Life Math Money](https://i.imgur.com/bf6tsog.jpg)
-[Life Math Money](https://lifemathmoney.gumroad.com/)
-*Get Rich. Get Fit. Get Smarter. Learn what the schools won't teach you.(All courses 40% discount for blackfriday)*
+<p align="center">
+  <img width="200" src="https://i.imgur.com/bf6tsog.jpg" alt="Life Math Money">
+</p>
+
+**[Life Math Money](https://lifemathmoney.gumroad.com/)**
+
+*Get Rich. Get Fit. Get Smarter. Learn what the schools won't teach you.*<br /> 
+**(All courses 40% discount for blackfriday. Use code blackfriday) - <br /> *🌟 100's of 5-star reviews***
 
 
 ***
