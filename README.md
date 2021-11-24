@@ -100,6 +100,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 17 | [Desktop apps with Electron, PHP Package Development, ](https://beyondco.de/cyber-week) | Electron & PHP package development. | 50% off  | Started - Ends not mentioned |
 | 18 | [Laravel Security in Depth](https://larasec.substack.com/blackfriday2021) | Monthly newsletter that covers Laravel Security topics in Depth, with interactive demos where you can safely explore known vulnerabilities. | 25% off, forever  | Started - Ends end of november |
 | 19 | [Wes Bos Javascript courses - ](https://wesbos.com/courses) | Javascript courses like Master Gatsby, Beginner JavaScript,Fullstack Advanced React and GraphQL, Fullstack Advanced React and GraphQL, JavaScript30, React For Beginners, CSS Grid, Learn Node, Sublime Text Power User | All courses 50% off  | Started - Ends end of 2021 |
+| 20 | [No Code MBA](nocode.mba) | Learn to build apps, websites and automations. ‍No code required. | 50% off on Black Friday  | on Black Friday |
 
 ## SaaS Software
 
