@@ -135,6 +135,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 19 | [Vadootv](https://www.vadoo.tv/) | Vadootv is a video hosting and marketing platform for creators. Upload videos with a single click. Record, manage, share & more | 30% Off on Monthly plans, Use Code BLACKFRIDAY30. 15% Off on Lifetime Deal, Use Code BLACKFRIDAY15 | Nov 20 - Dec 1st, 2021
 | 20 | [UUKI](https://www.uuki.live/) | Community platform for Creators. Alternative to Circle.so, Mighty Networks | 20% Off on Lifetime Deal, Use Code BLACKFRIDAY20 | Nov 20 - Dec 1st, 2021	
 | 21 | [FeedHive ](feedhive.io) | Community platform for Creators. Alternative to Circle.so, Mighty Networks | 50% discount on all of our plans for the entire first year!,click the "Upgrade" button from within the app, switch to yearly payment, and then use the promo code: BLACKFRIDAY. | Not mentioned
+| 22 | [Bipdash](bipdash.com) | Library of the creator economy. Bipdash helps you grow as a creator, marketer, indie hacker or startup founder by curating the best twitter threads | Subscribe to the email digest for free | Not mentioned
 
 ## Themes
 
