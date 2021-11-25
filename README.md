@@ -125,6 +125,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 14 | [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting) | Set up the perfect environment to write your eBook. Use AsciiDoc to write it, version control it with Git and automate generation of PDF and ePub with handy Makefile targets | Normal value: $15, get it now for $10 (30% OFF) | Started - Ends December 1st |
 | 15 | [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir) | The most comprehensive set of guides to deploy your Elixir application to Production | FREE download | Started - Ends December 1st |
 | 16 | [The Prime Guide For Next Gen Developer](https://theankurtyagi.gumroad.com/l/nextgendev) | It summarizes what I learned while being a software developer and how I mentored software engineers/developers at different stages in their careers over the last couple of years. | Black Friday Sale: $10, Regular price $22 | Started - Ends November 29th  |
+| 17 | [Complete Guide to CSS Flex & Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid) | Become a Pro at building components & layouts with CSS Flexbox and Grid. Learn by looking at a curated list of 70+ real world use cases and examples + Private CodePen Links | Code "blackfriday" for 50% off | Started - Limited copies only  |
 
 ## Courses
 
