@@ -48,7 +48,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 **[Cloudways](https://platform.cloudways.com/signup?id=679088&coupon=BFCM2021)**
 
-*Managed Cloud Hosting Platform*<br /> 
+*Managed Cloud Hosting Platform, Our managed hosting guarantees unmatched performance, reliability and choice with 24/7 support that acts as your extended team*<br /> 
 **(40% Off for 4 months, coupon auto applies on above link)**
 
 ***
