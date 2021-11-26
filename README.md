@@ -2,8 +2,6 @@
 
 Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneur, 2021
 
-**Launched Today on [ProductHunt](https://www.producthunt.com/posts/awesome-black-friday-deals) Nov 24th, 2021**
-
 # Contents
 
 * 💻 [Apps](#apps)
@@ -41,6 +39,19 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 ***
 
 # **Sponsors Spotlight**
+
+### Cloudways
+
+<p align="center">
+  <img width="300" src="http://www.cloudways.com/affiliate/accounts/default1/banners/42895876.jpg" alt="Cloudways">
+</p>
+
+**[Cloudways](https://platform.cloudways.com/signup?id=679088&coupon=BFCM2021)**
+
+*Managed Cloud Hosting Platform*<br /> 
+**(40% Off for 4 months, coupon auto applies on above link)**
+
+***
 
 ### devutils
 
