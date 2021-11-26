@@ -9,6 +9,7 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 * 💻 [Apps](#apps)
 * 📚 [Books](#books)
 * 👩‍🏫 [Courses](#courses)
+* 📩 [Newsletter & Communities](#Newsletter-Communities)
 * ♻️ [SaaS Software](#saas-software)
 * 🎨 [Themes](#themes)
 * 🔌 [Plugins](#plugins)
@@ -155,6 +156,12 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 20 | [No Code MBA](nocode.mba) | Learn to build apps, websites and automations. ‍No code required. | 50% off on Black Friday  | on Black Friday |
 | 21 | [Use Twitter Meaningfully](https://meetkevon.gumroad.com/l/buildinpublic-twitter) | Want to build in public to grow an audience but not sure where to start? Most builders do not know what to tweet about and how to engage with people on Twitter to make the most out of the #BuildinPublic strategy. | 50% off, coupon code "blkfri2021"  | Started-End not mentioned |
 | 22 | [Preparing for Google Cloud Certification: Cloud Data Engineer Professional Certificate](https://www.coursera.org/professional-certificates/gcp-data-engineering?ranMID=40328&ranEAID=bt30QTxEyjA&ranSiteID=bt30QTxEyjA-utdr6ez0xUSXm9K35heYqQ&siteID=bt30QTxEyjA-utdr6ez0xUSXm9K35heYqQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=bt30QTxEyjA) |  Provides training on cloud computing and prepares one for Google Cloud Certification. | Free | Not disclosed |
+
+
+## Newsletter & Communities
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [Trends.vc](https://access.trends.vc/#popular) | Join 1,000+ Successful Entrepreneurs Discovering New Markets and Ideas We leverage our community to build profitable businesses, sharpen our thoughts and learn together.  | Trends Pro $120 Off, This deal applies to the 'Reports Only' tier | Not mentioned |
 
 ## SaaS Software
 
