@@ -104,6 +104,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 11 | [SVG Shaper](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) | Convert simple SVG files to SwiftUI Shapes/Views. | 33% off | 22 Nov 2021 - 26th Nov 2021 |
 | 12 | [Past for iChat](https://apps.apple.com/us/app/past-for-ichat/id1554897185) | Open iChat Chatlogs on macOS 11+ | 25% off | 22 Nov 2021 - 26th Nov 2021 |
 | 13 | [Polypane](https://polypane.app/) | the browser that helps you build more responsive, accessible and performant websites. | 30% off | 24 Nov 2021 - 29th Nov 2021 |
+| 14 | [ishim AIO Domain Tools](https://ish.im/black-friday) | Find the perfect domain name for your next project. Domain WHOIS, bulk availability check and 1-word name generator | 60% off | 24 Nov - 30 Nov 2021 |
 
 ## Books
 
