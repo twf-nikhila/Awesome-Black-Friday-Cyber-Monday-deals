@@ -190,6 +190,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 21 | [FeedHive ](feedhive.io) | Community platform for Creators. Alternative to Circle.so, Mighty Networks | 50% discount on all of our plans for the entire first year!,click the "Upgrade" button from within the app, switch to yearly payment, and then use the promo code: BLACKFRIDAY. | Not mentioned
 | 22 | [Bipdash](bipdash.com) | Library of the creator economy. Bipdash helps you grow as a creator, marketer, indie hacker or startup founder by curating the best twitter threads | Subscribe to the email digest for free | Not mentioned
 | 23 | [Linkz.ai](linkz.ai) | Smart link auto-previews that keep visitors on your website with one line of code | 50% off on all plans for 6 months. Code: BLACKCYBER2021 | Expires November 29, 2021 23:59
+| 24 | [Writecream](https://www.writecream.com/lifetime-deal/) | Writecream is an A.I-powered app for generating blog articles, YouTube videos & podcasts in seconds—using just a product name and description; you can also use Writecream to generate personalized compliments for cold emails and LinkedIn sales. | Get lifetime access to Writecream for a one-time price of $59, LTD | November 19, 2021, to December 31, 2021
 
 ## Themes
 
