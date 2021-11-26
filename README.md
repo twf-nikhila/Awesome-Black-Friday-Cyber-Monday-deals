@@ -9,7 +9,7 @@ Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneu
 * 💻 [Apps](#apps)
 * 📚 [Books](#books)
 * 👩‍🏫 [Courses](#courses)
-* 📩 [Newsletter & Communities](#Newsletter-Communities)
+* 📩 [Newsletter & Communities](#newsletter--communities)
 * ♻️ [SaaS Software](#saas-software)
 * 🎨 [Themes](#themes)
 * 🔌 [Plugins](#plugins)
