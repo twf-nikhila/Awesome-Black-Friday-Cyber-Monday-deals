@@ -2,9 +2,6 @@
 
 Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneur, 2021
 
-# Giveaway 🎉
-***Giving back my earning from sponsors back to the community. [Check Details](https://twitter.com/HeyNikhila/status/1464497301909479424?s=20)***
-
 
 # Contents
 
