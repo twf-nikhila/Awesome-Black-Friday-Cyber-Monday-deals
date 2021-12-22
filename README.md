@@ -1,6 +1,6 @@
 # Awesome Black Friday & Cyber Monday deals - 2021
 
-Black Friday &amp; Cyber Monday Deals for Developers, Techies, &amp; Enterpreneur, 2021
+Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enterpreneur, 2021
 
 
 # Contents
