@@ -1,3 +1,15 @@
+# Newsletter
+
+<p align="center">
+  <img width="" src="https://i.imgur.com/f2kwUIR.gif" alt="software deals">
+</p>
+
+**[Subscribe Newsletter](https://app.vbout.com/subscribe-twf/f/63323)**
+
+*No Spams • Unsubscribe anytime • We respect your privacy!*
+
+***
+
 # Awesome Black Friday & Cyber Monday deals - 2021
 
 Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enterpreneur, 2021
