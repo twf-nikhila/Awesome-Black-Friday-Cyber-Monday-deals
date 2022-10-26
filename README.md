@@ -29,9 +29,10 @@ I spent a few hours, with community, every day updating this repository to help 
 
 DM me on [Twitter](https://twitter.com/HeyNikhila) or Email (nikhil_agrawal at live dot com) to sponsor
 
-1. **Why sponsor?:** To get a special highlight at the top, which brings immediate visitors' attention to your product. More visitors mean more sales. 
-2. **What do I get as a sponsor?:** As a sponsor, you get a special highlight at the top of this repository. With brand/product logo, Caption, Sub-heading & link to the product. This will definitely help to attract more visitors/customers to your product.
+1. **Why sponsor?:** Get special highlight at the top, which brings visitors' immediate attention to your product. More visitors mean more sales. 
+2. **What do I get as a sponsor?:** Special highlight at the top of this repository. With brand/product logo, Caption, Sub-heading & link to the product. This will definitely help to attract more visitors/customers to your product.
 3. **Sponsorship cost & duration:** Cost is [$75 for 1 year](https://www.paypal.com/paypalme/NikhilAgrawal/75usd). Meaning this year's sponsor will be changed 1 week before next black friday. For more info contact me in nikhil_agrawal at live dot com
+4. **Limited 5 sponsors only**
 
 # Resources
 1️⃣ [How To Generate More Sales On Black Friday Course](https://gumroad.gumroad.com/l/blackfridaycourse)
