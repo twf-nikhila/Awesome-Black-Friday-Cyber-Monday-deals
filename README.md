@@ -72,6 +72,11 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
+| 1 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday/) | Hands-on DevSecOps and Application Security Courses  | 15% off of all courses | 15 Nov 2022 - 30 Nov 2022 |
+
+
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
 | 1 | [Name](https://example.com) | Description  | Coupon code & Discount details | Start Date - End Date |
 
 
