@@ -61,6 +61,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 2 | [Sparkle Pro 4](https://sparkleapp.com/store) | Sparkle is the Visual Website Builder for your Mac, a powerful native macOS app that will make you design wonderful websites visually | 40% off (automatically applied) | 11/21 - 11/30 |
 
 ## Books
 
