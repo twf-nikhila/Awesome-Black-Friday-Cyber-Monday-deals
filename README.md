@@ -60,7 +60,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 1 | [Timelog](https://timelog.link) | Time & Goal Tracker for Android and iOS | 30% OFF Timelog Plus with promo code BLACKFRIDAY22 | 21 Nov 2022 - 28 Nov 2022 |
+| 2 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
 
 ## Books
 
