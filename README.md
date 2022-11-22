@@ -61,6 +61,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 2 | [Tower](https://www.git-tower.com) | Git client for macOS and Windows | 50% off | 21 Nov 2022 - 3 Dec 2022 |
 
 ## Books
 
