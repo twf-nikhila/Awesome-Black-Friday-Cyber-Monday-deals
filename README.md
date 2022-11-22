@@ -85,6 +85,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 1 | [hirevire](https://hirevire.com) | Hirevire can help you automate the first round of interviews by getting answers for screening questions via video, file uploads or text | BF50 for 50% off on all plans | 22nd Nov 2022 - 30th Nov 2022 |
 
 ## Themes
 
