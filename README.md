@@ -60,7 +60,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 1 | [Blade Mail](https://blademail.app) | Desktop app for email testing locally. | BLACKFRIDAY | 2022-11-22 - 2022-11-25 |
 
 ## Books
 
