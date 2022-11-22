@@ -61,6 +61,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+|  | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code BLACKFRIDAY_2022 | 22 Nov - 28 Nov |
 
 ## Books
 
