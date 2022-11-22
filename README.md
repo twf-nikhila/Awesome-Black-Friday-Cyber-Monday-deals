@@ -61,6 +61,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+|  | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code BLACKFRIDAY_2022 | 22 Nov - 28 Nov |
 
 ## Books
 
