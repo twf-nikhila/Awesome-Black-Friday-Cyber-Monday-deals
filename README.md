@@ -54,6 +54,17 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 # **Sponsors Spotlight**
 
 ***
+### The Art of Twitter
+<p align="center">
+  <img width="200" src="https://public-files.gumroad.com/yaum2ke10ngga5vi0usjhrayxr1j" alt="The Art of Twitter">
+</p>
+
+**[The Art of Twitter](https://lifemathmoney.gumroad.com/l/TwitterGuide/2022BF)**
+
+*The easiest, fastest, and most reliable method to build an online business that makes you $100/day in less than a year.*<br /> 
+**(All courses 40% discount for blackfriday. Use code 2022BF) - <br /> *🌟 100's of 5-star reviews***
+
+***
 
 ## Apps
 
