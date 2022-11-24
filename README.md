@@ -98,6 +98,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Appfigures](https://appfigures.com) | App Store Optimization, App Intelligence, and Analytics | 50% OFF for a year with code BF2250E | 11/21 - 11/28 |
 | 2 | [Black Magic](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience | Use BLACKFRIDAY_2022 for 50% off first year | Nov 22 to Nov 28 |
+| 3 | [hirevire](https://hirevire.com) | Hirevire can help you automate the first round of interviews by getting answers for screening questions via video, file uploads or text | BF50 for 50% off on all plans | 22nd Nov 2022 - 30th Nov 2022 |
 
 ## Themes
 
