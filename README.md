@@ -6,7 +6,7 @@
 
 ***
 
-# Awesome Black Friday & Cyber Monday deals - 2022 (COMING SOON)
+# Awesome Black Friday & Cyber Monday deals - 2022
 
 Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enterpreneur, 2022
 
@@ -52,8 +52,6 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 ***
 
 # **Sponsors Spotlight**
-
-### COMING SOON FOR 2022
 
 ***
 
