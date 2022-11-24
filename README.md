@@ -60,7 +60,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 1 | [Timelog](https://timelog.link) | Time & Goal Tracker for Android and iOS | 30% OFF Timelog Plus with promo code BLACKFRIDAY22 | 21 Nov 2022 - 28 Nov 2022 |
 | 2 | [Sparkle Pro 4](https://sparkleapp.com/store) | Sparkle is the Visual Website Builder for your Mac, a powerful native macOS app that will make you design wonderful websites visually | 40% off (automatically applied) | 11/21 - 11/30 |
 | 3 | [Proxyman.io](https://proxyman.io) | Proxyman is a native, high-performance Web Debugging Proxy macOS app, which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease. | 30% OFF - PROXYMAN_BLACK_FRIDAY_2022 | 21 Nov 2022 - 30 Nov 2022 |
 
