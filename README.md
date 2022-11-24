@@ -22,6 +22,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🔌 [Plugins](#plugins)
 * 🧬 [Standalone scripts](#standalone-scripts)
 * 🛒 [Marketplaces](#marketplaces)
+* 💾 [Others](#others)
 
 # Sponsorship
 
@@ -127,4 +128,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 1 | [Name](https://example.com) | Description  | Coupon code & Discount details  | Start Date - End Date |
 
 
+## Others
 
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [BusKill](https://www.buskill.in/bitcoin-black-friday-2022/) | BusKill is an open-source hardware and software project that uses a hardware tripwire/dead-man-switch (a usb cable with a magnetic breakaway) to trigger your computer to lock or shutdown if the user is physically separated from their machine.  | Not Required  | 10% off all products purchased between Nov 19 to Dec 04 2022 |
