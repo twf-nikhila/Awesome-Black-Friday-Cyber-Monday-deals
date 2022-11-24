@@ -84,6 +84,9 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [servers for hackers](https://serversforhackers.com/holidays) | *All* Servers for Hackers Video Courses  | 40% Black Friday discounts | NA |
 | 4 | [superframeworks](https://superframeworks.com/) |Practical Frameworks to help you build a solo business. Effective strategies, ready-to-use resources and actionable tips for every step in your journey.  | Black Friday Deals - Start at 50% OFF on all products. "BFCM22" | Nov 24th to Dec 1 |
 | 5 | [Laravel Daily courses](https://laraveldaily.com/post/black-friday-2022-on-laravel-daily) | Laravel related courses & tutorials  |  "get-3-for-1" offer, you can purchase the Yearly Membership with 50% off the first year. Just use the code BLACKFRIDAY2022. | until November 27 |
+| 6 | [The Art of Twitter: Build a Business That Makes You $100/Day](https://lifemathmoney.gumroad.com/l/TwitterGuide/2022BF) | The easiest, fastest, and most reliable method to build an online business that makes you $100/day in less than a year  |  40% off will be applied at checkout (Code 2022BF) | 250 buyers only |
+| 6 | [Live Intentionally: 90 Day Self-Improvement Program](https://lifemathmoney.gumroad.com/l/tough/2022BF) | 90 Day Self-Improvement Project that will re-calibrate your entire existence - it will change your habits, daily routine, mindset, and make you strong and disciplined.  |  40% off will be applied at checkout (Code 2022BF) | 250 buyers only |
+| 7 | [TeachYourselfCrypto](https://lifemathmoney.gumroad.com/l/cert/2022BF) | TeachYourselfCrypto a self paced, free course on everything Crypto for Non-technical people (people who are not developers or coders)  |  40% off will be applied at checkout (Code 2022BF) | 250 buyers only |
 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
