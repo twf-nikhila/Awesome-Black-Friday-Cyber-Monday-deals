@@ -82,6 +82,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 1 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday/) | Hands-on DevSecOps and Application Security Courses  | 15% off of all courses | 15 Nov 2022 - 30 Nov 2022 |
 | 2 | [MakerBox](https://www.makerbox.club/black-friday) | Level up your marketing with our tools and resources. Trusted by 500+ Indie Entrepreneurs  | 70% Black Friday discounts | Only 24-25 November. |
 | 3 | [servers for hackers](https://serversforhackers.com/holidays) | *All* Servers for Hackers Video Courses  | 40% Black Friday discounts | NA |
+| 4 | [superframeworks](https://superframeworks.com/) |Practical Frameworks to help you build a solo business. Effective strategies, ready-to-use resources and actionable tips for every step in your journey.  | Black Friday Deals - Start at 50% OFF on all products. "BFCM22" | Nov 24th to Dec 1 |
 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
