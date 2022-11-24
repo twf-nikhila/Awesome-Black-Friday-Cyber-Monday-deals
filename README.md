@@ -100,6 +100,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 2 | [Black Magic](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience | Use BLACKFRIDAY_2022 for 50% off first year | Nov 22 to Nov 28 |
 | 3 | [hirevire](https://hirevire.com) | Hirevire can help you automate the first round of interviews by getting answers for screening questions via video, file uploads or text | BF50 for 50% off on all plans | 22nd Nov 2022 - 30th Nov 2022 |
 | 4 | [ShiftApp Employee Scheduling](https://shiftapp.com/) | Easy-to-use Employee Scheduling and Shift Planning Software. | 77% off for 7 months on all Plans. [Visit Deal Page](https://shiftapp.com/black-friday) | now to 30-Nov-2021 (Black Friday/Cyber Monday) |
+| 5 | [SecurityForEveryone](https://securityforeveryone.com/products/continuous-security?utm_source=github&utm_medium=readme&utm_campaign=blackfriday) | Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan  |  50% off with code: BLACKFRIDAY [Visit Deal Page](https://securityforeveryone.com/blog/black-friday-discount-and-2022-statistics) | now to 30th November |
 
 ## Themes
 
