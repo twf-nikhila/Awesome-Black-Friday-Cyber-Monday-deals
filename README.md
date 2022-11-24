@@ -67,6 +67,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 6 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code BLACKFRIDAY_2022 | 22 Nov - 28 Nov |
 | 7 | [Blade Mail](https://blademail.app) | Desktop app for email testing locally. | BLACKFRIDAY | 2022-11-22 - 2022-11-25 |
 | 8 | [Tower](https://www.git-tower.com) | Git client for macOS and Windows | 50% off | 21 Nov 2022 - 3 Dec 2022 |
+| 9 | [swiftreply](https://swiftreply.gumroad.com/l/swiftreply_ltd/79Deal) | Ditch Repetitive Typing With One-Click Using Canned Responses | $20 off will be applied at checkout (Code 79DEAL) | NA |
 
 ## Books
 
@@ -80,6 +81,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday/) | Hands-on DevSecOps and Application Security Courses  | 15% off of all courses | 15 Nov 2022 - 30 Nov 2022 |
 | 2 | [MakerBox](https://www.makerbox.club/black-friday) | Level up your marketing with our tools and resources. Trusted by 500+ Indie Entrepreneurs  | 70% Black Friday discounts | Only 24-25 November. |
+| 3 | [servers for hackers](https://serversforhackers.com/holidays) | *All* Servers for Hackers Video Courses  | 40% Black Friday discounts | NA |
 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -107,13 +109,13 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 1 | [Flatlogic](flatlogic.com) | Flatlogic offers two main products: CRUD Web App Generator and Admin Templates. | Coupon code & Discount details | NA |
 
 ## Plugins
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Name](https://example.com) | Description  | Coupon code & Discount details | Start Date - End Date |
+| 1 | [Name](https://example.com) | Description  | FRIDAY23 promocode to get 50% OFF all products! | Start Date - End Date |
 
 ## Standalone scripts
 
@@ -125,7 +127,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Name](https://example.com) | Description  | Coupon code & Discount details  | Start Date - End Date |
+| 1 | [Templatemonster](templatemonster.com) | templatemonster digital marketplace  |  save up to 40% on the MonsterONE All-in-One membership  | November 24-28 |
+| 2 | [getbootstrap themes](https://themes.getbootstrap.com/) | Themes, Templates building with Bootstrap  |  Use the code BLACKANDCYBER22 for 40% off until Dec. 4   | Until Dec-4 |
 
 
 ## Others
@@ -133,3 +136,5 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [BusKill](https://www.buskill.in/bitcoin-black-friday-2022/) | BusKill is an open-source hardware and software project that uses a hardware tripwire/dead-man-switch (a usb cable with a magnetic breakaway) to trigger your computer to lock or shutdown if the user is physically separated from their machine.  | Not Required  | 10% off all products purchased between Nov 19 to Dec 04 2022 |
+| 2 | [Twitter Templates](https://kampheyapproved.gumroad.com/l/YJLCN/turkeytrot2022) | 100 Twitter Templates In a Google Sheet  | 80% off will be applied at checkout (Code TURKEYTROT2022)  | NA |
+| 3 | [Tweet Starters](https://kampheyapproved.gumroad.com/l/tweetstarters/turkeytrot2022) | Tweet Starters are two word phrases to help you overcome blank slate syndrome.   | 80% off will be applied at checkout (Code TURKEYTROT2022) | NA |
