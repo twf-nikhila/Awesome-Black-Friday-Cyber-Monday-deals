@@ -89,7 +89,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 1 | [Appfigures](https://appfigures.com) | App Store Optimization, App Intelligence, and Analytics | 50% OFF for a year with code BF2250E | 11/21 - 11/28 |
+| 2 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
 
 ## Themes
 
