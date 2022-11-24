@@ -79,6 +79,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [Blade Mail](https://blademail.app) | Desktop app for email testing locally. | BLACKFRIDAY | 2022-11-22 - 2022-11-25 |
 | 8 | [Tower](https://www.git-tower.com) | Git client for macOS and Windows | 50% off | 21 Nov 2022 - 3 Dec 2022 |
 | 9 | [swiftreply](https://swiftreply.gumroad.com/l/swiftreply_ltd/79Deal) | Ditch Repetitive Typing With One-Click Using Canned Responses | $20 off will be applied at checkout (Code 79DEAL) | NA |
+| 10 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF | 24 Nov - 28 Nov |
 
 ## Books
 
