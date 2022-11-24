@@ -65,6 +65,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Proxyman.io](https://proxyman.io) | Proxyman is a native, high-performance Web Debugging Proxy macOS app, which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease. | 30% OFF - PROXYMAN_BLACK_FRIDAY_2022 | 21 Nov 2022 - 30 Nov 2022 |
 | 4 | [Trickster](https://www.apparentsoft.com/trickster) | (Mac) Recently used and modified files at your fingertips | 50% off | Nov 21 - Nov 30 |
 | 5 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code BLACKFRIDAY_2022 | 22 Nov - 28 Nov |
+| 6 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code BLACKFRIDAY_2022 | 22 Nov - 28 Nov |
 
 ## Books
 
