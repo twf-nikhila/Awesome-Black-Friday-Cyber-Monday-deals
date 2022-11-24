@@ -95,7 +95,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Appfigures](https://appfigures.com) | App Store Optimization, App Intelligence, and Analytics | 50% OFF for a year with code BF2250E | 11/21 - 11/28 |
-| 2 | [Name](https://example.com) | Description | Coupon code & Discount details | Start Date - End Date |
+| 2 | [Black Magic](https://blackmagic.so) | Twitter Analytics & CRM, build an audience, schedule tweets, and other features to manage and grow your Twitter audience | Use BLACKFRIDAY_2022 for 50% off first year | Nov 22 to Nov 28 |
 
 ## Themes
 
