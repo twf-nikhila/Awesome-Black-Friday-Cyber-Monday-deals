@@ -83,6 +83,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 2 | [MakerBox](https://www.makerbox.club/black-friday) | Level up your marketing with our tools and resources. Trusted by 500+ Indie Entrepreneurs  | 70% Black Friday discounts | Only 24-25 November. |
 | 3 | [servers for hackers](https://serversforhackers.com/holidays) | *All* Servers for Hackers Video Courses  | 40% Black Friday discounts | NA |
 | 4 | [superframeworks](https://superframeworks.com/) |Practical Frameworks to help you build a solo business. Effective strategies, ready-to-use resources and actionable tips for every step in your journey.  | Black Friday Deals - Start at 50% OFF on all products. "BFCM22" | Nov 24th to Dec 1 |
+| 5 | [Laravel Daily courses](https://laraveldaily.com/post/black-friday-2022-on-laravel-daily) | Laravel related courses & tutorials  |  "get-3-for-1" offer, you can purchase the Yearly Membership with 50% off the first year. Just use the code BLACKFRIDAY2022. | until November 27 |
 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
