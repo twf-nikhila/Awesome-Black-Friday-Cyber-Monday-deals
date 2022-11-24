@@ -67,6 +67,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code BLACKFRIDAY_2022 | 22 Nov - 28 Nov |
 | 6 | [Xnapper](https://xnapper.com) | Take beautiful screenshot easy and fast. Smart features: auto balance, auto hide sensitive info, auto fill background color. Other features: with annotations, image compression, and keyboard shortcuts. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code BLACKFRIDAY_2022 | 22 Nov - 28 Nov |
 | 7 | [Blade Mail](https://blademail.app) | Desktop app for email testing locally. | BLACKFRIDAY | 2022-11-22 - 2022-11-25 |
+| 8 | [Tower](https://www.git-tower.com) | Git client for macOS and Windows | 50% off | 21 Nov 2022 - 3 Dec 2022 |
 
 ## Books
 
