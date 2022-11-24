@@ -84,8 +84,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Zero to Sold](zerotosold.com) | Zero to Sold is your guide to building a bootstrapped business from scratch to acquisition.  | 50% Off | NA |
-| 2 | [The Embedded Entrepreneur](embeddedentrepreneur.com) | The Embedded Entrepreneur is a hands-on audience-building bible for the intrepid founder. | 50% Off | NA |
+| 1 | [Zero to Sold](https://zerotosold.com) | Zero to Sold is your guide to building a bootstrapped business from scratch to acquisition.  | 50% Off | NA |
+| 2 | [The Embedded Entrepreneur](https://embeddedentrepreneur.com) | The Embedded Entrepreneur is a hands-on audience-building bible for the intrepid founder. | 50% Off | NA |
 
 ## Courses
 
@@ -120,13 +120,13 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [hirevire](https://hirevire.com) | Hirevire can help you automate the first round of interviews by getting answers for screening questions via video, file uploads or text | BF50 for 50% off on all plans | 22nd Nov 2022 - 30th Nov 2022 |
 | 4 | [ShiftApp Employee Scheduling](https://shiftapp.com/) | Easy-to-use Employee Scheduling and Shift Planning Software. | 77% off for 7 months on all Plans. [Visit Deal Page](https://shiftapp.com/black-friday) | now to 30-Nov-2021 (Black Friday/Cyber Monday) |
 | 5 | [SecurityForEveryone](https://securityforeveryone.com/products/continuous-security?utm_source=github&utm_medium=readme&utm_campaign=blackfriday) | Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan  |  50% off with code: BLACKFRIDAY [Visit Deal Page](https://securityforeveryone.com/blog/black-friday-discount-and-2022-statistics) | now to 30th November |
-| 6 | [Softr.io](softr.io) | Build custom apps for your business, as easy as lego (No-Code tool)  |  25% discount for 3 months, couponcode: blackfriday2022 | expires on cyber Monday! |
+| 6 | [Softr.io](https://softr.io) | Build custom apps for your business, as easy as lego (No-Code tool)  |  25% discount for 3 months, couponcode: blackfriday2022 | expires on cyber Monday! |
 
 ## Themes
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Flatlogic](flatlogic.com) | Flatlogic offers two main products: CRUD Web App Generator and Admin Templates. | Coupon code & Discount details | NA |
+| 1 | [Flatlogic](https://flatlogic.com) | Flatlogic offers two main products: CRUD Web App Generator and Admin Templates. | Coupon code & Discount details | NA |
 
 ## Plugins
 
@@ -144,7 +144,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Templatemonster](templatemonster.com) | templatemonster digital marketplace  |  save up to 40% on the MonsterONE All-in-One membership  | November 24-28 |
+| 1 | [Templatemonster](https://templatemonster.com) | templatemonster digital marketplace  |  save up to 40% on the MonsterONE All-in-One membership  | November 24-28 |
 | 2 | [getbootstrap themes](https://themes.getbootstrap.com/) | Themes, Templates building with Bootstrap  |  Use the code BLACKANDCYBER22 for 40% off until Dec. 4   | Until Dec-4 |
 
 
