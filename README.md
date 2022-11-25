@@ -151,6 +151,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [getimg.ai](https://getimg.ai/) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code BLACKFRIDAY20| NA |
 | 8 | [GummySearch](https://gummysearch.com/?utm_source=heynikhila) |Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get 25% off on any plan with code BLACKFRIDAY2022| NA |
 | 9 | [BoldDesk](https://www.bolddesk.com/black-friday) | BoldDesk is a cloud-based, modern help desk ticketing system and knowledge base software for serving a wide range of customer support activities. |  40% off with code: BLACKFRIDAY2022 [Visit Deal Page](https://www.bolddesk.com/black-friday) | November 1–December 3, 2022 |
+| 10 | [Tally Forms](https://tally.so/) | he simplest way to create beautiful forms & surveys | Get 30% off our annual Pro plan for 1 year! Use BF30 at checkout | NA |
 
 
 ## Themes & Design Resource
