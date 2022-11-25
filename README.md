@@ -14,6 +14,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 # Contents
 
 * 💻 [Apps](#apps)
+* ⚒️ [Developer Tools](#developer-tools)
 * 📚 [Books](#books)
 * 👩‍🏫 [Courses](#courses)
 * 📩 [Newsletter & Communities](#newsletter--communities)
@@ -95,7 +96,14 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 17 | [KTool.io](https://ktool.io/) | KTool helps you read web articles, Twitter threads and newsletters on Kindle. Reduce screen time. Improve productivity. | BLACKFRIDAY_2022 for 50% off first year| NA |
 | 18 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF | 24 Nov - 28 Nov |
 
+## Developer Tools
 
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [Tinkerwell](https://beyondco.de/cyber-week) | The code runner for PHP. Tinkerwell is the must-have companion to your favorite IDE. | Check Website | 27th November |
+| 2 | [What The Diff](https://beyondco.de/cyber-week) | AI-powered code review assistant | Check Website | 27th November |
+| 3 | [Windy](https://beyondco.de/cyber-week) | The Windy browser extension transforms any element on any website into Tailwind CSS classes and HTML. Just highlight the element and click to copy. Done. | Check Website | 27th November |
+| 4 | [Invoker](https://beyondco.de/cyber-week) | Instant admin panels for Laravel | Check Website | 27th November |
 
 ## Books
 
@@ -118,6 +126,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [TeachYourselfCrypto](https://lifemathmoney.gumroad.com/l/cert/2022BF) | TeachYourselfCrypto a self paced, free course on everything Crypto for Non-technical people (people who are not developers or coders)  |  40% off will be applied at checkout (Code 2022BF) | 250 buyers only |
 | 8 | [Hacking Android Applications](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY) | Hacking Android Applications for Bug Bounty and Pentesting  |  65% off (Code BLACKFRIDAY) | Valid till 27th Nov |
 | 9 | [indiemasterminds](https://indiemasterminds.com/) | Build a profitable bootstrapped business without feeling lost  |  25% off (Code Black_Friday) | Valid till 30th November |
+| 10 | [Desktop apps with Electron](https://beyondco.de/cyber-week) | Create desktop applications with web technologies.  |  Check Link for discount | Valid till 27th November |
+| 11 | [PHP Package Development](https://beyondco.de/cyber-week) | Learn how to create PHP and Laravel packages.  |  Check Link for discount | Valid till 27th November |
 
 
 ## Newsletter & Communities
