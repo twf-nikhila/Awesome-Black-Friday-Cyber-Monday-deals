@@ -147,7 +147,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [SecurityForEveryone](https://securityforeveryone.com/products/continuous-security?utm_source=github&utm_medium=readme&utm_campaign=blackfriday) | Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan  |  50% off with code: BLACKFRIDAY [Visit Deal Page](https://securityforeveryone.com/blog/black-friday-discount-and-2022-statistics) | now to 30th November |
 | 6 | [Softr.io](softr.io) | Build custom apps for your business, as easy as lego (No-Code tool)  |  25% discount for 3 months, couponcode: blackfriday2022 | expires on cyber Monday! |
 | 7 | [getimg.ai](https://getimg.ai/) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code BLACKFRIDAY20| NA |
-| 8 | [GummySearch](https://gummysearch.com/?utm_source=tdinh) |Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get 25% off on any plan with code BLACKFRIDAY2022| NA |
+| 8 | [GummySearch](https://gummysearch.com/?utm_source=heynikhila) |Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get 25% off on any plan with code BLACKFRIDAY2022| NA |
 
 
 ## Themes & Design Resource
