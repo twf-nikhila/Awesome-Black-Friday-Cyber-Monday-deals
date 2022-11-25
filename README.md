@@ -18,7 +18,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 👩‍🏫 [Courses](#courses)
 * 📩 [Newsletter & Communities](#newsletter--communities)
 * ♻️ [SaaS Software](#saas-software)
-* 🎨 [Themes](#themes)
+* 🎨 [Themes & Design](#themes)
 * 🔌 [Plugins](#plugins)
 * 🧬 [Standalone scripts](#standalone-scripts)
 * 🛒 [Marketplaces](#marketplaces)
@@ -38,16 +38,12 @@ DM me on [Twitter](https://twitter.com/HeyNikhila) or Email (nikhil_agrawal at l
 # Resources
 1️⃣ [How To Generate More Sales On Black Friday Course](https://gumroad.gumroad.com/l/blackfridaycourse)
 
-# Request ❓
-[Add your request here](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/issues/44)
+# Don't forget to contribute ✍️✍️
 
-# Contribution ✍️✍️
+Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2022.
 
-Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2021.
-
-**To contribute:**
-1. Send the details in issues and I will add it ASAP
-2. Or, click on README.md file, click edit and add the resource in related section with all details
+1. 🔁 Send a pull request adding your deal
+2. ⭐ Star this repository so it become trending on Black Friday!
 
 ***
 
