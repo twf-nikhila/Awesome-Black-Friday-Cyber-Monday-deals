@@ -66,6 +66,16 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 ***
 
+### devutils
+
+<p align="center">
+  <img width="200" src="https://i.imgur.com/5AXH1bZ.png" alt="devutils">
+</p>
+
+[devutils.app](https://devutils.app/)
+*Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.*
+***
+
 ## Apps
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
