@@ -89,8 +89,16 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [Blade Mail](https://blademail.app) | Desktop app for email testing locally. | BLACKFRIDAY | 2022-11-22 - 2022-11-25 |
 | 8 | [Tower](https://www.git-tower.com) | Git client for macOS and Windows | 50% off | 21 Nov 2022 - 3 Dec 2022 |
 | 9 | [swiftreply](https://swiftreply.gumroad.com/l/swiftreply_ltd/79Deal) | Ditch Repetitive Typing With One-Click Using Canned Responses | $20 off will be applied at checkout (Code 79DEAL) | NA |
-| 10 | [Tailscan](https://tailscan.com/) | Tailscan is the ultimate developer tool for Tailwind CSS. Build and design your Tailwind website visually, right within the browser. You can also debug your website visually in seconds and check how other websites using Tailwind CSS are built.	 | 20% OFF, automatically applied
- | NA |
+| 10 | [Tailscan](https://tailscan.com/) | Tailscan is the ultimate developer tool for Tailwind CSS. Build and design your Tailwind website visually, right within the browser. You can also debug your website visually in seconds and check how other websites using Tailwind CSS are built.	 | 20% OFF, automatically applied| NA |
+| 11 | [LaunchBuddy](https://apple.co/3iFcjjW) | Manage your Indie Apps, Projects, Releases and Tasks.| >50% OFF for LaunchBuddy Pro (Small)| NA |
+| 12 | [NoCommandLine](https://nocommandline.com/) | A GUI for Google App Engine (GAE). Run, deploy, view logs of your GAE Apps without remembering gcloud flags/commands; Download your source code; GUI for Datastore Emulator.	| 60% OFF, automatically applied| NA |
+| 12 | [Slides](https://designmodo.com/slides/) | Generate beautiful, animated, static websites with your creative direction in a matter of minutes. | 40% OFF with code BLACK | NA |
+| 14 | [Pika](https://pika.style/) | Create beautiful screenshots and mockups instantly. You can design feature images quickly with iPhone, MacBook and App Store templates. You can also create code screenshots and tweet images using Pika. All templates are very customisable. | 40% OFF with code BLACKFRIDAY on annual plans| NA |
+| 15 | [snappify](https://snappify.io/) | A powerful design tool for developers. Explain and share beautiful code snippets with the rest of the world. | BLACKFRIDAY_2022 for 30% off first year| NA |
+| 16 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF| NA |
+| 17 | [KTool.io](https://ktool.io/) | KTool helps you read web articles, Twitter threads and newsletters on Kindle. Reduce screen time. Improve productivity. | BLACKFRIDAY_2022 for 50% off first year| NA |
+
+
 
 ## Books
 
@@ -133,18 +141,22 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 4 | [ShiftApp Employee Scheduling](https://shiftapp.com/) | Easy-to-use Employee Scheduling and Shift Planning Software. | 77% off for 7 months on all Plans. [Visit Deal Page](https://shiftapp.com/black-friday) | now to 30-Nov-2021 (Black Friday/Cyber Monday) |
 | 5 | [SecurityForEveryone](https://securityforeveryone.com/products/continuous-security?utm_source=github&utm_medium=readme&utm_campaign=blackfriday) | Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan  |  50% off with code: BLACKFRIDAY [Visit Deal Page](https://securityforeveryone.com/blog/black-friday-discount-and-2022-statistics) | now to 30th November |
 | 6 | [Softr.io](softr.io) | Build custom apps for your business, as easy as lego (No-Code tool)  |  25% discount for 3 months, couponcode: blackfriday2022 | expires on cyber Monday! |
-
+| 7 | [getimg.ai](https://getimg.ai/) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code BLACKFRIDAY20| NA |
+| 8 | [GummySearch](https://gummysearch.com/?utm_source=tdinh) |Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get 25% off on any plan with code BLACKFRIDAY2022| NA |
 ## Themes
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Flatlogic](flatlogic.com) | Flatlogic offers two main products: CRUD Web App Generator and Admin Templates. | Coupon code & Discount details | NA |
-
+| 2 | [Logology](https://www.logology.co/) | Get a designer-quality logo for your startup in 5 minutes. | 50% OFF with code BF22| NA |
+| 3 | [Icons8](https://icons8.com/l/blackfriday2022/) | icons, illustrations, photos, and music. | Up to 55% off subscription| NA |
 ## Plugins
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Name](https://example.com) | Description  | FRIDAY23 promocode to get 50% OFF all products! | Start Date - End Date |
+| 2 | [Tableplus](https://tableplus.com/) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | TABLEPLUS_BLACK_FRIDAY_2022 coupon for 25% off | NA |
+| 3 | [lightGallery](https://www.lightgalleryjs.com/) | A lightweight, modular, JavaScript image and video lightbox gallery plugin. Available for React.js, Vue.js, Angular, and TypeScript. | 50% OFF with code P89HB39LR7| NA |
 
 ## Standalone scripts
 
