@@ -128,6 +128,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 9 | [indiemasterminds](https://indiemasterminds.com/) | Build a profitable bootstrapped business without feeling lost  |  25% off (Code Black_Friday) | Valid till 30th November |
 | 10 | [Desktop apps with Electron](https://beyondco.de/cyber-week) | Create desktop applications with web technologies.  |  Check Link for discount | Valid till 27th November |
 | 11 | [PHP Package Development](https://beyondco.de/cyber-week) | Learn how to create PHP and Laravel packages.  |  Check Link for discount | Valid till 27th November |
+| 12 | [How to Dominate Twitter](https://dagorenouf.gumroad.com/l/how-to-dominate-twitter/BF22) | How to Dominate Twitter  |  40% off will be applied at checkout (Code BF22) | Valid till 27th November |
 
 
 ## Newsletter & Communities
