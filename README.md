@@ -104,8 +104,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Zero to Sold](zerotosold.com) | Zero to Sold is your guide to building a bootstrapped business from scratch to acquisition.  | 50% Off | NA |
-| 2 | [The Embedded Entrepreneur](embeddedentrepreneur.com) | The Embedded Entrepreneur is a hands-on audience-building bible for the intrepid founder. | 50% Off | NA |
+| 1 | [Zero to Sold](https://zerotosold.com) | Zero to Sold is your guide to building a bootstrapped business from scratch to acquisition.  | 50% Off | NA |
+| 2 | [The Embedded Entrepreneur](https://embeddedentrepreneur.com) | The Embedded Entrepreneur is a hands-on audience-building bible for the intrepid founder. | 50% Off | NA |
 
 ## Courses
 
