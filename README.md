@@ -18,7 +18,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 👩‍🏫 [Courses](#courses)
 * 📩 [Newsletter & Communities](#newsletter--communities)
 * ♻️ [SaaS Software](#saas-software)
-* 🎨 [Themes & Design](#themes)
+* 🎨 [Themes & Design Resource](#themes--design-resource)
 * 🔌 [Plugins](#plugins)
 * 🧬 [Standalone scripts](#standalone-scripts)
 * 🛒 [Marketplaces](#marketplaces)
@@ -140,7 +140,9 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 6 | [Softr.io](softr.io) | Build custom apps for your business, as easy as lego (No-Code tool)  |  25% discount for 3 months, couponcode: blackfriday2022 | expires on cyber Monday! |
 | 7 | [getimg.ai](https://getimg.ai/) | Magical AI art tools. Generate orginal images, modify existing ones, expand pictures beyond its orginal borders, and more. | 20% off any plans for the first 3 months with code BLACKFRIDAY20| NA |
 | 8 | [GummySearch](https://gummysearch.com/?utm_source=tdinh) |Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get 25% off on any plan with code BLACKFRIDAY2022| NA |
-## Themes
+
+
+## Themes & Design Resource
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
