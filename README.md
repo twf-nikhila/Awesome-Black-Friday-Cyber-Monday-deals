@@ -97,6 +97,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 15 | [snappify](https://snappify.io/) | A powerful design tool for developers. Explain and share beautiful code snippets with the rest of the world. | BLACKFRIDAY_2022 for 30% off first year| NA |
 | 16 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF| NA |
 | 17 | [KTool.io](https://ktool.io/) | KTool helps you read web articles, Twitter threads and newsletters on Kindle. Reduce screen time. Improve productivity. | BLACKFRIDAY_2022 for 50% off first year| NA |
+| 18 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF | 24 Nov - 28 Nov |
 
 
 
