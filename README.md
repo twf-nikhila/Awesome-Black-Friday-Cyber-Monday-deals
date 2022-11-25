@@ -111,6 +111,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Zero to Sold](https://zerotosold.com) | Zero to Sold is your guide to building a bootstrapped business from scratch to acquisition.  | 50% Off | NA |
 | 2 | [The Embedded Entrepreneur](https://embeddedentrepreneur.com) | The Embedded Entrepreneur is a hands-on audience-building bible for the intrepid founder. | 50% Off | NA |
+| 2 | [Getting Started in Technical Writing.](https://theankurtyagi.gumroad.com/l/blogging) | This is an opinionated book on Pre order and I will teach you How You can make $1000 to $5000 From Writing per month with the help of cold emails and DMs.
+| 2 | [The Prime Guide For Next Gen Developer.](https://theankurtyagi.gumroad.com/l/nextgendev) | The book is everything you need in a typical career path of a software engineer or developer, from starting at a company as a fresher or new grad to a senior software engineer.
 
 ## Courses
 
