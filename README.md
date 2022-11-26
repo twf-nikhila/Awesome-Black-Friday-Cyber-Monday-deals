@@ -76,7 +76,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 ## Apps
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
-|:-:|:-:|:-:|:-:|:-:
+|:-:|:-:|:-:|:-:|:-:|
 | 1 | [Timelog](https://timelog.link) | Time & Goal Tracker for Android and iOS | 30% OFF Timelog Plus with promo code BLACKFRIDAY22 | 21 Nov 2022 - 28 Nov 2022 |
 | 2 | [Sparkle Pro 4](https://sparkleapp.com/store) | Sparkle is the Visual Website Builder for your Mac, a powerful native macOS app that will make you design wonderful websites visually | 40% off (automatically applied) | 11/21 - 11/30 |
 | 3 | [Proxyman.io](https://proxyman.io) | Proxyman is a native, high-performance Web Debugging Proxy macOS app, which enables developers to capture, inspect, and manipulate HTTP(s) requests/responses with ease. | 30% OFF - PROXYMAN_BLACK_FRIDAY_2022 | 21 Nov 2022 - 30 Nov 2022 |
@@ -95,6 +95,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 16 | [ScreenFocus](https://www.apptorium.com/screenfocus) | ScreenFocus follows your cursor and dims inactive monitors. It reduces brightness and allows you to focus. | 37% OFF| NA |
 | 17 | [KTool.io](https://ktool.io/) | KTool helps you read web articles, Twitter threads and newsletters on Kindle. Reduce screen time. Improve productivity. | BLACKFRIDAY_2022 for 50% off first year| NA |
 | 18 | [Rosefinch](https://rosefinchapp.com) | Organize and run all your useful SQL queries in one place. Like Postman or Insomnia, but for SQL. | 50% OFF | 24 Nov - 28 Nov |
+| 19 | [Wins](https://wins.cool) | A New Mac Window Manager. Bring System-level Arrange Window features to Mac. Shortcuts, Shake window to hidden other windows and more | 50% OFF with code BLACKFRIDAY_2022 | 24 Nov - 31 Dec |
 
 ## Developer Tools
 
