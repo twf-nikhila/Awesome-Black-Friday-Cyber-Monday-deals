@@ -62,6 +62,17 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 **(All courses 40% discount for blackfriday. Use code 2022BF) - <br /> *🌟 100's of 5-star reviews***
 
 ***
+### The Complete Web Design Course
+<p align="center">
+  <img width="200" src="https://public-files.gumroad.com/pu8k64mrxzhvgay7u3wdwja0xyxw" alt="The Complete Web Design Course">
+</p>
+
+**[The Complete Web Design Course](https://lifemathmoney.gumroad.com/l/WD)**
+
+*The Complete Web Design Course [No prior experience required]*<br /> 
+**(Special Launch Discount) Use code NEWLAUNCH at checkout. Valid until 30th November, 2022**
+
+***
 
 ### devutils
 
