@@ -173,6 +173,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 1 | [Flatlogic](flatlogic.com) | Flatlogic offers two main products: CRUD Web App Generator and Admin Templates. | Coupon code & Discount details | NA |
 | 2 | [Logology](https://www.logology.co/) | Get a designer-quality logo for your startup in 5 minutes. | 50% OFF with code BF22| NA |
 | 3 | [Icons8](https://icons8.com/l/blackfriday2022/) | icons, illustrations, photos, and music. | Up to 55% off subscription| NA |
+| 4 | [Beautiful 100+ AI generated Images](https://shivamrathore.gumroad.com/l/beautiful-100-plus-ai-generated-images) | Get hold of astonishingly 100+ AI generated images, that you have not even imagined... | 50% OFF | Last date Nov 30th |
+
 ## Plugins
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
