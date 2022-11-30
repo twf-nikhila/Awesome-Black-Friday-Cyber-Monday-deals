@@ -164,6 +164,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [GummySearch](https://gummysearch.com/?utm_source=heynikhila) |Customer research via Reddit. Discover problems to solve, sentiment on current solutions, and people who want to buy your product. | Sign up for free, get 25% off on any plan with code BLACKFRIDAY2022| NA |
 | 9 | [BoldDesk](https://www.bolddesk.com/black-friday) | BoldDesk is a cloud-based, modern help desk ticketing system and knowledge base software for serving a wide range of customer support activities. |  40% off with code: BLACKFRIDAY2022 [Visit Deal Page](https://www.bolddesk.com/black-friday) | November 1–December 3, 2022 |
 | 10 | [Tally Forms](https://tally.so/) | he simplest way to create beautiful forms & surveys | Get 30% off our annual Pro plan for 1 year! Use BF30 at checkout | NA |
+| 11 | [UUKI Live](https://www.uuki.live/black-friday-cyber-monday) | UUKI Community platform helps you build meaningful relationships within your community through events, newsletters, and a community page with web3 integrations.  | UUKI Lifetime deal at 50% off of the recurring plan and Get Flat 30% off on all premium plans. Coupon code: BLACKFRIDAY30 to get 30% off | NA |
 
 
 ## Themes & Design Resource
