@@ -197,7 +197,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Templatemonster](templatemonster.com) | templatemonster digital marketplace  |  save up to 40% on the MonsterONE All-in-One membership  | November 24-28 |
 | 2 | [getbootstrap themes](https://themes.getbootstrap.com/) | Themes, Templates building with Bootstrap  |  Use the code BLACKANDCYBER22 for 40% off until Dec. 4   | Until Dec-4 |
-
+| 3 | [AppSumo](https://appsumo.8odi.net/doknAQ) | Lifetime deals on Softwares, Courses, SaaS & more  |  10% on cart amount above $150   | - |
 
 ## Others
 
