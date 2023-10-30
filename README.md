@@ -51,9 +51,9 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 # **Sponsors Spotlight**
 
 ***
-### COMING SOON
+### You can be here...
 <p align="center">
-  <img width="200" src="https://public-files.gumroad.com/yaum2ke10ngga5vi0usjhrayxr1j" alt="The Art of Twitter">
+  <img width="200" src="https://i.imgur.com/XjucTSc.png" alt="">
 </p>
 ***
 
