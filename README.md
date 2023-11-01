@@ -44,7 +44,8 @@ DM me on [Twitter](https://twitter.com/HeyNikhila) or Email (nikhil_agrawal at l
 Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2022.
 
 1. 🔁 Send a pull request adding your deal
-2. ⭐ Star this repository so it become trending on Black Friday!
+2. 👤 Non Techie? Send your deal using [this form](https://formnx.com/f/63pk80)
+3. ⭐ Star this repository so it becomes trending on Black Friday!
 
 ***
 
