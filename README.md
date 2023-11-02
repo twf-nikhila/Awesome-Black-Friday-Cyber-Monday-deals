@@ -22,6 +22,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🎨 [Themes & Design Resource](#themes--design-resource)
 * 🔌 [Plugins](#plugins)
 * 🧬 [Standalone scripts](#standalone-scripts)
+* 🤖 [AI Tools](#ai-tools)
 * 🛒 [Marketplaces](#marketplaces)
 * 💾 [Others](#others)
 
@@ -115,6 +116,12 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [kQuote](https://kquote.vip) | The photographer's estimation and quotation system. | Up to 90% OFF. Coupon Code: KFOTO for Photographers , KFOTOSELLER for Resellers/Web Designers | 10-19-2023 - 12-01-2023 |
+
+## AI Tools
+
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
 
 ## Marketplaces
 
