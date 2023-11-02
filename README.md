@@ -93,7 +93,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [Quick Elements](https://quickelements.com) | State of the Art Flexible Website Builder & Hosting | 30% off your first year!. Coupon Code: GHCM30 | 11-19-2023 - 11-30-2023 |
 
 ## Themes & Design Resource
 
