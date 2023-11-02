@@ -80,7 +80,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Uxcel]([https://website.com](https://uxcel.com)) | Learn UX design at your own pace with guided, bite-sized education that’s effective and fun, used by 250K+ designers around the world. | 50% Lifetime Discount | 	11-24-2023 - 11-28-2023 |
+| 1 | [Uxcel](https://uxcel.com) | Learn UX design at your own pace with guided, bite-sized education that’s effective and fun, used by 250K+ designers around the world. | 50% Lifetime Discount | 	11-24-2023 - 11-28-2023 |
 
 
 
