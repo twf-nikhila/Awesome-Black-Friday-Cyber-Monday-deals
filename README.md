@@ -74,7 +74,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [Building macOS apps with SwiftUI: A Practical Learning Guide](https://gracehuang.gumroad.com/l/macOS-swift) | A book focuses on building macOS apps with SwiftUI, including both coding and releasing apps | 50% off with the code BLACKFRIDAY2023. Coupon Code: BLACKFRIDAY2023 | 11-20-2023 - 12-01-2023 |
 
 ## Courses
 
