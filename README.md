@@ -141,3 +141,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+
+
+
+# Other places to list Black Friday Deals:
+1. [indiegoodies](https://indiegoodies.com/blackfriday)
