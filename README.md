@@ -95,6 +95,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Quick Elements](https://quickelements.com) | State of the Art Flexible Website Builder & Hosting | 30% off your first year!. Coupon Code: GHCM30 | 11-19-2023 - 11-30-2023 |
+| 2 | [Consolto](https://www.consolto.com/) | Consolto redefines the conferencing experience for customer meetings, merging the power of live chat, appointment scheduling, and video chat into one unified platform. Tailored exclusively for enriched customer interactions, imagine the best of Zoom, Calendly, and Intercom seamlessly. integrated into one transformative tool | 50% off yearly subscriptions for the 1st year. Coupon Code: BFCM2023YEAR BFCM2023M | 11-15-2023 - 11-28-2023 |
 
 ## Themes & Design Resource
 
