@@ -75,6 +75,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Building macOS apps with SwiftUI: A Practical Learning Guide](https://gracehuang.gumroad.com/l/macOS-swift) | A book focuses on building macOS apps with SwiftUI, including both coding and releasing apps | 50% off with the code BLACKFRIDAY2023. Coupon Code: BLACKFRIDAY2023 | 11-20-2023 - 12-01-2023 |
+| 2 | [Nail A Coding Interview: Six-Step Mental Framework, Second Edition](https://gracehuang.gumroad.com/l/coding-interview) | A book about how candidates can outperform in coding interviews, from the lenses of interviewers | 50% with the code BLACKFRIDAY2023. Coupon Code: BLACKFRIDAY2023 | 11-21-2023 - 11-30-2023 |
 
 ## Courses
 
