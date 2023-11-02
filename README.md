@@ -121,7 +121,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [Localy](https://localy.ai/) | Unlock the power of simple, user-friendly AI to generate effective content and images. Create easily & plagiarism-free content for emails, blogs, and websites 10X faster.Unlock the power of simple, user-friendly AI to | 50 Discount | 10-22-2023 - 02-07-2024 |
 
 ## Marketplaces
 
