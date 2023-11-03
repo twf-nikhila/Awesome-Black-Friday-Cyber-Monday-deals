@@ -6,10 +6,9 @@
 
 ***
 
-# Awesome Black Friday & Cyber Monday deals - 2022
+# Awesome Black Friday & Cyber Monday deals - 2023
 
-Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enterpreneur, 2022
-
+Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enterpreneur, 2023
 
 # Contents
 
@@ -43,7 +42,7 @@ DM me on [Twitter](https://twitter.com/HeyNikhila) or Email (nikhil_agrawal at l
 
 # Don't forget to contribute ✍️✍️
 
-Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2022.
+Contribute by adding any resources related to Black Friday or Cyber Monday Deals 2023.
 
 1. 🔁 Send a pull request adding your deal
 2. 👤 Non Techie? Send your deal using [this form](https://formnx.com/f/63pk80)
@@ -70,7 +69,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [Statused — Receive your apps’ review and TestFlight status on Slack](https://statused.com/?ref=github_awesome) | Statused notifies your team when your app is reviewed by Apple or Google and changes status, and when it's ready to be tested on TestFlight. Forget about 'Is the app live yet?' | 50% OFF during the first 3 months using exclusive coupon `BLKFRD-AWESOME` | 11-03-2023 - 11-28-2023 |
 
 ## Books
 
@@ -90,9 +89,6 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Uxcel](https://uxcel.com) | Learn UX design at your own pace with guided, bite-sized education that’s effective and fun, used by 250K+ designers around the world. | 50% Lifetime Discount | 	11-24-2023 - 11-28-2023 |
-
-
-
 
 ## Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -142,8 +138,6 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
-
-
 
 # Other places to list Black Friday Deals:
 1. [indiegoodies](https://indiegoodies.com/blackfriday)
