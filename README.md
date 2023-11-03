@@ -69,7 +69,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Statused](https://statused.com/?ref=github_awesome) | Statused notifies your team of app and build status updates directly on Slack. No more checking App Store Connect, Google Play Console, or waiting for emails. | 50% OFF during the first 3 months | 11-03-2023 - 11-28-2023 |
+| 1 | [Statused](https://statused.com/?ref=github_awesome) | Statused notifies your team of app and build status updates directly on Slack. No more checking App Store Connect, Google Play Console, or waiting for emails. | 50% OFF during the first 3 months using exclusive coupon `BLKFRD-AWESOME` | 11-03-2023 - 11-28-2023 |
 
 ## Books
 
