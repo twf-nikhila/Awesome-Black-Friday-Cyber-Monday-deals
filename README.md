@@ -146,3 +146,4 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 # Other places to list Black Friday Deals:
 1. [indiegoodies](https://indiegoodies.com/blackfriday)
+2. [saasfridaydeals](https://saasfridaydeals.com/)
