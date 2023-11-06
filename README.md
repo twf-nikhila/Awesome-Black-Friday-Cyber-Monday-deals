@@ -113,7 +113,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [Crocoblock](https://crocoblock.com/?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=black-friday-2023) | Crocoblock brings you a wide variety of JetPlugins, perfect for WordPress pros. These plugins make it easier to build dynamic WordPress sites without needing to code. You can add custom post types, taxonomies, establish relations, create forms, and design dynamic page templates with lots of widgets. | 40% off on all subscription. Coupon Code: bfcroco2023 | 11-20-2023 - 	11-30-2023 |
 
 ## Standalone scripts
 
