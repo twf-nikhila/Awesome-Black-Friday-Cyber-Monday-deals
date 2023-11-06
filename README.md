@@ -63,7 +63,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:|
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [Audio writer](https://audiowriter.app) | Just record your spontaneous thoughts, we'll turn them into clear & coherent in writing. We just don't stop there, we'll also help you in shaping your thoughts into content across various formats. | 50% off discount auto-applied | Nov 1st - Nov 28th |
 
 ## Developer Tools
 
