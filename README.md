@@ -70,6 +70,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Statused — Receive your apps’ review and TestFlight status on Slack](https://statused.com/?ref=github_awesome) | Statused notifies your team when your app is reviewed by Apple or Google and changes status, and when it's ready to be tested on TestFlight. Forget about 'Is the app live yet?' | 50% OFF during the first 3 months using exclusive coupon `BLKFRD-AWESOME` | 11-03-2023 - 11-28-2023 |
+| 2 | [QR Diffusion](	https://qrdiffusion.com/) | Elevate your QR codes with QR Diffusion. Craft art-infused QR codes with ease using pre-made templates or advanced customization. The perfect QR code, just moments away! | Enjoy a 50% discount for the first two months or the entire year when choosing an annual plan. Coupon code: BFCM2023 | 11-12-2023 - 12-01-2023 |
 
 ## Books
 
