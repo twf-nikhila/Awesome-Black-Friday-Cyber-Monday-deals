@@ -153,7 +153,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [AI Prompt Almanac](https://unapologeticih.gumroad.com/l/aialmanac) | Access the database loaded with links to 15,880+ of the top-performing AI prompts on the top AI marketplaces like PromptBase, AIPRM and more. | 60% OFF. Lifetime Access and Updates. Coupon Code: 60OFFAI | 11-09-2023 - 12-31-2023 |
 
 # Other places to list Black Friday Deals:
 1. [indiegoodies](https://indiegoodies.com/blackfriday)
