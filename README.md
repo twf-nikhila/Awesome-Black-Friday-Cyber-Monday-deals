@@ -148,6 +148,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 1 | [Product Hunt Wotkbook](https://launchpedia.co/product-hunt-workbook/) | Product Hunt Workbook is a Step-by-step blueprint to rank on top of Product Hunt. A list of 125 launch tasks, 63 launch post templates, and 99 communities to share your Product Hunt launch. | 50% Discount. Coupon Code: BF50 | 11-09-2023 - 11-09-2023 |
 | 2 | [IndieEarnr](	https://unapologeticih.gumroad.com/l/indieearnr) | Boost your income with 580+ Affiliate & Referral Programs for Solopreneurs, Indie Hackers, SaaS Owners, and Creators. | 60% OFF.Lifetime Access and Updates. Coupon Code: 60OFF | 11-09-2023 - 12-31-2023 |
 | 3 | [Fuelance Freelance System](https://unapologeticih.gumroad.com/l/ktxfX) | Find Freelance Opportunities and on Autopilot, Onboard Clients & Manage Projects Effortlessly - includes 50+ Freelance Templates & Documents Lead Generation Systems Guide & RSS Lead Feeds & more. | 	70% OFF. Lifetime Access and Updates. Coupon Code: 70OFFBF | 11-09-2023 - 12-31-2023 |
+| 4 | [Mail Mastery MEGA BUNDLE](https://unapologeticih.gumroad.com/l/nyzwb) | 250 customizable email templates covering every aspect of client communication with a range of 30+ essential business documents such as invoices, proposals, and client intake guides. | 60% OFF. Lifetime Access and Updates. Coupon Code: 60OFFMM | 11-09-2023 - 12-31-2023 |
 
 ## Others
 
