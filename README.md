@@ -24,6 +24,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🧬 [Standalone scripts](#standalone-scripts)
 * 🤖 [AI Tools](#ai-tools)
 * 🛒 [Marketplaces](#marketplaces)
+* 🌈 [Marketing Tools](#marketing-tools)
 * 💾 [Others](#others)
 
 # Sponsorship
@@ -135,6 +136,12 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 2 | [GetGenie AI](https://getgenie.ai/) | GetGenie AI — the most advanced WordPress AI tool for SEO-optimised content & copywriting. It has 30+ ready-made templates and amazing use cases like SEO Keyword Analysis, SERP Competitor Analysis, On Page Optimization, Meta Description, Content Scoring, Blog Outline Creator, Blog Title Writer, Blog Article Assistant, Product Descriptions, Sales Copywriter, and many more.  Enjoy up to 40% discount on GetGenie AI this Black Friday and increase your efficiency in writing SEO-optimized content on your WordPress website. | Enjoy up to 40% discount on GetGenie AI this Black Friday and increase your efficiency in writing SEO-optimized content on your WordPress website. | 11-22-2023 - 12-05-2023 |
 
 ## Marketplaces
+
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+
+## Marketing Tools
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
