@@ -145,7 +145,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [Product Hunt Wotkbook](https://launchpedia.co/product-hunt-workbook/) | Product Hunt Workbook is a Step-by-step blueprint to rank on top of Product Hunt. A list of 125 launch tasks, 63 launch post templates, and 99 communities to share your Product Hunt launch. | 50% Discount. Coupon Code: BF50 | 11-09-2023 - 11-09-2023 |
 
 ## Others
 
