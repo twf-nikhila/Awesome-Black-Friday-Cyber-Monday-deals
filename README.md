@@ -96,6 +96,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [HoneyPot - 1100+ Beehiiv Newsletter Database](https://unapologeticih.gumroad.com/l/ejsmjv) | ✓ Airtable database of 1100+ newsletters, links, social accounts to connect with creators & 100s of Filterable categories including Startups, SaaS, Founders, Creators & more. | 50% OFF. Lifetime Access and Updates. Coupon Code:50BEEHIIV | 11-09-2023 - 12-31-2023 |
+| 2 | [GhostHunt - 1900+ Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | ✓ Airtable databases (Vol. 1 & 2) that give you 1900+ newsletters, includes titles, Member Count Brackets, descriptions and links to help you connect with creators & Filterable categories including Business, Tech, Productivity & more. | 50% OFF. Lifetime Access and Updates. Coupon Code:50GHOST  | 11-09-2023 - 12-31-2023 |
 
 ## SaaS Software
 
