@@ -150,3 +150,4 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 1. [indiegoodies](https://indiegoodies.com/blackfriday)
 2. [saasfridaydeals](https://saasfridaydeals.com/)
 3. [wpbfdeals](https://wpbfdeals.com/)
+4. [indiehackers](https://www.indiehackers.com/post/the-ultimate-indie-hackers-black-friday-deal-list-74a0c18d51)
