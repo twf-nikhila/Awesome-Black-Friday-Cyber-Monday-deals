@@ -116,6 +116,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Crocoblock](https://crocoblock.com/?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=black-friday-2023) | Crocoblock brings you a wide variety of JetPlugins, perfect for WordPress pros. These plugins make it easier to build dynamic WordPress sites without needing to code. You can add custom post types, taxonomies, establish relations, create forms, and design dynamic page templates with lots of widgets. | 40% off on all subscription. Coupon Code: bfcroco2023 | 11-20-2023 - 	11-30-2023 |
+| 2 | [ElementsKit](https://wpmet.com/) | Serving over 800,000 satisfied users, ElementsKit is the all-in-one Elementor addon for flexible & handy page-building features. Enjoy up to 40% discount on ElementsKit this Black Friday and avail of 85+ powerful widgets and extensions, 14+ exclusive modules, 79+ Premade Homepages, 500+ Premade Section Layouts & more! Get all these PRO features before the offer runs out! | Enjoy up to 40% discount on ElementsKit this Black Friday and avail of 85+ powerful widgets and extensions, 14+ exclusive modules, 79+ Premade Homepages, 500+ Premade Section Layouts & more! Get all these PRO features before the offer runs out! | 11-22-2023 - 	12-05-2023 |
 
 ## Standalone scripts
 
