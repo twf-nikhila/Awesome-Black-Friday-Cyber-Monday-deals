@@ -155,6 +155,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [AI Prompt Almanac](https://unapologeticih.gumroad.com/l/aialmanac) | Access the database loaded with links to 15,880+ of the top-performing AI prompts on the top AI marketplaces like PromptBase, AIPRM and more. | 60% OFF. Lifetime Access and Updates. Coupon Code: 60OFFAI | 11-09-2023 - 12-31-2023 |
+| 2 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML across categories of Prospecting and Proposals, Client Onboarding, Project Management, Payment & more. | 60% OFF. Lifetime Access and Updates. Coupon Code:60OFF50  | 	11-09-2023 - 12-31-2023 |
 
 # Other places to list Black Friday Deals:
 1. [indiegoodies](https://indiegoodies.com/blackfriday)
