@@ -139,7 +139,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [	The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | ✓ Includes Fuelance Freelance System, 35+ Page Welcome Pack, 250+ Customizable Email Templates, B2B Signals & Tracker & Blog Basics Workbook. | 75% OFF. Lifetime Access and Updates. Coupon Code:75BSB | 11-09-2023 - 12-31-2023 |
 
 ## Marketing Tools
 
