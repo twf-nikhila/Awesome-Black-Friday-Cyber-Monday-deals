@@ -151,3 +151,4 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 2. [saasfridaydeals](https://saasfridaydeals.com/)
 3. [wpbfdeals](https://wpbfdeals.com/)
 4. [indiehackers](https://www.indiehackers.com/post/the-ultimate-indie-hackers-black-friday-deal-list-74a0c18d51)
+5. [producthunt](https://www.producthunt.com/discussions/the-ultimate-product-hunt-black-friday-deal-list)
