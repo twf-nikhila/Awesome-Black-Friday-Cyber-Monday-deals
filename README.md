@@ -91,6 +91,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Uxcel](https://uxcel.com) | Learn UX design at your own pace with guided, bite-sized education that’s effective and fun, used by 250K+ designers around the world. | 50% Lifetime Discount | 	11-24-2023 - 11-28-2023 |
+| 2 | [Build Your SaaS AI Web Platform From Zero to Production](https://code4startup.com/ai_saas/) | Learn how to build your startup as a SaaS AI Web app with Next.js 13, LangChain, ChatGPT, React, Tailwind, Prisma, Stripe in style. | 62% Lifetime Discount | 11-09-2023 - 11-28-2023 |
+
 
 ## Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
