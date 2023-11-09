@@ -110,6 +110,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF with code BLACKFRIDAY2023 | 11-20-2023 - 12-01-2023 |
+| 2 | [Wpmet](https://wpmet.com) | Wpmet is a prominent brand that has developed iconic WordPress products, including ElementsKit, MetForm, ShopEngine, and WP Social. These versatile products help millions of WordPress users extend the functionalities of their websites. Indulge in a spectacular 40% Black Friday discount on all premium plugins from Wpmet. Seize the finest deal of the year! | Indulge in a spectacular 40% Black Friday discount on all premium plugins from Wpmet. Seize the finest deal of the year! | 11-22-2023 - 12-05-2023 |
 
 ## Plugins
 
