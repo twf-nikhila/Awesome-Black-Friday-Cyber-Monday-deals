@@ -72,7 +72,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Statused — Receive your apps’ review and TestFlight status on Slack](https://statused.com/?ref=github_awesome) | Statused notifies your team when your app is reviewed by Apple or Google and changes status, and when it's ready to be tested on TestFlight. Forget about 'Is the app live yet?' | 50% OFF during the first 3 months using exclusive coupon `BLKFRD-AWESOME` | 11-03-2023 - 11-28-2023 |
-| 2 | [QR Diffusion](	https://qrdiffusion.com/) | Elevate your QR codes with QR Diffusion. Craft art-infused QR codes with ease using pre-made templates or advanced customization. The perfect QR code, just moments away! | Enjoy a 50% discount for the first two months or the entire year when choosing an annual plan. Coupon code: BFCM2023 | 11-12-2023 - 12-01-2023 |
+
 
 ## Books
 
@@ -129,7 +129,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Crocoblock](https://crocoblock.com/?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=black-friday-2023) | Crocoblock brings you a wide variety of JetPlugins, perfect for WordPress pros. These plugins make it easier to build dynamic WordPress sites without needing to code. You can add custom post types, taxonomies, establish relations, create forms, and design dynamic page templates with lots of widgets. | 40% off on all subscription. Coupon Code: bfcroco2023 | 11-20-2023 - 	11-30-2023 |
 | 2 | [ElementsKit](https://wpmet.com/) | Serving over 800,000 satisfied users, ElementsKit is the all-in-one Elementor addon for flexible & handy page-building features. Enjoy up to 40% discount on ElementsKit this Black Friday and avail of 85+ powerful widgets and extensions, 14+ exclusive modules, 79+ Premade Homepages, 500+ Premade Section Layouts & more! Get all these PRO features before the offer runs out! | Enjoy up to 40% discount on ElementsKit this Black Friday and avail of 85+ powerful widgets and extensions, 14+ exclusive modules, 79+ Premade Homepages, 500+ Premade Section Layouts & more! Get all these PRO features before the offer runs out! | 11-22-2023 - 	12-05-2023 |
-
+| 3 | [Scrollsequence](	https://scrollsequence.com/) | Scrollsequence allows you to create stunning image sequence animations that are controlled with either the mousewheel or with touch. It makes it easy to deliver a powerful message. | Enjoy a 60% discount for all plans. Coupon code: BFCM2023 | 11-12-2023 - 12-01-2023 |
 ## Standalone scripts
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -142,6 +142,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Localy](https://localy.ai/) | Unlock the power of simple, user-friendly AI to generate effective content and images. Create easily & plagiarism-free content for emails, blogs, and websites 10X faster.Unlock the power of simple, user-friendly AI to | 50 Discount | 10-22-2023 - 02-07-2024 |
 | 2 | [GetGenie AI](https://getgenie.ai/) | GetGenie AI — the most advanced WordPress AI tool for SEO-optimised content & copywriting. It has 30+ ready-made templates and amazing use cases like SEO Keyword Analysis, SERP Competitor Analysis, On Page Optimization, Meta Description, Content Scoring, Blog Outline Creator, Blog Title Writer, Blog Article Assistant, Product Descriptions, Sales Copywriter, and many more.  Enjoy up to 40% discount on GetGenie AI this Black Friday and increase your efficiency in writing SEO-optimized content on your WordPress website. | Enjoy up to 40% discount on GetGenie AI this Black Friday and increase your efficiency in writing SEO-optimized content on your WordPress website. | 11-22-2023 - 12-05-2023 |
+| 3 | [QR Diffusion](	https://qrdiffusion.com/) | Elevate your QR codes with QR Diffusion. Craft art-infused QR codes with ease using pre-made templates or advanced customization. The perfect QR code, just moments away! | Enjoy a 50% discount for the first two months or the entire year when choosing an annual plan. Coupon code: BFCM2023 | 11-12-2023 - 12-01-2023 |
 
 ## Marketplaces
 
