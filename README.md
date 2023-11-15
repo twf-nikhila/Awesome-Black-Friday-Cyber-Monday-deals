@@ -66,6 +66,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:|
 | 1 | [Audio writer](https://audiowriter.app) | Just record your spontaneous thoughts, we'll turn them into clear & coherent in writing. We just don't stop there, we'll also help you in shaping your thoughts into content across various formats. | 50% off discount auto-applied | Nov 1st - Nov 28th |
 | 2 | [Pictory](https://pictory.ai/) | Script to Video conversion with AI voices, footage, and music.Blog Post to Video transformation for improved SEO.Long-Form Video to Social Media Clip extraction.Automatic Captioning for better reach on social media.Collaborative Teams Plan for shared asset and idea management. | 40%. Coupon Code:BFCM40GB | 	11-20-2023 - 11-30-2023 |
+| 3 | [Zen Mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | 40% off LTD discount auto-applied | Nov 1st - Nov 28th |
 
 ## Developer Tools
 
