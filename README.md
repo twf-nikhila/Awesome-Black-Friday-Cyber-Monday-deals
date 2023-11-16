@@ -53,12 +53,18 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 # **Sponsors Spotlight**
 
+### Practical DevSecOps
+
+<img src="https://i.imgur.com/R0FMLIi.png" alt="Practical DevSecOps">
+**[Practical DevSecOps](https://www.practical-devsecops.com/black-friday/)**
+
+*Practical DevSecOps training and certification, learn DevSecOps, Kubernetes Security, Container Security, API Security, and Threat Modeling.*
+
+**(15% off all courses, save USD 180 or more, discounts applied automatically) *🌟 100's of 5-star reviews***
+
 ***
-### You can be here...
-<p align="center">
-  <img width="200" src="https://i.imgur.com/XjucTSc.png" alt="">
-</p>
-***
+
+*4 Sponsor Spots Available, [Sponsor Details](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/blob/main/Sponsorship.md)*
 
 ## Apps
 
