@@ -82,6 +82,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Statused — Receive your apps’ review and TestFlight status on Slack](https://statused.com/?ref=github_awesome) | Statused notifies your team when your app is reviewed by Apple or Google and changes status, and when it's ready to be tested on TestFlight. Forget about 'Is the app live yet?' | 50% OFF during the first 3 months using exclusive coupon `BLKFRD-AWESOME` | 11-03-2023 - 11-28-2023 |
 | 2 | [Volca SaaS Starter Kit](https://volca.io) | SaaS Starter Kit with Node.js, React and TypeScript. Launch faster with authentication, subscriptions, CI/CD and more. 25% off with code `BLACK` | 11-16-2023 - 11-30-2023 |
+| 3 | [Checkbot](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. 50% off first year of yearly plan with code `NOV23` | 11-16-2023 - 12-01-2023 |
 
 
 ## Books
