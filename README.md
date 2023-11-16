@@ -95,7 +95,9 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [NAME](https://website.com) | Product Details | Deal Details | START-DATE - END-DATE |
+| 1 | [Tao of React](https://taoofreact.com) | Proven rules and guidelines to build better React applications. You will learn everything about application structure, component design, testing and performance. | 50% OFF with code BLACKFRIDAY23 | 11-13-2023 - 11-30-2023 |
+| 2 | [Tao of Node](https://taoofnode.com) | Guidelines and best practices to build better REST APIs with Node and Express. | 50% OFF with code BLACKFRIDAY23 | 11-13-2023 - 11-30-2023 |
+| 3 | [JavaScript Interview Flashcards](https://darakondoff.gumroad.com/l/syzcwy/TPC50) | An effortless way to learn fundamental JS concepts and prepare for your next interview. | 50% off with code TPC50. | 11-13-2023 - 11-30-2023 |
 
 ## Courses
 
