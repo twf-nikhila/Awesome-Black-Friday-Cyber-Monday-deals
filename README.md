@@ -75,6 +75,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 2 | [Pictory](https://pictory.ai/) | Script to Video conversion with AI voices, footage, and music.Blog Post to Video transformation for improved SEO.Long-Form Video to Social Media Clip extraction.Automatic Captioning for better reach on social media.Collaborative Teams Plan for shared asset and idea management. | 40%. Coupon Code:BFCM40GB | 	11-20-2023 - 11-30-2023 |
 | 3 | [Zen Mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | 40% off LTD discount auto-applied | Nov 1st - Nov 28th |
 | 4 | [Sparkle 5](https://sparkleapp.com) | Visual Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 40% OFF (automatically applied) | 11-15-2023 - 11-30-2023 |
+| 5 | [Spaces](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | 35% off LTD discount auto-applied | Nov 1st - Nov 28th |
 
 ## Developer Tools
 
