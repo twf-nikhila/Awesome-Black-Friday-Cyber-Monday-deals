@@ -94,6 +94,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Building macOS apps with SwiftUI: A Practical Learning Guide](https://gracehuang.gumroad.com/l/macOS-swift) | A book focuses on building macOS apps with SwiftUI, including both coding and releasing apps | 50% off with the code BLACKFRIDAY2023. Coupon Code: BLACKFRIDAY2023 | 11-20-2023 - 12-01-2023 |
 | 2 | [Nail A Coding Interview: Six-Step Mental Framework, Second Edition](https://gracehuang.gumroad.com/l/coding-interview) | A book about how candidates can outperform in coding interviews, from the lenses of interviewers | 50% with the code BLACKFRIDAY2023. Coupon Code: BLACKFRIDAY2023 | 11-21-2023 - 11-30-2023 |
+| 3 | [Zero to Sold](https://bootstrappedfounder.gumroad.com/l/zerotosold/BFF) by Arvid Kahl | An actionable no-fluff guide to bootstrapping a business. Your manual from "I have no idea" to "I just sold my SaaS business." | 50% OFF with code **BFF**. Coupon Code: BFF | 11-18-2023 - 11-30-2023 |
+| 4 | [The Embedded Entrepreneur](https://bootstrappedfounder.gumroad.com/l/embedded-entrepreneur/BFF) by Arvid Kahl | Your practical guide to finding the right audience and building the product they need. Validate your ideas, and build a legacy. | 50% OFF with code **BFF**. Coupon Code: BFF | 11-18-2023 - 11-30-2023 |
 
 ## Programming Books
 
@@ -112,6 +114,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Build Your SaaS AI Web Platform From Zero to Production](https://code4startup.com/ai_saas/) | Learn how to build your startup as a SaaS AI Web app with Next.js 13, LangChain, ChatGPT, React, Tailwind, Prisma, Stripe in style. | 62% Lifetime Discount | 11-09-2023 - 11-28-2023 |
 | 4 | [AppSecEngineer - Hands-on Security Training Platform for Secure Coding, DevSecOps, Cloud Security, Kubernetes Security and more](https://appsecengineer.com) | AppSecEngineer is a hands-on training platform for you to learn AppSec, AWS, Azure and GCP Security, DevSecOps, Kubernetes Security and Security Architecture. | 25% discount on all personal and business annual plans. Coupon code: **PUMPKINPIE25** | 11-12-2023 - 11-30-2023 |
 | 5 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% FLAT discount. Coupon code: **BLACKFRIDAY23** | Starts 11/20/2023 8:00 AM PST - Expires 11/25/2023 8:00 AM PST |
+| 6 | [Find your Following](https://bootstrappedfounder.gumroad.com/l/findyourfollowing/BFF) by Arvid Kahl | Stop chasing growth hacks. Grow an authentic Twitter presence with intentional relationships and a following that trusts and respects you. | 50% OFF with code **BFF**. Coupon Code: BFF | 11-18-2023 - 11-30-2023 |
 
 
 ## Newsletter & Communities
