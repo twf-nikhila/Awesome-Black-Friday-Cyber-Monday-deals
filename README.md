@@ -76,6 +76,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Zen Mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | 40% off LTD discount auto-applied | Nov 1st - Nov 28th |
 | 4 | [Sparkle 5](https://sparkleapp.com) | Visual Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 40% OFF (automatically applied) | 11-15-2023 - 11-30-2023 |
 | 5 | [Spaces](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | 35% off LTD discount auto-applied | Nov 1st - Nov 28th |
+| 6 | [SubManager](https://getsubmanager.app) | Track your subscriptions in one place and get notified when a renewal is due. Available for iPhone, iPad, Apple Watch and Mac. | 30% off SubManager+ and 20% off SubManager+ Family for lifetime | Nov 20th - Nov 27th |
+| 7 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% off with code BLACKFRIDAY2023 for the first year | Nov 17st - Nov 24th |
 
 ## Developer Tools
 
@@ -111,8 +113,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 2 | [Uxcel](https://uxcel.com) | Learn UX design at your own pace with guided, bite-sized education that’s effective and fun, used by 250K+ designers around the world. | 50% Lifetime Discount | 	11-24-2023 - 11-28-2023 |
 | 3 | [Build Your SaaS AI Web Platform From Zero to Production](https://code4startup.com/ai_saas/) | Learn how to build your startup as a SaaS AI Web app with Next.js 13, LangChain, ChatGPT, React, Tailwind, Prisma, Stripe in style. | 62% Lifetime Discount | 11-09-2023 - 11-28-2023 |
 | 4 | [AppSecEngineer - Hands-on Security Training Platform for Secure Coding, DevSecOps, Cloud Security, Kubernetes Security and more](https://appsecengineer.com) | AppSecEngineer is a hands-on training platform for you to learn AppSec, AWS, Azure and GCP Security, DevSecOps, Kubernetes Security and Security Architecture. | 25% discount on all personal and business annual plans. Coupon code: **PUMPKINPIE25** | 11-12-2023 - 11-30-2023 |
-| 5 | [Find your Following](https://bootstrappedfounder.gumroad.com/l/findyourfollowing/BFF) by Arvid Kahl | Stop chasing growth hacks. Grow an authentic Twitter presence with intentional relationships and a following that trusts and respects you. | 50% OFF with code **BFF**. Coupon Code: BFF | 11-18-2023 - 11-30-2023 |
-
+| 5 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% FLAT discount. Coupon code: **BLACKFRIDAY23** | Starts 11/20/2023 8:00 AM PST - Expires 11/25/2023 8:00 AM PST |
+| 6 | [Find your Following](https://bootstrappedfounder.gumroad.com/l/findyourfollowing/BFF) by Arvid Kahl | Stop chasing growth hacks. Grow an authentic Twitter presence with intentional relationships and a following that trusts and respects you. | 50% OFF with code **BFF**. Coupon Code: BFF | 11-18-2023 - 11-30-2023 |
 
 
 ## Newsletter & Communities
@@ -181,6 +183,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 4 | [Mail Mastery MEGA BUNDLE](https://unapologeticih.gumroad.com/l/nyzwb) | 250 customizable email templates covering every aspect of client communication with a range of 30+ essential business documents such as invoices, proposals, and client intake guides. | 60% OFF. Lifetime Access and Updates. Coupon Code: 60OFFMM | 11-09-2023 - 12-31-2023 |
 | 5 | [35+ Page Client Welcome Pack ULTIMATE BUNDLE](https://unapologeticih.gumroad.com/l/gahbf) | A Notion pack with 35+ pages of a variety of customizable templates to help you define all the details of the projects you're ready to work on for your new clients. | 50% OFF. Lifetime Access and Updates. Coupon Code:50OFFPACK  | 11-09-2023 - 12-31-2023 |
 | 6 | [PushAlert - Web Push Notifications](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=twf-nikhila) | PushAlert is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | 30% OFF on All Annual Plans. Coupon Code: Not Required  | 11-12-2023 - 12-02-2023 |
+| 7 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intuitive and intelligent tools for App Store Optimization and competitor intelligence from Appfigures. | 50% OFF for 12 months. Coupon Code: BF2350S  | 11-20-2023 - 11-24-2023 |
 
 ## Others
 
