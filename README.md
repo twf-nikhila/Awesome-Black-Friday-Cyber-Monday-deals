@@ -111,6 +111,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 2 | [Uxcel](https://uxcel.com) | Learn UX design at your own pace with guided, bite-sized education that’s effective and fun, used by 250K+ designers around the world. | 50% Lifetime Discount | 	11-24-2023 - 11-28-2023 |
 | 3 | [Build Your SaaS AI Web Platform From Zero to Production](https://code4startup.com/ai_saas/) | Learn how to build your startup as a SaaS AI Web app with Next.js 13, LangChain, ChatGPT, React, Tailwind, Prisma, Stripe in style. | 62% Lifetime Discount | 11-09-2023 - 11-28-2023 |
 | 4 | [AppSecEngineer - Hands-on Security Training Platform for Secure Coding, DevSecOps, Cloud Security, Kubernetes Security and more](https://appsecengineer.com) | AppSecEngineer is a hands-on training platform for you to learn AppSec, AWS, Azure and GCP Security, DevSecOps, Kubernetes Security and Security Architecture. | 25% discount on all personal and business annual plans. Coupon code: **PUMPKINPIE25** | 11-12-2023 - 11-30-2023 |
+| 5 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% FLAT discount. Coupon code: **BLACKFRIDAY23** | Starts 11/20/2023 8:00 AM PST - Expires 11/25/2023 8:00 AM PST |
 
 
 ## Newsletter & Communities
