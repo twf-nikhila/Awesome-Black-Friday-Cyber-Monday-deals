@@ -76,7 +76,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Zen Mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | 40% off LTD discount auto-applied | Nov 1st - Nov 28th |
 | 4 | [Sparkle 5](https://sparkleapp.com) | Visual Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 40% OFF (automatically applied) | 11-15-2023 - 11-30-2023 |
 | 5 | [Spaces](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | 35% off LTD discount auto-applied | Nov 1st - Nov 28th |
-| 6 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% off with code BLACKFRIDAY2023 for the first year | Nov 17st - Nov 24th |
+| 6 | [SubManager](https://getsubmanager.app) | Track your subscriptions in one place and get notified when a renewal is due. Available for iPhone, iPad, Apple Watch and Mac. | 30% off SubManager+ and 20% off SubManager+ Family for lifetime | Nov 20th - Nov 27th |
+| 7 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% off with code BLACKFRIDAY2023 for the first year | Nov 17st - Nov 24th |
 
 ## Developer Tools
 
