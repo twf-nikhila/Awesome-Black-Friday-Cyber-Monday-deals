@@ -80,6 +80,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% off with code BLACKFRIDAY2023 for the first year | Nov 17st - Nov 24th |
 | 8 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. | **50%** off with code **BLACKFRIDAY_2023** for the lifetime | Nov 15st - Dec 2th |
 | 9 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything you copy across your Mac and iOS devices. | **30%** off first year on all devices |  |
+| 9 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) | Nov 20 - Nov 27 |
 
 ## Developer Tools
 
