@@ -78,6 +78,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [Spaces](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | 35% off LTD discount auto-applied | Nov 1st - Nov 28th |
 | 6 | [SubManager](https://getsubmanager.app) | Track your subscriptions in one place and get notified when a renewal is due. Available for iPhone, iPad, Apple Watch and Mac. | 30% off SubManager+ and 20% off SubManager+ Family for lifetime | Nov 20th - Nov 27th |
 | 7 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% off with code BLACKFRIDAY2023 for the first year | Nov 17st - Nov 24th |
+| 8 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. | **50%** off with code **BLACKFRIDAY_2023** for the lifetime | Nov 15st - Dec 2th |
 
 ## Developer Tools
 
