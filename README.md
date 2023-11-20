@@ -79,6 +79,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 6 | [SubManager](https://getsubmanager.app) | Track your subscriptions in one place and get notified when a renewal is due. Available for iPhone, iPad, Apple Watch and Mac. | 30% off SubManager+ and 20% off SubManager+ Family for lifetime | Nov 20th - Nov 27th |
 | 7 | [Joblee](https://apps.apple.com/us/app/joblee-job-journey-organizer/id6443858304) | Joblee is designed to make your job search process simpler and more efficient. | 53% off with code BLACKFRIDAY2023 for the first year | Nov 17st - Nov 24th |
 | 8 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. | **50%** off with code **BLACKFRIDAY_2023** for the lifetime | Nov 15st - Dec 2th |
+| 9 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything you copy across your Mac and iOS devices. | **30%** off first year on all devices |  |
 | 9 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) | Nov 20 - Nov 27 |
 
 ## Developer Tools
@@ -196,6 +197,9 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [24 Page Notion Professional Resume, Cover Letter & References Bundle](https://unapologeticih.gumroad.com/l/ricnv) | 7 x Professional Resumes, 7 x Cover Letters, 7 x References List, 1 x Application Documents Repository, 1 x Job Application Checklist & 1 x Cover Letter & References Checklist. | 65% OFF. Lifetime Access and Updates. Coupon Code:65OFF  | 11-09-2023 - 12-31-2023 |
 | 4 | [UnderDefense Cybersecurity](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023) | UnderDefense MAXI provides Managed Detection and Response (MDR/XDR), Penetration testing, Managed SIEM, Dark Web Monitoring, External Attack Surface Management and Security Compliance. | 25% discount on best-selling cybersecurity services and Security-as-a-Service platform. | 11-09-2023 - 12-05-2023 |
 | 5 | [BoilerCode](https://www.boilercode.co?ref=twf-nikhila) | BoilerCode is a catalog of SaaS boilerplates to help you ship your next product super fast. Currently, BoilerCode has Boilerplates for NextJs SaaS, React, and Chrome Extension. | 50% OFF on all plans. Coupon Code: 50FRIDAY | 11-11-2023 - 11-27-2023 |
+| 6 | [SOCRadar](https://socradar.io/plan-pricing/) | Dark Web Radar by SOCRadar, offers cutting-edge surveillance of the dark web. Perfect for businesses seeking robust their cybersecurity. Comprehensive monitoring ability of SOCRadar ensures you are aware of emerging cyber threats. | Dark Web Radar: Business 25% OFF. Use Code: BLACKFRIDAY | Offer Period: 11-20-2023 to 15-12-2023 |
+
+
 
 # Other places to list Black Friday Deals:
 1. [indiegoodies](https://indiegoodies.com/blackfriday)
