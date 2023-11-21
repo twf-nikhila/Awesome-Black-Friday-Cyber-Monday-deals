@@ -143,6 +143,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [Hirevire](https://hirevire.com/) | Hirevire's automated screening software lets you collect video, audio and file responses from candidates. Stop wasting time on candidates you'll never hire. | 50% Off on new subscriptions with BlackFriday50Off | 11-13-2023 - 11-30-2023 |
 | 8 | [ShiftApp Shift Planning](https://shiftapp.com/) | Shift Planning and Employee Scheduling Software - simple and easy to use on Web and Mobile. | 77% OFF for SEVEN MONTHS with code BLACKFRIDAY2023 | 11-17-2023 - 11-30-2023 |
 | 9 | [Linktopus](https://linktopus.co/) | Your own page. All your links and information in one place. Ready in minutes. | Lifetime access for $30 | 11-21-2023 - 11-30-2023 |
+| 10 | [TurboCast](https://turbocast.io/) | TurboCast is the easiest way to start, grow, and monetize your podcast. | 50% OFF FOREVER - No Coupon Needed | 11-21-2023 - 11-30-2023 |
 
 ## Themes & Design Resource
 
