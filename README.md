@@ -83,7 +83,13 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 10 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) | Nov 20 - Nov 27 |
 | 11 | [Tower](https://www.git-tower.com/) |Powerful Git client for Mac and Windows | 50% off (automatic) | Nov 20 - Dec 3rd |
 | 12 | [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755) |An intuitive Habit tracker with interactive widgets. | 50% OFF HabitLoop Pro (Lifetime) | Nov 24 - Nov 28 |
-| 13 | [ActiveDock 2](https://noteifyapp.com/activedock/) |Customizable Dock for Mac | 50% OFF [ActiveDock](https://sites.fastspring.com/noteifyapp/product/activedock2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 13 | [ActiveDock](https://noteifyapp.com/activedock/) |Customizable Dock for Mac | [40% OFF ActiveDock](https://sites.fastspring.com/noteifyapp/product/activedock2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 14 | [DockView](https://noteifyapp.com/dockview/) |Windows Preview for Mac. | [40% OFF DockView](https://sites.fastspring.com/noteifyapp/product/buydockview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 15 | [Plus AI](https://noteifyapp.com/plus-ai/) |Plus AI: Your AI text assistant. | [40% OFF Plus AI](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 16 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) |Keyboard-centric application and window switcher for your Mac. | [40% OFF Command-Tab Plus 2](https://sites.fastspring.com/noteifyapp/product/commandtabplus2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 17 | [Tab Finder](https://noteifyapp.com/tab-finder/) |A list of all your open tabs across all browser windows in one place. | [40% OFF Tab Finder](https://sites.fastspring.com/noteifyapp/product/tabfinder?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 18 | [Quick Exposé](https://noteifyapp.com/quick-expose/)| Enhancing macOS Navigation Using Mission Control. | [40% OFF Quick Exposé](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 19 | [Stage View](https://noteifyapp.com/stage-view/)| Stage View is a utility app that adds a preview of the windows in the group in the macOS Ventura Stage Manager app. | [40% OFF Stage View](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
 
 ## Developer Tools
 
