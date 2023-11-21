@@ -142,6 +142,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [Jotform](https://www.jotform.com/) | Jotform is a powerful online form builder that makes it easy to create robust forms and collect important data. Trusted by over 20M users worldwide, such as nonprofits, educational institutions, small businesses, and enterprises, Jotform is a gateway to gathering better information to propel your business. | 50% off on all yearly plans. | 11-13-2023 - 11-29-2023 |
 | 8 | [Hirevire](https://hirevire.com/) | Hirevire's automated screening software lets you collect video, audio and file responses from candidates. Stop wasting time on candidates you'll never hire. | 50% Off on new subscriptions with BlackFriday50Off | 11-13-2023 - 11-30-2023 |
 | 8 | [ShiftApp Shift Planning](https://shiftapp.com/) | Shift Planning and Employee Scheduling Software - simple and easy to use on Web and Mobile. | 77% OFF for SEVEN MONTHS with code BLACKFRIDAY2023 | 11-17-2023 - 11-30-2023 |
+| 9 | [Linktopus](https://linktopus.co/) | Your own page. All your links and information in one place. Ready in minutes. | Lifetime access for $30 | 11-21-2023 - 11-30-2023 |
 
 ## Themes & Design Resource
 
