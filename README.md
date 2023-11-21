@@ -120,6 +120,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 4 | [AppSecEngineer - Hands-on Security Training Platform for Secure Coding, DevSecOps, Cloud Security, Kubernetes Security and more](https://appsecengineer.com) | AppSecEngineer is a hands-on training platform for you to learn AppSec, AWS, Azure and GCP Security, DevSecOps, Kubernetes Security and Security Architecture. | 25% discount on all personal and business annual plans. Coupon code: **PUMPKINPIE25** | 11-12-2023 - 11-30-2023 |
 | 5 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% FLAT discount. Coupon code: **BLACKFRIDAY23** | Starts 11/20/2023 8:00 AM PST - Expires 11/25/2023 8:00 AM PST |
 | 6 | [Find your Following](https://bootstrappedfounder.gumroad.com/l/findyourfollowing/BFF) by Arvid Kahl | Stop chasing growth hacks. Grow an authentic Twitter presence with intentional relationships and a following that trusts and respects you. | 50% OFF with code **BFF**. Coupon Code: BFF | 11-18-2023 - 11-30-2023 |
+| 7 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% OFF with code **BLACK**.  | 11-18-2023 - 11-30-2023 |
 
 
 ## Newsletter & Communities
