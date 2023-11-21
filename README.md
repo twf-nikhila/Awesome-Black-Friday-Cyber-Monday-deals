@@ -83,7 +83,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 10 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) | Nov 20 - Nov 27 |
 | 11 | [Tower](https://www.git-tower.com/) |Powerful Git client for Mac and Windows | 50% off (automatic) | Nov 20 - Dec 3rd |
 | 12 | [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755) |An intuitive Habit tracker with interactive widgets. | 50% OFF HabitLoop Pro (Lifetime) | Nov 24 - Nov 28 |
-| 13 | [ActiveDock](https://noteifyapp.com/activedock/) |Customizable Dock for Mac | 50% OFF [ActiveDock](https://sites.fastspring.com/noteifyapp/product/activedock2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 13 | [ActiveDock 2](https://noteifyapp.com/activedock/) |Customizable Dock for Mac | 50% OFF [ActiveDock](https://sites.fastspring.com/noteifyapp/product/activedock2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
 
 ## Developer Tools
 
