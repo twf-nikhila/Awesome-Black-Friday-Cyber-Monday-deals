@@ -82,6 +82,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 9 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything you copy across your Mac and iOS devices. | **30%** off first year on all devices |  |
 | 10 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) | Nov 20 - Nov 27 |
 | 11 | [Tower](https://www.git-tower.com/) |Powerful Git client for Mac and Windows | 50% off (automatic) | Nov 20 - Dec 3rd |
+| 12 | [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755) |An intuitive Habit tracker with interactive widgets. | 50% OFF HabitLoop Pro (Lifetime) | Nov 24 - Nov 28 |
 
 ## Developer Tools
 
