@@ -82,6 +82,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 9 | [Paste](https://pasteapp.io) | Endless clipboard: keep, search, and organize everything you copy across your Mac and iOS devices. | **30%** off first year on all devices |  |
 | 10 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) | Nov 20 - Nov 27 |
 | 11 | [Tower](https://www.git-tower.com/) |Powerful Git client for Mac and Windows | 50% off (automatic) | Nov 20 - Dec 3rd |
+| 12 | [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755) |An intuitive Habit tracker with interactive widgets. | 50% OFF HabitLoop Pro (Lifetime) | Nov 24 - Nov 28 |
 
 ## Developer Tools
 
@@ -140,7 +141,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 6 | [	Gumlet Video](https://www.gumlet.com/) | Gumlet Video is a complete video hosting platform to securely host, optimize, and stream videos with in-depth analytics built in. Manage videos with an intuitive CMS, customize the video player with your branding, and protect your video assets from piracy and theft. Control every aspect of the end-user video experience and run your streaming pipeline on autopilot with Gumlet. | This is a Vimeo Alternative Lifetime Deal running on AppSumo, available in 5 different tiers of licensing depending upon the bandwidth and usage, [starting from $59](https://www.gumlet.com/appsumo-video-blackfriday/?utm_source=Github&utm_medium=Listicle&utm_campaign=Black_Friday_Gumlet_23). Get a chance to win the highest tier for free by pre-registering. | 11-19-2023 - 11-29-2023 |
 | 7 | [Jotform](https://www.jotform.com/) | Jotform is a powerful online form builder that makes it easy to create robust forms and collect important data. Trusted by over 20M users worldwide, such as nonprofits, educational institutions, small businesses, and enterprises, Jotform is a gateway to gathering better information to propel your business. | 50% off on all yearly plans. | 11-13-2023 - 11-29-2023 |
 | 8 | [Hirevire](https://hirevire.com/) | Hirevire's automated screening software lets you collect video, audio and file responses from candidates. Stop wasting time on candidates you'll never hire. | 50% Off on new subscriptions with BlackFriday50Off | 11-13-2023 - 11-30-2023 |
-| 9 | [ShiftApp Shift Planning](https://shiftapp.com/) | Shift Planning and Employee Scheduling Software - simple and easy to use on Web and Mobile. | 77% OFF for SEVEN MONTHS with code BLACKFRIDAY2023 | 11-17-2023 - 11-30-2023 |
+| 8 | [ShiftApp Shift Planning](https://shiftapp.com/) | Shift Planning and Employee Scheduling Software - simple and easy to use on Web and Mobile. | 77% OFF for SEVEN MONTHS with code BLACKFRIDAY2023 | 11-17-2023 - 11-30-2023 |
+| 9 | [Linktopus](https://linktopus.co/) | Your own page. All your links and information in one place. Ready in minutes. | Lifetime access for $30 | 11-21-2023 - 11-30-2023 |
 | 10 | [TurboCast](https://turbocast.io/) | TurboCast is the easiest way to start, grow, and monetize your podcast. | 50% OFF FOREVER - No Coupon Needed | 11-21-2023 - 11-30-2023 |
 
 ## Themes & Design Resource
@@ -172,6 +174,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [QR Diffusion](	https://qrdiffusion.com/) | Elevate your QR codes with QR Diffusion. Craft art-infused QR codes with ease using pre-made templates or advanced customization. The perfect QR code, just moments away! | Enjoy a 50% discount for the first two months or the entire year when choosing an annual plan. Coupon code: BFCM2023 | 11-12-2023 - 12-01-2023 |
 | 4 | [Clevis](https://clevis.app) | Build AI powered apps and automation flows without code. Get 25% off the first month with code **BLACK**. | 11-16-2023 - 11-30-2023 |
 | 5 | [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code HOLIDAY2023 | 11-20-2023 - 12-31-2023 |
+| 6 | [BoltAI](https://boltai.com?ref=bfdeals) - A beautiful & powerful ChatGPT app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
+| 7 | [PDF Pals](https://pdfpals.com?ref=bfdeals) - Native ChatPDF app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
 
 ## Marketplaces
 
