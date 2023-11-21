@@ -171,6 +171,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [QR Diffusion](	https://qrdiffusion.com/) | Elevate your QR codes with QR Diffusion. Craft art-infused QR codes with ease using pre-made templates or advanced customization. The perfect QR code, just moments away! | Enjoy a 50% discount for the first two months or the entire year when choosing an annual plan. Coupon code: BFCM2023 | 11-12-2023 - 12-01-2023 |
 | 4 | [Clevis](https://clevis.app) | Build AI powered apps and automation flows without code. Get 25% off the first month with code **BLACK**. | 11-16-2023 - 11-30-2023 |
 | 5 | [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code HOLIDAY2023 | 11-20-2023 - 12-31-2023 |
+| 6 | [BoltAI](https://boltai.com?ref=bfdeals) - A beautiful & powerful ChatGPT app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
+| 7 | [PDF Pals](https://pdfpals.com?ref=bfdeals) - Native ChatPDF app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
 
 ## Marketplaces
 
