@@ -83,15 +83,25 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 10 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) | Nov 20 - Nov 27 |
 | 11 | [Tower](https://www.git-tower.com/) |Powerful Git client for Mac and Windows | 50% off (automatic) | Nov 20 - Dec 3rd |
 | 12 | [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755) |An intuitive Habit tracker with interactive widgets. | 50% OFF HabitLoop Pro (Lifetime) | Nov 24 - Nov 28 |
-| 13 | [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) | The most User-Friendly 3D Scanning app with over 2M downloads! | Enjoy 50% Off on Premium Upgrade | Nov 21 - Nov 28 |
+| 13 | [ActiveDock](https://noteifyapp.com/activedock/) |Customizable Dock for Mac | [40% OFF ActiveDock](https://sites.fastspring.com/noteifyapp/product/activedock2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 14 | [DockView](https://noteifyapp.com/dockview/) |Windows Preview for Mac. | [40% OFF DockView](https://sites.fastspring.com/noteifyapp/product/buydockview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 15 | [Plus AI](https://noteifyapp.com/plus-ai/) |Plus AI: Your AI text assistant. | [40% OFF Plus AI](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 16 | [Command-Tab Plus 2](https://noteifyapp.com/command-tab-plus/) |Keyboard-centric application and window switcher for your Mac. | [40% OFF Command-Tab Plus 2](https://sites.fastspring.com/noteifyapp/product/commandtabplus2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 17 | [Tab Finder](https://noteifyapp.com/tab-finder/) |A list of all your open tabs across all browser windows in one place. | [40% OFF Tab Finder](https://sites.fastspring.com/noteifyapp/product/tabfinder?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 18 | [Quick Exposé](https://noteifyapp.com/quick-expose/)| Enhancing macOS Navigation Using Mission Control. | [40% OFF Quick Exposé](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 19 | [Stage View](https://noteifyapp.com/stage-view/)| Stage View is a utility app that adds a preview of the windows in the group in the macOS Ventura Stage Manager app. | [40% OFF Stage View](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
+| 20 | [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) | The most User-Friendly 3D Scanning app with over 2M downloads! | Enjoy 50% Off on Premium Upgrade | Nov 21 - Nov 28 |
 
 ## Developer Tools
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Statused — Receive your apps’ review and TestFlight status on Slack](https://statused.com/?ref=github_awesome) | Statused notifies your team when your app is reviewed by Apple or Google and changes status, and when it's ready to be tested on TestFlight. Forget about 'Is the app live yet?' | 50% OFF during the first 3 months using exclusive coupon `BLKFRD-AWESOME` | 11-03-2023 - 11-28-2023 |
-| 2 | [Volca SaaS Starter Kit](https://volca.io) | SaaS Starter Kit with Node.js, React and TypeScript. Launch faster with authentication, subscriptions, CI/CD and more. 25% off with code `BLACK` | 11-16-2023 - 11-30-2023 |
-| 3 | [Checkbot](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. 50% off first year of yearly plan with code `NOV23` | 11-16-2023 - 12-01-2023 |
+| 2 | [Volca SaaS Starter Kit](https://volca.io) | SaaS Starter Kit with Node.js, React and TypeScript. Launch faster with authentication, subscriptions, CI/CD and more. | 25% off with code `BLACK` | 11-16-2023 - 11-30-2023 |
+| 3 | [Checkbot](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. | 50% off first year of yearly plan with code `NOV23` | 11-16-2023 - 12-01-2023 |
+| 4 | [GrayGrids](https://graygrids.com/?ref=Github_Vinish) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` | 16 Nov - 27 Nov|
+| 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+
 
 
 ## Books
@@ -145,6 +155,9 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [ShiftApp Shift Planning](https://shiftapp.com/) | Shift Planning and Employee Scheduling Software - simple and easy to use on Web and Mobile. | 77% OFF for SEVEN MONTHS with code BLACKFRIDAY2023 | 11-17-2023 - 11-30-2023 |
 | 9 | [Linktopus](https://linktopus.co/) | Your own page. All your links and information in one place. Ready in minutes. | Lifetime access for $30 | 11-21-2023 - 11-30-2023 |
 | 10 | [TurboCast](https://turbocast.io/) | TurboCast is the easiest way to start, grow, and monetize your podcast. | 50% OFF FOREVER - No Coupon Needed | 11-21-2023 - 11-30-2023 |
+| 11 | [YouTube Comments Downloader](https://youtubecommentsdownloader.com/) | Download thousands of YouTube comments in minutes, saving yourself hours of manual work | [Multiple discounts up to 70% off](https://youtubecommentsdownloader.com/black-friday) | 11-17-2023 - 11-30-2023 |
+| 12 | [Security For Everyone](https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off) | Our platform offers cyber security services for everyone. We created an easy-to-use, affordable and manageable cyber security platform with the belief that cyber security is a human right. | 50% off with code: BlackFriday50 | 11-21-2023 - 12-30-2023 |
+| 13 | [Digrin](https://www.digrin.com/) | Dividend tracker for stock/etf investors | 30% OFF with BLACKFRIDAY2023 | 11-21-2023 - 11-25-2023 |
 
 ## Themes & Design Resource
 
@@ -152,6 +165,19 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. | 40% OFF with code BLACKFRIDAY2023 | 11-20-2023 - 12-01-2023 |
 | 2 | [Wpmet](https://wpmet.com) | Wpmet is a prominent brand that has developed iconic WordPress products, including ElementsKit, MetForm, ShopEngine, and WP Social. These versatile products help millions of WordPress users extend the functionalities of their websites. Indulge in a spectacular 40% Black Friday discount on all premium plugins from Wpmet. Seize the finest deal of the year! | Indulge in a spectacular 40% Black Friday discount on all premium plugins from Wpmet. Seize the finest deal of the year! | 11-22-2023 - 12-05-2023 |
+| 3 | [LineIcons](https://lineicons.com/) | 8400+ Line Icons for Designers and Developers with Free CDN, Multiple Variations, Icon Editor and More. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 4 | [TailGrids](https://tailgrids.com/) | 500+ Ready to use Tailwind CSS UI Components, Blocks, Sections, and Templates. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 5 | [Ayro UI](https://ayroui.com/) | Bootstrap HTML5 UI Library, Snippets, Components and Toolkit for Creating Fast - Landing Pages, Templates, or Websites by Copy-Pasting Blocks. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 6 | [PlainAdmin](https://plainadmin.com/) | PlainAdmin is a Bootstrap 5-based vanilla JS multipurpose admin template that comes with - all essential dashboard components and pages. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 7 | [TailAdmin](https://tailadmin.com/) | TailAdmin is a Tailwind CSS-based Admin Dashboard Template, that provides developers with everything need to create a complete, data-driven back-end, dashboard, or admin panel solution. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 8 | [UiDeck](https://uideck.com/templates/all-access/) | 100+ Tailwind CSS & Bootstrap Web Templates, and UI Kits. | 50% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 9 | [NexJSTemplate](https://nextjstemplates.com/all-access) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 10 | [TailwindTemplates](https://tailwindtemplates.co/all-access) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+
+
+
+
+
 
 ## Plugins
 
