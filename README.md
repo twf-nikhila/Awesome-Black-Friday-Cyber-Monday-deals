@@ -83,6 +83,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 10 | [Sensei](https://cindori.com/sensei) | Maximise your Mac performance (macOS). Disk cleaner, performance dashboard, status bar monitor & more. | 50% off (automatic) | Nov 20 - Nov 27 |
 | 11 | [Tower](https://www.git-tower.com/) |Powerful Git client for Mac and Windows | 50% off (automatic) | Nov 20 - Dec 3rd |
 | 12 | [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755) |An intuitive Habit tracker with interactive widgets. | 50% OFF HabitLoop Pro (Lifetime) | Nov 24 - Nov 28 |
+| 13 | [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) | The most User-Friendly 3D Scanning app with over 2M downloads! | Enjoy 50% Off on Premium Upgrade | Nov 21 - Nov 28 |
 
 ## Developer Tools
 
