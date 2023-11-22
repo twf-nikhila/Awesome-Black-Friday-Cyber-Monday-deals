@@ -33,7 +33,7 @@ I spent a few hours, with community, every day updating this repository to help 
 
 DM me on [Twitter](https://twitter.com/HeyNikhila) or Email (nikhil_agrawal at live dot com) to sponsor
 
-1. **Why sponsor?:** Get special highlight at the top, which brings visitors' immediate attention to your product. More visitors mean more sales. 
+1. **Why sponsor?:** Get special highlight at the top, which brings visitors' immediate attention to your product. More visitors mean more sales.
 2. **What do I get as a sponsor?:** Special highlight at the top of this repository. With brand/product logo, Caption, Sub-heading & link to the product. This will definitely help to attract more visitors/customers to your product.
 3. **Sponsorship cost & duration:** Cost is [$75 for 1 year](https://www.paypal.com/paypalme/NikhilAgrawal/75usd). Meaning this year's sponsor will be changed 1 week before next black friday. For more info contact me in nikhil_agrawal at live dot com
 4. **Limited 5 sponsors only**
@@ -60,7 +60,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 **[Practical DevSecOps](https://www.practical-devsecops.com/black-friday/)**
 
-*Practical DevSecOps training and certification, learn DevSecOps, Kubernetes Security, Container Security, API Security, and Threat Modeling.*<br /> 
+*Practical DevSecOps training and certification, learn DevSecOps, Kubernetes Security, Container Security, API Security, and Threat Modeling.*<br />
 **(15% off all courses, save USD 180 or more, discounts applied automatically) - <br /> *🌟 100's of 5-star reviews***
 
 ***
@@ -91,6 +91,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 18 | [Quick Exposé](https://noteifyapp.com/quick-expose/)| Enhancing macOS Navigation Using Mission Control. | [40% OFF Quick Exposé](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
 | 19 | [Stage View](https://noteifyapp.com/stage-view/)| Stage View is a utility app that adds a preview of the windows in the group in the macOS Ventura Stage Manager app. | [40% OFF Stage View](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
 | 20 | [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) | The most User-Friendly 3D Scanning app with over 2M downloads! | Enjoy 50% Off on Premium Upgrade | Nov 21 - Nov 28 |
+| 21 | [Blade Mail](https://blademail.app) | Desktop App for Email Testing locally| Enjoy 50% Off code **BLACKFRIDAY** | Nov 21 - Nov 28 |
 
 ## Developer Tools
 
