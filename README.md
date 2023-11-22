@@ -101,6 +101,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Checkbot](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. | 50% off first year of yearly plan with code `NOV23` | 11-16-2023 - 12-01-2023 |
 | 4 | [GrayGrids](https://graygrids.com/?ref=Github_Vinish) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` | 16 Nov - 27 Nov|
 | 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 6 | [Gitonium Git Client](https://gitonium.com) | Have AI generate your commit messages | 50% off on the Mac App Store | 20 Nov - 30 Nov |
+
 
 
 
