@@ -174,6 +174,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [UiDeck](https://uideck.com/templates/all-access/) | 100+ Tailwind CSS & Bootstrap Web Templates, and UI Kits. | 50% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 9 | [NexJSTemplate](https://nextjstemplates.com/all-access) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 10 | [TailwindTemplates](https://tailwindtemplates.co/all-access) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 11 | [Horizon UI](https://www.horizon-ui.com/campaign) | The trendiest Premium Admin Dashboard Template for React, Chakra UI, NextJS, Tailwind CSS & Figma. | Up to 53% OFF |
 
 
 
@@ -204,7 +205,9 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code HOLIDAY2023 | 11-20-2023 - 12-31-2023 |
 | 6 | [BoltAI](https://boltai.com?ref=bfdeals) - A beautiful & powerful ChatGPT app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
 | 7 | [PDF Pals](https://pdfpals.com?ref=bfdeals) - Native ChatPDF app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
-| 7 | [superwhisper](https://superwhisper.com?ref=bfdeals) - AI powered voice to text for macOS - offline, fast, secure. 40% off with promo code **BLACKFRIDAY40**
+| 8 | [superwhisper](https://superwhisper.com?ref=bfdeals) - AI powered voice to text for macOS - offline, fast, secure. 40% off with promo code **BLACKFRIDAY40**
+| 9 | [Horizon AI Template](https://www.horizon-ui.com/ai-template) | The best React NextJS AI ChatGPT Website Template designed for responsive projects including AI Image Generation Apps, Chatbots, AI Research, and AI Content Writing Apps. | Up to 53% OFF |
+| 10 | [Essay Builder AI](https://essay-builder.ai) | Best Free Essay Maker, Writer & Generator for Students powered by AI | 88% OFF (lifetime) and up to 68% OFF the other subscriptions! |
 
 ## Marketplaces
 
