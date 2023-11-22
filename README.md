@@ -91,6 +91,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 18 | [Quick Exposé](https://noteifyapp.com/quick-expose/)| Enhancing macOS Navigation Using Mission Control. | [40% OFF Quick Exposé](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
 | 19 | [Stage View](https://noteifyapp.com/stage-view/)| Stage View is a utility app that adds a preview of the windows in the group in the macOS Ventura Stage Manager app. | [40% OFF Stage View](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
 | 20 | [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) | The most User-Friendly 3D Scanning app with over 2M downloads! | Enjoy 50% Off on Premium Upgrade | Nov 21 - Nov 28 |
+| 21 | [Focused Work](https://focusedwork.app) | A powerful timer that helps you focus and be productive. | 50% off Yearly/Monthly | Nov 23 - Nov 28 |
+| 22 | [Ochi](https://ochithe.app) | Block distracting apps & websites on all devices. | 50% off Yearly/Monthly | Nov 23 - Nov 28 |
 
 ## Developer Tools
 
