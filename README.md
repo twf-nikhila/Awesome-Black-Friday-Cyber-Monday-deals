@@ -234,7 +234,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 4 | [UnderDefense Cybersecurity](https://underdefense.com/black-friday-2023/?utm_source=github.com&utm_medium=online_media&utm_campaign=black_friday_2023) | UnderDefense MAXI provides Managed Detection and Response (MDR/XDR), Penetration testing, Managed SIEM, Dark Web Monitoring, External Attack Surface Management and Security Compliance. | 25% discount on best-selling cybersecurity services and Security-as-a-Service platform. | 11-09-2023 - 12-05-2023 |
 | 5 | [BoilerCode](https://www.boilercode.co?ref=twf-nikhila) | BoilerCode is a catalog of SaaS boilerplates to help you ship your next product super fast. Currently, BoilerCode has Boilerplates for NextJs SaaS, React, and Chrome Extension. | 50% OFF on all plans. Coupon Code: 50FRIDAY | 11-11-2023 - 11-27-2023 |
 | 6 | [SOCRadar](https://socradar.io/plan-pricing/) | Dark Web Radar by SOCRadar, offers cutting-edge surveillance of the dark web. Perfect for businesses seeking robust their cybersecurity. Comprehensive monitoring ability of SOCRadar ensures you are aware of emerging cyber threats. | Dark Web Radar: Business 25% OFF. Use Code: BLACKFRIDAY | Offer Period: 11-20-2023 to 15-12-2023 |
-
+| 7 | [VPS2day](https://www.vps2day.com/pricing?mtm_campaign=black-friday-2023&mtm_source=github&mtm_cid=twf-nikhila-awesome-black-friday-cyber-monday-deals) | VPS2day is a prepaid virtual private root server (VPS) hosting provider. An own server is great for self-hosted open source apps, your pesonal and dedicated VPN, for hosting bots or crawlers or simply your own blog or website. | 3 special VPS types with up to 73% discount (lifetime) | 2023-11-24 - 2023-11-27 |
 
 
 # Other places to list Black Friday Deals:
