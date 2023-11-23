@@ -101,8 +101,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Checkbot](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. | 50% off first year of yearly plan with code `NOV23` | 11-16-2023 - 12-01-2023 |
 | 4 | [GrayGrids](https://graygrids.com/?ref=Github_Vinish) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` | 16 Nov - 27 Nov|
 | 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
-| 6 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_nikhil) | Make customized Next.js boilerplates & deploy to Vercel with a click. | 50% on yearly plans with Discount code **`BF2023`** | Valid till 26th Nov
-| 7 | [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_nikhil) | Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. | 75% off auto-applied on all packages | Valid till 31st Dec, 2023 |
+
 
 
 ## Books
@@ -141,8 +140,6 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 1 | [HoneyPot - 1100+ Beehiiv Newsletter Database](https://unapologeticih.gumroad.com/l/ejsmjv) | ✓ Airtable database of 1100+ newsletters, links, social accounts to connect with creators & 100s of Filterable categories including Startups, SaaS, Founders, Creators & more. | 50% OFF. Lifetime Access and Updates. Coupon Code:50BEEHIIV | 11-09-2023 - 12-31-2023 |
 | 2 | [GhostHunt - 1900+ Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | ✓ Airtable databases (Vol. 1 & 2) that give you 1900+ newsletters, includes titles, Member Count Brackets, descriptions and links to help you connect with creators & Filterable categories including Business, Tech, Productivity & more. | 50% OFF. Lifetime Access and Updates. Coupon Code:50GHOST  | 11-09-2023 - 12-31-2023 |
 | 3 | [SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | ✓ Airtable databases including details such as Description, URL, Member Count, Creator, Categories, Links & filterable categories include Startup, AI, Entrepreneurship, Solopreneur, Tech and more. | 50% OFF. Lifetime Access and Updates. Coupon Code:50SUBSTACK  | 11-09-2023 - 12-31-2023 |
-| 4 | [Indie Masterminds](https://indiemasterminds.com/?ref=black_friday_deals_by_nikhil) | Tight knit community of indie founders. Private slack with 90+ members, premium courses, sprints and more. | 20% off on lifetime or annual plan with the code **`BFCM23`** | Valid till 27th Nov, 2023 |
-| 5 | [BoringCashCow](https://boringcashcow.com/?ref=black_friday_deals_by_nikhil) | Discover Boring Businesses that Quietly Rake in the Cash Home. | 30% off with code **`godalRdf`** | Valid till 27th Nov, 2023 |
 
 ## SaaS Software
 
@@ -208,9 +205,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 6 | [BoltAI](https://boltai.com?ref=bfdeals) - A beautiful & powerful ChatGPT app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
 | 7 | [PDF Pals](https://pdfpals.com?ref=bfdeals) - Native ChatPDF app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
 | 8 | [superwhisper](https://superwhisper.com?ref=bfdeals) - AI powered voice to text for macOS - offline, fast, secure. 40% off with promo code **BLACKFRIDAY40**
-| 9 | [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_nikhil) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** | Valid till 30th Nov |
-| 10 | [Elephas](https://elephas.app/?ref=black_friday_deals_by_nikhil) | Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. | 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** | Valid till 27th Nov, 2023 |
-
+| 9 | [StealthGPT](https://stealthgpt.ai/?ref=black_friday_deals_by_nikhil) | Create or Remake AI Generated Content to be Undetectable. | Code: **`BlackFriday`**, 90% off first month | Valid till 27th Nov, 2023 |
+| 10 | [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_nikhil) | Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. | 51% off on all plans. code: **`BLF51`** | Valid till 27th Nov, 2023 |
 
 ## Marketplaces
 
@@ -229,6 +225,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [35+ Page Client Welcome Pack ULTIMATE BUNDLE](https://unapologeticih.gumroad.com/l/gahbf) | A Notion pack with 35+ pages of a variety of customizable templates to help you define all the details of the projects you're ready to work on for your new clients. | 50% OFF. Lifetime Access and Updates. Coupon Code:50OFFPACK  | 11-09-2023 - 12-31-2023 |
 | 6 | [PushAlert - Web Push Notifications](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=twf-nikhila) | PushAlert is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | 30% OFF on All Annual Plans. Coupon Code: Not Required  | 11-12-2023 - 12-02-2023 |
 | 7 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intuitive and intelligent tools for App Store Optimization and competitor intelligence from Appfigures. | 50% OFF for 12 months. Coupon Code: BF2350S  | 11-20-2023 - 11-24-2023 |
+| 8 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.highperformr.ai//?ref=black_friday_deals_by_nikhil) | Enhance your Twitter presence with Highperformr. Features include Twitter Analytics, CRM, audience building, tweet scheduling, and more. | Enjoy a 50% discount. No code needed, the discount auto-applies at checkout. | Valid till 28th Nov, 2023 |
+
 
 ## Others
 
