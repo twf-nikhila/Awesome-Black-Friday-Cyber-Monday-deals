@@ -205,6 +205,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 6 | [BoltAI](https://boltai.com?ref=bfdeals) - A beautiful & powerful ChatGPT app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
 | 7 | [PDF Pals](https://pdfpals.com?ref=bfdeals) - Native ChatPDF app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
 | 7 | [superwhisper](https://superwhisper.com?ref=bfdeals) - AI powered voice to text for macOS - offline, fast, secure. 40% off with promo code **BLACKFRIDAY40**
+| 8 | [ChatDB](https://chatdb.ai) - Never write a SQL query again. Query your Postgres databases using AI and natural conversation. Get 20% off your subscription with promo code **FRIYAY**
 
 ## Marketplaces
 
