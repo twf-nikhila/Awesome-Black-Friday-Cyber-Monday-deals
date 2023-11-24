@@ -227,6 +227,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 11 | [Horizon AI Template](https://www.horizon-ui.com/ai-template) | The best React NextJS AI ChatGPT Website Template designed for responsive projects including AI Image Generation Apps, Chatbots, AI Research, and AI Content Writing Apps. | Up to 53% OFF |
 | 12 | [Essay Builder AI](https://essay-builder.ai) | Best Free Essay Maker, Writer & Generator for Students powered by AI | 88% OFF (lifetime) and up to 68% OFF the other subscriptions! |
 | 13 | [MindMac](https://mindmac.app) | Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter and any local LLMs all in one place, designed for maximum productivity. | 55% OFF on all plans with code `BLACKFRIDAY` | Nov 22 - Nov 30, 2023|
+| 14 | [PDFPeer](https://pdfpeer.com) | Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Ask questions, get summaries, find things quickly, and lots more. | PDFPeer: Get 50% off on all unlimited plans. Use code: BF50 | 11-20-2023 - 12-02-2023
 
 ## Marketplaces
 
