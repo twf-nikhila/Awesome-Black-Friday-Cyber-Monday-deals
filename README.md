@@ -177,6 +177,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 14 | [CustomerPing.ai](https://customerping.ai/) | Get new customers while you sleep: This AI listens to online audiences and alerts you when *they* discuss the problems that *your business* could solve! | 42% OFF with code **BLACKFRIDAY** | 11-21-2023 - 11-28-2023 |
 | 15 | [WishKit](https://www.wishkit.io/) | Collect and analyze product feedback and feature requests in one place. | 50% OFF with BLACKFRIDAY23 | 11-22-2023 - 11-27-2023 |
 | 16 | [Jumpstart Pro](https://jumpstartrails.com/pricing) | If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license. | 11-20-2023 - 11-28-2023 |
+| 17 | [Desku.io](https://desku.io/) | Empower Your Support with AI! Desku, the top alternative to Intercom and Zendesk, offers an AI-powered inbox for unparalleled customer support efficiency. Our platform blends the best features at a more affordable price, ensuring a seamless, effective support experience. Elevate your customer interactions with Desku's intuitive tools and advanced analytics. | Upgrade Now and Enjoy 35% OFF with Code **SAVE2023** | 11-11-2023 - 11-31-2023 |
 
 ## Themes & Design Resource
 
