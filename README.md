@@ -240,6 +240,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 14 | [PDFPeer](https://pdfpeer.com) | Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Ask questions, get summaries, find things quickly, and lots more. | PDFPeer: Get 50% off on all unlimited plans. Use code: BF50 | 11-20-2023 - 12-02-2023
 | 15 | [ChatDB](https://chatdb.ai) - Never write a SQL query again. Query your Postgres databases using AI and natural conversation. Get 20% off your subscription with promo code **FRIYAY**
 | 16 | [Editby](https://www.editby.ai/) | Create high-quality, unique SEO-optimized content, keeping your brand's style, monitoring your keywords and best content, and adding citations and references | 40% off (for 12 months) with code: **EDITBLACK23** |
+| 17 | [ChatNBX](https://chat.nbox.ai/) | ChatNBX is an AI chat application that helps users generate text, images, and code | 50% Off on our Plus subscription plan - Use promo code "BLACKFRIDAY50"| Nov 23 to Nov 28 |
 
 ## Marketplaces
 
