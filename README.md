@@ -112,7 +112,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 4 | [GrayGrids](https://graygrids.com/?ref=Github_Vinish) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` | 16 Nov - 27 Nov|
 | 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 6 | [Gitonium Git Client](https://gitonium.com) | Have AI generate your commit messages | 50% off on the Mac App Store | 20 Nov - 30 Nov |
-
+| 7 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | 30% OFF first payment with code `BF2023` | Nov 24 - Nov 30 |
 
 
 
