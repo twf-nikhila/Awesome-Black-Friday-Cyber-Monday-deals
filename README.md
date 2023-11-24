@@ -180,6 +180,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [UiDeck](https://uideck.com/templates/all-access/) | 100+ Tailwind CSS & Bootstrap Web Templates, and UI Kits. | 50% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 9 | [NexJSTemplate](https://nextjstemplates.com/all-access) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 10 | [TailwindTemplates](https://tailwindtemplates.co/all-access) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 11 | [RapidLaunch](https://rapidlaunch.it/#pricing) | Nuxt.js Boilerplate to deploy landing pages and monetize faster. Stop overthinking, start doing. | $154 off Lifetime Deal discount auto-applied | Nov21 - Nov 30|
 
 
 
