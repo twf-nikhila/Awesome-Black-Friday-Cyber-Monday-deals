@@ -93,6 +93,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 20 | [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) | The most User-Friendly 3D Scanning app with over 2M downloads! | Enjoy 50% Off on Premium Upgrade | Nov 21 - Nov 28 |
 | 21 | [WhisperUI](https://whisperui.com) | The most affordable Text-to-Speech and Speech-to-Text service. | Get 40% OFF using BLACKFRIDAY23 | 11-15-2023 - 12-06-2023 |
 | 22 | [SEO Utils](http://seoutils.app/) | A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23** | Nov 21 - Nov 28 |
+| 23 | [Itemlist - Home Inventory App](https://getitemlist.app) | Track and organize your items, never forget where you put something again, and be prepared for home contents insurance. | 50% off Lifetime PRO | Nov 20 - Dec 03 |
 
 ## Developer Tools
 
