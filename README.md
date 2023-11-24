@@ -245,6 +245,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 16 | [Editby](https://www.editby.ai/) | Create high-quality, unique SEO-optimized content, keeping your brand's style, monitoring your keywords and best content, and adding citations and references | 40% off (for 12 months) with code: **EDITBLACK23** |
 | 17 | [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_nikhil) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** | Valid till 30th Nov |
 | 18 | [Elephas](https://elephas.app/?ref=black_friday_deals_by_nikhil) | Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. | 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** | Valid till 27th Nov, 2023 |
+| 19 | [ChatNBX](https://chat.nbox.ai/) | ChatNBX is an AI chat application that helps users generate text, images, and code | 50% Off on our Plus subscription plan - Use promo code "BLACKFRIDAY50"| Nov 23 to Nov 28 |
 
 ## Marketplaces
 
