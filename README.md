@@ -103,6 +103,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Checkbot](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. | 50% off first year of yearly plan with code `NOV23` | 11-16-2023 - 12-01-2023 |
 | 4 | [GrayGrids](https://graygrids.com/?ref=Github_Vinish) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` | 16 Nov - 27 Nov|
 | 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 6 | [Gitonium Git Client](https://gitonium.com) | Have AI generate your commit messages | 50% off on the Mac App Store | 20 Nov - 30 Nov |
+
 
 
 
@@ -162,6 +164,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 12 | [Security For Everyone](https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off) | Our platform offers cyber security services for everyone. We created an easy-to-use, affordable and manageable cyber security platform with the belief that cyber security is a human right. | 50% off with code: BlackFriday50 | 11-21-2023 - 12-30-2023 |
 | 13 | [Digrin](https://www.digrin.com/) | Dividend tracker for stock/etf investors | 30% OFF with BLACKFRIDAY2023 | 11-21-2023 - 11-25-2023 |
 | 14 | [CustomerPing.ai](https://customerping.ai/) | Get new customers while you sleep: This AI listens to online audiences and alerts you when *they* discuss the problems that *your business* could solve! | 42% OFF with code **BLACKFRIDAY** | 11-21-2023 - 11-28-2023 |
+| 15 | [WishKit](https://www.wishkit.io/) | Collect and analyze product feedback and feature requests in one place. | 50% OFF with BLACKFRIDAY23 | 11-22-2023 - 11-27-2023 |
 
 ## Themes & Design Resource
 
@@ -178,6 +181,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 9 | [NexJSTemplate](https://nextjstemplates.com/all-access) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 10 | [TailwindTemplates](https://tailwindtemplates.co/all-access) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 11 | [Horizon UI](https://www.horizon-ui.com/campaign) | The trendiest Premium Admin Dashboard Template for React, Chakra UI, NextJS, Tailwind CSS & Figma. | Up to 53% OFF |
+| 12 | [RapidLaunch](https://rapidlaunch.it/#pricing) | Nuxt.js Boilerplate to deploy landing pages and monetize faster. Stop overthinking, start doing. | $154 off Lifetime Deal discount auto-applied | Nov21 - Nov 30|
 
 
 
@@ -232,7 +236,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 6 | [PushAlert - Web Push Notifications](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=twf-nikhila) | PushAlert is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | 30% OFF on All Annual Plans. Coupon Code: Not Required  | 11-12-2023 - 12-02-2023 |
 | 7 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intuitive and intelligent tools for App Store Optimization and competitor intelligence from Appfigures. | 50% OFF for 12 months. Coupon Code: BF2350S  | 11-20-2023 - 11-24-2023 |
 | 8 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.highperformr.ai//?ref=black_friday_deals_by_nikhil) | Enhance your Twitter presence with Highperformr. Features include Twitter Analytics, CRM, audience building, tweet scheduling, and more. | Enjoy a 50% discount. No code needed, the discount auto-applies at checkout. | Valid till 28th Nov, 2023 |
-
+| 9 | [TinyZap⚡️](https://www.tinyzap.com/) | TinyZap turns boring text links into interesting images that stand out on Twitter, LinkedIn, Facebook, and social posts | 50% OFF applied at checkout | 11-21-2023 - 11-30-2023 |
 
 ## Others
 
