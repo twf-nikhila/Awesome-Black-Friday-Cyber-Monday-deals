@@ -229,7 +229,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 6 | [PushAlert - Web Push Notifications](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=twf-nikhila) | PushAlert is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | 30% OFF on All Annual Plans. Coupon Code: Not Required  | 11-12-2023 - 12-02-2023 |
 | 7 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intuitive and intelligent tools for App Store Optimization and competitor intelligence from Appfigures. | 50% OFF for 12 months. Coupon Code: BF2350S  | 11-20-2023 - 11-24-2023 |
 | 8 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.highperformr.ai//?ref=black_friday_deals_by_nikhil) | Enhance your Twitter presence with Highperformr. Features include Twitter Analytics, CRM, audience building, tweet scheduling, and more. | Enjoy a 50% discount. No code needed, the discount auto-applies at checkout. | Valid till 28th Nov, 2023 |
-
+| 9 | [TinyZap⚡️](https://www.tinyzap.com/) | TinyZap turns boring text links into interesting images that stand out on Twitter, LinkedIn, Facebook, and social posts | 50% OFF applied at checkout | 11-21-2023 - 11-30-2023 |
 
 ## Others
 
