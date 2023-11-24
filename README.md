@@ -140,6 +140,10 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY23) | This course is designed to help you kick-start the journey of android pentesting with right tools and methodology. | 65% FLAT discount. Coupon code: **BLACKFRIDAY23** | Starts 11/20/2023 8:00 AM PST - Expires 11/25/2023 8:00 AM PST |
 | 6 | [Find your Following](https://bootstrappedfounder.gumroad.com/l/findyourfollowing/BFF) by Arvid Kahl | Stop chasing growth hacks. Grow an authentic Twitter presence with intentional relationships and a following that trusts and respects you. | 50% OFF with code **BFF**. Coupon Code: BFF | 11-18-2023 - 11-30-2023 |
 | 7 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% OFF with code **BLACK**.  | 11-18-2023 - 11-30-2023 |
+| 8 | [GoRails.com](https://gorails.com/pricing) | Get a yearly subscription to GoRails for just $144/year. That's only $12/mo to stay up-to-date with Hotwire, Rails 7, Ruby 3, and much more! | 36% OFF | 11-20-2023 - 11-28-2023 |
+| 9 | [Advanced Ruby: Behind the Magic](https://courses.gorails.com/advanced-ruby-for-rails-devs?coupon=GX2GK0G) | We cover 6+ hours of Ruby techniques used in Rails and other Rubygems to see how they work from scratch. | $50 OFF | 11-23-2023 - 11-28-2023 |
+| 10 | [Refactoring Rails](https://courses.gorails.com/refactoring-rails?coupon=GX2GK0G) | Ben Orenstein's Refactoring Rails course is one I refer back to several times a year. It's a great set of strategies for cleaning up and better organizing your code.| $50 OFF | 11-20-2023 - 11-28-2023 |
+| 11 | [Payments with Ruby on Rails Master Class](https://courses.gorails.com/payments-with-rails-master-class?coupon=GX2GK0G) | This course walks you through accepting Payments with Stripe that are compatible with Strong Customer Authentication, webhooks, and more.| $50 OFF | 11-20-2023 - 11-28-2023 |
 
 
 ## Newsletter & Communities
@@ -169,6 +173,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 13 | [Digrin](https://www.digrin.com/) | Dividend tracker for stock/etf investors | 30% OFF with BLACKFRIDAY2023 | 11-21-2023 - 11-25-2023 |
 | 14 | [CustomerPing.ai](https://customerping.ai/) | Get new customers while you sleep: This AI listens to online audiences and alerts you when *they* discuss the problems that *your business* could solve! | 42% OFF with code **BLACKFRIDAY** | 11-21-2023 - 11-28-2023 |
 | 15 | [WishKit](https://www.wishkit.io/) | Collect and analyze product feedback and feature requests in one place. | 50% OFF with BLACKFRIDAY23 | 11-22-2023 - 11-27-2023 |
+| 16 | [Jumpstart Pro](https://jumpstartrails.com/pricing) | If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license. | 11-20-2023 - 11-28-2023 |
 
 ## Themes & Design Resource
 
