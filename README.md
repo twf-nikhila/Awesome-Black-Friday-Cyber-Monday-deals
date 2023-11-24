@@ -180,7 +180,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [UiDeck](https://uideck.com/templates/all-access/) | 100+ Tailwind CSS & Bootstrap Web Templates, and UI Kits. | 50% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 9 | [NexJSTemplate](https://nextjstemplates.com/all-access) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 10 | [TailwindTemplates](https://tailwindtemplates.co/all-access) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
-| 11 | [RapidLaunch](https://rapidlaunch.it/#pricing) | Nuxt.js Boilerplate to deploy landing pages and monetize faster. Stop overthinking, start doing. | $154 off Lifetime Deal discount auto-applied | Nov21 - Nov 30|
+| 11 | [Horizon UI](https://www.horizon-ui.com/campaign) | The trendiest Premium Admin Dashboard Template for React, Chakra UI, NextJS, Tailwind CSS & Figma. | Up to 53% OFF |
+| 12 | [RapidLaunch](https://rapidlaunch.it/#pricing) | Nuxt.js Boilerplate to deploy landing pages and monetize faster. Stop overthinking, start doing. | $154 off Lifetime Deal discount auto-applied | Nov21 - Nov 30|
 
 
 
@@ -214,6 +215,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [superwhisper](https://superwhisper.com?ref=bfdeals) - AI powered voice to text for macOS - offline, fast, secure. 40% off with promo code **BLACKFRIDAY40**
 | 9 | [StealthGPT](https://stealthgpt.ai/?ref=black_friday_deals_by_nikhil) | Create or Remake AI Generated Content to be Undetectable. | Code: **`BlackFriday`**, 90% off first month | Valid till 27th Nov, 2023 |
 | 10 | [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_nikhil) | Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. | 51% off on all plans. code: **`BLF51`** | Valid till 27th Nov, 2023 |
+| 11 | [Horizon AI Template](https://www.horizon-ui.com/ai-template) | The best React NextJS AI ChatGPT Website Template designed for responsive projects including AI Image Generation Apps, Chatbots, AI Research, and AI Content Writing Apps. | Up to 53% OFF |
+| 12 | [Essay Builder AI](https://essay-builder.ai) | Best Free Essay Maker, Writer & Generator for Students powered by AI | 88% OFF (lifetime) and up to 68% OFF the other subscriptions! |
 
 ## Marketplaces
 
