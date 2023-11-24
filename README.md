@@ -91,6 +91,12 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 18 | [Quick Exposé](https://noteifyapp.com/quick-expose/)| Enhancing macOS Navigation Using Mission Control. | [40% OFF Quick Exposé](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
 | 19 | [Stage View](https://noteifyapp.com/stage-view/)| Stage View is a utility app that adds a preview of the windows in the group in the macOS Ventura Stage Manager app. | [40% OFF Stage View](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023) | Nov 21 - Nov 30 |
 | 20 | [Qlone 3D Scanner](https://apps.apple.com/app/qlone-3d-scanner/id1229460906) | The most User-Friendly 3D Scanning app with over 2M downloads! | Enjoy 50% Off on Premium Upgrade | Nov 21 - Nov 28 |
+| 21 | [WhisperUI](https://whisperui.com) | The most affordable Text-to-Speech and Speech-to-Text service. | Get 40% OFF using BLACKFRIDAY23 | 11-15-2023 - 12-06-2023 |
+| 22 | [SEO Utils](http://seoutils.app/) | A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23** | Nov 21 - Nov 28 |
+| 23 | [Itemlist - Home Inventory App](https://getitemlist.app) | Track and organize your items, never forget where you put something again, and be prepared for home contents insurance. | 50% off Lifetime PRO | Nov 20 - Dec 03 |
+| 24 | [Focused Work](https://focusedwork.app) | A powerful timer that helps you focus and be productive. | 50% off Yearly/Monthly | Nov 23 - Nov 28 |
+| 25 | [Ochi](https://ochithe.app) | Block distracting apps & websites on all devices. | 50% off Yearly/Monthly | Nov 23 - Nov 28 |
+| 26 | [Trickster](https://www.apparentsoft.com/trickster) | (Mac) Recently used and modified files at your fingertips | 50% Off | Nov 22 - Nov 28 |
 
 ## Developer Tools
 
@@ -101,6 +107,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 3 | [Checkbot](https://www.checkbot.io) | Chrome extension that tests 100s of pages at a time for SEO, speed and security problems like broken links, duplicate content, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. | 50% off first year of yearly plan with code `NOV23` | 11-16-2023 - 12-01-2023 |
 | 4 | [GrayGrids](https://graygrids.com/?ref=Github_Vinish) | 100+ Website Templates, 200+ Bootstrap + Tailwind Components, Tailwind CSS UI Builder and Developer Tools. | 80% Flat Discount on All Access Plans `BLFCM2023` | 16 Nov - 27 Nov|
 | 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 6 | [Gitonium Git Client](https://gitonium.com) | Have AI generate your commit messages | 50% off on the Mac App Store | 20 Nov - 30 Nov |
+
 
 
 
@@ -163,7 +171,9 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 11 | [YouTube Comments Downloader](https://youtubecommentsdownloader.com/) | Download thousands of YouTube comments in minutes, saving yourself hours of manual work | [Multiple discounts up to 70% off](https://youtubecommentsdownloader.com/black-friday) | 11-17-2023 - 11-30-2023 |
 | 12 | [Security For Everyone](https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off) | Our platform offers cyber security services for everyone. We created an easy-to-use, affordable and manageable cyber security platform with the belief that cyber security is a human right. | 50% off with code: BlackFriday50 | 11-21-2023 - 12-30-2023 |
 | 13 | [Digrin](https://www.digrin.com/) | Dividend tracker for stock/etf investors | 30% OFF with BLACKFRIDAY2023 | 11-21-2023 - 11-25-2023 |
-| 14 | [Jumpstart Pro](https://jumpstartrails.com/pricing) | If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license. | 11-20-2023 - 11-28-2023 |
+| 14 | [CustomerPing.ai](https://customerping.ai/) | Get new customers while you sleep: This AI listens to online audiences and alerts you when *they* discuss the problems that *your business* could solve! | 42% OFF with code **BLACKFRIDAY** | 11-21-2023 - 11-28-2023 |
+| 15 | [WishKit](https://www.wishkit.io/) | Collect and analyze product feedback and feature requests in one place. | 50% OFF with BLACKFRIDAY23 | 11-22-2023 - 11-27-2023 |
+| 16 | [Jumpstart Pro](https://jumpstartrails.com/pricing) | If you're interested in building a product with Ruby on Rails, Jumpstart Pro is the perfect place to get started. | $50 off a single site license or $150 off an unlimited license. | 11-20-2023 - 11-28-2023 |
 
 ## Themes & Design Resource
 
@@ -179,6 +189,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [UiDeck](https://uideck.com/templates/all-access/) | 100+ Tailwind CSS & Bootstrap Web Templates, and UI Kits. | 50% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 9 | [NexJSTemplate](https://nextjstemplates.com/all-access) | High-quality Next.js templates, starter kits, and boilerplates for your web projects. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 10 | [TailwindTemplates](https://tailwindtemplates.co/all-access) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
+| 11 | [Horizon UI](https://www.horizon-ui.com/campaign) | The trendiest Premium Admin Dashboard Template for React, Chakra UI, NextJS, Tailwind CSS & Figma. | Up to 53% OFF |
+| 12 | [RapidLaunch](https://rapidlaunch.it/#pricing) | Nuxt.js Boilerplate to deploy landing pages and monetize faster. Stop overthinking, start doing. | $154 off Lifetime Deal discount auto-applied | Nov21 - Nov 30|
 
 
 
@@ -209,7 +221,11 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [Reply](https://reply.io/) | Reply is the ultimate AI-powered sales engagement platform that helps sales teams to find new leads, engage them via multiple channels, and create endless opportunities at scale.| Get 75% off on all annual plans (first 4 months) + 25% off add-ons with the coupon code HOLIDAY2023 | 11-20-2023 - 12-31-2023 |
 | 6 | [BoltAI](https://boltai.com?ref=bfdeals) - A beautiful & powerful ChatGPT app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
 | 7 | [PDF Pals](https://pdfpals.com?ref=bfdeals) - Native ChatPDF app for Mac. Enjoy 53% off with this discount code AWESOMEBF2023
-| 7 | [superwhisper](https://superwhisper.com?ref=bfdeals) - AI powered voice to text for macOS - offline, fast, secure. 40% off with promo code **BLACKFRIDAY40**
+| 8 | [superwhisper](https://superwhisper.com?ref=bfdeals) - AI powered voice to text for macOS - offline, fast, secure. 40% off with promo code **BLACKFRIDAY40**
+| 9 | [StealthGPT](https://stealthgpt.ai/?ref=black_friday_deals_by_nikhil) | Create or Remake AI Generated Content to be Undetectable. | Code: **`BlackFriday`**, 90% off first month | Valid till 27th Nov, 2023 |
+| 10 | [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_nikhil) | Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. | 51% off on all plans. code: **`BLF51`** | Valid till 27th Nov, 2023 |
+| 11 | [Horizon AI Template](https://www.horizon-ui.com/ai-template) | The best React NextJS AI ChatGPT Website Template designed for responsive projects including AI Image Generation Apps, Chatbots, AI Research, and AI Content Writing Apps. | Up to 53% OFF |
+| 12 | [Essay Builder AI](https://essay-builder.ai) | Best Free Essay Maker, Writer & Generator for Students powered by AI | 88% OFF (lifetime) and up to 68% OFF the other subscriptions! |
 
 ## Marketplaces
 
@@ -228,6 +244,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [35+ Page Client Welcome Pack ULTIMATE BUNDLE](https://unapologeticih.gumroad.com/l/gahbf) | A Notion pack with 35+ pages of a variety of customizable templates to help you define all the details of the projects you're ready to work on for your new clients. | 50% OFF. Lifetime Access and Updates. Coupon Code:50OFFPACK  | 11-09-2023 - 12-31-2023 |
 | 6 | [PushAlert - Web Push Notifications](https://pushalert.co/web-push-notifications-black-friday-deal?utm_campaign=twf-nikhila) | PushAlert is a user engagement, retention and marketing automation platform which allows you to push real-time notifications to your website users on both mobile and desktop without any mobile app. | 30% OFF on All Annual Plans. Coupon Code: Not Required  | 11-12-2023 - 12-02-2023 |
 | 7 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intuitive and intelligent tools for App Store Optimization and competitor intelligence from Appfigures. | 50% OFF for 12 months. Coupon Code: BF2350S  | 11-20-2023 - 11-24-2023 |
+| 8 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.highperformr.ai//?ref=black_friday_deals_by_nikhil) | Enhance your Twitter presence with Highperformr. Features include Twitter Analytics, CRM, audience building, tweet scheduling, and more. | Enjoy a 50% discount. No code needed, the discount auto-applies at checkout. | Valid till 28th Nov, 2023 |
+| 9 | [TinyZap⚡️](https://www.tinyzap.com/) | TinyZap turns boring text links into interesting images that stand out on Twitter, LinkedIn, Facebook, and social posts | 50% OFF applied at checkout | 11-21-2023 - 11-30-2023 |
 
 ## Others
 
