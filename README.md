@@ -96,6 +96,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 23 | [Itemlist - Home Inventory App](https://getitemlist.app) | Track and organize your items, never forget where you put something again, and be prepared for home contents insurance. | 50% off Lifetime PRO | Nov 20 - Dec 03 |
 | 24 | [Focused Work](https://focusedwork.app) | A powerful timer that helps you focus and be productive. | 50% off Yearly/Monthly | Nov 23 - Nov 28 |
 | 25 | [Ochi](https://ochithe.app) | Block distracting apps & websites on all devices. | 50% off Yearly/Monthly | Nov 23 - Nov 28 |
+| 26 | [Trickster](https://www.apparentsoft.com/trickster) | (Mac) Recently used and modified files at your fingertips | 50% Off | Nov 22 - Nov 28 |
 
 ## Developer Tools
 
