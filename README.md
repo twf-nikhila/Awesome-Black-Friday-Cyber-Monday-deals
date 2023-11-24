@@ -98,6 +98,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 25 | [Ochi](https://ochithe.app) | Block distracting apps & websites on all devices. | 50% off Yearly/Monthly | Nov 23 - Nov 28 |
 | 26 | [Trickster](https://www.apparentsoft.com/trickster) | (Mac) Recently used and modified files at your fingertips | 50% Off | Nov 22 - Nov 28 |
 | 27 | [Blade Mail](https://blademail.app) | Desktop App for Email Testing locally| Enjoy 50% Off code **BLACKFRIDAY** | Nov 21 - Nov 28 |
+| 28 | [WhaleDeck](https://whaledeck.io?ref=awesomebcd) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. | Lifetime 20% off | Nov 24 - Nov 27 |
+| 29 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off | Nov 24 - Nov 27 |
 
 ## Developer Tools
 
