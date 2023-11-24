@@ -114,7 +114,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 6 | [Gitonium Git Client](https://gitonium.com) | Have AI generate your commit messages | 50% off on the Mac App Store | 20 Nov - 30 Nov |
 | 7 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | 30% OFF first payment with code `BF2023` | Nov 24 - Nov 30 |
-
+| 8 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_nikhil) | Make customized Next.js boilerplates & deploy to Vercel with a click. | 50% on yearly plans with Discount code **`BF2023`** | Valid till 26th Nov
+| 9 | [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_nikhil) | Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. | 75% off auto-applied on all packages | Valid till 31st Dec, 2023 |
 
 
 ## Books
@@ -159,6 +160,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 1 | [HoneyPot - 1100+ Beehiiv Newsletter Database](https://unapologeticih.gumroad.com/l/ejsmjv) | ✓ Airtable database of 1100+ newsletters, links, social accounts to connect with creators & 100s of Filterable categories including Startups, SaaS, Founders, Creators & more. | 50% OFF. Lifetime Access and Updates. Coupon Code:50BEEHIIV | 11-09-2023 - 12-31-2023 |
 | 2 | [GhostHunt - 1900+ Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | ✓ Airtable databases (Vol. 1 & 2) that give you 1900+ newsletters, includes titles, Member Count Brackets, descriptions and links to help you connect with creators & Filterable categories including Business, Tech, Productivity & more. | 50% OFF. Lifetime Access and Updates. Coupon Code:50GHOST  | 11-09-2023 - 12-31-2023 |
 | 3 | [SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | ✓ Airtable databases including details such as Description, URL, Member Count, Creator, Categories, Links & filterable categories include Startup, AI, Entrepreneurship, Solopreneur, Tech and more. | 50% OFF. Lifetime Access and Updates. Coupon Code:50SUBSTACK  | 11-09-2023 - 12-31-2023 |
+| 4 | [Indie Masterminds](https://indiemasterminds.com/?ref=black_friday_deals_by_nikhil) | Tight knit community of indie founders. Private slack with 90+ members, premium courses, sprints and more. | 20% off on lifetime or annual plan with the code **`BFCM23`** | Valid till 27th Nov, 2023 |
+| 5 | [BoringCashCow](https://boringcashcow.com/?ref=black_friday_deals_by_nikhil) | Discover Boring Businesses that Quietly Rake in the Cash Home. | 30% off with code **`godalRdf`** | Valid till 27th Nov, 2023 |
 
 ## SaaS Software
 
@@ -240,6 +243,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 14 | [PDFPeer](https://pdfpeer.com) | Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Ask questions, get summaries, find things quickly, and lots more. | PDFPeer: Get 50% off on all unlimited plans. Use code: BF50 | 11-20-2023 - 12-02-2023
 | 15 | [ChatDB](https://chatdb.ai) - Never write a SQL query again. Query your Postgres databases using AI and natural conversation. Get 20% off your subscription with promo code **FRIYAY**
 | 16 | [Editby](https://www.editby.ai/) | Create high-quality, unique SEO-optimized content, keeping your brand's style, monitoring your keywords and best content, and adding citations and references | 40% off (for 12 months) with code: **EDITBLACK23** |
+| 17 | [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_nikhil) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** | Valid till 30th Nov |
+| 18 | [Elephas](https://elephas.app/?ref=black_friday_deals_by_nikhil) | Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. | 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** | Valid till 27th Nov, 2023 |
 
 ## Marketplaces
 
