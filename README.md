@@ -100,6 +100,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 27 | [Blade Mail](https://blademail.app) | Desktop App for Email Testing locally| Enjoy 50% Off code **BLACKFRIDAY** | Nov 21 - Nov 28 |
 | 28 | [WhaleDeck](https://whaledeck.io?ref=awesomebcd) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. | Lifetime 20% off | Nov 24 - Nov 27 |
 | 29 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off | Nov 24 - Nov 27 |
+| 30 | [Polar Habits](https://polarhabits.com/?utm_campaign=BF2023&utm_source=github-twf-nikhila) |Guilt-free habit tracker to help you build momentum, not streaks. | 25% off forever on all subscriptions | Nov 23 - Nov 30 |
 
 ## Developer Tools
 
