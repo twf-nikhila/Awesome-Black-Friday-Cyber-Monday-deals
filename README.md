@@ -94,6 +94,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 21 | [WhisperUI](https://whisperui.com) | The most affordable Text-to-Speech and Speech-to-Text service. | Get 40% OFF using BLACKFRIDAY23 | 11-15-2023 - 12-06-2023 |
 | 22 | [SEO Utils](http://seoutils.app/) | A powerful, user-friendly SEO desktop application available for macOS, Windows, and Linux. It's packed with essential features like Backlink Analytics, Traffic Analytics, Keyword Clustering, SERP Similarity, Sitemap Extractor, and more. | 50% OFF with code **BLACKFRIDAY23** | Nov 21 - Nov 28 |
 | 23 | [Itemlist - Home Inventory App](https://getitemlist.app) | Track and organize your items, never forget where you put something again, and be prepared for home contents insurance. | 50% off Lifetime PRO | Nov 20 - Dec 03 |
+| 24 | [Focused Work](https://focusedwork.app) | A powerful timer that helps you focus and be productive. | 50% off Yearly/Monthly | Nov 23 - Nov 28 |
+| 25 | [Ochi](https://ochithe.app) | Block distracting apps & websites on all devices. | 50% off Yearly/Monthly | Nov 23 - Nov 28 |
 
 ## Developer Tools
 
