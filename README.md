@@ -161,6 +161,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 11 | [YouTube Comments Downloader](https://youtubecommentsdownloader.com/) | Download thousands of YouTube comments in minutes, saving yourself hours of manual work | [Multiple discounts up to 70% off](https://youtubecommentsdownloader.com/black-friday) | 11-17-2023 - 11-30-2023 |
 | 12 | [Security For Everyone](https://securityforeveryone.com/blog/unprecedented-black-friday-deal-50-off) | Our platform offers cyber security services for everyone. We created an easy-to-use, affordable and manageable cyber security platform with the belief that cyber security is a human right. | 50% off with code: BlackFriday50 | 11-21-2023 - 12-30-2023 |
 | 13 | [Digrin](https://www.digrin.com/) | Dividend tracker for stock/etf investors | 30% OFF with BLACKFRIDAY2023 | 11-21-2023 - 11-25-2023 |
+| 14 | [CustomerPing.ai](https://customerping.ai/) | Get new customers while you sleep: This AI listens to online audiences and alerts you when *they* discuss the problems that *your business* could solve! | 42% OFF with code **BLACKFRIDAY** | 11-21-2023 - 11-28-2023 |
 
 ## Themes & Design Resource
 
