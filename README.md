@@ -26,6 +26,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🛒 [Marketplaces](#marketplaces)
 * 🌈 [Marketing Tools](#marketing-tools)
 * 💾 [Others](#others)
+* 🔖 [Other places to list your BF Deals](#other-places-to-list-black-friday-deals)
 
 # Sponsorship
 
