@@ -116,6 +116,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [LocaleData](https://www.localedata.com/) | Manage your Ruby on Rails translations easily. | 30% OFF first payment with code `BF2023` | Nov 24 - Nov 30 |
 | 8 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_nikhil) | Make customized Next.js boilerplates & deploy to Vercel with a click. | 50% on yearly plans with Discount code **`BF2023`** | Valid till 26th Nov
 | 9 | [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_nikhil) | Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. | 75% off auto-applied on all packages | Valid till 31st Dec, 2023 |
+| 10 | [Nextless.js](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit build in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license | Valid till 30st Nov, 2023 |
 
 
 ## Books
