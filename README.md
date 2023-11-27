@@ -205,6 +205,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 10 | [TailwindTemplates](https://tailwindtemplates.co/all-access) | Tailwind CSS templates specially crafted for - Startup, App, SaaS, Landing Page, and Business websites. | 40% Flat Discount on All-Access Pass Plans with code `BLFCM2023` | 16 Nov - 27 Nov|
 | 11 | [Horizon UI](https://www.horizon-ui.com/campaign) | The trendiest Premium Admin Dashboard Template for React, Chakra UI, NextJS, Tailwind CSS & Figma. | Up to 53% OFF |
 | 12 | [RapidLaunch](https://rapidlaunch.it/#pricing) | Nuxt.js Boilerplate to deploy landing pages and monetize faster. Stop overthinking, start doing. | $154 off Lifetime Deal discount auto-applied | Nov21 - Nov 30|
+| 13 | [RunApp.Today](https://runapp.today) | The Ideal AI WebApp Boilplate. Launch your AI website in a few hours! (Pre-Order) | 75% off, one custom feature request included!  | Nov24 - Nov 30|
 
 
 
