@@ -230,7 +230,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Localy](https://localy.ai/) | Unlock the power of simple, user-friendly AI to generate effective content and images. Create easily & plagiarism-free content for emails, blogs, and websites 10X faster.Unlock the power of simple, user-friendly AI to | 50 Discount | 10-22-2023 - 02-07-2024 |
+| 1 | [10LevelUp](https://10levelup.com/) | Automatically cut viral clips out of your YouTube videos | 30% off the Yearly Plans with code **BLACKWEEK** | 11-28-2023 - 12-09-2023 |
 | 2 | [GetGenie AI](https://getgenie.ai/) | GetGenie AI — the most advanced WordPress AI tool for SEO-optimised content & copywriting. It has 30+ ready-made templates and amazing use cases like SEO Keyword Analysis, SERP Competitor Analysis, On Page Optimization, Meta Description, Content Scoring, Blog Outline Creator, Blog Title Writer, Blog Article Assistant, Product Descriptions, Sales Copywriter, and many more.  Enjoy up to 40% discount on GetGenie AI this Black Friday and increase your efficiency in writing SEO-optimized content on your WordPress website. | Enjoy up to 40% discount on GetGenie AI this Black Friday and increase your efficiency in writing SEO-optimized content on your WordPress website. | 11-22-2023 - 12-05-2023 |
 | 3 | [QR Diffusion](	https://qrdiffusion.com/) | Elevate your QR codes with QR Diffusion. Craft art-infused QR codes with ease using pre-made templates or advanced customization. The perfect QR code, just moments away! | Enjoy a 50% discount for the first two months or the entire year when choosing an annual plan. Coupon code: BFCM2023 | 11-12-2023 - 12-01-2023 |
 | 4 | [Clevis](https://clevis.app) | Build AI powered apps and automation flows without code. Get 25% off the first month with code **BLACK**. | 11-16-2023 - 11-30-2023 |
@@ -249,6 +249,8 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 17 | [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_nikhil) | Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. | Flat 50% Off this Black Friday, Coupon Code: **`BF50`** | Valid till 30th Nov |
 | 18 | [Elephas](https://elephas.app/?ref=black_friday_deals_by_nikhil) | Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. | 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** | Valid till 27th Nov, 2023 |
 | 19 | [ChatNBX](https://chat.nbox.ai/) | ChatNBX is an AI chat application that helps users generate text, images, and code | 50% Off on our Plus subscription plan - Use promo code "BLACKFRIDAY50"| Nov 23 to Nov 28 |
+| 20 | [Localy](https://localy.ai/) | Unlock the power of simple, user-friendly AI to generate effective content and images. Create easily & plagiarism-free content for emails, blogs, and websites 10X faster.Unlock the power of simple, user-friendly AI to | 50 Discount | 10-22-2023 - 02-07-2024 |
+
 
 ## Marketplaces
 
