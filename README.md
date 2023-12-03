@@ -25,6 +25,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🤖 [AI Tools](#ai-tools)
 * 🛒 [Marketplaces](#marketplaces)
 * 🌈 [Marketing Tools](#marketing-tools)
+* 🎩 [Infosec Tools](#marketing-tools)
 * 💾 [Others](#others)
 * 🔖 [Other places to list your BF Deals](#other-places-to-list-black-friday-deals)
 
@@ -269,6 +270,12 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 7 | [Appfigures](https://appfigures.com/account/upgrade?p=BF2350S) | Grow your app's downloads and revenue with intuitive and intelligent tools for App Store Optimization and competitor intelligence from Appfigures. | 50% OFF for 12 months. Coupon Code: BF2350S  | 11-20-2023 - 11-24-2023 |
 | 8 | [Highperformr.ai - Twitter Analytics & Scheduling Software](https://www.highperformr.ai//?ref=black_friday_deals_by_nikhil) | Enhance your Twitter presence with Highperformr. Features include Twitter Analytics, CRM, audience building, tweet scheduling, and more. | Enjoy a 50% discount. No code needed, the discount auto-applies at checkout. | Valid till 28th Nov, 2023 |
 | 9 | [TinyZap⚡️](https://www.tinyzap.com/) | TinyZap turns boring text links into interesting images that stand out on Twitter, LinkedIn, Facebook, and social posts | 50% OFF applied at checkout | 11-21-2023 - 11-30-2023 |
+
+## Infosec Tools
+
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [ExploitPack](https://exploitpack.com) | Advanced exploitation framework with 0days and 39.000+ exploits |  Upgrade from 1-year license to Lifetime (Only a 10 licenses are available) | 11-09-2023 - 11-26-2023 |
 
 ## Others
 
