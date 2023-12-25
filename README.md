@@ -117,6 +117,7 @@ Contribute by adding any resources related to Black Friday or Cyber Monday Deals
 | 8 | [Shipixen](https://shipixen.com?ref=black_friday_deals_by_nikhil) | Make customized Next.js boilerplates & deploy to Vercel with a click. | 50% on yearly plans with Discount code **`BF2023`** | Valid till 26th Nov
 | 9 | [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_nikhil) | Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. | 75% off auto-applied on all packages | Valid till 31st Dec, 2023 |
 | 10 | [Nextless.js, React SaaS boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit build in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license | Valid till 30st Nov, 2023 |
+| 11 | [Crawlbase Smart Proxy ](https://crawlbase.com/smart-proxy?utm_source=blogs&utm_medium=referral&utm_campaign=blackfriday2023) | Experience Effortless Web Scraping with Crawlbase Smart Proxy. Elevate your crawling capabilities for reliable and uninterrupted access to the wealth of data available on the web. | Discount: 20% for a "lifetime" on Smart Proxy | Validity: Nov 20 until Dec 20, 2023 |
 
 
 ## Books
