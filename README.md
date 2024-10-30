@@ -63,7 +63,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 ## AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [RewriteBar](https://rewritebar.com) | Improve your writing in any macOS application with the help of AI | 50% off on one-time payment and subscription | Nov 25 - Nov 30 |
 
 ## Books & Courses
 
