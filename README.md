@@ -52,7 +52,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:|
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| #1 | [SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | LIFETIME SALE - 50% OFF | Nov 4 - 30 |
 
 ## Developer Tools
 
