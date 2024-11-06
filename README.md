@@ -52,7 +52,10 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:|
-| #1 | [SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | LIFETIME SALE - 50% OFF | Nov 4 - 30 |
+| 1 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. | Lifetime 20% off | Nov 29 - Dec 2 |
+| 2 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off | Nov 29 - Dec 2 |
+| 3 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off | Nov 29 - Dec 2 |
+| 4 | [SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | LIFETIME SALE - 50% OFF | Nov 4 - 30 |
 
 ## Developer Tools
 
@@ -64,12 +67,13 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [RewriteBar](https://rewritebar.com) | Improve your writing in any macOS application with the help of AI | 50% off on one-time payment and subscription | Nov 25 - Nov 30 |
+| 2 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts from voice to a well structured writtentext | Bundle 3 - app 50% OFF | Nov 3 - Nov 30 |
 
 ## Books & Courses
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% OFF with code **BLACK**.  | 11-01-2024 - 11-30-2024 |
 
 
 ## SaaS Software
@@ -82,7 +86,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited number of licenses | Nov 25 - Dec 3 |
 
 ## Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
