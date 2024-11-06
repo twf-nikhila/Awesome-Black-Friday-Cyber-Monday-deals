@@ -55,6 +55,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 1 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. | Lifetime 20% off | Nov 29 - Dec 2 |
 | 2 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off | Nov 29 - Dec 2 |
 | 3 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off | Nov 29 - Dec 2 |
+| 4 | [SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | LIFETIME SALE - 50% OFF | Nov 4 - 30 |
 
 ## Developer Tools
 
