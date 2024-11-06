@@ -64,6 +64,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [RewriteBar](https://rewritebar.com) | Improve your writing in any macOS application with the help of AI | 50% off on one-time payment and subscription | Nov 25 - Nov 30 |
+| 2 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts from voice to a well structured writtentext | Bundle 3 - app 50% OFF | Nov 3 - Nov 30 |
 
 ## Books & Courses
 
