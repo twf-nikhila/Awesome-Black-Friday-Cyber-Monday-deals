@@ -82,7 +82,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [Broadcast](https://sendbroadcast.net) | Pay one time license, self-hosted email marketing and automation software | 35% off all licenses with code **BF2024** | Nov 7 - Dec 7 |
 
 ## Themes & Design Resource
 
