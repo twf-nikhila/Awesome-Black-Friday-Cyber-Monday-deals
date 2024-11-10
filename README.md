@@ -59,6 +59,9 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 5 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | The most gorgeous and powerful photo player application. Available for iOS, iPadOS, and macOS. | ALL PLANS - 50% OFF | Nov 29 - Dec 2 |
 | 6 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. | ALL PLANS - 50% OFF | Nov 29 - Dec 2 |
 | 6 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. | ALL PLANS - 30% OFF | Nov 1 - Dec 2 |
+| 8 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY24) | A macOS app that makes redacting text in images easier with click-to-redact and drag-to-redact features. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 9 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY24) | A macOS app for effortless batch resizing and editing of images with preset configurations. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 10 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 
 ## Developer Tools
 
@@ -77,7 +80,13 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% OFF with code **BLACK**.  | 11-01-2024 - 11-30-2024 |
-
+| 2 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) | Learn how to write effective Technical Design Documents (TDD) with real-life examples. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 3 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY24) | A comprehensive guide to improving code review processes, intentions and etiquettes.| 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 4 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 5 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 6 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) | A comprehensive guide on building, backtesting, and managing a financial independence portfolio using the 4% rule. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 7 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 8 | [Course: Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) | A 1.5-hour video course teaching key concepts in macOS development with SwiftUI through hands-on projects. Perfect for programmers new to macOS development. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 
 ## SaaS Software
 
