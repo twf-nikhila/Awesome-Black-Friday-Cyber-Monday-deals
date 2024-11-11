@@ -66,6 +66,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 12 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY24) | A macOS app that makes redacting text in images easier with click-to-redact and drag-to-redact features. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 13 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY24) | A macOS app for effortless batch resizing and editing of images with preset configurations. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 14 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 15 | [Fileside](https://www.fileside.app/?ref=abfcmd) | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license | Nov 25 - Dec 2 |
 
 ## Developer Tools
 
