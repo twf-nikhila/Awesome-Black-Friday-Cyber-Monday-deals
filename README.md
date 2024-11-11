@@ -59,7 +59,10 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 5 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | The most gorgeous and powerful photo player application. Available for iOS, iPadOS, and macOS. | ALL PLANS - 50% OFF | Nov 29 - Dec 2 |
 | 6 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. | ALL PLANS - 50% OFF | Nov 29 - Dec 2 |
 | 7 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. | ALL PLANS - 30% OFF | Nov 1 - Dec 2 |
-| 8 | [PortDroid](https://portdroid.net/black-friday-2024/) | A swiss army knife of network security tools for Android | Lifetime 50% off with code `CYBER_2024 ` | Nov 11 - Dec 4 |
+| 8 | [Spaces for macOS](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click | Lifetime - 50% OFF | Nov 10 - Dec 2 |
+| 9 | [Zen Mode for macOS](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime - 55% OFF | Nov 10 - Dec 2 | 
+| 10 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. | ALL PLANS - 30% OFF | Nov 1 - Dec 2 |
+| 11 | [PortDroid](https://portdroid.net/black-friday-2024/) | A swiss army knife of network security tools for Android | Lifetime 50% off with code `CYBER_2024 ` | Nov 11 - Dec 4 |
 
 ## Developer Tools
 
