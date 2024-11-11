@@ -58,7 +58,8 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 4 | [SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | LIFETIME SALE - 50% OFF | Nov 4 - 30 |
 | 5 | [Digital Photo Frame App](https://digitalphotoframeapp.com) | The most gorgeous and powerful photo player application. Available for iOS, iPadOS, and macOS. | ALL PLANS - 50% OFF | Nov 29 - Dec 2 |
 | 6 | [Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. | ALL PLANS - 50% OFF | Nov 29 - Dec 2 |
-| 6 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. | ALL PLANS - 30% OFF | Nov 1 - Dec 2 |
+| 7 | [Wins](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. | ALL PLANS - 30% OFF | Nov 1 - Dec 2 |
+| 8 | [Fileside](https://www.fileside.app/?ref=abfcmd) | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license | Nov 25 - Dec 2 |
 
 ## Developer Tools
 
