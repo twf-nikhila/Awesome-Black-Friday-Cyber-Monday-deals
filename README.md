@@ -130,8 +130,8 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 ## Marketing Tools
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
-|:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+|:-:|:-:|:-:|:-:|:-:|
+| # | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** | Nov 14 - Dec 7 |
 
 ## Others
 
