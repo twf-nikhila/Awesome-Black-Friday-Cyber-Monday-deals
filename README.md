@@ -73,7 +73,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [Nextless.js, React SaaS boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit build in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license | Valid till 30st Nov, 2024 |
 
 ## AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -94,12 +94,14 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 6 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) | A comprehensive guide on building, backtesting, and managing a financial independence portfolio using the 4% rule. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 7 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 8 | [Course: Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) | A 1.5-hour video course teaching key concepts in macOS development with SwiftUI through hands-on projects. Perfect for programmers new to macOS development. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 9 | [Transform Small Your Business with Proven SEO Strategies EBook](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover the Essential SEO Techniques That Will Boost Your Online Visibility and Drive More Customers to Your Business | $200 OFF with code **BlackFriday2024** | Nov 15 - Dec 4 |
 
 ## SaaS Software
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Broadcast](https://sendbroadcast.net) | Pay one time license, self-hosted email marketing and automation software | 35% off all licenses with code **BF2024** | Nov 7 - Dec 7 |
+| 2 | [PocketHost](https://pockethost.io) | PocketHost is the zero config, up in 30 seconds, hosting platform for PocketBase. | Black Friday discount for life time access to host up to 250 instances of PocetBase | Nov 15 - Dec 2 |
 
 ## Themes & Design Resource
 
@@ -132,7 +134,10 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [Veshort](https://veshort.com/) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-awesome) | 10 Nov-28 Dec |
+| 2 | [Octoparse](https://www.octoparse.com/) |Octoparse is your no-coding solution for web scraping to turn pages into structured data within clicks. | [ALL Plans - Up to 45% OFF.](https://www.octoparse.com/black-friday-sale-2024?utm_source=github&utm_medium=social&utm_campaign=24bf) | Nov 20 - Dec 4 |
+| 3 | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** | Nov 14 - Dec 7 |
+| 4 | [PushAlert - Web Push Notifications](https://pushalert.co/black-friday?utm_campaign=twf-nikhila) | PushAlert is a powerful user engagement and marketing automation platform that lets you send real-time web push notifications to users on both mobile and desktop without any app. Includes advance features like personalized messaging, behavior-based targeting, automated drip campaigns, and cart abandonment recovery. | 30% Off on All Annual Plans | Nov 14 - Dec 8
 
 ## Others
 
