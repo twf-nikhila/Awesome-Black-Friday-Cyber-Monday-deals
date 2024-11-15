@@ -131,7 +131,8 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [Veshort](https://veshort.com/) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-awesome) | 10 Nov-28 Dec |
+
 
 ## Others
 
