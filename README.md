@@ -100,6 +100,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Broadcast](https://sendbroadcast.net) | Pay one time license, self-hosted email marketing and automation software | 35% off all licenses with code **BF2024** | Nov 7 - Dec 7 |
+| 2 | [PocketHost](https://pockethost.io) | PocketHost is the zero config, up in 30 seconds, hosting platform for PocketBase. | Black Friday discount for life time access to host up to 250 instances of PocetBase | Nov 15 - Dec 2 |
 
 ## Themes & Design Resource
 
@@ -132,7 +133,8 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Octoparse](https://www.octoparse.com/) |Octoparse is your no-coding solution for web scraping to turn pages into structured data within clicks. | [ALL Plans - Up to 45% OFF.](https://www.octoparse.com/black-friday-sale-2024?utm_source=github&utm_medium=social&utm_campaign=24bf) | Nov 20 - Dec 4 |
+| 1 | [Veshort](https://veshort.com/) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-awesome) | 10 Nov-28 Dec |
+| 2 | [Octoparse](https://www.octoparse.com/) |Octoparse is your no-coding solution for web scraping to turn pages into structured data within clicks. | [ALL Plans - Up to 45% OFF.](https://www.octoparse.com/black-friday-sale-2024?utm_source=github&utm_medium=social&utm_campaign=24bf) | Nov 20 - Dec 4 |
 
 ## Others
 
