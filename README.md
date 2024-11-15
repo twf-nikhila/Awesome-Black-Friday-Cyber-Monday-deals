@@ -68,6 +68,8 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 14 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 15 | [Fileside](https://www.fileside.app/?ref=abfcmd) | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license | Nov 25 - Dec 2 |
 | 16 | [Contrasts - WCAG Accessibility](https://contrasts.app) | One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act! | Lifetime 40% off | Nov 29 - Dec 2 |
+| 17 | [AudioWrangler](https://audiowrangler.app/) | Prioritize which sound devices macOS switches to. | 50% off lifetime license | Nov 15 - Dec 3 |
+| 18 | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off lifetime license | Nov 15 - Dec 3 |
 
 ## Developer Tools
 
