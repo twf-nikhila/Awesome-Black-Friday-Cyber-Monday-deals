@@ -67,6 +67,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 13 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY24) | A macOS app for effortless batch resizing and editing of images with preset configurations. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 14 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY24) | A macOS app for recording face overlay in videos with customizable settings. One-time payment alternative to Loom. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 15 | [Fileside](https://www.fileside.app/?ref=abfcmd) | A modern multi-pane file manager with a twist. For Mac and Windows. | 66% OFF lifetime license | Nov 25 - Dec 2 |
+| 16 | [Octoparse](https://www.octoparse.com/) |Octoparse is your no-coding solution for web scraping to turn pages into structured data within clicks. | [ALL Plans - Up to 45% OFF.](https://www.octoparse.com/black-friday-sale-2024?utm_source=github&utm_medium=social&utm_campaign=24bf) | Nov 20 - Dec 4 |
 
 ## Developer Tools
 
@@ -99,6 +100,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Broadcast](https://sendbroadcast.net) | Pay one time license, self-hosted email marketing and automation software | 35% off all licenses with code **BF2024** | Nov 7 - Dec 7 |
+| 2 | [PocketHost](https://pockethost.io) | PocketHost is the zero config, up in 30 seconds, hosting platform for PocketBase. | Black Friday discount for life time access to host up to 250 instances of PocetBase | Nov 15 - Dec 2 |
 
 ## Themes & Design Resource
 
@@ -130,8 +132,10 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 ## Marketing Tools
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
-|:-:|:-:|:-:|:-:|:-:|
-| # | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** | Nov 14 - Dec 7 |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [Veshort](https://veshort.com/) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=Github-awesome) | 10 Nov-28 Dec |
+| 2 | [Octoparse](https://www.octoparse.com/) |Octoparse is your no-coding solution for web scraping to turn pages into structured data within clicks. | [ALL Plans - Up to 45% OFF.](https://www.octoparse.com/black-friday-sale-2024?utm_source=github&utm_medium=social&utm_campaign=24bf) | Nov 20 - Dec 4 |
+| 3 | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** | Nov 14 - Dec 7 |
 
 ## Others
 
