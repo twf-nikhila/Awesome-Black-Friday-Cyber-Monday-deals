@@ -93,6 +93,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 6 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) | A comprehensive guide on building, backtesting, and managing a financial independence portfolio using the 4% rule. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 7 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 8 | [Course: Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) | A 1.5-hour video course teaching key concepts in macOS development with SwiftUI through hands-on projects. Perfect for programmers new to macOS development. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 9 | [Transform Small Your Business with Proven SEO Strategies EBook](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover the Essential SEO Techniques That Will Boost Your Online Visibility and Drive More Customers to Your Business | $200 OFF with code **BlackFriday2024** | Nov 15 - Dec 4 |
 
 ## SaaS Software
 
