@@ -131,7 +131,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [PushAlert - Web Push Notifications](https://pushalert.co/black-friday?utm_campaign=twf-nikhila) | PushAlert is a powerful user engagement and marketing automation platform that lets you send real-time web push notifications to users on both mobile and desktop without any app. Includes advance features like personalized messaging, behavior-based targeting, automated drip campaigns, and cart abandonment recovery. | 30% Off on All Annual Plans | Nov 14 - Dec 8
 
 ## Others
 
