@@ -104,6 +104,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Broadcast](https://sendbroadcast.net) | Pay one time license, self-hosted email marketing and automation software | 35% off all licenses with code **BF2024** | Nov 7 - Dec 7 |
 | 2 | [PocketHost](https://pockethost.io) | PocketHost is the zero config, up in 30 seconds, hosting platform for PocketBase. | Black Friday discount for life time access to host up to 250 instances of PocetBase | Nov 15 - Dec 2 |
+| 3 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters. | 30% OFF all plans with code **BLACKFRIDAY2024** | Nov 15 - Dec 8 |
 
 ## Themes & Design Resource
 
