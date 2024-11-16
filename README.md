@@ -21,6 +21,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🧬 [Standalone scripts](#standalone-scripts)
 * 🛒 [Marketplaces](#marketplaces)
 * 🌈 [Marketing Tools](#marketing-tools)
+* 🎩 [Infosec Tools](#marketing-tools)
 * 💾 [Others](#others)
 * 🔖 [Other places to list your BF Deals](#other-places-to-list-black-friday-deals)
 
@@ -140,6 +141,12 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 2 | [Octoparse](https://www.octoparse.com/) |Octoparse is your no-coding solution for web scraping to turn pages into structured data within clicks. | [ALL Plans - Up to 45% OFF.](https://www.octoparse.com/black-friday-sale-2024?utm_source=github&utm_medium=social&utm_campaign=24bf) | Nov 20 - Dec 4 |
 | 3 | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** | Nov 14 - Dec 7 |
 | 4 | [PushAlert - Web Push Notifications](https://pushalert.co/black-friday?utm_campaign=twf-nikhila) | PushAlert is a powerful user engagement and marketing automation platform that lets you send real-time web push notifications to users on both mobile and desktop without any app. Includes advance features like personalized messaging, behavior-based targeting, automated drip campaigns, and cart abandonment recovery. | 30% Off on All Annual Plans | Nov 14 - Dec 8
+
+## Infosec Tools
+
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [ExploitPack](https://exploitpack.com) | Advanced exploitation framework with 0days and 39.000+ exploits |  Upgrade from 1-year license to Lifetime (Only a 10 licenses are available) | 11-09-2023 - 11-26-2023 |
 
 ## Others
 
