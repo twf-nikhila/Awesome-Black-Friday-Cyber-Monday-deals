@@ -1,14 +1,17 @@
-# Get Deals Alert
-
-**[Subscribe to receive new black friday deals in your email](https://app.vbout.com/subscribe-twf/f/63323)**
-
-***
-
 # Awesome Black Friday & Cyber Monday deals - 2024
 
 Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enterpreneur, 2024
 
-# Contents
+**[Subscribe to receive deals in your email](https://app.vbout.com/subscribe-twf/f/63323)**
+
+***
+
+# Add Your Deals ✍️✍️
+
+1. 🔁 [Send a pull](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/pulls) request to add your deal
+2. 👤 Non Techie? Fill [this form](https://fill.formnx.com/f/63pk80)
+
+# Table of Contents
 
 * 💻 [Apps](#apps)
 * ⚒️ [Developer Tools](#developer-tools)
@@ -24,21 +27,6 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 💾 [Others](#others)
 * 🔖 [Other places to list your BF Deals](#other-places-to-list-black-friday-deals)
 
-# Sponsorship
-
-1. **Why sponsor?:** Get special highlight at the top, which brings visitors' immediate attention to your product. More visitors mean more sales.
-2. **What do I get as a sponsor?:** Special highlight at the top of this repository. With brand/product logo, Caption, Sub-heading & link to the product. This will definitely help to attract more visitors/customers to your product.
-3. **Sponsorship cost & duration:** Cost is [$100 for 1 product](https://www.paypal.com/paypalme/NikhilAgrawal/100usd). 
-4. **Limited 5 sponsors only**
-
-DM me on [Twitter](https://twitter.com/HeyNikhila) or Email (nikhil_agrawal at live dot com) to sponsor
-
-# Add deals ✍️✍️
-
-Add your product deals by adding any resources related to Black Friday or Cyber Monday Deals 2024.
-
-1. 🔁 Send a pull request to add your deal
-2. 👤 Non Techie? Send your deal using [this form](https://fill.formnx.com/f/63pk80)
 
 **Special Request 👉** ⭐ Star this repository so it becomes trending on Black Friday!
 
