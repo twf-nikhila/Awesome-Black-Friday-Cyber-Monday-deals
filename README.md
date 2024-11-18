@@ -89,6 +89,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 2 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts from voice to a well structured writtentext | Bundle 3 - app 50% OFF | Nov 3 - Nov 30 |
 | 3 | [GasbyAI](https://gasbyai.com) | Fancy AI chat and appsuite, support popular providers | 30% off using code `BlackFriday2024` | Ends on 2nd Dec
 | 4 | [Airbrush](https://www.airbrush.ai/lifetime-deal) | AI Image generator - Use 100+ AI models to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** | Ends on 5th Dec
+| 5 | [MindPal](https://mindpal.io) | Build AI agents & multi-agent workflows to automate business processes | 60% OFF all YEARLY plans with code `BLACKFRIDAY24` | Ends on 2nd Dec
 
 ## Books & Courses
 
