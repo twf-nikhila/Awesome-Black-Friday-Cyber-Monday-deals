@@ -13,19 +13,19 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 # Table of Contents
 
-* 💻 [Apps](#apps)
-* ⚒️ [Developer Tools](#developer-tools)
-* 🤖 [AI Tools](#ai-tools)
-* 📚 [Books & Courses](#books--courses)
-* ♻️ [SaaS Software](#saas-software)
-* 🎨 [Themes & Design Resource](#themes--design-resource)
-* 📩 [Newsletter & Communities](#newsletter--communities)
-* 🔌 [Plugins](#plugins)
-* 🧬 [Standalone scripts](#standalone-scripts)
-* 🛒 [Marketplaces](#marketplaces)
-* 🌈 [Marketing Tools](#marketing-tools)
-* 💾 [Others](#others)
-* 🔖 [Other places to list your BF Deals](#other-places-to-list-black-friday-deals)
+* 💻 [Apps](#-apps)
+* ⚒️ [Developer Tools](#-developer-tools)
+* 🤖 [AI Tools](#-ai-tools)
+* 📚 [Books & Courses](#-books--courses)
+* ♻️ [SaaS Software](#-saas-software)
+* 🎨 [Themes & Design Resource](#-themes--design-resource)
+* 📩 [Newsletter & Communities](#-newsletter--communities)
+* 🔌 [Plugins](#-plugins)
+* 🧬 [Standalone scripts](#-standalone-scripts)
+* 🛒 [Marketplaces](#-marketplaces)
+* 🌈 [Marketing Tools](#-marketing-tools)
+* 💾 [Others](#-others)
+* 🔖 [Other places to list your BF Deals](#-other-places-to-list-black-friday-deals)
 
 
 **Special Request 👉** ⭐ Star this repository so it becomes trending on Black Friday!
