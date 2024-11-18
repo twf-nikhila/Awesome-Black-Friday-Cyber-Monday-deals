@@ -76,6 +76,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Nextless.js, React SaaS boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit build in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license | Valid till 30st Nov, 2024 |
+| 2 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates at checkout. | Ends on 2nd Dec |
 
 ## AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
