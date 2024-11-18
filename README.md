@@ -41,8 +41,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
   <a href="https://formnx.com"><img width="400" src="https://formnx.com/img/form-nx-og-full.png" alt="FormNX"></a>
 </p>
 
-*Your most affordable form builder with Logic, Integrations, Duplicate checks, Signature, Payment gateway, website embeds, and more.*<br />
-*🌟 Trusted by 3000+ Businesses Worldwide*
+Your most affordable form builder with Logic, Integrations, Duplicate checks, Signature, Payment gateway, website embeds, and more.<br/>
+*🌟 Trusted by **3000+ Businesses** Worldwide*
 
 ***
 
