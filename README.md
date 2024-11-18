@@ -70,6 +70,8 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 16 | [Contrasts - WCAG Accessibility](https://contrasts.app) | One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act! | Lifetime 40% off | Nov 29 - Dec 2 |
 | 17 | [AudioWrangler](https://audiowrangler.app/) | Prioritize which sound devices macOS switches to. | 50% off lifetime license | Nov 15 - Dec 3 |
 | 18 | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off lifetime license | Nov 15 - Dec 3 |
+| 19 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO | Nov 24 - Dec 8 |
+
 
 ## Developer Tools
 
@@ -77,6 +79,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Nextless.js, React SaaS boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit build in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license | Valid till 30st Nov, 2024 |
 | 2 | [SaaSBold](https://saasbold.com) | SaaSBold is a full-stack Next.js SaaS boilerplate featuring seamless one-click deployment, an optimal developer experience, and robust front- and back-end functionality. | **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 3 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates at checkout. | Ends on 2nd Dec |
 
 ## AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -105,7 +108,9 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Broadcast](https://sendbroadcast.net) | Pay one time license, self-hosted email marketing and automation software | 35% off all licenses with code **BF2024** | Nov 7 - Dec 7 |
 | 2 | [PocketHost](https://pockethost.io) | PocketHost is the zero config, up in 30 seconds, hosting platform for PocketBase. | Black Friday discount for life time access to host up to 250 instances of PocetBase | Nov 15 - Dec 2 |
-| 3 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 3 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters. | 30% OFF all plans with code **BLACKFRIDAY2024** | Nov 15 - Dec 8 |
+| 4 | [Telescope SEO](https://withtelescope.com/) | Comprehensive suite of SEO tools that helps you research and track keywords, monitor backlinks, analyze competitors, perform site audits, and more. | 20% off balance top-ups and 30% off your first 3 months on any subscription plan with code **BLACKFRIDAY2024** | Nov 8 - Dec 8 |
+| 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
 
 ## Themes & Design Resource
 
