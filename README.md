@@ -80,6 +80,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 2 | [SaaSBold](https://saasbold.com) | SaaSBold is a full-stack Next.js SaaS boilerplate featuring seamless one-click deployment, an optimal developer experience, and robust front- and back-end functionality. | **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
 | 3 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates at checkout. | Ends on 2nd Dec |
 | 4 | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024**  | Nov 29 - Dec 3 |
+| 5 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY**  | Nov 26 - Nov 30 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -103,6 +104,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 8 | [Course: Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) | A 1.5-hour video course teaching key concepts in macOS development with SwiftUI through hands-on projects. Perfect for programmers new to macOS development. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 9 | [Transform Small Your Business with Proven SEO Strategies EBook](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover the Essential SEO Techniques That Will Boost Your Online Visibility and Drive More Customers to Your Business | $200 OFF with code **BlackFriday2024** | Nov 15 - Dec 4 |
+| 10 | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence | 50% off using code **BLACKFRIDAY50** | Nov 15 - Nov 30 |
 
 ## ♻️ SaaS Software
 
