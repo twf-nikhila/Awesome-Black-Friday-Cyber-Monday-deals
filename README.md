@@ -80,6 +80,7 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 1 | [Nextless.js, React SaaS boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit build in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license | Valid till 30st Nov, 2024 |
 | 2 | [SaaSBold](https://saasbold.com) | SaaSBold is a full-stack Next.js SaaS boilerplate featuring seamless one-click deployment, an optimal developer experience, and robust front- and back-end functionality. | **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
 | 3 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates at checkout. | Ends on 2nd Dec |
+| 4 | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024**  | Nov 29 - Dec 3 |
 
 ## AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
