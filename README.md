@@ -102,6 +102,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 3 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters. | 30% OFF all plans with code **BLACKFRIDAY2024** | Nov 15 - Dec 8 |
 | 4 | [Telescope SEO](https://withtelescope.com/) | Comprehensive suite of SEO tools that helps you research and track keywords, monitor backlinks, analyze competitors, perform site audits, and more. | 20% off balance top-ups and 30% off your first 3 months on any subscription plan with code **BLACKFRIDAY2024** | Nov 8 - Dec 8 |
 | 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 6 | [CleanClip](https://cleanclip.cc?ref=awesome-bfcm) | The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Unlimited Storage/Paste Queue/Smart List | 30% off on all multi-device plans with code **BF2024** | Nov 20 - Dec 4 |
 
 ## 🎨 Themes & Design Resource
 
