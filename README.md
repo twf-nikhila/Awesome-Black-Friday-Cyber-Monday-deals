@@ -70,12 +70,17 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 16 | [Contrasts - WCAG Accessibility](https://contrasts.app) | One-click color contrast checking like Spotlight for WCAG compliance, with live previews, text-to-color recognition, and versatile exports to prepare for the Accessibility Act! | Lifetime 40% off | Nov 29 - Dec 2 |
 | 17 | [AudioWrangler](https://audiowrangler.app/) | Prioritize which sound devices macOS switches to. | 50% off lifetime license | Nov 15 - Dec 3 |
 | 18 | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off lifetime license | Nov 15 - Dec 3 |
+| 19 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO | Nov 24 - Dec 8 |
+
 
 ## Developer Tools
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Nextless.js, React SaaS boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit build in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license | Valid till 30st Nov, 2024 |
+| 2 | [SaaSBold](https://saasbold.com) | SaaSBold is a full-stack Next.js SaaS boilerplate featuring seamless one-click deployment, an optimal developer experience, and robust front- and back-end functionality. | **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 3 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates at checkout. | Ends on 2nd Dec |
+| 4 | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024**  | Nov 29 - Dec 3 |
 
 ## AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -83,7 +88,8 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 | 1 | [RewriteBar](https://rewritebar.com) | Improve your writing in any macOS application with the help of AI | 50% off on one-time payment and subscription | Nov 25 - Nov 30 |
 | 2 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts from voice to a well structured writtentext | Bundle 3 - app 50% OFF | Nov 3 - Nov 30 |
 | 3 | [GasbyAI](https://gasbyai.com) | Fancy AI chat and appsuite, support popular providers | 30% off using code `BlackFriday2024` | Ends on 2nd Dec
-| 4 | [MindPal](https://mindpal.io) | Build AI agents & multi-agent workflows to automate business processes | 60% OFF all YEARLY plans with code `BLACKFRIDAY24` | Ends on 2nd Dec
+| 4 | [Airbrush](https://www.airbrush.ai/lifetime-deal) | AI Image generator - Use 100+ AI models to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** | Ends on 5th Dec
+| 5 | [MindPal](https://mindpal.io) | Build AI agents & multi-agent workflows to automate business processes | 60% OFF all YEARLY plans with code `BLACKFRIDAY24` | Ends on 2nd Dec
 
 ## Books & Courses
 
@@ -105,12 +111,27 @@ Add your product deals by adding any resources related to Black Friday or Cyber 
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Broadcast](https://sendbroadcast.net) | Pay one time license, self-hosted email marketing and automation software | 35% off all licenses with code **BF2024** | Nov 7 - Dec 7 |
 | 2 | [PocketHost](https://pockethost.io) | PocketHost is the zero config, up in 30 seconds, hosting platform for PocketBase. | Black Friday discount for life time access to host up to 250 instances of PocetBase | Nov 15 - Dec 2 |
+| 3 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters. | 30% OFF all plans with code **BLACKFRIDAY2024** | Nov 15 - Dec 8 |
+| 4 | [Telescope SEO](https://withtelescope.com/) | Comprehensive suite of SEO tools that helps you research and track keywords, monitor backlinks, analyze competitors, perform site audits, and more. | 20% off balance top-ups and 30% off your first 3 months on any subscription plan with code **BLACKFRIDAY2024** | Nov 8 - Dec 8 |
+| 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
 
 ## Themes & Design Resource
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited number of licenses | Nov 25 - Dec 3 |
+| 2 | [LineIcons](https://lineicons.com/) | 5300+ line icons for designers and developers with Pro CDN, multiple variations, an icon editor, and more. Available in WebFont, SVG, React, Vue and Figma files. | Flat **40% OFF** on all plans with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 3 | [TailGrids](https://tailgrids.com/) | 600+ High-Quality Tailwind CSS UI Components Library. Effortlessly copy, paste, and start building—available for HTML, React, Vue, and Figma! | **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 4 | [Ayro UI](https://ayroui.com/) | Bootstrap HTML5 UI Library, Snippets, Components and Toolkit for Creating Fast - Landing Pages, Templates, or Websites by Copy-Pasting Blocks. |  **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 5 | [PlainAdmin](https://plainadmin.com/) | Bootstrap 5 based vanilla JS multipurpose admin template that comes with - all essential dashboard components and pages. | **40% Flat** Discount on All Pro Plans with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 6 | [TailAdmin](https://tailadmin.com/) | Leading Tailwind CSS Dashboard Template with 200+ essential UI components for creating feature-rich dashboards and admin panels—available for HTML, React, Next.js, and Vue! | Falt **40%** off on All Pro Plans with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 7 | [UiDeck](https://uideck.com/templates/all-access/) | 100+ High-quality templates, landing pages, and UI kits for startups and SaaS businesses. | **50% OFF** on All-Access plan with code `BLFCM2024` | 16 Nov - 27 Nov|
+| 8 | [NexJSTemplate](https://nextjstemplates.com/all-access) | 20+ high-quality Next.js templates, starter kits, and boilerplates for your web projects. Effortlessly build stunning websites, SaaS applications, and landing pages! | **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 9 | [TailTemplates](https://tailwindtemplates.co/all-access) | Ready-to-use Premium Tailwind CSS Templates specially crafted for startups, apps, SaaS, landing pages, and business websites. | Flat **40% OFF** on All-Access plan with code `BLFCM2024`| Valid till 3rd Dec, 2024 |
+| 10 | [NextAdmin](https://nextadmin.co) | 200+ Premium Next.js dashboard templates and UI components featuring a variety of pre-built elements, components, pages, and more. | **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
+| 11 | [GrayGrids](https://graygrids.com) | 100+ ready-to-use website templates, 200+ Bootstrap components, and a Tailwind CSS website builder for businesses, landing pages, eCommerce, and more. | **60% OFF** on All-Access plan with code `BLFCM2024`  | sValid till 3rd Dec, 2024 |
+
+
 
 ## Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
