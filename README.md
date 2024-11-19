@@ -120,6 +120,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 5 | [FormBold](https://formbold.com/?ref=Github_Vinish) | FormBold is a powerful form API and serverless form backend that works with all hosting, SSG, and frameworks. Receive form submissions directly to your email inbox, sheet, slack, telegram, notion, and more. | 40% Flat Discount on All Pro Plans with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
 | 6 | [CleanClip](https://cleanclip.cc?ref=awesome-bfcm) | The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Unlimited Storage/Paste Queue/Smart List | 30% off on all multi-device plans with code **BF2024** | Nov 20 - Dec 4 |
 | 7 | [gleam.so](https://gleam.so) | A simple tool that helps developers and content creators generate beautiful OpenGraph, social sharing images for their web content in seconds, no design skills needed. | 75% off for all paid plans with code **PH75OFF** | Nov 18 - Dec 31 |
+| 8 | [DeployHQ](https://deployhq.com) | Powerful code deployment tool that allows you to deploy your code from your repository straight to your server, with code build capabilities and additional quality of life tools | 50% off for all new accounts for 1 month with code **BLACKFRIDAY50** | Nov 18 - Dec 3 |
 
 ## 🎨 Themes & Design Resource
 
