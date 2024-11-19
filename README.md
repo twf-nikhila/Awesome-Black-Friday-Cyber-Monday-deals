@@ -89,6 +89,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 3 | [GasbyAI](https://gasbyai.com) | Fancy AI chat and appsuite, support popular providers | 30% off using code `BlackFriday2024` | Ends on 2nd Dec
 | 4 | [Airbrush](https://www.airbrush.ai/lifetime-deal) | AI Image generator - Use 100+ AI models to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** | Ends on 5th Dec
 | 5 | [MindPal](https://mindpal.io) | Build AI agents & multi-agent workflows to automate business processes | 60% OFF all YEARLY plans with code `BLACKFRIDAY24` | Ends on 2nd Dec
+| 6 | [BoltAI](https://boltai.com) | Access all AI models in one Mac app: Document Analysis, Advanced Voice Mode, Inline Whisper and 100+ more features | 30% OFF with code **BFCM2024** | Ends on 1st Dec
+| 6 | [PDF Pals](https://pdfpals.com) | Instantly chat with any PDF on your Mac | 53% OFF with code **BFCM2024** | Ends on 1st Dec
 
 ## 📚 Books & Courses
 
