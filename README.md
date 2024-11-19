@@ -70,6 +70,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 17 | [AudioWrangler](https://audiowrangler.app/) | Prioritize which sound devices macOS switches to. | 50% off lifetime license | Nov 15 - Dec 3 |
 | 18 | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off lifetime license | Nov 15 - Dec 3 |
 | 19 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO | Nov 24 - Dec 8 |
+| 20 | [CompressX](https://compressx.app) | CompressX is a powerful offline media compression tool that can significantly reduce file sizes without compromising quality. | 30% OFF with code **BF24** | Ends on Dec 5 |
 
 
 ## ⚒️ Developer Tools
