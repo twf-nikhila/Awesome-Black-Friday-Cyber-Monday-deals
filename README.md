@@ -70,6 +70,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 17 | [AudioWrangler](https://audiowrangler.app/) | Prioritize which sound devices macOS switches to. | 50% off lifetime license | Nov 15 - Dec 3 |
 | 18 | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off lifetime license | Nov 15 - Dec 3 |
 | 19 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO | Nov 24 - Dec 8 |
+| 20 | [SubManager](https://apps.apple.com/us/app/submanager-subscription-list/id1632853914) |Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world. | 80% off SubManager+ Lifetime IAP | Nov 29 - Dec 2 |
 
 
 ## ⚒️ Developer Tools
