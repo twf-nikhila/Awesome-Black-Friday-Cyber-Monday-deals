@@ -114,6 +114,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 8 | [Course: Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) | A 1.5-hour video course teaching key concepts in macOS development with SwiftUI through hands-on projects. Perfect for programmers new to macOS development. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 9 | [Transform Small Your Business with Proven SEO Strategies EBook](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover the Essential SEO Techniques That Will Boost Your Online Visibility and Drive More Customers to Your Business | $200 OFF with code **BlackFriday2024** | Nov 15 - Dec 4 |
 | 10 | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence | 50% off using code **BLACKFRIDAY50** | Nov 15 - Nov 30 |
+| 11 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business and marketing | Link already discounted 75% | Till Cyber Monday |
 
 ## ♻️ SaaS Software
 
@@ -158,6 +159,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | An exclusive community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business (free tier available)| Link already discounted 75% | Till Cyber Monday |
+
 
 ## 🔌 Plugins
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
