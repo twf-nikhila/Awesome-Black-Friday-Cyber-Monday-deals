@@ -186,7 +186,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| # | [Pro Forecasts: Sonuby Weather](https://sonuby.com) (iOS/Android) | Reliable and customisable weather forecasts, incl. tides, waves and altitudes! | 40% OFF PERMANENTLY / Annual Enthusiast Subscription / Offer available from within the app | Until Cyber Monday |
 
 # 🔖 Other places to list Black Friday Deals:
 1. [indiegoodies](https://indiegoodies.com/blackfriday)
