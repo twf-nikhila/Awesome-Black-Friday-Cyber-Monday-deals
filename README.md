@@ -14,7 +14,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 # Table of Contents
 
 * 💻 [Apps](#-apps)
-* 🛠️ [NoCode Tools](#-nocode-tools)
+* ⚙️ [NoCode Tools](#-nocode-tools)
 * 🧑‍💻 [Developer Tools](#-developer-tools)
 * 🤖 [AI Tools](#-ai-tools)  
 * 📚 [Books & Courses](#-books--courses)  
@@ -89,7 +89,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 32 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
 | 33 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
 
-## ⚒️ NoCode Tools
+## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [FormNX](https://formnx.com) | Most affordable nocode Drag-n-Drop form builder, create any forms in minutes without coding. | **50% OFF** in Yearly Plans, Lifetime plans available | Valid till 30th Nov, 2024 |
