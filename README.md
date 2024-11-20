@@ -81,6 +81,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 3 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates at checkout. | Ends on 2nd Dec |
 | 4 | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024**  | Nov 29 - Dec 3 |
 | 5 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY**  | Nov 26 - Nov 30 |
+| 6 | [DevUtils](https://devutils.com/) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code `BLACKFRIDAY_2024`  | Valid till 2nd Dec, 2024 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -93,6 +94,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 6 | [AI4Chat](https://www.ai4chat.co/) | Use 100+ AI models on one platform — at a fraction of the cost | 20% OFF all plans with code `BF20` | Ends on 2nd Dec
 | 7 | [BoltAI](https://boltai.com) | Access all AI models in one Mac app: Document Analysis, Advanced Voice Mode, Inline Whisper and 100+ more features | 30% OFF with code **BFCM2024** | Ends on 1st Dec
 | 8 | [PDF Pals](https://pdfpals.com) | Instantly chat with any PDF on your Mac | 53% OFF with code **BFCM2024** | Ends on 1st Dec
+| 9 | [TypingMind](https://www.typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 55% OFF with code `BLACKFRIDAY_2024` | Ends on 2nd Dec
 
 ## 📚 Books & Courses
 
