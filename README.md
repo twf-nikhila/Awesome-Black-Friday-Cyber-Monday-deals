@@ -107,6 +107,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
+| 1 | [AppSecEngineer Hands-on Training Courses](https://appsecengineer.com) | Hands-on training platform to learn DevSecOps, Secure Coding, AI Security, Kubernetes Security, AWS, Azure and GCP Security and more | 40% OFF on Annual Plans with code **LEVELUP40**.  | 11-19-2024 - 12-06-2024 |
 | 1 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% OFF with code **BLACK**.  | 11-01-2024 - 11-30-2024 |
 | 2 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) | Learn how to write effective Technical Design Documents (TDD) with real-life examples. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 3 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY24) | A comprehensive guide to improving code review processes, intentions and etiquettes.| 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
