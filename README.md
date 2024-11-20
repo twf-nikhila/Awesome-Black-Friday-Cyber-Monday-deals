@@ -70,6 +70,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 17 | [AudioWrangler](https://audiowrangler.app/) | Prioritize which sound devices macOS switches to. | 50% off lifetime license | Nov 15 - Dec 3 |
 | 18 | [IlluminateMe](https://apps.apple.com/us/app/illuminateme/id6447471704?mt=12) | Use your monitor as a light source | 50% off lifetime license | Nov 15 - Dec 3 |
 | 19 | [Inventory Tracker Itemlist](https://getitemlist.app) | Itemlist is a powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO | Nov 24 - Dec 8 |
+| 19 | [Bezel - Mirror and Record any iPhone](https://getitemlist.app) | Mirror any iPhone on your Mac. Bezel is the best macOS app to display and record any iPhone, iPad, and Apple TV. | 50% OFF | Nov 29 - Dec 2 |
 
 
 ## ⚒️ Developer Tools
