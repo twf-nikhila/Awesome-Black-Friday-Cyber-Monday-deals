@@ -117,7 +117,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 6 | [AI4Chat](https://www.ai4chat.co/) | Use 100+ AI models on one platform — at a fraction of the cost | 20% OFF all plans with code `BF20` | Ends on 2nd Dec
 | 7 | [BoltAI](https://boltai.com) | Access all AI models in one Mac app: Document Analysis, Advanced Voice Mode, Inline Whisper and 100+ more features | 30% OFF with code **BFCM2024** | Ends on 1st Dec
 | 8 | [PDF Pals](https://pdfpals.com) | Instantly chat with any PDF on your Mac | 53% OFF with code **BFCM2024** | Ends on 1st Dec
-
+| 9 | [kgrep](https://kgrep.com) | Small search engine without the fluff | 10% OFF with code **FRIYAY** on Stripe | Ends on 1st Dec
 
 ## 📚 Books & Courses
 
