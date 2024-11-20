@@ -76,6 +76,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 23 | [Dark Sleep](https://www.darksleep.app) | Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning. | 50% Off |
 | 24 | [Mood Lights](https://www.moodlights.app) | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off |
 | 25 | [SubManager](https://apps.apple.com/us/app/submanager-subscription-list/id1632853914) |Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world. | 80% off SubManager+ Lifetime IAP | Nov 29 - Dec 2 |
+| 26 | [Trendly](https://apple.co/4hQcaI1) | Track your App Store sales, subscribers, downloads, and more. | 50% OFF all paid plans for the first 6 months | Nov 29 - Dec 4 |
 
 ## ⚒️ Developer Tools
 
