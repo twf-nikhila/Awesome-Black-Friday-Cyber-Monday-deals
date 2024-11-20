@@ -14,10 +14,14 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 # Table of Contents
 
 * 💻 [Apps](#-apps)
-* ⚒️ [Developer Tools](#-developer-tools)
-* 🤖 [AI Tools](#-ai-tools)
-* 📚 [Books & Courses](#-books--courses)
-* ♻️ [SaaS Software](#-saas-software)
+* 🛠️ [NoCode Tools](#-nocode-tools)
+* 🧑‍💻 [Developer Tools](#-developer-tools)
+* 🤖 [AI Tools](#-ai-tools)  
+* 📚 [Books & Courses](#-books--courses)  
+  * 📘 [Developer Books](#-developer-books)  
+  * 🚀 [Startup Books](#-startup-books)  
+  * 🧭 [Career Books](#-career-books)  
+* ♻️ [SaaS Software](#-saas-software)  
 * 🎨 [Themes & Design Resource](#-themes--design-resource)
 * 🌈 [Marketing Tools](#-marketing-tools)
 * 📩 [Newsletter & Communities](#-newsletter--communities)
@@ -80,13 +84,19 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 27 | [Bezel - Mirror and Record any iPhone](https://getitemlist.app) | Mirror any iPhone on your Mac. Bezel is the best macOS app to display and record any iPhone, iPad, and Apple TV. | 50% OFF | Nov 29 - Dec 2 |
 | 28 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Free upgrade to **LIFETIME** Licenses **Only 10 licenses available** | Nov 20 - Nov 30 |
 | 29 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Free upgrade to **LIFETIME** Licenses **Only 10 licenses available** | Nov 20 - Nov 30 |
-| 30 | [Sitely](https://sitely.app) | Visual + AI Website Builder for macOS formerly known as Sparkle · Build the website you always wanted, visually on your Mac. | 50% OFF (automatically applied) | Nov 20 - Dec 05 |
-| 31 | [Shareshot for iPhone/iPad](https://shareshot.app) | Shareshot - Frame screenshots and add pretty backgrounds | 50% OFF Yearly Subscription for your first year | Nov 29 - Dec 3 |
-| 32 | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks. | 70% OFF the Full Version | Nov 21 - Dec 2 |
-| 33 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
-| 34 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
+| 30 | [Shareshot for iPhone/iPad](https://shareshot.app) | Shareshot - Frame screenshots and add pretty backgrounds | 50% OFF Yearly Subscription for your first year | Nov 29 - Dec 3 |
+| 31 | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks. | 70% OFF the Full Version | Nov 21 - Dec 2 |
+| 32 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
+| 33 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
 
-## ⚒️ Developer Tools
+## ⚒️ NoCode Tools
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [FormNX](https://formnx.com) | Most affordable nocode Drag-n-Drop form builder, create any forms in minutes without coding. | **50% OFF** in Yearly Plans, Lifetime plans available | Valid till 30th Nov, 2024 |
+| 2 | [Sitely](https://sitely.app) | Visual + AI Website Builder for macOS formerly known as Sparkle · Build the website you always wanted, visually on your Mac. | 50% OFF (automatically applied) | Nov 20 - Dec 05 |
+
+
+## 🧑‍💻 Developer Tools
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
@@ -108,21 +118,39 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [BoltAI](https://boltai.com) | Access all AI models in one Mac app: Document Analysis, Advanced Voice Mode, Inline Whisper and 100+ more features | 30% OFF with code **BFCM2024** | Ends on 1st Dec
 | 8 | [PDF Pals](https://pdfpals.com) | Instantly chat with any PDF on your Mac | 53% OFF with code **BFCM2024** | Ends on 1st Dec
 
+
 ## 📚 Books & Courses
 
-| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+---
+
+### 📘 Developer Books  
+
+| **#** | **Name** | **Description** | **Deal details** (Discount & coupon code) | **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch. | 50% OFF with code **BLACK**.  | 11-01-2024 - 11-30-2024 |
-| 2 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) | Learn how to write effective Technical Design Documents (TDD) with real-life examples. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
-| 3 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY24) | A comprehensive guide to improving code review processes, intentions and etiquettes.| 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
-| 4 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
-| 5 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
-| 6 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) | A comprehensive guide on building, backtesting, and managing a financial independence portfolio using the 4% rule. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
-| 7 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
-| 8 | [Course: Getting Started: macOS apps with SwiftUI](https://gracehuang.gumroad.com/l/course-macos-swiftui/BLACKFRIDAY24) | A 1.5-hour video course teaching key concepts in macOS development with SwiftUI through hands-on projects. Perfect for programmers new to macOS development. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
-| 9 | [Transform Small Your Business with Proven SEO Strategies EBook](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover the Essential SEO Techniques That Will Boost Your Online Visibility and Drive More Customers to Your Business | $200 OFF with code **BlackFriday2024** | Nov 15 - Dec 4 |
-| 10 | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence | 50% off using code **BLACKFRIDAY50** | Nov 15 - Nov 30 |
-| 11 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business and marketing | Link already discounted 75% | Till Cyber Monday |
+| 1 | [A Practical Guide to Writing a Software Technical Design Document](https://gracehuang.gumroad.com/l/mqmUt/BLACKFRIDAY24) | Learn how to write effective Technical Design Documents (TDD) with real-life examples. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 2 | [Code Reviews in Tech: The Missing Guide](https://gracehuang.gumroad.com/l/codereviews/BLACKFRIDAY24) | A comprehensive guide to improving code review processes, intentions, and etiquettes. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 3 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 4 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 5 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+
+
+### 🚀 Startup Books  
+
+| **#** | **Name** | **Description** | **Deal details** (Discount & coupon code) | **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step-by-step guide to get your first client as a freelancer from scratch. | 50% OFF with code **BLACK** | 11-01-2024 - 11-30-2024 |
+| 2 | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence. | 50% off using code **BLACKFRIDAY50** | Nov 15 - Nov 30 |
+| 3 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media, etc. | Link already discounted 75% | Till Cyber Monday |
+
+
+### 🧭 Career Books  
+
+| **#** | **Name** | **Description** | **Deal details** (Discount & coupon code) | **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) | A comprehensive guide on building, backtesting, and managing a financial independence portfolio using the 4% rule. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 2 | [Transform Small Your Business with Proven SEO Strategies EBook](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover essential SEO techniques to boost your online visibility and drive more customers to your business. | $200 OFF with code **BlackFriday2024** | Nov 15 - Dec 4 |
+
+---
 
 ## ♻️ SaaS Software
 
