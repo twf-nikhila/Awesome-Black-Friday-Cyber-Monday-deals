@@ -81,6 +81,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 28 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Free upgrade to **LIFETIME** Licenses **Only 10 licenses available** | Nov 20 - Nov 30 |
 | 29 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Free upgrade to **LIFETIME** Licenses **Only 10 licenses available** | Nov 20 - Nov 30 |
 | 30 | [Sitely](https://sitely.app) | Visual + AI Website Builder for macOS formerly known as Sparkle · Build the website you always wanted, visually on your Mac. | 50% OFF (automatically applied) | Nov 20 - Dec 05 |
+| 31 | [Shareshot for iPhone/iPad](https://shareshot.app) | Shareshot - Frame screenshots and add pretty backgrounds | 50% OFF Yearly Subscription for your first year | Nov 29 - Dec 3 |
 
 ## ⚒️ Developer Tools
 
