@@ -84,6 +84,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 31 | [Shareshot for iPhone/iPad](https://shareshot.app) | Shareshot - Frame screenshots and add pretty backgrounds | 50% OFF Yearly Subscription for your first year | Nov 29 - Dec 3 |
 | 32 | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks. | 70% OFF the Full Version | Nov 21 - Dec 2 |
 | 33 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
+| 34 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
 
 ## ⚒️ Developer Tools
 
