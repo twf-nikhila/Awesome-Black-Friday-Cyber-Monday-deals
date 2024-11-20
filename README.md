@@ -82,6 +82,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 29 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Free upgrade to **LIFETIME** Licenses **Only 10 licenses available** | Nov 20 - Nov 30 |
 | 30 | [Sitely](https://sitely.app) | Visual + AI Website Builder for macOS formerly known as Sparkle · Build the website you always wanted, visually on your Mac. | 50% OFF (automatically applied) | Nov 20 - Dec 05 |
 | 31 | [Shareshot for iPhone/iPad](https://shareshot.app) | Shareshot - Frame screenshots and add pretty backgrounds | 50% OFF Yearly Subscription for your first year | Nov 29 - Dec 3 |
+| 32 | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks. | 70% OFF the Full Version | Nov 21 - Dec 2 |
+| 33 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
 
 ## ⚒️ Developer Tools
 
