@@ -80,6 +80,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 27 | [Bezel - Mirror and Record any iPhone](https://getitemlist.app) | Mirror any iPhone on your Mac. Bezel is the best macOS app to display and record any iPhone, iPad, and Apple TV. | 50% OFF | Nov 29 - Dec 2 |
 | 28 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Free upgrade to **LIFETIME** Licenses **Only 10 licenses available** | Nov 20 - Nov 30 |
 | 29 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Free upgrade to **LIFETIME** Licenses **Only 10 licenses available** | Nov 20 - Nov 30 |
+| 30 | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks. | 70% OFF the Full Version | Nov 21 - Dec 2 |
+| 31 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
 
 ## ⚒️ Developer Tools
 
