@@ -88,6 +88,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 31 | [Taskheat](https://eyen.fr/taskheat/) | Innovative to-do app that uses flowcharts to define and visualize dependencies between tasks. | 70% OFF the Full Version | Nov 21 - Dec 2 |
 | 32 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
 | 33 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
+| 34 | [Prostir - Daily Planner](https://apps.apple.com/us/app/daily-planner-prostir/id6535696029) | Prostir is an stress-free planner that prioritizes your well-being, encouraging balance over endless tasks. It’s a safe space for your plans and thoughts — with no extra pressure. | 7 days free + 40% off Annual Subscription | Nov 20 - Dec 20 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -117,6 +118,11 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 6 | [AI4Chat](https://www.ai4chat.co/) | Use 100+ AI models on one platform — at a fraction of the cost | 20% OFF all plans with code `BF20` | Ends on 2nd Dec
 | 7 | [BoltAI](https://boltai.com) | Access all AI models in one Mac app: Document Analysis, Advanced Voice Mode, Inline Whisper and 100+ more features | 30% OFF with code **BFCM2024** | Ends on 1st Dec
 | 8 | [PDF Pals](https://pdfpals.com) | Instantly chat with any PDF on your Mac | 53% OFF with code **BFCM2024** | Ends on 1st Dec
+| 9 | [WhisperUI](https://whisperui.com) | Affordable Speech to Text service powered by OpenAI Whisper. | 60% Discount | 11-14-2024 - 12-02-2024 |
+| 10 | [Best Directories](https://bestdirectories.org) | Discover the best online directories in one place at BestDirectories.org. Explore, compare, and find top-rated directories for various niches, helping you navigate the web with ease. | 50% discount with code **BLACKFRIDAY50** | 11-19-2024 - 12-31-2024 |
+| 11 | [AI Best Tools](https://aibest.tools) | AIBest.Tools is a curated list of the best AI tools that are currently trending and profitable. Discover the latest and the best AI tools and stay ahead of the curve. | 50% discount with code **BLACKFRIDAY50** | 11-19-2024 - 12-31-2024 |
+| 12 | [Painting Recognition Art Scan](https://apps.apple.com/app/painting-recognition-art-scan/id6630371903) | May "The Starry Night" guide you 🌌🎨 Do you often feel out of place in conversations about paintings, artists, and art? 💬🖼️ Scan, Ask, Learn. Unlock the World of Art with our Painting Identifier. 📸 | Lifetime 70% discount! | 11-21-2024 - 11-29-2024 |
+| 13 | [GetGenie AI](https://getgenie.ai/deals/) | GetGenie AI — the most advanced WordPress AI tool for SEO-optimized content & copywriting. The AI tool offers 37+ templates and can generate complete blog posts, product descriptions, product ad copies, social media copies, features-benefits, social media bios & captions, etc. On top of generating content, the AI tool lets you optimize your content for SEO with its built-in SERP analysis and keyword research features. One-click Blog Generator, Genie Mode, and Genie Chat are some of the killer features of GetGenie that set it apart from the crowd. This BFCM, claim a jaw-dropping discount of up to 50% on GetGenie AI and avail of all its handy SEO & writing features to rank in the SERPs & convert visitors. It's a time-limited deal exclusively for BFCM, so hurry up before the offer runs out! | 50% OFF | 11-20-2024 - 12-08-2024 |
 
 
 ## 📚 Books & Courses
@@ -165,6 +171,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [gleam.so](https://gleam.so) | A simple tool that helps developers and content creators generate beautiful OpenGraph, social sharing images for their web content in seconds, no design skills needed. | 75% off for all paid plans with code **PH75OFF** | Nov 18 - Dec 31 |
 | 8 | [DeployHQ](https://deployhq.com) | Powerful code deployment tool that allows you to deploy your code from your repository straight to your server, with code build capabilities and additional quality of life tools | 50% off for all new accounts for 1st month with code **BLACKFRIDAY50** | Nov 18 - Dec 3 |
 | 9 | [Seobility](https://www.seobility.net/en/lp/blackfriday24) | Optimize your website's SEO with Seobility, your all-in-one toolkit. Crawl your site, track rankings, build backlinks, and monitor progress continuously - everything you need for better search performance in one place.| 60-day Premium for free + 15% permanent discount afterward - blackfriday24ext | 11-22-2024 - 12-13-2024 |
+| 10 | [Consolto](https://www.consolto.com/) | Engage with your website visitors and customers instantly at the peak of their interest. Offer them live video meetings and chats directly on your site.| 90% off (5 avail.), 75% off (10 avail), 50% off (30 avail), 30% off (100 avail). Grab them as fast as you can! - 90OFFBF24, 75OFFBF24, 50OFFBF24, 30OFFBF24 | 11-06-2024 - 12-02-2024 |
+| 11 | [Dux-Soup](https://www.dux-soup.com/) | LinkedIn automation tool for growth hackers and lead generation specialists.| 24% off all Dux-Soup plans purchased in November with code **BLCKFRDYDUX24** | 11-19-2024 - 11-30-2024 |
+| 12 | [Nuelink](https://nuelink.com/pricing) | Nuelink is a social media management and automation tool designed for a wide range of professionals including but not limited to agencies, e-commerce brands, podcasters, creators, and agencies. Nuelink helps you manage, schedule, analyze, and automate social media posts across 12+ different social media platforms such as Instagram, TikTok, and Pinterest. With extra features such as bulk scheduling, link-in-bio, and link shortener. | 50% OFF on all yearly plans | 11-20-2024 - 12-09-2024 |
 
 ## 🎨 Themes & Design Resource
 
@@ -191,12 +200,19 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 2 | [Octoparse](https://www.octoparse.com/) |Octoparse is your no-coding solution for web scraping to turn pages into structured data within clicks. | [ALL Plans - Up to 45% OFF.](https://www.octoparse.com/black-friday-sale-2024?utm_source=github&utm_medium=social&utm_campaign=24bf) | Nov 20 - Dec 4 |
 | 3 | [Subreddit tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** | Nov 14 - Dec 7 |
 | 4 | [PushAlert - Web Push Notifications](https://pushalert.co/black-friday?utm_campaign=twf-nikhila) | PushAlert is a powerful user engagement and marketing automation platform that lets you send real-time web push notifications to users on both mobile and desktop without any app. Includes advance features like personalized messaging, behavior-based targeting, automated drip campaigns, and cart abandonment recovery. | 30% Off on All Annual Plans | Nov 14 - Dec 8
+| 5 | [IndieEarnr](https://unapologeticih.gumroad.com/l/indieearnr) | Boost your income with 580+ Affiliate & Referral Programs for Solopreneurs, Indie Hackers, SaaS Owners, and Creators. | 60% OFF. Lifetime Access and Updates with code **60OFF** | 11-20-2024 - 12-31-2024 |
+| 6 | [Fuelance Freelance System](https://unapologeticih.gumroad.com/l/ktxfX) | Find Freelance Opportunities on Autopilot. Onboard Clients & Manage Projects Effortlessly. | 70% OFF. Lifetime Access and Updates with code **70OFFBF** | 11-20-2024 - 12-31-2024 |
+| 7 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF. Lifetime Access and Updates with code **60OFFMM** | 11-20-2024 - 12-31-2024 |
+| 8 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle 1) Find Opportunities on Autopilot with Fuelance; 2) Onboard Clients with a 35+ Page Welcome Pack; 3) Communicate with clients with 250+ Customizable Email Templates; 4) Prospect with B2B Signals & Tracker; 5) Craft a blog using the Blog Basics Workbook. | 75% OFF. Lifetime Access and Updates - **75BSB** | 11-20-2024 - 12-31-2024 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
 | 1 | [Wifi Money Chads](https://www.wifimoneyplant.com/l/wifimoneychads/BLACKFRIDAY) | An exclusive community of entrepreneurs where you can ask any question about building your own business. We keep you accountable and give you the right direction to start and scale your business (free tier available)| Link already discounted 75% | Till Cyber Monday |
+| 2 | [HoneyPot - 1100+ Beehiiv Newsletter Database](https://unapologeticih.gumroad.com/l/ejsmjv) | HoneyPot is a database of 1100+ Beehiiv Newsletters It includes details like the newsletter title, the URL/link to the publication and categories and topics covered in each publication. | 50% OFF. Lifetime Access and Updates with code **50BEEHIIV** | 11-20-2024 - 12-31-2024 |
+| 3 | [GhostHunt - 1900+ Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | Explore the vast details included like newsletter title, the URL/link to the publication, the topics/categories they cover, members count brackets and language. Engage and connect with the 1900+ publications featured on one of the newsletter platforms that are revolutionizing the Creator Economy. | 50% OFF. Lifetime Access and Updates with code **50GHOST** | 11-20-2024 - 12-31-2024 |
+| 4 | [SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers Subsearchr is your ultimate gateway to a database of over 1900+ carefully curated and highly-subscribed newsletters. | 50% OFF. Lifetime Access and Updates with code **50SUBSTACK** | 11-20-2024 - 12-31-2024 |
 
 
 ## 🔌 Plugins
@@ -213,7 +229,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 ## 🛒 Marketplaces
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | This is the Notion 50+ Page Freelancer Pack. Its packed full with 50+ Templates and Documents that can be saved online or downloaded in PDF, CSV and even HTML. | 60% OFF. Lifetime Access and Updates with code **60OFF50** | 11-20-2024 - 12-31-2024 |
 
 
 ## 💾 Others
