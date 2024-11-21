@@ -164,6 +164,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 6 | [CleanClip](https://cleanclip.cc?ref=awesome-bfcm) | The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Unlimited Storage/Paste Queue/Smart List | 30% off on all multi-device plans with code **BF2024** | Nov 20 - Dec 4 |
 | 7 | [gleam.so](https://gleam.so) | A simple tool that helps developers and content creators generate beautiful OpenGraph, social sharing images for their web content in seconds, no design skills needed. | 75% off for all paid plans with code **PH75OFF** | Nov 18 - Dec 31 |
 | 8 | [DeployHQ](https://deployhq.com) | Powerful code deployment tool that allows you to deploy your code from your repository straight to your server, with code build capabilities and additional quality of life tools | 50% off for all new accounts for 1st month with code **BLACKFRIDAY50** | Nov 18 - Dec 3 |
+| 9 | [Seobility](https://www.seobility.net/en/lp/blackfriday24) | Optimize your website's SEO with Seobility, your all-in-one toolkit. Crawl your site, track rankings, build backlinks, and monitor progress continuously - everything you need for better search performance in one place.| 60-day Premium for free + 15% permanent discount afterward - blackfriday24ext | 11-22-2024 - 12-13-2024 |
 
 ## 🎨 Themes & Design Resource
 
