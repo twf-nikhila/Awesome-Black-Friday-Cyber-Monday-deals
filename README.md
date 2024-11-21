@@ -89,6 +89,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 32 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
 | 33 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
 | 34 | [Prostir - Daily Planner](https://apps.apple.com/us/app/daily-planner-prostir/id6535696029) | Prostir is an stress-free planner that prioritizes your well-being, encouraging balance over endless tasks. It’s a safe space for your plans and thoughts — with no extra pressure. | 7 days free + 40% off Annual Subscription | Nov 20 - Dec 20 |
+| 35 | [Offline privacy transcription](https://apps.apple.com/app/apple-store/id6465955389?pt=594185&ct=twf-bf&mt=8) | Fast, privacy-focus way to transcribe audio, video, and podcast files. | 50% off | Valid till 3rd Dec, 2024 |
+| 36 | [Note Taking - Voice Photo Memo](https://apps.apple.com/app/apple-store/id6479198427?pt=594185&ct=twf-bf&mt=8) | Write it, Speak it, Snap it – Your Notes, Your Way. | 50% off | Valid till 3rd Dec, 2024 |
+| 37 | [Matcha](https://apps.apple.com/app/apple-store/id6504923811?pt=594185&ct=twf-bf&mt=8) | Currency calculator | 50% off | Valid till 3rd Dec, 2024 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -106,6 +109,11 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 3 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates at checkout. | Ends on 2nd Dec |
 | 4 | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024**  | Nov 29 - Dec 3 |
 | 5 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY**  | Nov 26 - Nov 30 |
+| 6 | [StoreReviewKit](https://apps.apple.com/app/apple-store/id6670761635?pt=594185&ct=twf-bf&mt=8) | Read and respond to App Store reviews | 50% off | Valid till 3rd Dec, 2024 |
+| 7 | [LocalizeBot](https://apps.apple.com/app/apple-store/id6448173982?pt=594185&ct=twf-bf&mt=8) | Translate your app in 1 click | 50% off | Valid till 3rd Dec, 2024 |
+| 8 | [Localization Buddy](https://apps.apple.com/app/apple-store/id6503285923?pt=594185&ct=twf-bf&mt=8) | Easiest way to localize and update App Store metadata | 50% off | Valid till 3rd Dec, 2024 |
+| 9 | [Screenshot Studio](https://apps.apple.com/app/apple-store/id6473832582?pt=594185&ct=twf-bf&mt=8) | Create App Store screenshots in minutes not hours | 30% off | Valid till 3rd Dec, 2024 |
+
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
