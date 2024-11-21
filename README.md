@@ -89,6 +89,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 32 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
 | 33 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
 | 34 | [Prostir - Daily Planner](https://apps.apple.com/us/app/daily-planner-prostir/id6535696029) | Prostir is an stress-free planner that prioritizes your well-being, encouraging balance over endless tasks. It’s a safe space for your plans and thoughts — with no extra pressure. | 7 days free + 40% off Annual Subscription | Nov 20 - Dec 20 |
+| 35 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** | Nov 21 - Dec 5 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
