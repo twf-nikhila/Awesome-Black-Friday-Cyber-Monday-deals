@@ -92,6 +92,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 35 | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% off Annual Subscription | Nov 21 - Dec 05 |
 | 36 | [Wake Wise - Baby Sleep Tracker](https://apps.apple.com/gb/app/id6736522449) | Understand Your Baby - Track your baby's sleep and get suggested bedtimes. | 50% off Lifetime | Nov 21 - Dec 4 |
 | 37 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime (automatically applied) | Nov 23 - Dec 4 |
+| 38 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** | Nov 21 - Dec 5 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
