@@ -133,7 +133,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 14 | [kgrep](https://kgrep.com) | Small search engine without the fluff | 10% OFF with code **FRIYAY** on Stripe | Ends on 1st Dec
 | 15 | [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=twf-nikhila%2FAwesome-Black-Friday-Cyber-Monday-deals) | Ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast. | 35-50% OFF | 20 Nov - 05 Dec, 2024 |
 | 16 | [NobleShapes](https://nobleshapes.com/) | AI Image Prompt Assistant - Explore a curated collection of premium digital design assets. Inspire and empower your creative journey with NobleShapes using by using generated images to <br> "Know It When You See It.” | 25% OFF with code <br> **BF24** |   Ends on 8th Dec |
-| 17 | [Hammerai](https://www.hammerai.com/) |Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models |50% OFF with code **BZAOH18** | Ends on 1st Dec
+| 17 | [HammerAI](https://www.hammerai.com/) |Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models |50% OFF with code **BZAOH18** | Ends on 1st Dec
 
 ## 📚 Books & Courses
 
