@@ -18,7 +18,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🧑‍💻 [Developer Tools](#-developer-tools)
 * 🤖 [AI Tools](#-ai-tools)  
 * 📚 [Books & Courses](#-books--courses)  
-  * 📘 [Developer Books](#-developer-books)  
+  * 📘 [Developer Books & Courses](#-developer-books--courses)  
   * 🚀 [Startup Books](#-startup-books)  
   * 🧭 [Career Books](#-career-books)  
 * ♻️ [SaaS Software](#-saas-software)  
@@ -129,7 +129,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 
 ---
 
-### 📘 Developer Books  
+### 📘 Developer Books & Courses
 
 | **#** | **Name** | **Description** | **Deal details** (Discount & coupon code) | **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
@@ -138,6 +138,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 3 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 4 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 5 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 6 | [LabEx](https://labex.io) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. | Nov 18 - Dec 2 |
 
 
 ### 🚀 Startup Books  
@@ -155,12 +156,6 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) | A comprehensive guide on building, backtesting, and managing a financial independence portfolio using the 4% rule. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 2 | [Transform Small Your Business with Proven SEO Strategies EBook](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover essential SEO techniques to boost your online visibility and drive more customers to your business. | $200 OFF with code **BlackFriday2024** | Nov 15 - Dec 4 |
-
-### 👩‍🏫 Developer Courses  
-
-| **#** | **Name** | **Description** | **Deal details** (Discount & coupon code) | **Start-End date** |
-|:-:|:-:|:-:|:-:|:-:
-| 1 | [LabEx](https://labex.io) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. | Nov 18 - Dec 2 |
 
 ---
 
