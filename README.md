@@ -18,7 +18,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🧑‍💻 [Developer Tools](#-developer-tools)
 * 🤖 [AI Tools](#-ai-tools)  
 * 📚 [Books & Courses](#-books--courses)  
-  * 📘 [Developer Books](#-developer-books)  
+  * 📘 [Developer Books & Courses](#-developer-books--courses)  
   * 🚀 [Startup Books](#-startup-books)  
   * 🧭 [Career Books](#-career-books)  
 * ♻️ [SaaS Software](#-saas-software)  
@@ -111,6 +111,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 4 | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024**  | Nov 29 - Dec 3 |
 | 5 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY**  | Nov 26 - Nov 30 |
 | 6 | [Polypane](https://polypane.app) | The browser for ambitious web developers. Everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF**  | Nov 21 - Nov 20 |
+| 7 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -136,7 +137,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 
 ---
 
-### 📘 Developer Books  
+### 📘 Developer Books & Courses
 
 | **#** | **Name** | **Description** | **Deal details** (Discount & coupon code) | **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
@@ -145,7 +146,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 3 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 4 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 5 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
-| 6 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
+| 6 | [LabEx](https://labex.io) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. | Nov 18 - Dec 2 |
 
 
 ### 🚀 Startup Books  
