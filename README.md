@@ -112,6 +112,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 5 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY**  | Nov 26 - Nov 30 |
 | 6 | [Polypane](https://polypane.app) | The browser for ambitious web developers. Everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF**  | Nov 21 - Nov 20 |
 | 7 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
+| 8 | [Wallaby.js and Quokka.js](https://wallabyjs.com/) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Wallaby: 30% OFF, Quokka: 50% OFF | Nov. 25 - Dec. 2 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -184,6 +185,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 11 | [Dux-Soup](https://www.dux-soup.com/) | LinkedIn automation tool for growth hackers and lead generation specialists.| 24% off all Dux-Soup plans purchased in November with code **BLCKFRDYDUX24** | 11-19-2024 - 11-30-2024 |
 | 12 | [Nuelink](https://nuelink.com/pricing) | Nuelink is a social media management and automation tool designed for a wide range of professionals including but not limited to agencies, e-commerce brands, podcasters, creators, and agencies. Nuelink helps you manage, schedule, analyze, and automate social media posts across 12+ different social media platforms such as Instagram, TikTok, and Pinterest. With extra features such as bulk scheduling, link-in-bio, and link shortener. | 50% OFF on all yearly plans | 11-20-2024 - 12-09-2024 |
 | 13 | [SyncSignature](https://syncsignature.com) | Branded email signatures and headshots for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all plans. Use code **BF24CM60** on checkout. | 11-21-2024 - 12-10-2024 |
+| 14 | [Niceboard](https://niceboard.co/) | Self-serve job board software that helps busy organizations launch and run job boards effortlessly—for niche communities, non-profits, and SaaS businesses. | 30% off annual plans. | 11-25-2024 - 12-02-2024 |
 
 ## 🎨 Themes & Design Resource
 
