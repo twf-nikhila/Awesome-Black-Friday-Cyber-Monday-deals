@@ -148,6 +148,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 4 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 5 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 6 | [LabEx](https://labex.io) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. | Nov 18 - Dec 2 |
+| 7 | [A Developer's Guide to Blogging](https://theankurtyagi.com/books/) | A guide for developers to start and grow a successful blog. | 50% OFF with code **BLACKFRIDAY** | Nov 1 - Dec 2 |
 
 
 ### 🚀 Startup Books  
