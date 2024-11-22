@@ -108,6 +108,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 3 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates at checkout. | Ends on 2nd Dec |
 | 4 | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024**  | Nov 29 - Dec 3 |
 | 5 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY**  | Nov 26 - Nov 30 |
+| 6 | [Polypane](https://polypane.app) | The browser for ambitious web developers. Everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF**  | Nov 21 - Nov 20 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
