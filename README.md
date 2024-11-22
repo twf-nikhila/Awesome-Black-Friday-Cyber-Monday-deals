@@ -90,7 +90,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 33 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
 | 34 | [Prostir - Daily Planner](https://apps.apple.com/us/app/daily-planner-prostir/id6535696029) | Prostir is an stress-free planner that prioritizes your well-being, encouraging balance over endless tasks. It’s a safe space for your plans and thoughts — with no extra pressure. | 7 days free + 40% off Annual Subscription | Nov 20 - Dec 20 |
 | 35 | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% off Annual Subscription | Nov 21 - Dec 05 |
-| 35 | [Wake Wise - Baby Sleep Tracker](https://apps.apple.com/gb/app/id6736522449) | Understand Your Baby - Track your baby's sleep and get suggested bedtimes. | 50% off Lifetime | Nov 21 - Dec 4 |
+| 36 | [Wake Wise - Baby Sleep Tracker](https://apps.apple.com/gb/app/id6736522449) | Understand Your Baby - Track your baby's sleep and get suggested bedtimes. | 50% off Lifetime | Nov 21 - Dec 4 |
+| 37 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime (automatically applied) | Nov 23 - Dec 4 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
