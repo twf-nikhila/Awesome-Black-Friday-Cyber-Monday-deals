@@ -89,7 +89,10 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 32 | [Subjects](https://eyen.fr/subjects/) | Advanced student planner app to keep track of timetables, homework and grades. | 70% OFF the Yearly Plan | Nov 21 - Dec 2 |
 | 33 | [Lingon X](https://www.peterborgapps.com/lingon/) | An easy to use but powerful macOS app to run things automatically | 20% off (automatically applied) | Nov 20 - Dec 3 |
 | 34 | [Prostir - Daily Planner](https://apps.apple.com/us/app/daily-planner-prostir/id6535696029) | Prostir is an stress-free planner that prioritizes your well-being, encouraging balance over endless tasks. It’s a safe space for your plans and thoughts — with no extra pressure. | 7 days free + 40% off Annual Subscription | Nov 20 - Dec 20 |
-| 35 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** | Nov 21 - Dec 5 |
+| 35 | [SweetUptime](https://dicloud.net/sweetuptime-server-uptime-monitoring/) | Website uptime monitoring, server monitoring, and beautiful status page - Create beautiful status pages and get notified when your website & server is down before your customer get angry | 75% off Annual Subscription | Nov 21 - Dec 05 |
+| 36 | [Wake Wise - Baby Sleep Tracker](https://apps.apple.com/gb/app/id6736522449) | Understand Your Baby - Track your baby's sleep and get suggested bedtimes. | 50% off Lifetime | Nov 21 - Dec 4 |
+| 37 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime (automatically applied) | Nov 23 - Dec 4 |
+| 38 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** | Nov 21 - Dec 5 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -107,6 +110,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 3 | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates at checkout. | Ends on 2nd Dec |
 | 4 | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024**  | Nov 29 - Dec 3 |
 | 5 | [RocketSim](https://www.rocketsim.app) | Boost your productivity and streamline your workflow with powerful Xcode Simulator tools. | 50% OFF with code **BLACKFRIDAY**  | Nov 26 - Nov 30 |
+| 6 | [Polypane](https://polypane.app) | The browser for ambitious web developers. Everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF**  | Nov 21 - Nov 20 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -124,7 +128,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 11 | [AI Best Tools](https://aibest.tools) | AIBest.Tools is a curated list of the best AI tools that are currently trending and profitable. Discover the latest and the best AI tools and stay ahead of the curve. | 50% discount with code **BLACKFRIDAY50** | 11-19-2024 - 12-31-2024 |
 | 12 | [Painting Recognition Art Scan](https://apps.apple.com/app/painting-recognition-art-scan/id6630371903) | May "The Starry Night" guide you 🌌🎨 Do you often feel out of place in conversations about paintings, artists, and art? 💬🖼️ Scan, Ask, Learn. Unlock the World of Art with our Painting Identifier. 📸 | Lifetime 70% discount! | 11-21-2024 - 11-29-2024 |
 | 13 | [GetGenie AI](https://getgenie.ai/deals/) | GetGenie AI — the most advanced WordPress AI tool for SEO-optimized content & copywriting. The AI tool offers 37+ templates and can generate complete blog posts, product descriptions, product ad copies, social media copies, features-benefits, social media bios & captions, etc. On top of generating content, the AI tool lets you optimize your content for SEO with its built-in SERP analysis and keyword research features. One-click Blog Generator, Genie Mode, and Genie Chat are some of the killer features of GetGenie that set it apart from the crowd. This BFCM, claim a jaw-dropping discount of up to 50% on GetGenie AI and avail of all its handy SEO & writing features to rank in the SERPs & convert visitors. It's a time-limited deal exclusively for BFCM, so hurry up before the offer runs out! | 50% OFF | 11-20-2024 - 12-08-2024 |
-
+| 14 | [kgrep](https://kgrep.com) | Small search engine without the fluff | 10% OFF with code **FRIYAY** on Stripe | Ends on 1st Dec
+| 15 | [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=twf-nikhila%2FAwesome-Black-Friday-Cyber-Monday-deals) | Ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast. | 35-50% OFF | 20 Nov - 05 Dec, 2024 |
 
 ## 📚 Books & Courses
 
@@ -139,6 +144,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 3 | [Nail A Coding Interview: Six-Step Mental Framework](https://gracehuang.gumroad.com/l/coding-interview/BLACKFRIDAY24) | A practical guide with a six-step mental framework to help candidates outperform in coding interviews. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 4 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 5 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
+| 6 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
 
 
 ### 🚀 Startup Books  
