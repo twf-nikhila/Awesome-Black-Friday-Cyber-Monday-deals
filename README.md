@@ -216,6 +216,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 6 | [Fuelance Freelance System](https://unapologeticih.gumroad.com/l/ktxfX) | Find Freelance Opportunities on Autopilot. Onboard Clients & Manage Projects Effortlessly. | 70% OFF. Lifetime Access and Updates with code **70OFFBF** | 11-20-2024 - 12-31-2024 |
 | 7 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF. Lifetime Access and Updates with code **60OFFMM** | 11-20-2024 - 12-31-2024 |
 | 8 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle 1) Find Opportunities on Autopilot with Fuelance; 2) Onboard Clients with a 35+ Page Welcome Pack; 3) Communicate with clients with 250+ Customizable Email Templates; 4) Prospect with B2B Signals & Tracker; 5) Craft a blog using the Blog Basics Workbook. | 75% OFF. Lifetime Access and Updates - **75BSB** | 11-20-2024 - 12-31-2024 |
+| 9 | [BacklinkMonitor](https://backlinkmonitor.com/) | Upgrade your link-building game and start tracking like a pro with BacklinkMonitor. | 30% OFF on All Plans with code **BLACKFRIDAY30** 🎁 | 11-20-2024 - 12-03-2024 |
+
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -225,6 +227,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 2 | [HoneyPot - 1100+ Beehiiv Newsletter Database](https://unapologeticih.gumroad.com/l/ejsmjv) | HoneyPot is a database of 1100+ Beehiiv Newsletters It includes details like the newsletter title, the URL/link to the publication and categories and topics covered in each publication. | 50% OFF. Lifetime Access and Updates with code **50BEEHIIV** | 11-20-2024 - 12-31-2024 |
 | 3 | [GhostHunt - 1900+ Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | Explore the vast details included like newsletter title, the URL/link to the publication, the topics/categories they cover, members count brackets and language. Engage and connect with the 1900+ publications featured on one of the newsletter platforms that are revolutionizing the Creator Economy. | 50% OFF. Lifetime Access and Updates with code **50GHOST** | 11-20-2024 - 12-31-2024 |
 | 4 | [SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers Subsearchr is your ultimate gateway to a database of over 1900+ carefully curated and highly-subscribed newsletters. | 50% OFF. Lifetime Access and Updates with code **50SUBSTACK** | 11-20-2024 - 12-31-2024 |
+
 
 
 ## 🔌 Plugins
