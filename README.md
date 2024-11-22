@@ -202,6 +202,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 9 | [TailTemplates](https://tailwindtemplates.co/all-access) | Ready-to-use Premium Tailwind CSS Templates specially crafted for startups, apps, SaaS, landing pages, and business websites. | Flat **40% OFF** on All-Access plan with code `BLFCM2024`| Valid till 3rd Dec, 2024 |
 | 10 | [NextAdmin](https://nextadmin.co) | 200+ Premium Next.js dashboard templates and UI components featuring a variety of pre-built elements, components, pages, and more. | **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
 | 11 | [GrayGrids](https://graygrids.com) | 100+ ready-to-use website templates, 200+ Bootstrap components, and a Tailwind CSS website builder for businesses, landing pages, eCommerce, and more. | **60% OFF** on All-Access plan with code `BLFCM2024`  | sValid till 3rd Dec, 2024 |
+| 12 | [Marmo UI](https://www.marmoui.com) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project. | 70% OFF with code BLACKFRIDAY24 | Valid till 31 Dec, 2024
 
 
 ## 🌈 Marketing Tools
