@@ -156,6 +156,12 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 1 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) | A comprehensive guide on building, backtesting, and managing a financial independence portfolio using the 4% rule. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 2 | [Transform Small Your Business with Proven SEO Strategies EBook](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover essential SEO techniques to boost your online visibility and drive more customers to your business. | $200 OFF with code **BlackFriday2024** | Nov 15 - Dec 4 |
 
+### 👩‍🏫 Developer Courses  
+
+| **#** | **Name** | **Description** | **Deal details** (Discount & coupon code) | **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [LabEx](https://labex.io) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. | Nov 18 - Dec 2 |
+
 ---
 
 ## ♻️ SaaS Software
