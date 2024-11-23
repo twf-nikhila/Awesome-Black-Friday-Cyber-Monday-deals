@@ -93,6 +93,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 36 | [Wake Wise - Baby Sleep Tracker](https://apps.apple.com/gb/app/id6736522449) | Understand Your Baby - Track your baby's sleep and get suggested bedtimes. | 50% off Lifetime | Nov 21 - Dec 4 |
 | 37 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime (automatically applied) | Nov 23 - Dec 4 |
 | 38 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** | Nov 21 - Dec 5 |
+| 39 | [PostPocket](https://apps.apple.com/au/app/postpocket/id6670723615) | PostPocket: The app that helps you save and organize important articles, social media posts, and links effortlessly through a share extension, without disrupting your browsing flow. Perfect for professionals, learners, and content curators. | Annual plan for only $5.99 (40% off) | Nov 23 - Dec 31 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -186,6 +187,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 12 | [Nuelink](https://nuelink.com/pricing) | Nuelink is a social media management and automation tool designed for a wide range of professionals including but not limited to agencies, e-commerce brands, podcasters, creators, and agencies. Nuelink helps you manage, schedule, analyze, and automate social media posts across 12+ different social media platforms such as Instagram, TikTok, and Pinterest. With extra features such as bulk scheduling, link-in-bio, and link shortener. | 50% OFF on all yearly plans | 11-20-2024 - 12-09-2024 |
 | 13 | [SyncSignature](https://syncsignature.com) | Branded email signatures and headshots for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all plans. Use code **BF24CM60** on checkout. | 11-21-2024 - 12-10-2024 |
 | 14 | [Niceboard](https://niceboard.co/) | Self-serve job board software that helps busy organizations launch and run job boards effortlessly—for niche communities, non-profits, and SaaS businesses. | 30% off annual plans. | 11-25-2024 - 12-02-2024 |
+| 15 | [RogerRoger](https://rogerroger.io/black-friday) | The next-gen sales inbox that brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It features a built-in Kanban sales pipeline and CRM, helping you to manage follow-ups and keep conversations front and center. | 40% OFF for all plans with code **BF24SALE** | Nov. 22 - Dec. 03 |
 
 ## 🎨 Themes & Design Resource
 
