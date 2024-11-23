@@ -101,6 +101,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 44 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF | Nov 22 - Dec 1 |
 | 45 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF | Nov 22 - Dec 1 |
 | 46 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% off with code **BF2024** | Nov 23 - Dec 5 |
+| 47 | [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) | Real-time global earthquake monitoring app that aggregates data from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | Pro Plans: Yearly $4.99, Lifetime $7.99 - 50% OFF | Nov 25 - Dec 2 |
+| 48 | [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) | Your Photo Time Machine that helps you rediscover memories by automatically displaying photos from this day in history. Features include auto photo display by date, location-based timeline, sharing templates, and privacy-first local processing. | Pro Plans: Yearly $4.99, Lifetime $7.99 - 50% OFF | Nov 25 - Dec 2 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
