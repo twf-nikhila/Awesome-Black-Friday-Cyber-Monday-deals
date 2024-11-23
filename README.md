@@ -96,7 +96,11 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 39 | [PostPocket](https://apps.apple.com/au/app/postpocket/id6670723615) | PostPocket: The app that helps you save and organize important articles, social media posts, and links effortlessly through a share extension, without disrupting your browsing flow. Perfect for professionals, learners, and content curators. | Annual plan for only $5.99 (40% off) | Nov 23 - Dec 31 |
 | 40 | [Atomic](https://www.indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% Off |
 | 41 | [Bookshelf: Reading Tracker](https://tinyurl.com/yk8vsd7n) | Bookshelf is a beautiful, AI-enhanced reading tracker app that helps people track their library, build a lasting reading habit, and better remember what they read. | **50% OFF** first year, no code required | Nov 23 - Dec 3 |
-| 42 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% off with code **BF2024** | Nov 23 - Dec 5 |
+| 42 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF | Nov 22 - Dec 1 |
+| 43 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF | Nov 22 - Dec 1 |
+| 44 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF | Nov 22 - Dec 1 |
+| 45 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF | Nov 22 - Dec 1 |
+| 46 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% off with code **BF2024** | Nov 23 - Dec 5 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -117,6 +121,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 6 | [Polypane](https://polypane.app) | The browser for ambitious web developers. Everything you need to build responsive, accessible and performant web sites and web apps. | **25% OFF**  | Nov 21 - Nov 20 |
 | 7 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
 | 8 | [Wallaby.js and Quokka.js](https://wallabyjs.com/) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Wallaby: 30% OFF, Quokka: 50% OFF | Nov. 25 - Dec. 2 |
+| 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering seamless integration, customizable features, and enhanced document viewing. | 55% OFF any license | Nov. 25 - Dec. 2 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -139,6 +144,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 16 | [NobleShapes](https://nobleshapes.com/) | AI Image Prompt Assistant - Explore a curated collection of premium digital design assets. Inspire and empower your creative journey with NobleShapes using by using generated images to <br> "Know It When You See It.” | 25% OFF with code <br> **BF24** |   Ends on 8th Dec |
 | 17 | [Tailored Emails](https://tailoredemails.com/) | AI MacOS app to create personalized cold email openers that you can use in your cold outreach | 50% OFF on website |   Ends on 25th Dec |
 | 18 | [IllustraAI](https://illustraai.com/) | Create consistent vector illustrations in seconds. Perfect for designers, marketers, and developers | 30% Off with code **BLACKFRIDAY24** |   Ends on 22th Dec |
+| 19 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code <br> **BLACKFRIDAY24** | Ends on 8th Dec |
 
 ## 📚 Books & Courses
 
