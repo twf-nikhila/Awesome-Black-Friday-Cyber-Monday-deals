@@ -139,6 +139,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 16 | [NobleShapes](https://nobleshapes.com/) | AI Image Prompt Assistant - Explore a curated collection of premium digital design assets. Inspire and empower your creative journey with NobleShapes using by using generated images to <br> "Know It When You See It.” | 25% OFF with code <br> **BF24** |   Ends on 8th Dec |
 | 17 | [Tailored Emails](https://tailoredemails.com/) | AI MacOS app to create personalized cold email openers that you can use in your cold outreach | 50% OFF on website |   Ends on 25th Dec |
 | 18 | [IllustraAI](https://illustraai.com/) | Create consistent vector illustrations in seconds. Perfect for designers, marketers, and developers | 30% Off with code **BLACKFRIDAY24** |   Ends on 22th Dec |
+| 19 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code <br> **BLACKFRIDAY24** | Ends on 8th Dec |
 
 ## 📚 Books & Courses
 
