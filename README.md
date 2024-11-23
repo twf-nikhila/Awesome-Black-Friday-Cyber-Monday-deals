@@ -101,7 +101,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 44 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF | Nov 22 - Dec 1 |
 | 45 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF | Nov 22 - Dec 1 |
 | 46 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% off with code **BF2024** | Nov 23 - Dec 5 |
-
+| 47 | [Clobbr](https://clobbr.app/?ref=twf) | Find concurrency & performance issues early and ship with more confidence. | 50% off in the AppStore (already applied) | Nov. 22 - Dec. 8 |
+ 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
@@ -122,6 +123,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
 | 8 | [Wallaby.js and Quokka.js](https://wallabyjs.com/) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Wallaby: 30% OFF, Quokka: 50% OFF | Nov. 25 - Dec. 2 |
 | 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering seamless integration, customizable features, and enhanced document viewing. | 55% OFF any license | Nov. 25 - Dec. 2 |
+| 10 | [Shipixen](https://shipixen.com/?ref=twf) | Ship a beautiful website, blog or landing page in 5 minutes. | $100 OFF on all licenses with code BF2024
+ | Nov. 22 - Dec. 8 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
