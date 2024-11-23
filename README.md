@@ -81,7 +81,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 24 | [Mood Lights](https://www.moodlights.app) | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off |
 | 25 | [SubManager](https://apps.apple.com/us/app/submanager-subscription-list/id1632853914) |Track your subscriptions in one place across all your Apple devices and get notified before a subscription is renewed. SubManager also provides powerful insights and widgets to keep you updated on your monthly spending. With no ads and a privacy-friendly approach, it’s an excellent tool to have in today’s subscription-heavy world. | 80% off SubManager+ Lifetime IAP | Nov 29 - Dec 2 |
 | 26 | [Trendly](https://apple.co/4hQcaI1) | Track your App Store sales, subscribers, downloads, and more. | 50% OFF all paid plans for the first 6 months | Nov 29 - Dec 4 |
-| 27 | [Bezel - Mirror and Record any iPhone](https://getitemlist.app) | Mirror any iPhone on your Mac. Bezel is the best macOS app to display and record any iPhone, iPad, and Apple TV. | 50% OFF | Nov 29 - Dec 2 |
+| 27 | [Bezel - Mirror and Record any iPhone](https://getbezel.app) | Mirror any iPhone on your Mac. Bezel is the best macOS app to display and record any iPhone, iPad, and Apple TV. | 50% OFF | Nov 29 - Dec 2 |
 | 28 | [ExploitPack](https://exploitpack.com/indexexploitpack.html) | Exploit Pack - Advanced Exploitation Framework with 0days and 39,500+ exploits | Free upgrade to **LIFETIME** Licenses **Only 10 licenses available** | Nov 20 - Nov 30 |
 | 29 | [ControlPack](https://exploitpack.com/indexcontrolpack.html) | Control Pack - Command & Control Framework, not detected by AVs and EDRs | Free upgrade to **LIFETIME** Licenses **Only 10 licenses available** | Nov 20 - Nov 30 |
 | 30 | [Shareshot for iPhone/iPad](https://shareshot.app) | Shareshot - Frame screenshots and add pretty backgrounds | 50% OFF Yearly Subscription for your first year | Nov 29 - Dec 3 |
@@ -93,6 +93,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 36 | [Wake Wise - Baby Sleep Tracker](https://apps.apple.com/gb/app/id6736522449) | Understand Your Baby - Track your baby's sleep and get suggested bedtimes. | 50% off Lifetime | Nov 21 - Dec 4 |
 | 37 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime (automatically applied) | Nov 23 - Dec 4 |
 | 38 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** | Nov 21 - Dec 5 |
+| 39 | [PostPocket](https://apps.apple.com/au/app/postpocket/id6670723615) | PostPocket: The app that helps you save and organize important articles, social media posts, and links effortlessly through a share extension, without disrupting your browsing flow. Perfect for professionals, learners, and content curators. | Annual plan for only $5.99 (40% off) | Nov 23 - Dec 31 |
+| 40 | [Atomic](https://www.indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% Off |
+| 41 | [Bookshelf: Reading Tracker](https://tinyurl.com/yk8vsd7n) | Bookshelf is a beautiful, AI-enhanced reading tracker app that helps people track their library, build a lasting reading habit, and better remember what they read. | **50% OFF** first year, no code required | Nov 23 - Dec 3 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -133,6 +136,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 14 | [kgrep](https://kgrep.com) | Small search engine without the fluff | 10% OFF with code **FRIYAY** on Stripe | Ends on 1st Dec
 | 15 | [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=twf-nikhila%2FAwesome-Black-Friday-Cyber-Monday-deals) | Ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast. | 35-50% OFF | 20 Nov - 05 Dec, 2024 |
 | 16 | [NobleShapes](https://nobleshapes.com/) | AI Image Prompt Assistant - Explore a curated collection of premium digital design assets. Inspire and empower your creative journey with NobleShapes using by using generated images to <br> "Know It When You See It.” | 25% OFF with code <br> **BF24** |   Ends on 8th Dec |
+| 17 | [Tailored Emails](https://tailoredemails.com/) | AI MacOS app to create personalized cold email openers that you can use in your cold outreach | 50% OFF on website |   Ends on 25th Dec |
+| 18 | [IllustraAI](https://illustraai.com/) | Create consistent vector illustrations in seconds. Perfect for designers, marketers, and developers | 30% Off with code **BLACKFRIDAY24** |   Ends on 22th Dec |
 
 ## 📚 Books & Courses
 
@@ -148,6 +153,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 4 | [Dynamic Trio: Building Web Applications with React, Next.js & Tailwind](https://gracehuang.gumroad.com/l/dynamic-trio/BLACKFRIDAY24) | A practical guide with step-by-step tutorials on building modern web applications using React, Next.js, and Tailwind CSS. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 5 | [macOS App Development: The SwiftUI Way](https://gracehuang.gumroad.com/l/macos-app-dev-swiftui/BLACKFRIDAY24) | A comprehensive guide to building and publishing macOS apps using SwiftUI, with hands-on examples and step-by-step tutorials. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 6 | [LabEx](https://labex.io) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. | Nov 18 - Dec 2 |
+| 7 | [A Developer's Guide to Blogging](https://theankurtyagi.com/books/) | A guide for developers to start and grow a successful blog. | 50% OFF with code **BLACKFRIDAY** | Nov 1 - Dec 2 |
 
 
 ### 🚀 Startup Books  
@@ -186,7 +192,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 12 | [Nuelink](https://nuelink.com/pricing) | Nuelink is a social media management and automation tool designed for a wide range of professionals including but not limited to agencies, e-commerce brands, podcasters, creators, and agencies. Nuelink helps you manage, schedule, analyze, and automate social media posts across 12+ different social media platforms such as Instagram, TikTok, and Pinterest. With extra features such as bulk scheduling, link-in-bio, and link shortener. | 50% OFF on all yearly plans | 11-20-2024 - 12-09-2024 |
 | 13 | [SyncSignature](https://syncsignature.com) | Branded email signatures and headshots for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all plans. Use code **BF24CM60** on checkout. | 11-21-2024 - 12-10-2024 |
 | 14 | [Niceboard](https://niceboard.co/) | Self-serve job board software that helps busy organizations launch and run job boards effortlessly—for niche communities, non-profits, and SaaS businesses. | 30% off annual plans. | 11-25-2024 - 12-02-2024 |
-| 15 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** | 11-21-2024 - 12-03-2024 |
+| 15 | [RogerRoger](https://rogerroger.io/black-friday) | The next-gen sales inbox that brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It features a built-in Kanban sales pipeline and CRM, helping you to manage follow-ups and keep conversations front and center. | 40% OFF for all plans with code **BF24SALE** | Nov. 22 - Dec. 03 |
+| 16 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions. | **25% OFF** on annual subscription **plus 3 months extra**. | 11-16-2024 - 12-02-2024 |
+| 17 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** | 11-21-2024 - 12-03-2024 |
 
 ## 🎨 Themes & Design Resource
 
@@ -203,6 +211,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 9 | [TailTemplates](https://tailwindtemplates.co/all-access) | Ready-to-use Premium Tailwind CSS Templates specially crafted for startups, apps, SaaS, landing pages, and business websites. | Flat **40% OFF** on All-Access plan with code `BLFCM2024`| Valid till 3rd Dec, 2024 |
 | 10 | [NextAdmin](https://nextadmin.co) | 200+ Premium Next.js dashboard templates and UI components featuring a variety of pre-built elements, components, pages, and more. | **40% OFF** with code `BLFCM2024` | Valid till 3rd Dec, 2024 |
 | 11 | [GrayGrids](https://graygrids.com) | 100+ ready-to-use website templates, 200+ Bootstrap components, and a Tailwind CSS website builder for businesses, landing pages, eCommerce, and more. | **60% OFF** on All-Access plan with code `BLFCM2024`  | sValid till 3rd Dec, 2024 |
+| 12 | [Marmo UI](https://www.marmoui.com) | Comprehensive design system for Figma, helping designers create modern and beautiful user interfaces with ease, saving time and effort on every project. | 70% OFF with code BLACKFRIDAY24 | Valid till 31 Dec, 2024
 
 
 ## 🌈 Marketing Tools
@@ -217,6 +226,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 6 | [Fuelance Freelance System](https://unapologeticih.gumroad.com/l/ktxfX) | Find Freelance Opportunities on Autopilot. Onboard Clients & Manage Projects Effortlessly. | 70% OFF. Lifetime Access and Updates with code **70OFFBF** | 11-20-2024 - 12-31-2024 |
 | 7 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF. Lifetime Access and Updates with code **60OFFMM** | 11-20-2024 - 12-31-2024 |
 | 8 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle 1) Find Opportunities on Autopilot with Fuelance; 2) Onboard Clients with a 35+ Page Welcome Pack; 3) Communicate with clients with 250+ Customizable Email Templates; 4) Prospect with B2B Signals & Tracker; 5) Craft a blog using the Blog Basics Workbook. | 75% OFF. Lifetime Access and Updates - **75BSB** | 11-20-2024 - 12-31-2024 |
+| 9 | [BacklinkMonitor](https://backlinkmonitor.com/) | Upgrade your link-building game and start tracking like a pro with BacklinkMonitor. | 30% OFF on All Plans with code **BLACKFRIDAY30** 🎁 | 11-20-2024 - 12-03-2024 |
+
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -226,6 +237,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 2 | [HoneyPot - 1100+ Beehiiv Newsletter Database](https://unapologeticih.gumroad.com/l/ejsmjv) | HoneyPot is a database of 1100+ Beehiiv Newsletters It includes details like the newsletter title, the URL/link to the publication and categories and topics covered in each publication. | 50% OFF. Lifetime Access and Updates with code **50BEEHIIV** | 11-20-2024 - 12-31-2024 |
 | 3 | [GhostHunt - 1900+ Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | Explore the vast details included like newsletter title, the URL/link to the publication, the topics/categories they cover, members count brackets and language. Engage and connect with the 1900+ publications featured on one of the newsletter platforms that are revolutionizing the Creator Economy. | 50% OFF. Lifetime Access and Updates with code **50GHOST** | 11-20-2024 - 12-31-2024 |
 | 4 | [SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers Subsearchr is your ultimate gateway to a database of over 1900+ carefully curated and highly-subscribed newsletters. | 50% OFF. Lifetime Access and Updates with code **50SUBSTACK** | 11-20-2024 - 12-31-2024 |
+
 
 
 ## 🔌 Plugins
