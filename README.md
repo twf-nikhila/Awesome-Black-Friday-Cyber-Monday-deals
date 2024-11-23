@@ -135,6 +135,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 14 | [kgrep](https://kgrep.com) | Small search engine without the fluff | 10% OFF with code **FRIYAY** on Stripe | Ends on 1st Dec
 | 15 | [Aikeedo](https://aikeedo.com/?utm_source=github&utm_medium=social&utm_campaign=bfcm&utm_content=twf-nikhila%2FAwesome-Black-Friday-Cyber-Monday-deals) | Ready-made PHP software with customizable features to launch your AI SaaS business quickly and generate revenue fast. | 35-50% OFF | 20 Nov - 05 Dec, 2024 |
 | 16 | [NobleShapes](https://nobleshapes.com/) | AI Image Prompt Assistant - Explore a curated collection of premium digital design assets. Inspire and empower your creative journey with NobleShapes using by using generated images to <br> "Know It When You See It.” | 25% OFF with code <br> **BF24** |   Ends on 8th Dec |
+| 17 | [Tailored Emails](https://tailoredemails.com/) | AI MacOS app to create personalized cold email openers that you can use in your cold outreach | 50% OFF on website |   Ends on 25th Dec |
 
 ## 📚 Books & Courses
 
