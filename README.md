@@ -190,6 +190,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 13 | [SyncSignature](https://syncsignature.com) | Branded email signatures and headshots for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all plans. Use code **BF24CM60** on checkout. | 11-21-2024 - 12-10-2024 |
 | 14 | [Niceboard](https://niceboard.co/) | Self-serve job board software that helps busy organizations launch and run job boards effortlessly—for niche communities, non-profits, and SaaS businesses. | 30% off annual plans. | 11-25-2024 - 12-02-2024 |
 | 15 | [RogerRoger](https://rogerroger.io/black-friday) | The next-gen sales inbox that brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It features a built-in Kanban sales pipeline and CRM, helping you to manage follow-ups and keep conversations front and center. | 40% OFF for all plans with code **BF24SALE** | Nov. 22 - Dec. 03 |
+| 16 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions. | **25% OFF** on annual subscription **plus 3 months extra**. | 11-16-2024 - 12-02-2024 |
 
 ## 🎨 Themes & Design Resource
 
