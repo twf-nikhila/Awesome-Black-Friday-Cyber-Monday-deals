@@ -96,6 +96,11 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 39 | [PostPocket](https://apps.apple.com/au/app/postpocket/id6670723615) | PostPocket: The app that helps you save and organize important articles, social media posts, and links effortlessly through a share extension, without disrupting your browsing flow. Perfect for professionals, learners, and content curators. | Annual plan for only $5.99 (40% off) | Nov 23 - Dec 31 |
 | 40 | [Atomic](https://www.indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% Off |
 | 41 | [Bookshelf: Reading Tracker](https://tinyurl.com/yk8vsd7n) | Bookshelf is a beautiful, AI-enhanced reading tracker app that helps people track their library, build a lasting reading habit, and better remember what they read. | **50% OFF** first year, no code required | Nov 23 - Dec 3 |
+| 42 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF | Nov 22 - Dec 1 |
+| 43 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF | Nov 22 - Dec 1 |
+| 44 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF | Nov 22 - Dec 1 |
+| 45 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF | Nov 22 - Dec 1 |
+
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
