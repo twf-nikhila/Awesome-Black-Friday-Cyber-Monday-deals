@@ -95,6 +95,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 38 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** | Nov 21 - Dec 5 |
 | 39 | [PostPocket](https://apps.apple.com/au/app/postpocket/id6670723615) | PostPocket: The app that helps you save and organize important articles, social media posts, and links effortlessly through a share extension, without disrupting your browsing flow. Perfect for professionals, learners, and content curators. | Annual plan for only $5.99 (40% off) | Nov 23 - Dec 31 |
 | 40 | [Atomic](https://www.indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% Off |
+| 41 | [Bookshelf: Reading Tracker](https://tinyurl.com/yk8vsd7n) | Bookshelf is a beautiful, AI-enhanced reading tracker app that helps people track their library, build a lasting reading habit, and better remember what they read. | **50% OFF** first year, no code required | Nov 23 - Dec 3 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
