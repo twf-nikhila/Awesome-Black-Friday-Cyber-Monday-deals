@@ -146,6 +146,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 18 | [IllustraAI](https://illustraai.com/) | Create consistent vector illustrations in seconds. Perfect for designers, marketers, and developers | 30% Off with code **BLACKFRIDAY24** |   Ends on 22th Dec |
 | 19 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code <br> **BLACKFRIDAY24** | Ends on 8th Dec |
 | 20 | [HammerAI](https://www.hammerai.com/) |Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models |50% OFF with code **BZAOH18** | Ends on 1st Dec
+| 21 | [Aihairstyles.com](https://www.aihairstyles.com/) | Find the perfect hairstyles for you with the help of AI virtual try-on |30% OFF with code **BFRIDAY30** | Ends on 6th Dec
 
 ## 📚 Books & Courses
 
