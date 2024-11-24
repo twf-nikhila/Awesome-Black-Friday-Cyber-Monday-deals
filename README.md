@@ -203,7 +203,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 15 | [RogerRoger](https://rogerroger.io/black-friday) | The next-gen sales inbox that brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It features a built-in Kanban sales pipeline and CRM, helping you to manage follow-ups and keep conversations front and center. | 40% OFF for all plans with code **BF24SALE** | Nov. 22 - Dec. 03 |
 | 16 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions. | **25% OFF** on annual subscription **plus 3 months extra**. | 11-16-2024 - 12-02-2024 |
 | 17 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** | 11-21-2024 - 12-03-2024 |
-| 18 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2024** | 11-24-2024 - 12-31-2024 |
+| 18 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2024** | Nov 24 2024 - Dec 31 2024 |
 
 ## 🎨 Themes & Design Resource
 
