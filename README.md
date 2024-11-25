@@ -211,7 +211,6 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 19 | [Quickmake](https://quickmake.pro) | Faceless AI Videos on Autopilot Our robust AI short video generation tool lets you generate faceless videos in merely a few clicks. | 🎉 BLACK FRIDAY SALE! Use code **BLACKFRIDAY80** for 80% off! 🎉 | Nov. 25 - Dec. 25 |
 | 20| [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=BreadcrumbsAwesome-Black-Friday-Cyber-Monday-deals) | Financial market Data for Developers. | **50% OFF** all plans with code BLACK-FRIDAY-50 | Nov 25 - Nov 30 |
 
-
 ## 🎨 Themes & Design Resource
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
