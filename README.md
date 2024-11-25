@@ -133,6 +133,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
  | Nov. 22 - Dec. 8 |
  | 11 | [Lintastic ASO Metadata Linter]([https://www.vue-pdf-viewer.dev](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024)) | Audit your iOS app's metadata fields for App Store best practices. | 50% OFF | Nov. 24 - Dec. 6 |
 | 12 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF | Nov. 25 - Dec. 2 |
+| 14 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% Off | Nov 25 - Dec 8 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
