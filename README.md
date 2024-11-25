@@ -174,6 +174,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 1 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step-by-step guide to get your first client as a freelancer from scratch. | 50% OFF with code **BLACK** | 11-01-2024 - 11-30-2024 |
 | 2 | [From Side Project to Going Indie Course](https://courses.avanderlee.com/p/from-side-project-to-going-indie?coupon_code=BLACKFRIDAY50&product_id=5860309) | Turns your passion into independence. | 50% off using code **BLACKFRIDAY50** | Nov 15 - Nov 30 |
 | 3 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media, etc. | Link already discounted 75% | Till Cyber Monday |
+| 4 | [BoringCashCow](https://boringcashcow.com/premium) | Access to proven business ideas that solving real problems and build your own profitable business  | **30% off** membership forever with code **CLMVBG**. | Nov 25 - Nov 30 |
 
 
 ### 🧭 Career Books  
