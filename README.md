@@ -107,6 +107,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 50 | [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) | Your Photo Time Machine that helps you rediscover memories by automatically displaying photos from this day in history. Features include auto photo display by date, location-based timeline, sharing templates, and privacy-first local processing. | Pro Plans: Yearly $4.99, Lifetime $7.99 - 50% OFF | Nov 25 - Dec 2 |
 | 51 | [Clobbr](https://clobbr.app/?ref=twf) | Find concurrency & performance issues early and ship with more confidence. | 50% off in the AppStore (already applied) | Nov. 22 - Dec. 8 |
 | 52 | [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) | Prepare for your behavioral interviews with a huge question database, record you mock answers, and get you personalized feedback to ace your interview | 50% off with code **BLACKFRIDAY** | Nov 23 - Dec 6 |
+| 53 | [Trickster](https://www.apparentsoft.com/trickster) | (Mac) Recently used and modified files at your fingertips | 50% Off | Nov 25 - Dec 2 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
