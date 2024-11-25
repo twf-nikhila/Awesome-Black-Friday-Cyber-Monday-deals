@@ -101,6 +101,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 44 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF | Nov 22 - Dec 1 |
 | 45 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF | Nov 22 - Dec 1 |
 | 46 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% off with code **BF2024** | Nov 23 - Dec 5 |
+| 47 | [Clock Widget+](https://apps.apple.com/us/app/clock-widget/id6664064747) | Clock Widget+ is a customizable app that lets users enhance their home screens with stylish and personalized clock widgets on iOS. | 50% off | Nov 24 - Dec 2 |
+| 48 | [PaletteBrain](https://www.palettebrain.com) | Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF the Family Plan with code **LASTLTDBF51** | Nov 24 - Nov 30 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -146,6 +148,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 18 | [IllustraAI](https://illustraai.com/) | Create consistent vector illustrations in seconds. Perfect for designers, marketers, and developers | 30% Off with code **BLACKFRIDAY24** |   Ends on 22th Dec |
 | 19 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code <br> **BLACKFRIDAY24** | Ends on 8th Dec |
 | 20 | [HammerAI](https://www.hammerai.com/) |Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models |50% OFF with code **BZAOH18** | Ends on 1st Dec
+| 21 | [Auralis AI](https://auralis.ai/) | Auralis AI is an AI-driven platform that enhances customer experience by automating support tasks with multilingual, 24/7 service and seamless CRM integration. |Unlock a 20% Discount on Auralis AI! This Black Friday, boost your customer support with our advanced AI solutions at a special reduced rate. Don't miss out—upgrade your support team now and save big with our limited-time offer! <br> Code: **sid** | Nov. 25 - Dec. 06 |
 
 ## 📚 Books & Courses
 
@@ -203,6 +206,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 15 | [RogerRoger](https://rogerroger.io/black-friday) | The next-gen sales inbox that brings all your WhatsApp, email, LinkedIn, and Sales Navigator chats into one place. It features a built-in Kanban sales pipeline and CRM, helping you to manage follow-ups and keep conversations front and center. | 40% OFF for all plans with code **BF24SALE** | Nov. 22 - Dec. 03 |
 | 16 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions. | **25% OFF** on annual subscription **plus 3 months extra**. | 11-16-2024 - 12-02-2024 |
 | 17 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** | 11-21-2024 - 12-03-2024 |
+| 18 | [Productlogz](https://www.productlogz.com/) | Productlogz is a platform that helps B2B product managers and customer success teams to capture, prioritize, and report on customer feedback and feature requests, and communicate product roadmaps to multiple stakeholders. | Get 10% OFF on the LTD Plan | Nov. 24 - Dec. 06 |
+| 19 | [Quickmake](https://quickmake.pro) | Faceless AI Videos on Autopilot Our robust AI short video generation tool lets you generate faceless videos in merely a few clicks. | 🎉 BLACK FRIDAY SALE! Use code **BLACKFRIDAY80** for 80% off! 🎉 | Nov. 25 - Dec. 25 |
 
 ## 🎨 Themes & Design Resource
 
