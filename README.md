@@ -105,6 +105,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 48 | [PaletteBrain](https://www.palettebrain.com) | Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF the Family Plan with code **LASTLTDBF51** | Nov 24 - Nov 30 |
 | 49 | [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) | Real-time global earthquake monitoring app that aggregates data from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | Pro Plans: Yearly $4.99, Lifetime $7.99 - 50% OFF | Nov 25 - Dec 2 |
 | 50 | [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) | Your Photo Time Machine that helps you rediscover memories by automatically displaying photos from this day in history. Features include auto photo display by date, location-based timeline, sharing templates, and privacy-first local processing. | Pro Plans: Yearly $4.99, Lifetime $7.99 - 50% OFF | Nov 25 - Dec 2 |
+| 51 | [Clobbr](https://clobbr.app/?ref=twf) | Find concurrency & performance issues early and ship with more confidence. | 50% off in the AppStore (already applied) | Nov. 22 - Dec. 8 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -126,6 +127,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
 | 8 | [Wallaby.js and Quokka.js](https://wallabyjs.com/) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Wallaby: 30% OFF, Quokka: 50% OFF | Nov. 25 - Dec. 2 |
 | 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering seamless integration, customizable features, and enhanced document viewing. | 55% OFF any license | Nov. 25 - Dec. 2 |
+| 10 | [Shipixen](https://shipixen.com/?ref=twf) | Ship a beautiful website, blog or landing page in 5 minutes. | $100 OFF on all licenses with code BF2024
+ | Nov. 22 - Dec. 8 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
