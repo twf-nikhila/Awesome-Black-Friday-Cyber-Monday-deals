@@ -129,6 +129,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering seamless integration, customizable features, and enhanced document viewing. | 55% OFF any license | Nov. 25 - Dec. 2 |
 | 10 | [Shipixen](https://shipixen.com/?ref=twf) | Ship a beautiful website, blog or landing page in 5 minutes. | $100 OFF on all licenses with code BF2024
  | Nov. 22 - Dec. 8 |
+ | 11 | [Lintastic ASO Metadata Linter]([https://www.vue-pdf-viewer.dev](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024)) | Audit your iOS app's metadata fields for App Store best practices. | 50% OFF | Nov. 24 - Dec. 6 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
