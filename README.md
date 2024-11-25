@@ -219,6 +219,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 18 | [Productlogz](https://www.productlogz.com/) | Productlogz is a platform that helps B2B product managers and customer success teams to capture, prioritize, and report on customer feedback and feature requests, and communicate product roadmaps to multiple stakeholders. | Get 10% OFF on the LTD Plan | Nov. 24 - Dec. 06 |
 | 19 | [Quickmake](https://quickmake.pro) | Faceless AI Videos on Autopilot Our robust AI short video generation tool lets you generate faceless videos in merely a few clicks. | 🎉 BLACK FRIDAY SALE! Use code **BLACKFRIDAY80** for 80% off! 🎉 | Nov. 25 - Dec. 25 |
 | 20 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2024** | Nov 24 2024 - Dec 31 2024 |
+| 21| [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=BreadcrumbsAwesome-Black-Friday-Cyber-Monday-deals) | Financial market Data for Developers. | **50% OFF** all plans with code BLACK-FRIDAY-50 | Nov 25 - Nov 30 |
 
 ## 🎨 Themes & Design Resource
 
