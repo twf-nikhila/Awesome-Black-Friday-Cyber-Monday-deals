@@ -103,6 +103,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 46 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% off with code **BF2024** | Nov 23 - Dec 5 |
 | 47 | [Clock Widget+](https://apps.apple.com/us/app/clock-widget/id6664064747) | Clock Widget+ is a customizable app that lets users enhance their home screens with stylish and personalized clock widgets on iOS. | 50% off | Nov 24 - Dec 2 |
 | 48 | [PaletteBrain](https://www.palettebrain.com) | Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF the Family Plan with code **LASTLTDBF51** | Nov 24 - Nov 30 |
+| 49 | [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) | Real-time global earthquake monitoring app that aggregates data from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | Pro Plans: Yearly $4.99, Lifetime $7.99 - 50% OFF | Nov 25 - Dec 2 |
+| 50 | [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) | Your Photo Time Machine that helps you rediscover memories by automatically displaying photos from this day in history. Features include auto photo display by date, location-based timeline, sharing templates, and privacy-first local processing. | Pro Plans: Yearly $4.99, Lifetime $7.99 - 50% OFF | Nov 25 - Dec 2 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
