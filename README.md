@@ -108,6 +108,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 51 | [Clobbr](https://clobbr.app/?ref=twf) | Find concurrency & performance issues early and ship with more confidence. | 50% off in the AppStore (already applied) | Nov. 22 - Dec. 8 |
 | 52 | [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) | Prepare for your behavioral interviews with a huge question database, record you mock answers, and get you personalized feedback to ace your interview | 50% off with code **BLACKFRIDAY** | Nov 23 - Dec 6 |
 | 53 | [Trickster](https://www.apparentsoft.com/trickster) | (Mac) Recently used and modified files at your fingertips | 50% Off | Nov 25 - Dec 2 |
+| 54 | [XGetter](https://xgetter.com/?utm_source=aw_bf2024) | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, Weibo, DailyMotion, QQ,... | 60% lifetime off with code **BLACKFRIDAY2024** | Nov 20 - Dec 30 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
