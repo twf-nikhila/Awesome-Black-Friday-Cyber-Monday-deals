@@ -157,6 +157,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 20 | [HammerAI](https://www.hammerai.com/) |Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models |50% OFF with code **BZAOH18** | Ends on 1st Dec
 | 21 | [Auralis AI](https://auralis.ai/) | Auralis AI is an AI-driven platform that enhances customer experience by automating support tasks with multilingual, 24/7 service and seamless CRM integration. |Unlock a 20% Discount on Auralis AI! This Black Friday, boost your customer support with our advanced AI solutions at a special reduced rate. Don't miss out—upgrade your support team now and save big with our limited-time offer! <br> Code: **sid** | Nov. 25 - Dec. 06 |
 | 22 | [Captionify](https://captionify.app/) |Easily transcribe into subtitle, plain text, or video captions from your video and audio files. All processed privately without any data leaving your Mac.|40% OFF ($15 from $25) | Ends on 30 Nov
+| 23 | [Aihairstyles.com](https://www.aihairstyles.com/) | Find the perfect hairstyles for you with the help of AI virtual try-on |30% OFF with code **BFRIDAY30** | Ends on 6th Dec
 
 ## 📚 Books & Courses
 
