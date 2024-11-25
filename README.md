@@ -103,6 +103,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 46 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% off with code **BF2024** | Nov 23 - Dec 5 |
 | 47 | [Clock Widget+](https://apps.apple.com/us/app/clock-widget/id6664064747) | Clock Widget+ is a customizable app that lets users enhance their home screens with stylish and personalized clock widgets on iOS. | 50% off | Nov 24 - Dec 2 |
 | 48 | [PaletteBrain](https://www.palettebrain.com) | Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF the Family Plan with code **LASTLTDBF51** | Nov 24 - Nov 30 |
+| 49 | [Trickster](https://www.apparentsoft.com/trickster) | (Mac) Recently used and modified files at your fingertips | 50% Off | Nov 25 - Dec 2 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
