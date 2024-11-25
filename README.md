@@ -124,6 +124,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
 | 8 | [Wallaby.js and Quokka.js](https://wallabyjs.com/) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Wallaby: 30% OFF, Quokka: 50% OFF | Nov. 25 - Dec. 2 |
 | 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering seamless integration, customizable features, and enhanced document viewing. | 55% OFF any license | Nov. 25 - Dec. 2 |
+| 10 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF | Nov. 25 - Dec. 2 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
