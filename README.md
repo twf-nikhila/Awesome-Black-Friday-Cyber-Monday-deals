@@ -94,7 +94,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 37 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. | 50% off lifetime (automatically applied) | Nov 23 - Dec 4 |
 | 38 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** | Nov 21 - Dec 5 |
 | 39 | [PostPocket](https://apps.apple.com/au/app/postpocket/id6670723615) | PostPocket: The app that helps you save and organize important articles, social media posts, and links effortlessly through a share extension, without disrupting your browsing flow. Perfect for professionals, learners, and content curators. | Annual plan for only $5.99 (40% off) | Nov 23 - Dec 31 |
-| 40 | [Atomic](https://www.indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% Off |
+| 40 | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% Off |
 | 41 | [Bookshelf: Reading Tracker](https://tinyurl.com/yk8vsd7n) | Bookshelf is a beautiful, AI-enhanced reading tracker app that helps people track their library, build a lasting reading habit, and better remember what they read. | **50% OFF** first year, no code required | Nov 23 - Dec 3 |
 | 42 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen | Lifetime 40% OFF | Nov 22 - Dec 1 |
 | 43 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF | Nov 22 - Dec 1 |
@@ -103,6 +103,10 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 46 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% off with code **BF2024** | Nov 23 - Dec 5 |
 | 47 | [Clock Widget+](https://apps.apple.com/us/app/clock-widget/id6664064747) | Clock Widget+ is a customizable app that lets users enhance their home screens with stylish and personalized clock widgets on iOS. | 50% off | Nov 24 - Dec 2 |
 | 48 | [PaletteBrain](https://www.palettebrain.com) | Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF the Family Plan with code **LASTLTDBF51** | Nov 24 - Nov 30 |
+| 49 | [QuakeSense](https://apps.apple.com/us/app/quakesense-earthquake-alerts/id6630381970) | Real-time global earthquake monitoring app that aggregates data from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | Pro Plans: Yearly $4.99, Lifetime $7.99 - 50% OFF | Nov 25 - Dec 2 |
+| 50 | [ThenNow](https://apps.apple.com/us/app/thennow-photo-time-machine/id6711347898) | Your Photo Time Machine that helps you rediscover memories by automatically displaying photos from this day in history. Features include auto photo display by date, location-based timeline, sharing templates, and privacy-first local processing. | Pro Plans: Yearly $4.99, Lifetime $7.99 - 50% OFF | Nov 25 - Dec 2 |
+| 51 | [Clobbr](https://clobbr.app/?ref=twf) | Find concurrency & performance issues early and ship with more confidence. | 50% off in the AppStore (already applied) | Nov. 22 - Dec. 8 |
+| 52 | [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) | Prepare for your behavioral interviews with a huge question database, record you mock answers, and get you personalized feedback to ace your interview | 50% off with code **BLACKFRIDAY** | Nov 23 - Dec 6 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -124,6 +128,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
 | 8 | [Wallaby.js and Quokka.js](https://wallabyjs.com/) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Wallaby: 30% OFF, Quokka: 50% OFF | Nov. 25 - Dec. 2 |
 | 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering seamless integration, customizable features, and enhanced document viewing. | 55% OFF any license | Nov. 25 - Dec. 2 |
+| 10 | [Shipixen](https://shipixen.com/?ref=twf) | Ship a beautiful website, blog or landing page in 5 minutes. | $100 OFF on all licenses with code BF2024
+ | Nov. 22 - Dec. 8 |
+ | 11 | [Lintastic ASO Metadata Linter]([https://www.vue-pdf-viewer.dev](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024)) | Audit your iOS app's metadata fields for App Store best practices. | 50% OFF | Nov. 24 - Dec. 6 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -149,6 +156,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 19 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code <br> **BLACKFRIDAY24** | Ends on 8th Dec |
 | 20 | [HammerAI](https://www.hammerai.com/) |Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models |50% OFF with code **BZAOH18** | Ends on 1st Dec
 | 21 | [Auralis AI](https://auralis.ai/) | Auralis AI is an AI-driven platform that enhances customer experience by automating support tasks with multilingual, 24/7 service and seamless CRM integration. |Unlock a 20% Discount on Auralis AI! This Black Friday, boost your customer support with our advanced AI solutions at a special reduced rate. Don't miss out—upgrade your support team now and save big with our limited-time offer! <br> Code: **sid** | Nov. 25 - Dec. 06 |
+| 22 | [Captionify](https://captionify.app/) |Easily transcribe into subtitle, plain text, or video captions from your video and audio files. All processed privately without any data leaving your Mac.|40% OFF ($15 from $25) | Ends on 30 Nov
+| 23 | [Aihairstyles.com](https://www.aihairstyles.com/) | Find the perfect hairstyles for you with the help of AI virtual try-on |30% OFF with code **BFRIDAY30** | Ends on 6th Dec
 
 ## 📚 Books & Courses
 
@@ -209,7 +218,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 17 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** | 11-21-2024 - 12-03-2024 |
 | 18 | [Productlogz](https://www.productlogz.com/) | Productlogz is a platform that helps B2B product managers and customer success teams to capture, prioritize, and report on customer feedback and feature requests, and communicate product roadmaps to multiple stakeholders. | Get 10% OFF on the LTD Plan | Nov. 24 - Dec. 06 |
 | 19 | [Quickmake](https://quickmake.pro) | Faceless AI Videos on Autopilot Our robust AI short video generation tool lets you generate faceless videos in merely a few clicks. | 🎉 BLACK FRIDAY SALE! Use code **BLACKFRIDAY80** for 80% off! 🎉 | Nov. 25 - Dec. 25 |
-| 20| [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=BreadcrumbsAwesome-Black-Friday-Cyber-Monday-deals) | Financial market Data for Developers. | **50% OFF** all plans with code BLACK-FRIDAY-50 | Nov 25 - Nov 30 |
+| 20 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2024** | Nov 24 2024 - Dec 31 2024 |
+| 21| [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=BreadcrumbsAwesome-Black-Friday-Cyber-Monday-deals) | Financial market Data for Developers. | **50% OFF** all plans with code BLACK-FRIDAY-50 | Nov 25 - Nov 30 |
 
 ## 🎨 Themes & Design Resource
 
