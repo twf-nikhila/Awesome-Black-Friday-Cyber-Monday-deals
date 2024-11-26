@@ -165,6 +165,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 23 | [Aihairstyles.com](https://www.aihairstyles.com/) | Find the perfect hairstyles for you with the help of AI virtual try-on |30% OFF with code **BFRIDAY30** | Ends on 6th Dec
 | 24 | [InclusivitEasy](https://inclusiviteasy.com/) | Enhance your communication with our cutting-edge inclusive language tool! Whether you're an individual or an enterprise, InclusivitEasy helps you implement respectful, inclusive language effortlessly across your content and communication platforms. | 50% discount on any Self-Serve or Enterprise-level package with code **SAVFRD** | Nov 25 - Dec 01 |
 | 25 | [Tales.so](https://www.tales.so/?utm_source=aw_bf2024) | Tales.so is an AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. Think of it as a way to keep learning during stroller walks, coffee runs, long commutes or just rare quiet times. | Use code **BFCM24 to enjoy 75% off** on your billing forever. | Nov 25 - Dec 20 |
+| 26 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | **90% OFF** for two months or **65% OFF** on yearly plans. | Nov 26 - Dec 2 |
 
 ## 📚 Books & Courses
 
@@ -228,6 +229,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 20 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2024** | Nov 24 2024 - Dec 31 2024 |
 | 21| [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=BreadcrumbsAwesome-Black-Friday-Cyber-Monday-deals) | Financial market Data for Developers. | **50% OFF** all plans with code BLACK-FRIDAY-50 | Nov 25 - Nov 30 |
 | 22 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months | Till 30 Nov |
+| 23 | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever | Nov 26 - Dec 2 |
 
 ## 🎨 Themes & Design Resource
 
