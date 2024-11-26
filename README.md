@@ -130,12 +130,12 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
 | 8 | [Wallaby.js and Quokka.js](https://wallabyjs.com/) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Wallaby: 30% OFF, Quokka: 50% OFF | Nov. 25 - Dec. 2 |
 | 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering seamless integration, customizable features, and enhanced document viewing. | 55% OFF any license | Nov. 25 - Dec. 2 |
-| 10 | [Shipixen](https://shipixen.com/?ref=twf) | Ship a beautiful website, blog or landing page in 5 minutes. | $100 OFF on all licenses with code BF2024
- | Nov. 22 - Dec. 8 |
- | 11 | [Lintastic ASO Metadata Linter]([https://www.vue-pdf-viewer.dev](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024)) | Audit your iOS app's metadata fields for App Store best practices. | 50% OFF | Nov. 24 - Dec. 6 |
+| 10 | [Shipixen](https://shipixen.com/?ref=twf) | Ship a beautiful website, blog or landing page in 5 minutes. | $100 OFF on all licenses with code BF2024 | Nov. 22 - Dec. 8 |
+| 11 | [Lintastic ASO Metadata Linter]([https://www.vue-pdf-viewer.dev](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024)) | Audit your iOS app's metadata fields for App Store best practices. | 50% OFF | Nov. 24 - Dec. 6 |
 | 12 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF | Nov. 25 - Dec. 2 |
 | 13 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% Off | Nov 25 - Dec 8 |
 | 14 | [Lists Kit](https://listskit.com/?twf-nikhila) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off | Till 30 Nov |
+| 15 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime | Nov. 25 - Dec. 3 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
