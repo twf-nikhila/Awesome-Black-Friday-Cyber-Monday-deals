@@ -261,6 +261,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 8 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle 1) Find Opportunities on Autopilot with Fuelance; 2) Onboard Clients with a 35+ Page Welcome Pack; 3) Communicate with clients with 250+ Customizable Email Templates; 4) Prospect with B2B Signals & Tracker; 5) Craft a blog using the Blog Basics Workbook. | 75% OFF. Lifetime Access and Updates - **75BSB** | 11-20-2024 - 12-31-2024 |
 | 9 | [BacklinkMonitor](https://backlinkmonitor.com/) | Upgrade your link-building game and start tracking like a pro with BacklinkMonitor. | 30% OFF on All Plans with code **BLACKFRIDAY30** 🎁 | 11-20-2024 - 12-03-2024 |
 | 10 | [SyncSignature](https://syncsignature.com) | Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all recurring plans. Use code BF24CM60 on checkout. | Nov 15 - Dec 10 |
+| 11 | [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) | Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.|40% off the complete bundle ($89 instead of $148). | Nov 27 - Dec 10 |
+
 
 
 ## 📩 Newsletter & Communities
