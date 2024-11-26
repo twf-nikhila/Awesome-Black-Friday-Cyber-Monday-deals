@@ -162,6 +162,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 21 | [Auralis AI](https://auralis.ai/) | Auralis AI is an AI-driven platform that enhances customer experience by automating support tasks with multilingual, 24/7 service and seamless CRM integration. |Unlock a 20% Discount on Auralis AI! This Black Friday, boost your customer support with our advanced AI solutions at a special reduced rate. Don't miss out—upgrade your support team now and save big with our limited-time offer! <br> Code: **sid** | Nov. 25 - Dec. 06 |
 | 22 | [Captionify](https://captionify.app/) |Easily transcribe into subtitle, plain text, or video captions from your video and audio files. All processed privately without any data leaving your Mac.|40% OFF ($15 from $25) | Ends on 30 Nov
 | 23 | [Aihairstyles.com](https://www.aihairstyles.com/) | Find the perfect hairstyles for you with the help of AI virtual try-on |30% OFF with code **BFRIDAY30** | Ends on 6th Dec
+| 24 | [InclusivitEasy](https://inclusiviteasy.com/) | Enhance your communication with our cutting-edge inclusive language tool! Whether you're an individual or an enterprise, InclusivitEasy helps you implement respectful, inclusive language effortlessly across your content and communication platforms. | 50% discount on any Self-Serve or Enterprise-level package with code **SAVFRD** | Nov 25 - Dec 01 |
 
 ## 📚 Books & Courses
 
