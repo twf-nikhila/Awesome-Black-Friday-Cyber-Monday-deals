@@ -228,6 +228,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 20 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2024** | Nov 24 2024 - Dec 31 2024 |
 | 21| [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=BreadcrumbsAwesome-Black-Friday-Cyber-Monday-deals) | Financial market Data for Developers. | **50% OFF** all plans with code BLACK-FRIDAY-50 | Nov 25 - Nov 30 |
 | 22 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months | Till 30 Nov |
+| 23 | [Gorby](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvement, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. | Nov. 26 - Dec. 02 |
 
 ## 🎨 Themes & Design Resource
 
