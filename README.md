@@ -134,7 +134,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
  | Nov. 22 - Dec. 8 |
  | 11 | [Lintastic ASO Metadata Linter]([https://www.vue-pdf-viewer.dev](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024)) | Audit your iOS app's metadata fields for App Store best practices. | 50% OFF | Nov. 24 - Dec. 6 |
 | 12 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF | Nov. 25 - Dec. 2 |
-| 14 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% Off | Nov 25 - Dec 8 |
+| 13 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% Off | Nov 25 - Dec 8 |
+| 14 | [Lists Kit](https://listskit.com/?twf-nikhila) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off | Till 30 Nov |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -226,6 +227,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 19 | [Quickmake](https://quickmake.pro) | Faceless AI Videos on Autopilot Our robust AI short video generation tool lets you generate faceless videos in merely a few clicks. | 🎉 BLACK FRIDAY SALE! Use code **BLACKFRIDAY80** for 80% off! 🎉 | Nov. 25 - Dec. 25 |
 | 20 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2024** | Nov 24 2024 - Dec 31 2024 |
 | 21| [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=BreadcrumbsAwesome-Black-Friday-Cyber-Monday-deals) | Financial market Data for Developers. | **50% OFF** all plans with code BLACK-FRIDAY-50 | Nov 25 - Nov 30 |
+| 22 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months | Till 30 Nov |
 
 ## 🎨 Themes & Design Resource
 
@@ -271,11 +273,11 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 4 | [SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers Subsearchr is your ultimate gateway to a database of over 1900+ carefully curated and highly-subscribed newsletters. | 50% OFF. Lifetime Access and Updates with code **50SUBSTACK** | 11-20-2024 - 12-31-2024 |
 
 
-
 ## 🔌 Plugins
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [EXAMPLE](https://example.com) | Product Description | Deal Details | Start-End date |
+| 1 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?twf-nikhila) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. | Till 30 Nov |
+
 
 ## 🧬 Standalone scripts
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
