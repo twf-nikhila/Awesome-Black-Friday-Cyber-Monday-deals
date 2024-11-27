@@ -171,6 +171,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 25 | [Tales.so](https://www.tales.so/?utm_source=aw_bf2024) | Tales.so is an AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. Think of it as a way to keep learning during stroller walks, coffee runs, long commutes or just rare quiet times. | Use code **BFCM24 to enjoy 75% off** on your billing forever. | Nov 25 - Dec 20 |
 | 26 | [Engage AI](https://engage-ai.co/black-friday-sales-2024/) | Start conversations and book meetings with a LinkedIn AI Prospecting Agent. Stop shouting at LinkedIn and email inboxes—they're full of spam, and you never get a response. | Further 40% discount on the reduced annual plan with code **BLACKLI24** | Nov 26 - Dec 03 |
 | 27 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | %90 on monthly plans, %65 on yearly plans | Nov 26 - Dec 02 |
+| 28 | [AI Face Swap - AISaver](https://aisaver.io/) |  AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day | Nov 25 - Dec 02 |
+
 
 ## 📚 Books & Courses
 
