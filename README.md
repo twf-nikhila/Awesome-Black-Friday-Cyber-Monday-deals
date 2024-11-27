@@ -21,7 +21,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
   * 📘 [Developer Books & Courses](#-developer-books--courses)  
   * 🚀 [Startup Books](#-startup-books)  
   * 🧭 [Career Books](#-career-books)  
-* ♻️ [SaaS Software](#-saas-software)  
+* ♻️ [SaaS Software](#%EF%B8%8F-saas-software)  
 * 🎨 [Themes & Design Resource](#-themes--design-resource)
 * 🌈 [Marketing Tools](#-marketing-tools)
 * 📩 [Newsletter & Communities](#-newsletter--communities)
@@ -241,6 +241,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 22 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months | Till 30 Nov |
 | 23 | [Gorby](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvement, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. | Nov. 26 - Dec. 02 |
 | 24 | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever | Nov 26 - Dec 2 |
+| 25 | [WishKit](https://www.wishkit.io) | Gather user feedback for your iOS app and prioritize features based on user votes. | **33% OFF** for an antire year! Code: BLACKFRIDAY24 | Nov 26 - Dec 30 |
 
 
 ## 🎨 Themes & Design Resource
