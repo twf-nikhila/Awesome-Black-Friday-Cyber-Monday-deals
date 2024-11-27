@@ -165,6 +165,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 23 | [Aihairstyles.com](https://www.aihairstyles.com/) | Find the perfect hairstyles for you with the help of AI virtual try-on |30% OFF with code **BFRIDAY30** | Ends on 6th Dec
 | 24 | [InclusivitEasy](https://inclusiviteasy.com/) | Enhance your communication with our cutting-edge inclusive language tool! Whether you're an individual or an enterprise, InclusivitEasy helps you implement respectful, inclusive language effortlessly across your content and communication platforms. | 50% discount on any Self-Serve or Enterprise-level package with code **SAVFRD** | Nov 25 - Dec 01 |
 | 25 | [Tales.so](https://www.tales.so/?utm_source=aw_bf2024) | Tales.so is an AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. Think of it as a way to keep learning during stroller walks, coffee runs, long commutes or just rare quiet times. | Use code **BFCM24 to enjoy 75% off** on your billing forever. | Nov 25 - Dec 20 |
+| 26 | [AI Face Swap - AISaver](https://aisaver.io/) |  AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day | Nov 25 - Dec 02 |
 
 ## 📚 Books & Courses
 
