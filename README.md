@@ -140,6 +140,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 14 | [Lists Kit](https://listskit.com/?twf-nikhila) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off | Till 30 Nov |
 | 15 | [SwiftShip](https://swiftship.dev/) | A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. | 40% OFF with the code **BF2024** at checkout. | Nov 27 - Nov 30 |
 | 16 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime | Nov. 25 - Dec. 3 |
+| 17 | [Beaconly](https://beaconly.app/) | SBeaconly turns your macOS menu bar into a powerful hub of productivity. Access your critical tools, services, and updates—all without interrupting your workflow. Track tasks from platforms like Jira, Asana, and Trello, Linear, monitor service statuses like AWS and Google Cloud, or check crypto prices—all at a glance. Check latest HackerNews, TechCrunch and others right there. Versatile, extensible. New extensions are added regularly that keep expanding your capabilities. | 33% discount on Yearly and Monthly plans | Nov. 27 - Dec. 31 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
