@@ -109,6 +109,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 52 | [Echo Interview Prep](https://apps.apple.com/redeem?ctx=offercodes&id=6474445689&code=BLACKFRIDAY2024) | Prepare for your behavioral interviews with a huge question database, record you mock answers, and get you personalized feedback to ace your interview | 50% off with code **BLACKFRIDAY** | Nov 23 - Dec 6 |
 | 53 | [Trickster](https://www.apparentsoft.com/trickster) | (Mac) Recently used and modified files at your fingertips | 50% Off | Nov 25 - Dec 2 |
 | 54 | [XGetter](https://xgetter.com/?utm_source=aw_bf2024) | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, Weibo, DailyMotion, QQ,... | 60% lifetime off with code **BLACKFRIDAY2024** | Nov 20 - Dec 30 |
+| 55 | [Hear it](https://apps.apple.com/us/app/pronounce-words-hear-it/id6480349689) | Hear it, is an iOS app that helps you embark on a seamless journey to perfect your speaking and pronunciation. With just one tap, discover how a word is pronounced, and how a native speaker articulates it. | 75% OFF Lifetime Access | Nov 27 - Dec 04 |
+| 56 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | 50% OFF for 1 year or for the first three months of monthly plans **FRIDAY50** | Nov 25 - Dec 2 |
+
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -130,12 +133,13 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [LaunchFast](https://www.launchfa.st) | Save countless hours with comprehensive SaaS starter kits, covering SEO, analytics, authentication, payments, and more. Launch your project faster with integrated tools for Astro, Next.js, and SvelteKit, designed to help you focus on building for your customers. | 25% OFF with code **BLACKFRIDAY2024** | Nov. 25 - Dec. 25 |
 | 8 | [Wallaby.js and Quokka.js](https://wallabyjs.com/) | Supercharge your JavaScript/TypeScript workflow with real-time testing, debugging, and instant code feedback - perfect companions for working with AI generated code. | Wallaby: 30% OFF, Quokka: 50% OFF | Nov. 25 - Dec. 2 |
 | 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev) | A powerful PDF viewer for Vue.js, offering seamless integration, customizable features, and enhanced document viewing. | 55% OFF any license | Nov. 25 - Dec. 2 |
-| 10 | [Shipixen](https://shipixen.com/?ref=twf) | Ship a beautiful website, blog or landing page in 5 minutes. | $100 OFF on all licenses with code BF2024
- | Nov. 22 - Dec. 8 |
- | 11 | [Lintastic ASO Metadata Linter]([https://www.vue-pdf-viewer.dev](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024)) | Audit your iOS app's metadata fields for App Store best practices. | 50% OFF | Nov. 24 - Dec. 6 |
+| 10 | [Shipixen](https://shipixen.com/?ref=twf) | Ship a beautiful website, blog or landing page in 5 minutes. | $100 OFF on all licenses with code BF2024 | Nov. 22 - Dec. 8 |
+| 11 | [Lintastic ASO Metadata Linter]([https://www.vue-pdf-viewer.dev](https://apps.apple.com/redeem?ctx=offercodes&id=6479271017&code=BLACKFRIDAY2024)) | Audit your iOS app's metadata fields for App Store best practices. | 50% OFF | Nov. 24 - Dec. 6 |
 | 12 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF | Nov. 25 - Dec. 2 |
 | 13 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% Off | Nov 25 - Dec 8 |
 | 14 | [Lists Kit](https://listskit.com/?twf-nikhila) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off | Till 30 Nov |
+| 15 | [SwiftShip](https://swiftship.dev/) | A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. | 40% OFF with the code **BF2024** at checkout. | Nov 27 - Nov 30 |
+| 16 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime | Nov. 25 - Dec. 3 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -165,7 +169,10 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 23 | [Aihairstyles.com](https://www.aihairstyles.com/) | Find the perfect hairstyles for you with the help of AI virtual try-on |30% OFF with code **BFRIDAY30** | Ends on 6th Dec
 | 24 | [InclusivitEasy](https://inclusiviteasy.com/) | Enhance your communication with our cutting-edge inclusive language tool! Whether you're an individual or an enterprise, InclusivitEasy helps you implement respectful, inclusive language effortlessly across your content and communication platforms. | 50% discount on any Self-Serve or Enterprise-level package with code **SAVFRD** | Nov 25 - Dec 01 |
 | 25 | [Tales.so](https://www.tales.so/?utm_source=aw_bf2024) | Tales.so is an AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. Think of it as a way to keep learning during stroller walks, coffee runs, long commutes or just rare quiet times. | Use code **BFCM24 to enjoy 75% off** on your billing forever. | Nov 25 - Dec 20 |
-| 26 | [AI Face Swap - AISaver](https://aisaver.io/) |  AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day | Nov 25 - Dec 02 |
+| 26 | [Engage AI](https://engage-ai.co/black-friday-sales-2024/) | Start conversations and book meetings with a LinkedIn AI Prospecting Agent. Stop shouting at LinkedIn and email inboxes—they're full of spam, and you never get a response. | Further 40% discount on the reduced annual plan with code **BLACKLI24** | Nov 26 - Dec 03 |
+| 27 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | %90 on monthly plans, %65 on yearly plans | Nov 26 - Dec 02 |
+| 28 | [AI Face Swap - AISaver](https://aisaver.io/) |  AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day | Nov 25 - Dec 02 |
+
 
 ## 📚 Books & Courses
 
@@ -229,6 +236,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 20 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2024** | Nov 24 2024 - Dec 31 2024 |
 | 21| [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=BreadcrumbsAwesome-Black-Friday-Cyber-Monday-deals) | Financial market Data for Developers. | **50% OFF** all plans with code BLACK-FRIDAY-50 | Nov 25 - Nov 30 |
 | 22 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months | Till 30 Nov |
+| 23 | [Gorby](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvement, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. | Nov. 26 - Dec. 02 |
 
 ## 🎨 Themes & Design Resource
 
@@ -262,6 +270,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 8 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle 1) Find Opportunities on Autopilot with Fuelance; 2) Onboard Clients with a 35+ Page Welcome Pack; 3) Communicate with clients with 250+ Customizable Email Templates; 4) Prospect with B2B Signals & Tracker; 5) Craft a blog using the Blog Basics Workbook. | 75% OFF. Lifetime Access and Updates - **75BSB** | 11-20-2024 - 12-31-2024 |
 | 9 | [BacklinkMonitor](https://backlinkmonitor.com/) | Upgrade your link-building game and start tracking like a pro with BacklinkMonitor. | 30% OFF on All Plans with code **BLACKFRIDAY30** 🎁 | 11-20-2024 - 12-03-2024 |
 | 10 | [SyncSignature](https://syncsignature.com) | Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all recurring plans. Use code BF24CM60 on checkout. | Nov 15 - Dec 10 |
+| 11 | [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) | Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.|40% off the complete bundle ($89 instead of $148). | Nov 27 - Dec 10 |
+
 
 
 ## 📩 Newsletter & Communities
@@ -297,7 +307,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| # | [Pro Forecasts: Sonuby Weather](https://sonuby.com) (iOS/Android) | Reliable and customisable weather forecasts, incl. tides, waves and altitudes! | 40% OFF PERMANENTLY / Annual Enthusiast Subscription / Offer available from within the app | Until Cyber Monday |
+| 1 | [Pro Forecasts: Sonuby Weather](https://sonuby.com) (iOS/Android) | Reliable and customisable weather forecasts, incl. tides, waves and altitudes! | 40% OFF PERMANENTLY / Annual Enthusiast Subscription / Offer available from within the app | Until Cyber Monday |
+| 2 | [Product Management as a Service](https://hiremeaspm.com/#pricing) | Supercharge your product strategy with expert Product Management services. Black Friday Special: 25% OFF on one-day and monthly Product Management services. | 25% discount | Nov 26 - Dec 15 |
 
 # 🔖 Other places to list Black Friday Deals:
 1. [indiegoodies](https://indiegoodies.com/blackfriday)
