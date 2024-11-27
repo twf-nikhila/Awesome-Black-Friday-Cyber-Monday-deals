@@ -276,6 +276,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 9 | [BacklinkMonitor](https://backlinkmonitor.com/) | Upgrade your link-building game and start tracking like a pro with BacklinkMonitor. | 30% OFF on All Plans with code **BLACKFRIDAY30** 🎁 | 11-20-2024 - 12-03-2024 |
 | 10 | [SyncSignature](https://syncsignature.com) | Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all recurring plans. Use code BF24CM60 on checkout. | Nov 15 - Dec 10 |
 | 11 | [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) | Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.|40% off the complete bundle ($89 instead of $148). | Nov 27 - Dec 10 |
+| 12 | [VisalSitemaps + VisualFlows]([https://www.bynapkin.com/guides/reddit](https://app.visualsitemaps.com/pricing#yearly_2020_09)) | Autogenerate VisualSitemaps in Seconds.
+>> Plan Content. Create Flows. Track Competitors.|33% off Annual Plans | Nov 27 - Dec 7 | **VISUALFRIDAY-33-OFF-ANNUAL**
 
 
 
