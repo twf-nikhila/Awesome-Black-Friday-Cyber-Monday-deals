@@ -170,8 +170,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 24 | [InclusivitEasy](https://inclusiviteasy.com/) | Enhance your communication with our cutting-edge inclusive language tool! Whether you're an individual or an enterprise, InclusivitEasy helps you implement respectful, inclusive language effortlessly across your content and communication platforms. | 50% discount on any Self-Serve or Enterprise-level package with code **SAVFRD** | Nov 25 - Dec 01 |
 | 25 | [Tales.so](https://www.tales.so/?utm_source=aw_bf2024) | Tales.so is an AI podcasting platform where we take insights from popular books and transform them into quick, fun podcast episodes you can enjoy anytime. We have over 10k+ books on parenting, startups, self help, history, science fiction and more. Think of it as a way to keep learning during stroller walks, coffee runs, long commutes or just rare quiet times. | Use code **BFCM24 to enjoy 75% off** on your billing forever. | Nov 25 - Dec 20 |
 | 26 | [Engage AI](https://engage-ai.co/black-friday-sales-2024/) | Start conversations and book meetings with a LinkedIn AI Prospecting Agent. Stop shouting at LinkedIn and email inboxes—they're full of spam, and you never get a response. | Further 40% discount on the reduced annual plan with code **BLACKLI24** | Nov 26 - Dec 03 |
-| 27 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | %90 on monthly plans, %65 on yearly plans | Nov 26 - Dec 02 |
-| 28 | [AI Face Swap - AISaver](https://aisaver.io/) |  AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day | Nov 25 - Dec 02 |
+| 27 | [AI Face Swap - AISaver](https://aisaver.io/) |  AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day | Nov 25 - Dec 02 |
+| 28 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | **90% OFF** for two months or **65% OFF** on yearly plans. | Nov 26 - Dec 2 |
+
 
 
 ## 📚 Books & Courses
@@ -238,6 +239,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 21| [xChangeApi](https://xchangeapi.com/?utm_source=github&utm_medium=BreadcrumbsAwesome-Black-Friday-Cyber-Monday-deals) | Financial market Data for Developers. | **50% OFF** all plans with code BLACK-FRIDAY-50 | Nov 25 - Nov 30 |
 | 22 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months | Till 30 Nov |
 | 23 | [Gorby](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvement, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. | Nov. 26 - Dec. 02 |
+| 24 | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever | Nov 26 - Dec 2 |
+
 
 ## 🎨 Themes & Design Resource
 
