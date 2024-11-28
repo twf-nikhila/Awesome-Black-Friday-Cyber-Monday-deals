@@ -141,7 +141,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 14 | [Lists Kit](https://listskit.com/?twf-nikhila) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off | Till 30 Nov |
 | 15 | [SwiftShip](https://swiftship.dev/) | A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. | 40% OFF with the code **BF2024** at checkout. | Nov 27 - Nov 30 |
 | 16 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime | Nov. 25 - Dec. 3 |
-| 17 | [Beaconly](https://beaconly.app/) | SBeaconly turns your macOS menu bar into a powerful hub of productivity. Access your critical tools, services, and updates—all without interrupting your workflow. Track tasks from platforms like Jira, Asana, and Trello, Linear, monitor service statuses like AWS and Google Cloud, or check crypto prices—all at a glance. Check latest HackerNews, TechCrunch and others right there. Versatile, extensible. New extensions are added regularly that keep expanding your capabilities. | 33% discount on Yearly and Monthly plans | Nov. 27 - Dec. 31 |
+| 17 | [Beaconly](https://beaconly.app/) | Beaconly turns your macOS menu bar into a powerful hub of productivity. Access your critical tools, services, and updates—all without interrupting your workflow. Track tasks from platforms like Jira, Asana, and Trello, Linear, monitor service statuses like AWS and Google Cloud, or check crypto prices—all at a glance. Check latest HackerNews, TechCrunch and others right there. Versatile, extensible. New extensions are added regularly that keep expanding your capabilities. | 33% discount on Yearly and Monthly plans | Nov. 27 - Dec. 31 |
 | 18 | [NextJsStarter](https://johnrush.me/black-friday-deals/) | Ads and paid listings on a directory of NextJS boilerplates. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 19 | [Unicorn Platform](https://johnrush.me/black-friday-deals/) | Unicorn Platform is an AI website builder that helps to quickly create websites without design or development skills. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 20 | [Rapid Forms](https://johnrush.me/black-friday-deals/) | The easiest way to create forms people love to fill out. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
@@ -149,6 +149,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 22 | [AI Scraper](https://johnrush.me/black-friday-deals/) | Extract data from any website in seconds. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 23 | [DevHunt](https://johnrush.me/black-friday-deals/) | Ads and Paid listings on the biggest launchpad for dev tools. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 24 | [MVPwizards](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of freelancers & agencies. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 25 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks uptime, errors, and performance, with instant alerts via email, Discord, Telegram, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** | Nov. 24 - Dec. 3 |
+
 
 
 ## 🤖 AI Tools
