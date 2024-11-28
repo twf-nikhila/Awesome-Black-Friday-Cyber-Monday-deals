@@ -28,6 +28,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🔌 [Plugins](#-plugins)
 * 🧬 [Standalone scripts](#-standalone-scripts)
 * 🛒 [Marketplaces](#-marketplaces)
+* 🔍 [SEO Tools](#-seo-tools)
 * 💾 [Others](#-others)
 * 🔖 [Other places to list your BF Deals](#-other-places-to-list-black-friday-deals)
 
@@ -320,6 +321,10 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 1 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | This is the Notion 50+ Page Freelancer Pack. Its packed full with 50+ Templates and Documents that can be saved online or downloaded in PDF, CSV and even HTML. | 60% OFF. Lifetime Access and Updates with code **60OFF50** | 11-20-2024 - 12-31-2024 |
 | 2 | [Marketsy](https://johnrush.me/black-friday-deals/) | Marketsy.ai can whip up a complete e-commerce solution in just a few seconds via a single prompt. | Get the Deal (50% off) | Nov. 27 - Jan. 02 |
 
+## 🔍 SEO Tools
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [ListingBott](https://johnrush.me/black-friday-deals/) | Get your SaaS, tool, product, newsletter, or blog listed on 100 directories in one click, saving you days of work to focus on more creative tasks. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 
 
 ## 💾 Others
