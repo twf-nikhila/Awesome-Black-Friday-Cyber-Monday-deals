@@ -111,7 +111,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 54 | [XGetter](https://xgetter.com/?utm_source=aw_bf2024) | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, Weibo, DailyMotion, QQ,... | 60% lifetime off with code **BLACKFRIDAY2024** | Nov 20 - Dec 30 |
 | 55 | [Hear it](https://apps.apple.com/us/app/pronounce-words-hear-it/id6480349689) | Hear it, is an iOS app that helps you embark on a seamless journey to perfect your speaking and pronunciation. With just one tap, discover how a word is pronounced, and how a native speaker articulates it. | 75% OFF Lifetime Access | Nov 27 - Dec 04 |
 | 56 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | 50% OFF for 1 year or for the first three months of monthly plans **FRIDAY50** | Nov 25 - Dec 2 |
-| 57 | [Beaconly]([https://www.chatsimple.ai/?via=aitools-fyi](https://beaconly.app/)) | Beaconly turns your macOS menu bar into a productivity hub, offering quick access to tools, task tracking (Jira, Asana, Trello), service statuses (AWS, Google Cloud), crypto prices, and news, with new extensions added regularly. | **33% OFF** | Nov 25 - Dec 31 |
+| 57 | [Beaconly](https://beaconly.app/) | Beaconly turns your macOS menu bar into a productivity hub, offering quick access to tools, task tracking (Jira, Asana, Trello), service statuses (AWS, Google Cloud), crypto prices, and news, with new extensions added regularly. | **33% OFF** | Nov 25 - Dec 31 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
