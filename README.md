@@ -202,6 +202,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 6 | [LabEx](https://labex.io) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. | Nov 18 - Dec 2 |
 | 7 | [A Developer's Guide to Blogging](https://theankurtyagi.com/books/) | A guide for developers to start and grow a successful blog. | 50% OFF with code **BLACKFRIDAY** | Nov 1 - Dec 2 |
 | 8 | [Codecourse](https://codecourse.com) | Practical screencasts for developers | 50% off all memberships. No code needed. | Nov 18 - Dec 2 |
+| 9 | [DNS for Developers](https://nslookup.io/dns-course/) | Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all. | 66% off. No code needed. | Nov 27 - Dec 3 |
 
 
 ### 🚀 Startup Books  
