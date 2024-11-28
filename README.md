@@ -113,6 +113,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 55 | [Hear it](https://apps.apple.com/us/app/pronounce-words-hear-it/id6480349689) | Hear it, is an iOS app that helps you embark on a seamless journey to perfect your speaking and pronunciation. With just one tap, discover how a word is pronounced, and how a native speaker articulates it. | 75% OFF Lifetime Access | Nov 27 - Dec 04 |
 | 56 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | 50% OFF for 1 year or for the first three months of monthly plans **FRIDAY50** | Nov 25 - Dec 2 |
 | 57 | [Beaconly](https://beaconly.app/) | Beaconly turns your macOS menu bar into a productivity hub, offering quick access to tools, task tracking (Jira, Asana, Trello), service statuses (AWS, Google Cloud), crypto prices, and news, with new extensions added regularly. | **33% OFF** | Nov 25 - Dec 31 |
+| 58 | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase. | Nov 28 - Dec 3 |
+
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
