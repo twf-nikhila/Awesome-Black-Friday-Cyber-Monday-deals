@@ -114,7 +114,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 56 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | 50% OFF for 1 year or for the first three months of monthly plans **FRIDAY50** | Nov 25 - Dec 2 |
 | 57 | [Beaconly](https://beaconly.app/) | Beaconly turns your macOS menu bar into a productivity hub, offering quick access to tools, task tracking (Jira, Asana, Trello), service statuses (AWS, Google Cloud), crypto prices, and news, with new extensions added regularly. | **33% OFF** | Nov 25 - Dec 31 |
 | 58 | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase. | Nov 28 - Dec 3 |
-
+| 59 | [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/note/id1602765272) | Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures. | 50% OFF Annaul **BLACK50**. | Nov 28 - Jan 5 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -230,6 +230,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Optimizing The 4% Rule](https://gracehuang.gumroad.com/l/4percentrule/BLACKFRIDAY24) | A comprehensive guide on building, backtesting, and managing a financial independence portfolio using the 4% rule. | 40% OFF with code **BLACKFRIDAY24** | Nov 1 - Dec 2 |
 | 2 | [Transform Small Your Business with Proven SEO Strategies EBook](https://alstonantony.com/transform-small-your-business-with-proven-seo-strategies-ebook/) | Discover essential SEO techniques to boost your online visibility and drive more customers to your business. | $200 OFF with code **BlackFriday2024** | Nov 15 - Dec 4 |
+| 3 | [Uplift iOS Interview](https://ishtiakahmed.lemonsqueezy.com/buy/6a4db36d-59b9-4fc7-b2cc-9e57a482a771) | A Comprehensive Guide to Master Your iOS Interview. | 25% OFF using code **BLACK25** | Nov 28 - Jan 05 |
+| 4 | [Ace iOS Coding Interview](https://ishtiakahmed.lemonsqueezy.com/buy/9116d101-ef55-4244-a61d-e63e0c38ad4d) | Conquer iOS Coding Interviews with Confidence and Expertise. | 25% OFF using code **BLACK25** | Nov 28 - Jan 05 |
 
 ---
 
