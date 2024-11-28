@@ -173,6 +173,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 26 | [Engage AI](https://engage-ai.co/black-friday-sales-2024/) | Start conversations and book meetings with a LinkedIn AI Prospecting Agent. Stop shouting at LinkedIn and email inboxes—they're full of spam, and you never get a response. | Further 40% discount on the reduced annual plan with code **BLACKLI24** | Nov 26 - Dec 03 |
 | 27 | [AI Face Swap - AISaver](https://aisaver.io/) |  AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day | Nov 25 - Dec 02 |
 | 28 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | **90% OFF** for two months or **65% OFF** on yearly plans. | Nov 26 - Dec 2 |
+| 29 | [Submagic](https://www.submagic.co/) | Submagic is the video editing app on the market. It is an incredible tool that simplifies the process of generating engaging subtitles for your videos. | We’re providing the offer of 40% off on annual plans, this is the most interesting and only deal of the year. | Nov 29 - Nov 30 |
 
 
 
