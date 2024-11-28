@@ -167,7 +167,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 4 | [Airbrush](https://www.airbrush.ai/lifetime-deal) | AI Image generator - Use 100+ AI models to create high-quality images and artwork in seconds | 75% OFF - Get lifetime access for a **one-time price of $29** | Ends on 5th Dec
 | 5 | [MindPal](https://mindpal.io) | Build AI agents & multi-agent workflows to automate business processes | 60% OFF all YEARLY plans with code `BLACKFRIDAY24` | Ends on 2nd Dec
 | 6 | [AI4Chat](https://www.ai4chat.co/) | Use 100+ AI models on one platform — at a fraction of the cost | 20% OFF all plans with code `BF20` | Ends on 2nd Dec
-| 7 | [BoltAI](https://boltai.com) | Access all AI models in one Mac app: Document Analysis, Advanced Voice Mode, Inline Whisper and 100+ more features | 30% OFF with code **BFCM2024** | Ends on 1st Dec
+| 7 | [BoltAI](https://boltai.com) | Access all AI models in one Mac app: Document Analysis, Advanced Voice Mode, Inline Whisper and 100+ more features | 60% OFF for Premium+ license | Ends on 1st Dec
 | 8 | [PDF Pals](https://pdfpals.com) | Instantly chat with any PDF on your Mac | 53% OFF with code **BFCM2024** | Ends on 1st Dec
 | 9 | [WhisperUI](https://whisperui.com) | Affordable Speech to Text service powered by OpenAI Whisper. | 60% Discount | 11-14-2024 - 12-02-2024 |
 | 10 | [Best Directories](https://bestdirectories.org) | Discover the best online directories in one place at BestDirectories.org. Explore, compare, and find top-rated directories for various niches, helping you navigate the web with ease. | 50% discount with code **BLACKFRIDAY50** | 11-19-2024 - 12-31-2024 |
