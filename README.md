@@ -141,6 +141,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 15 | [SwiftShip](https://swiftship.dev/) | A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. | 40% OFF with the code **BF2024** at checkout. | Nov 27 - Nov 30 |
 | 16 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime | Nov. 25 - Dec. 3 |
 | 17 | [Beaconly](https://beaconly.app/) | SBeaconly turns your macOS menu bar into a powerful hub of productivity. Access your critical tools, services, and updates—all without interrupting your workflow. Track tasks from platforms like Jira, Asana, and Trello, Linear, monitor service statuses like AWS and Google Cloud, or check crypto prices—all at a glance. Check latest HackerNews, TechCrunch and others right there. Versatile, extensible. New extensions are added regularly that keep expanding your capabilities. | 33% discount on Yearly and Monthly plans | Nov. 27 - Dec. 31 |
+| 18 | [OSSsoftware.org](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of open source alternatives. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
+| 19 | [NextJsStarter.com](https://johnrush.me/black-friday-deals/) | Ads and paid listings on a directory of NextJS boilerplates. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
+
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -307,6 +310,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | This is the Notion 50+ Page Freelancer Pack. Its packed full with 50+ Templates and Documents that can be saved online or downloaded in PDF, CSV and even HTML. | 60% OFF. Lifetime Access and Updates with code **60OFF50** | 11-20-2024 - 12-31-2024 |
+| 2 | [HostedSoftware.org](https://johnrush.me/black-friday-deals/) | Ads on a directory of a software that can be self hosted. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
+| 3 | [MVPwizards.com](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of freelancers & agencies. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
 
 
 ## 💾 Others
