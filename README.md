@@ -28,6 +28,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🔌 [Plugins](#-plugins)
 * 🧬 [Standalone scripts](#-standalone-scripts)
 * 🛒 [Marketplaces](#-marketplaces)
+* 🔍 [SEO Tools](#-seo-tools)
 * 💾 [Others](#-others)
 * 🔖 [Other places to list your BF Deals](#-other-places-to-list-black-friday-deals)
 
@@ -111,7 +112,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 54 | [XGetter](https://xgetter.com/?utm_source=aw_bf2024) | Download media on 50+ platforms like Youtube, X, Tiktok, Instagram, Facebook, Youku, Weibo, DailyMotion, QQ,... | 60% lifetime off with code **BLACKFRIDAY2024** | Nov 20 - Dec 30 |
 | 55 | [Hear it](https://apps.apple.com/us/app/pronounce-words-hear-it/id6480349689) | Hear it, is an iOS app that helps you embark on a seamless journey to perfect your speaking and pronunciation. With just one tap, discover how a word is pronounced, and how a native speaker articulates it. | 75% OFF Lifetime Access | Nov 27 - Dec 04 |
 | 56 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | 50% OFF for 1 year or for the first three months of monthly plans **FRIDAY50** | Nov 25 - Dec 2 |
-
+| 57 | [Beaconly](https://beaconly.app/) | Beaconly turns your macOS menu bar into a productivity hub, offering quick access to tools, task tracking (Jira, Asana, Trello), service statuses (AWS, Google Cloud), crypto prices, and news, with new extensions added regularly. | **33% OFF** | Nov 25 - Dec 31 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -140,8 +141,19 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 14 | [Lists Kit](https://listskit.com/?twf-nikhila) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off | Till 30 Nov |
 | 15 | [SwiftShip](https://swiftship.dev/) | A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. | 40% OFF with the code **BF2024** at checkout. | Nov 27 - Nov 30 |
 | 16 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime | Nov. 25 - Dec. 3 |
-| 17 | [Beaconly](https://beaconly.app/) | SBeaconly turns your macOS menu bar into a powerful hub of productivity. Access your critical tools, services, and updates—all without interrupting your workflow. Track tasks from platforms like Jira, Asana, and Trello, Linear, monitor service statuses like AWS and Google Cloud, or check crypto prices—all at a glance. Check latest HackerNews, TechCrunch and others right there. Versatile, extensible. New extensions are added regularly that keep expanding your capabilities. | 33% discount on Yearly and Monthly plans | Nov. 27 - Dec. 31 |
-| 18 | [Achromatic](https://achromatic.dev) | 🚀 Building your SaaS just got unfairly easy 🚀 - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **$50% OFF** with code **BLACKFRIDAY** | Nov 22 - Nov 30 |
+| 17 | [Beaconly](https://beaconly.app/) | Beaconly turns your macOS menu bar into a powerful hub of productivity. Access your critical tools, services, and updates—all without interrupting your workflow. Track tasks from platforms like Jira, Asana, and Trello, Linear, monitor service statuses like AWS and Google Cloud, or check crypto prices—all at a glance. Check latest HackerNews, TechCrunch and others right there. Versatile, extensible. New extensions are added regularly that keep expanding your capabilities. | 33% discount on Yearly and Monthly plans | Nov. 27 - Dec. 31 |
+| 18 | [NextJsStarter](https://johnrush.me/black-friday-deals/) | Ads and paid listings on a directory of NextJS boilerplates. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 19 | [Unicorn Platform](https://johnrush.me/black-friday-deals/) | Unicorn Platform is an AI website builder that helps to quickly create websites without design or development skills. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 20 | [Rapid Forms](https://johnrush.me/black-friday-deals/) | The easiest way to create forms people love to fill out. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 21 | [Count Visits](https://johnrush.me/black-friday-deals/) | Web Analytics Tool for Busy Founders. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 22 | [AI Scraper](https://johnrush.me/black-friday-deals/) | Extract data from any website in seconds. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 23 | [DevHunt](https://johnrush.me/black-friday-deals/) | Ads and Paid listings on the biggest launchpad for dev tools. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 24 | [MVPwizards](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of freelancers & agencies. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 25 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks uptime, errors, and performance, with instant alerts via email, Discord, Telegram, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** | Nov. 24 - Dec. 3 |
+| 26 | [Achromatic](https://achromatic.dev) | 🚀 Building your SaaS just got unfairly easy 🚀 - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **$50% OFF** with code **BLACKFRIDAY** | Nov 22 - Nov 30 |
+
+
+
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -174,6 +186,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 26 | [Engage AI](https://engage-ai.co/black-friday-sales-2024/) | Start conversations and book meetings with a LinkedIn AI Prospecting Agent. Stop shouting at LinkedIn and email inboxes—they're full of spam, and you never get a response. | Further 40% discount on the reduced annual plan with code **BLACKLI24** | Nov 26 - Dec 03 |
 | 27 | [AI Face Swap - AISaver](https://aisaver.io/) |  AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day | Nov 25 - Dec 02 |
 | 28 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | **90% OFF** for two months or **65% OFF** on yearly plans. | Nov 26 - Dec 2 |
+| 29 | [Submagic](https://www.submagic.co/) | Submagic is the video editing app on the market. It is an incredible tool that simplifies the process of generating engaging subtitles for your videos. | We’re providing the offer of 40% off on annual plans, this is the most interesting and only deal of the year. | Nov 29 - Nov 30 |
 
 
 
@@ -193,6 +206,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 6 | [LabEx](https://labex.io) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. | Nov 18 - Dec 2 |
 | 7 | [A Developer's Guide to Blogging](https://theankurtyagi.com/books/) | A guide for developers to start and grow a successful blog. | 50% OFF with code **BLACKFRIDAY** | Nov 1 - Dec 2 |
 | 8 | [Codecourse](https://codecourse.com) | Practical screencasts for developers | 50% off all memberships. No code needed. | Nov 18 - Dec 2 |
+| 9 | [DNS for Developers](https://nslookup.io/dns-course/) | Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all. | 66% off. No code needed. | Nov 27 - Dec 3 |
 
 
 ### 🚀 Startup Books  
@@ -242,6 +256,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 22 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months | Till 30 Nov |
 | 23 | [Gorby](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvement, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. | Nov. 26 - Dec. 02 |
 | 24 | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever | Nov 26 - Dec 2 |
+| 25 | [HostedSoftware](https://johnrush.me/black-friday-deals/) | Ads on a directory of a software that can be self hosted. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 26 | [OSSsoftware](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of open source alternatives. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+
 
 
 ## 🎨 Themes & Design Resource
@@ -307,6 +324,15 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | This is the Notion 50+ Page Freelancer Pack. Its packed full with 50+ Templates and Documents that can be saved online or downloaded in PDF, CSV and even HTML. | 60% OFF. Lifetime Access and Updates with code **60OFF50** | 11-20-2024 - 12-31-2024 |
+| 2 | [Marketsy](https://johnrush.me/black-friday-deals/) | Marketsy.ai can whip up a complete e-commerce solution in just a few seconds via a single prompt. | Get the Deal (50% off) | Nov. 27 - Jan. 02 |
+
+## 🔍 SEO Tools
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [ListingBott](https://johnrush.me/black-friday-deals/) | Get your SaaS, tool, product, newsletter, or blog listed on 100 directories in one click, saving you days of work to focus on more creative tasks. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 2 | [SEObot](https://johnrush.me/black-friday-deals/) | Seo Bot - fully autonomous "SEO Robot" with AI agents for Busy Founders. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 3 | [Directory Guide](https://johnrush.me/black-friday-deals/) | Everything I know about making successful directories. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 4 | [IndexRusher](https://johnrush.me/black-friday-deals/) | Auto Indexing. Get indexed by Google in hours, not days. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 
 
 ## 💾 Others
