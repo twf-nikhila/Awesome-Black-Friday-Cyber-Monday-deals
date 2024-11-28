@@ -143,6 +143,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 17 | [Beaconly](https://beaconly.app/) | SBeaconly turns your macOS menu bar into a powerful hub of productivity. Access your critical tools, services, and updates—all without interrupting your workflow. Track tasks from platforms like Jira, Asana, and Trello, Linear, monitor service statuses like AWS and Google Cloud, or check crypto prices—all at a glance. Check latest HackerNews, TechCrunch and others right there. Versatile, extensible. New extensions are added regularly that keep expanding your capabilities. | 33% discount on Yearly and Monthly plans | Nov. 27 - Dec. 31 |
 | 18 | [OSSsoftware.org](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of open source alternatives. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
 | 19 | [NextJsStarter.com](https://johnrush.me/black-friday-deals/) | Ads and paid listings on a directory of NextJS boilerplates. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
+| 20 | [Unicorn Platform](https://johnrush.me/black-friday-deals/) | Unicorn Platform is an AI website builder that helps to quickly create websites without design or development skills. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 
 
 ## 🤖 AI Tools
