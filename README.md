@@ -141,14 +141,13 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 15 | [SwiftShip](https://swiftship.dev/) | A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. | 40% OFF with the code **BF2024** at checkout. | Nov 27 - Nov 30 |
 | 16 | [AppDab for App Store Connect](https://AppDab.app) | Ship your apps faster with a native macOS and iOS app for App Store Connect | 50% OFF yearly subscriptions and lifetime | Nov. 25 - Dec. 3 |
 | 17 | [Beaconly](https://beaconly.app/) | SBeaconly turns your macOS menu bar into a powerful hub of productivity. Access your critical tools, services, and updates—all without interrupting your workflow. Track tasks from platforms like Jira, Asana, and Trello, Linear, monitor service statuses like AWS and Google Cloud, or check crypto prices—all at a glance. Check latest HackerNews, TechCrunch and others right there. Versatile, extensible. New extensions are added regularly that keep expanding your capabilities. | 33% discount on Yearly and Monthly plans | Nov. 27 - Dec. 31 |
-| 18 | [OSSsoftware.org](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of open source alternatives. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
-| 19 | [NextJsStarter.com](https://johnrush.me/black-friday-deals/) | Ads and paid listings on a directory of NextJS boilerplates. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
-| 20 | [Unicorn Platform](https://johnrush.me/black-friday-deals/) | Unicorn Platform is an AI website builder that helps to quickly create websites without design or development skills. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
-| 21 | [Rapid Forms](https://johnrush.me/black-friday-deals/) | The easiest way to create forms people love to fill out. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
-| 22 | [Count Visits](https://johnrush.me/black-friday-deals/) | Web Analytics Tool for Busy Founders. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
-| 23 | [AI Scraper](https://johnrush.me/black-friday-deals/) | Extract data from any website in seconds. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
-| 24 | [DevHunt](https://johnrush.me/black-friday-deals/) | Ads and Paid listings on the biggest launchpad for dev tools. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
-| 25 | [MVPwizards](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of freelancers & agencies. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 18 | [NextJsStarter.com](https://johnrush.me/black-friday-deals/) | Ads and paid listings on a directory of NextJS boilerplates. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
+| 19 | [Unicorn Platform](https://johnrush.me/black-friday-deals/) | Unicorn Platform is an AI website builder that helps to quickly create websites without design or development skills. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 20 | [Rapid Forms](https://johnrush.me/black-friday-deals/) | The easiest way to create forms people love to fill out. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 21 | [Count Visits](https://johnrush.me/black-friday-deals/) | Web Analytics Tool for Busy Founders. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 22 | [AI Scraper](https://johnrush.me/black-friday-deals/) | Extract data from any website in seconds. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 23 | [DevHunt](https://johnrush.me/black-friday-deals/) | Ads and Paid listings on the biggest launchpad for dev tools. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 24 | [MVPwizards](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of freelancers & agencies. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 
 
 ## 🤖 AI Tools
@@ -252,6 +251,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 23 | [Gorby](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvement, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. | Nov. 26 - Dec. 02 |
 | 24 | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever | Nov 26 - Dec 2 |
 | 25 | [HostedSoftware](https://johnrush.me/black-friday-deals/) | Ads on a directory of a software that can be self hosted. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 26 | [OSSsoftware](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of open source alternatives. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 
 
 
