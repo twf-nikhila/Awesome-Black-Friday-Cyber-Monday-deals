@@ -148,6 +148,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 22 | [Count Visits](https://johnrush.me/black-friday-deals/) | Web Analytics Tool for Busy Founders. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 23 | [AI Scraper](https://johnrush.me/black-friday-deals/) | Extract data from any website in seconds. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 24 | [DevHunt](https://johnrush.me/black-friday-deals/) | Ads and Paid listings on the biggest launchpad for dev tools. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 25 | [MVPwizards](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of freelancers & agencies. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 
 
 ## 🤖 AI Tools
@@ -250,6 +251,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 22 | [Lifelog](https://golifelog.com/?trungdq88) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months | Till 30 Nov |
 | 23 | [Gorby](https://gorby.app/) | Gorby is a text analyzer that offers real-time text analysis, advanced text checks, AI-powered text improvement, and detailed readability metrics while prioritizing your privacy. | Use **GORBYBF24** for 30% off yearly or lifetime plan. | Nov. 26 - Dec. 02 |
 | 24 | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever | Nov 26 - Dec 2 |
+| 25 | [HostedSoftware](https://johnrush.me/black-friday-deals/) | Ads on a directory of a software that can be self hosted. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+
 
 
 ## 🎨 Themes & Design Resource
@@ -315,8 +318,6 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | This is the Notion 50+ Page Freelancer Pack. Its packed full with 50+ Templates and Documents that can be saved online or downloaded in PDF, CSV and even HTML. | 60% OFF. Lifetime Access and Updates with code **60OFF50** | 11-20-2024 - 12-31-2024 |
-| 2 | [HostedSoftware.org](https://johnrush.me/black-friday-deals/) | Ads on a directory of a software that can be self hosted. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
-| 3 | [MVPwizards.com](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of freelancers & agencies. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
 
 
 ## 💾 Others
