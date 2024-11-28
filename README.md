@@ -300,6 +300,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 10 | [SyncSignature](https://syncsignature.com) | Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all recurring plans. Use code BF24CM60 on checkout. | Nov 15 - Dec 10 |
 | 11 | [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) | Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.|40% off the complete bundle ($89 instead of $148). | Nov 27 - Dec 10 |
 | 12 | [Inline Manual](https://inlinemanual.com) | Helping people love your product, one step at a time. Make your product easier to understand with walkthroughs, tooltips, new features announcements, in-app support, surveys, and articles. Everything you need to guide your users and help them get the most out of your product. | 33% OFF on Standard Pro plan for one year with code **33BFDEAL** | 11-20-2024 - 12-18-2024 |
+| 13 | [Boringlaunch](https://www.boringlaunch.com) | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales | 30% OFF with code **BLACKFRIDAY2024** | Nov 22 - Dec 2 |
+
 
 
 
