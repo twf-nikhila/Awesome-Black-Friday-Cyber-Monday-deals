@@ -325,6 +325,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [ListingBott](https://johnrush.me/black-friday-deals/) | Get your SaaS, tool, product, newsletter, or blog listed on 100 directories in one click, saving you days of work to focus on more creative tasks. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 2 | [SEObot](https://johnrush.me/black-friday-deals/) | Seo Bot - fully autonomous "SEO Robot" with AI agents for Busy Founders. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 3 | [Directory Guide](https://johnrush.me/black-friday-deals/) | Everything I know about making successful directories. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 4 | [IndexRusher](https://johnrush.me/black-friday-deals/) | Auto Indexing. Get indexed by Google in hours, not days. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 
 
 ## 💾 Others
