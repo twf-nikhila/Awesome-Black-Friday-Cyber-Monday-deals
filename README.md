@@ -144,6 +144,10 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 18 | [OSSsoftware.org](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of open source alternatives. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
 | 19 | [NextJsStarter.com](https://johnrush.me/black-friday-deals/) | Ads and paid listings on a directory of NextJS boilerplates. | Get the Deal (50% off) | Nov. 27 - Dec. 02 |
 | 20 | [Unicorn Platform](https://johnrush.me/black-friday-deals/) | Unicorn Platform is an AI website builder that helps to quickly create websites without design or development skills. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 21 | [Rapid Forms](https://johnrush.me/black-friday-deals/) | The easiest way to create forms people love to fill out. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 22 | [Count Visits](https://johnrush.me/black-friday-deals/) | Web Analytics Tool for Busy Founders. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 23 | [AI Scraper](https://johnrush.me/black-friday-deals/) | Extract data from any website in seconds. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 24 | [DevHunt](https://johnrush.me/black-friday-deals/) | Ads and Paid listings on the biggest launchpad for dev tools. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 
 
 ## 🤖 AI Tools
