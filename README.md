@@ -151,6 +151,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 24 | [MVPwizards](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of freelancers & agencies. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 25 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks uptime, errors, and performance, with instant alerts via email, Discord, Telegram, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** | Nov. 24 - Dec. 3 |
 | 26 | [Achromatic](https://achromatic.dev) | 🚀 Building your SaaS just got unfairly easy 🚀 - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **$50% OFF** with code **BLACKFRIDAY** | Nov 22 - Nov 30 |
+| 27 | [Nuxt SaaS Kit](https://nuxtsaaskit.com/) | Nuxt SaaS Kit is a Nuxt boilerplate designed for developers eager to build SaaS products efficiently. It provides all the important building blocks, allowing you to concentrate on your business. | $30 OFF (Get it for just $69) with code IZNDE5NQ | Valid till 3rd Dec, 2024 |
 
 
 
