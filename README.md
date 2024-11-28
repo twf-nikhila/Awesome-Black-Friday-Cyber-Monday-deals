@@ -318,6 +318,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | This is the Notion 50+ Page Freelancer Pack. Its packed full with 50+ Templates and Documents that can be saved online or downloaded in PDF, CSV and even HTML. | 60% OFF. Lifetime Access and Updates with code **60OFF50** | 11-20-2024 - 12-31-2024 |
+| 2 | [Marketsy](https://johnrush.me/black-friday-deals/) | Marketsy.ai can whip up a complete e-commerce solution in just a few seconds via a single prompt. | Get the Deal (50% off) | Nov. 27 - Jan. 02 |
+
 
 
 ## 💾 Others
