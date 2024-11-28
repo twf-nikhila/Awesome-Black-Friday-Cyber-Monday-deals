@@ -21,7 +21,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
   * 📘 [Developer Books & Courses](#-developer-books--courses)  
   * 🚀 [Startup Books](#-startup-books)  
   * 🧭 [Career Books](#-career-books)  
-* ♻️ [SaaS Software](#-saas-software)  
+* ♻️ [SaaS Software](#%EF%B8%8F-saas-software)  
 * 🎨 [Themes & Design Resource](#-themes--design-resource)
 * 🌈 [Marketing Tools](#-marketing-tools)
 * 📩 [Newsletter & Communities](#-newsletter--communities)
@@ -259,6 +259,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 25 | [HostedSoftware](https://johnrush.me/black-friday-deals/) | Ads on a directory of a software that can be self hosted. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 26 | [OSSsoftware](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of open source alternatives. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 27 | [Polling.com](https://polling.com) |  Understand your audience better with a powerful and feature-rich survey software. | **50% OFF** on annual plans with code **BF50OFF** | Nov 26 - Dec 6 |
+| 28 | [WishKit](https://www.wishkit.io) | Gather user feedback for your iOS app and prioritize features based on user votes. | **33% OFF** for an antire year! Code: BLACKFRIDAY24 | Nov 26 - Dec 30 |
 
 
 
