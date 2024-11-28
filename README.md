@@ -258,6 +258,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 24 | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever | Nov 26 - Dec 2 |
 | 25 | [HostedSoftware](https://johnrush.me/black-friday-deals/) | Ads on a directory of a software that can be self hosted. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 26 | [OSSsoftware](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of open source alternatives. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 27 | [Polling.com](https://polling.com) |  Understand your audience better with a powerful and feature-rich survey software. | **50% OFF** on annual plans with code **BF50OFF** | Nov 26 - Dec 6 |
 
 
 
