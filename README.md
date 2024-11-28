@@ -267,6 +267,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 26 | [OSSsoftware](https://johnrush.me/black-friday-deals/) | Ads & Paid listings on a directory of open source alternatives. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 27 | [Polling.com](https://polling.com) |  Understand your audience better with a powerful and feature-rich survey software. | **50% OFF** on annual plans with code **BF50OFF** | Nov 26 - Dec 6 |
 | 28 | [WishKit](https://www.wishkit.io) | Gather user feedback for your iOS app and prioritize features based on user votes. | **33% OFF** for an antire year! Code: BLACKFRIDAY24 | Nov 26 - Dec 30 |
+| 28 | [AI Headshot Generator](https://aiheadshotgenerator.com) | Turn your ordinary selfies into stunning corporate headshots with AI. | **20% OFF** with code: BF2024 | Nov 29 - Dec 6 |
 
 
 
