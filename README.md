@@ -276,6 +276,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 28 | [WishKit](https://www.wishkit.io) | Gather user feedback for your iOS app and prioritize features based on user votes. | **33% OFF** for an antire year! Code: BLACKFRIDAY24 | Nov 26 - Dec 30 |
 | 29 | [AI Headshot Generator](https://aiheadshotgenerator.com) | Turn your ordinary selfies into stunning corporate headshots with AI. | **20% OFF** with code: BF2024 | Nov 29 - Dec 6 |
 | 30 | [YouTube Comments Downloader](https://youtubecommentsdownloader.com) | Download, search, analyze and export any type of YouTube comments. | **50% off** everything with code: BF2024 | Ends on Dec 3 |
+| 31 | [Hypefury](https://hypefury.com/black-friday-2024) | One stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.| 33% off the monthly price when you pay yearly for any plan. Coupon is applied automatically when you upgrade| 29/11/2024 - 02/12/2024 |
+| 32 | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter | 40% off any yearly plan with code **BLACKFRIDAY_2024** | 29/11/2024 - 02/12/2024 |
 
 ## 🎨 Themes & Design Resource
 
