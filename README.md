@@ -116,6 +116,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 57 | [Beaconly](https://beaconly.app/) | Beaconly turns your macOS menu bar into a productivity hub, offering quick access to tools, task tracking (Jira, Asana, Trello), service statuses (AWS, Google Cloud), crypto prices, and news, with new extensions added regularly. | **33% OFF** | Nov 25 - Dec 31 |
 | 58 | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase. | Nov 28 - Dec 3 |
 | 59 | [Accounting - Bookkeeping for Self Employed](https://apps.apple.com/app/accounting-money-manager/id6463010770) | Accounting App is a stress-free and simple accounting solution that is designed for small business owners, solopreneurs, freelancers, and accountants in charge of managing small-scale ventures. | 50% OFF Annaul **BLACK50**. | Nov 28 - Jan 5 |
+| 60 | [Browser extension and desktop app for API testing, HTTP interception, debugging and more!](https://requestly.com/) | Powerful request/response modification capabilities, Advanced mocking and API testing tools Seamless collaboration features for development teams Cross-browser support with desktop app functionality Real-time request interception and modification | 30% OFF on Annual Plans  **BlackFriday30**. | Valid till December 6, 2024 |
+
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
