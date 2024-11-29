@@ -29,6 +29,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 🧬 [Standalone scripts](#-standalone-scripts)
 * 🛒 [Marketplaces](#-marketplaces)
 * 🔍 [SEO Tools](#-seo-tools)
+* 🔥 [Productivity](#-productivity)
 * 💾 [Others](#-others)
 * 🔖 [Other places to list your BF Deals](#-other-places-to-list-black-friday-deals)
 
@@ -309,7 +310,7 @@ Get boilerplate code, submission tools, and AI-powered features to simplify app 
 | 11 | [Reddit Growth Bundle](https://www.bynapkin.com/guides/reddit) | Complete Reddit growth package combining the comprehensive Reddit Marketing Guide ($99 value) with SubredditTraffic.live Premium ($49 value). Includes traffic analytics dashboard, subreddit growth insights, and business strategy templates. The guide covers everything from Reddit fundamentals to advanced growth tactics, while the premium tool provides real-time traffic insights and analytics.|40% off the complete bundle ($89 instead of $148). | Nov 27 - Dec 10 |
 | 12 | [Inline Manual](https://inlinemanual.com) | Helping people love your product, one step at a time. Make your product easier to understand with walkthroughs, tooltips, new features announcements, in-app support, surveys, and articles. Everything you need to guide your users and help them get the most out of your product. | 33% OFF on Standard Pro plan for one year with code **33BFDEAL** | 11-20-2024 - 12-18-2024 |
 | 13 | [Boringlaunch](https://www.boringlaunch.com) | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales | 30% OFF with code **BLACKFRIDAY2024** | Nov 22 - Dec 2 |
-| 14 | [VisalSitemaps + VisualFlows]([https://www.bynapkin.com/guides/reddit](https://app.visualsitemaps.com/pricing#yearly_2020_09)) | Autogenerate VisualSitemaps in Seconds. Plan Content. Create Flows. Track Competitors.|33% off Annual Plans | Nov 27 - Dec 7 | **VISUALFRIDAY-33-OFF-ANNUAL**
+| 14 | [VisalSitemaps + VisualFlows](https://app.visualsitemaps.com/pricing#yearly_2020_09) | Autogenerate VisualSitemaps in Seconds. Plan Content. Create Flows. Track Competitors.|33% off Annual Plans | Nov 27 - Dec 7 | **VISUALFRIDAY-33-OFF-ANNUAL**
 
 
 
@@ -349,6 +350,13 @@ Get boilerplate code, submission tools, and AI-powered features to simplify app 
 | 2 | [SEObot](https://johnrush.me/black-friday-deals/) | Seo Bot - fully autonomous "SEO Robot" with AI agents for Busy Founders. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 3 | [Directory Guide](https://johnrush.me/black-friday-deals/) | Everything I know about making successful directories. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 4 | [IndexRusher](https://johnrush.me/black-friday-deals/) | Auto Indexing. Get indexed by Google in hours, not days. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+
+
+## 🔥 Productivity
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [Draftly](https://www.draftly.so/) | GDraftly: Your Partner for LinkedIn Success Draftly is more than just a content creation tool; it’s the all-in-one solution for growing your LinkedIn presence and business. With Draftly, you can craft personalized content that reflects your unique voice, foster meaningful connections, and maintain a consistent, impactful LinkedIn presence with automated scheduling. Whether you're an entrepreneur, small business owner, part of a larger team, or an agency, Draftly empowers you to create, schedule, and manage high-quality LinkedIn content that truly resonates with your audience. | Lifetime access at $57 with code **TASMIYA10** | Nov. 29 - Dec. 02 |
+
 
 
 ## 💾 Others
