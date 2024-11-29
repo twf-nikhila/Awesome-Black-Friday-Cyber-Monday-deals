@@ -192,6 +192,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 29 | [Submagic](https://www.submagic.co/) | Submagic is the video editing app on the market. It is an incredible tool that simplifies the process of generating engaging subtitles for your videos. | We’re providing the offer of 40% off on annual plans, this is the most interesting and only deal of the year. | Nov 29 - Nov 30 |
 | 30 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price. | **20% OFF** on all subscription plans using code: **BLACKFRIDAY20**. | ALL YEAR |
 | 31 | [Flux AI Image Generator](https://flux1.ai/?utm_source=awsbf) | Flux AI - Free Online Flux.1 AI Image Generator. | **50% OFF** with code: **BF5** on all plans. | Nov 26 - Dec 2 |
+| 32 | [Convert your Audio and Video into text](https://videotobe.com/tools/transcribe) | VideoToBe helps to transcribe your Audio and Video Files into text. It is used by students, content creators, and legal experts. | 20% discount on transcribing services on the platform. | Nov 28 - Nov 28 |
 
 
 
