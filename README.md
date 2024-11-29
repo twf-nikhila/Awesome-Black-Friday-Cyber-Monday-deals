@@ -355,6 +355,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Pro Forecasts: Sonuby Weather](https://sonuby.com) (iOS/Android) | Reliable and customisable weather forecasts, incl. tides, waves and altitudes! | 40% OFF PERMANENTLY / Annual Enthusiast Subscription / Offer available from within the app | Until Cyber Monday |
 | 2 | [Product Management as a Service](https://hiremeaspm.com/#pricing) | Supercharge your product strategy with expert Product Management services. Black Friday Special: 25% OFF on one-day and monthly Product Management services. | 25% discount | Nov 26 - Dec 15 |
+| 3 | [Evergreen Support](https://www.evergreensupport.co/black-friday-2024) | Customer Support service by real humans for online businesses | 50% off first month | Nov 26 - Dec 2 |
 
 # 🔖 Other places to list Black Friday Deals:
 1. [indiegoodies](https://indiegoodies.com/blackfriday)
