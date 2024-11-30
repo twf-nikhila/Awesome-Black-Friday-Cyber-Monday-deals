@@ -199,6 +199,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 30 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price. | **20% OFF** on all subscription plans using code: **BLACKFRIDAY20**. | ALL YEAR |
 | 31 | [Flux AI Image Generator](https://flux1.ai/?utm_source=awsbf) | Flux AI - Free Online Flux.1 AI Image Generator. | **50% OFF** with code: **BF5** on all plans. | Nov 26 - Dec 2 |
 | 32 | [Convert your Audio and Video into text](https://videotobe.com/tools/transcribe) | VideoToBe helps to transcribe your Audio and Video Files into text. It is used by students, content creators, and legal experts. | 20% discount on transcribing services on the platform. | Nov 28 - Nov 28 |
+| 33  | [A1D AI](https://a1d.ai) | Create stunning whiteboard and hand-drawn animation videos in one click with A1D.ai! Many more AI design tools included. | 50% OFF with code **BLACKFRIDAY** | Nov 28 - Dec 10 |     
 
 
 
