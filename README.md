@@ -278,6 +278,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 30 | [YouTube Comments Downloader](https://youtubecommentsdownloader.com) | Download, search, analyze and export any type of YouTube comments. | **50% off** everything with code: BF2024 | Ends on Dec 3 |
 | 31 | [Hypefury](https://hypefury.com/black-friday-2024) | One stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.| 33% off the monthly price when you pay yearly for any plan. Coupon is applied automatically when you upgrade| 29/11/2024 - 02/12/2024 |
 | 32 | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter | 40% off any yearly plan with code **BLACKFRIDAY_2024** | 29/11/2024 - 02/12/2024 |
+| 33 | [One Word Domains](https://owd.li/nikhil-bfcm-repo) | One Word Domains is a database of 1,381,826 available & brandable one-word domain names for your next startup idea. | **$50 OFF** lifetime deal w/ code BFCM50OFF. | Nov 29 - Dec 2nd |
+| 34 | [DomainsGPT](https://domainsg.pt/nikhil-bfcm-repo) | DomainsGPT is an AI-powered domain name generator for you to generate brandable & memorable domain names for your next startup idea. | **50% OFF** lifetime deal w/ code BFCM2024 | Nov 29 - Dec 2nd |
 
 ## 🎨 Themes & Design Resource
 
