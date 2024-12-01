@@ -281,6 +281,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 32 | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter | 40% off any yearly plan with code **BLACKFRIDAY_2024** | 29/11/2024 - 02/12/2024 |
 | 33 | [One Word Domains](https://owd.li/nikhil-bfcm-repo) | One Word Domains is a database of 1,381,826 available & brandable one-word domain names for your next startup idea. | **$50 OFF** lifetime deal w/ code BFCM50OFF. | Nov 29 - Dec 2nd |
 | 34 | [DomainsGPT](https://domainsg.pt/nikhil-bfcm-repo) | DomainsGPT is an AI-powered domain name generator for you to generate brandable & memorable domain names for your next startup idea. | **50% OFF** lifetime deal w/ code BFCM2024 | Nov 29 - Dec 2nd |
+| 35 |[Typogram](https://typogram.co/) | Logo and Brand Builder | **40%** OFF with code  **LIGATURE** | Nov 29 - Jan 1 |
+| 36 |[Typogram Studio](https://typogram.co/Studio/) | Typography Graphic Design App | **50%** OFF with code  **PREORDER** | Nov 29 - Dec 13 |
 
 ## 🎨 Themes & Design Resource
 
