@@ -278,6 +278,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 30 | [YouTube Comments Downloader](https://youtubecommentsdownloader.com) | Download, search, analyze and export any type of YouTube comments. | **50% off** everything with code: BF2024 | Ends on Dec 3 |
 | 31 | [Hypefury](https://hypefury.com/black-friday-2024) | One stop solution to all your social media needs! We help you with building an audience and making more money online. We help you create engaging posts, maximize reach and build an income online.| 33% off the monthly price when you pay yearly for any plan. Coupon is applied automatically when you upgrade| 29/11/2024 - 02/12/2024 |
 | 32 | [Black Magic](https://blackmagic.so/pricing?code=BLACKFRIDAY_2024) | A powerful tool to enhance your 𝕏/Twitter experience. We help you track live tweets, increase engagement, best times to tweets and much more. Blackmagic.so is your personal CRM for 𝕏/Twitter | 40% off any yearly plan with code **BLACKFRIDAY_2024** | 29/11/2024 - 02/12/2024 |
+| 33 |[Typogram](https://typogram.co/) | Logo and Brand Builder | **40%** OFF with code  **LIGATURE** | Nov 29 - Jan 1 |
+| 34 |[Typogram Studio](https://typogram.co/Studio/) | Typography Graphic Design App | **50%** OFF with code  **PREORDER** | Nov 29 - Dec 13 |
 
 ## 🎨 Themes & Design Resource
 
