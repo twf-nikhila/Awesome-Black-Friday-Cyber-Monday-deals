@@ -359,6 +359,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 2 | [SEObot](https://johnrush.me/black-friday-deals/) | Seo Bot - fully autonomous "SEO Robot" with AI agents for Busy Founders. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 3 | [Directory Guide](https://johnrush.me/black-friday-deals/) | Everything I know about making successful directories. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
 | 4 | [IndexRusher](https://johnrush.me/black-friday-deals/) | Auto Indexing. Get indexed by Google in hours, not days. | Get the Deal (50% off) | Nov. 27 - Dec. 06 |
+| 5 | [Abun](https://abun.com/) | Rank on Google in 60 days with well-researched AI-written content. | 50% discount for the first month. | Nov. 29 - Dec. 15 |
 
 
 ## 🔥 Productivity
