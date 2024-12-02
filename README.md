@@ -367,7 +367,9 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 ## 🔥 Productivity
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Draftly](https://www.draftly.so/) | GDraftly: Your Partner for LinkedIn Success Draftly is more than just a content creation tool; it’s the all-in-one solution for growing your LinkedIn presence and business. With Draftly, you can craft personalized content that reflects your unique voice, foster meaningful connections, and maintain a consistent, impactful LinkedIn presence with automated scheduling. Whether you're an entrepreneur, small business owner, part of a larger team, or an agency, Draftly empowers you to create, schedule, and manage high-quality LinkedIn content that truly resonates with your audience. | Lifetime access at $57 with code **TASMIYA10** | Nov. 29 - Dec. 02 |
+| 1 | [Draftly](https://www.draftly.so/) | Draftly: Your Partner for LinkedIn Success Draftly is more than just a content creation tool; it’s the all-in-one solution for growing your LinkedIn presence and business. With Draftly, you can craft personalized content that reflects your unique voice, foster meaningful connections, and maintain a consistent, impactful LinkedIn presence with automated scheduling. Whether you're an entrepreneur, small business owner, part of a larger team, or an agency, Draftly empowers you to create, schedule, and manage high-quality LinkedIn content that truly resonates with your audience. | Lifetime access at $57 with code **TASMIYA10** | Nov. 29 - Dec. 02 |
+| 2 | [ClientPortalOS](https://clientportalos.com/) | ClientPortalOS is a client management dashboard for productized design agencies. It simplifies & centralizes the management of design tasks, subscriptions, and client communications. | **50% OFF** on Annual plans | Nov. 29 - Dec. 15 |
+
 
 
 
