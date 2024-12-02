@@ -283,6 +283,8 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 34 | [DomainsGPT](https://domainsg.pt/nikhil-bfcm-repo) | DomainsGPT is an AI-powered domain name generator for you to generate brandable & memorable domain names for your next startup idea. | **50% OFF** lifetime deal w/ code BFCM2024 | Nov 29 - Dec 2nd |
 | 35 |[Typogram](https://typogram.co/) | Logo and Brand Builder | **40%** OFF with code  **LIGATURE** | Nov 29 - Jan 1 |
 | 36 |[Typogram Studio](https://typogram.co/Studio/) | Typography Graphic Design App | **50%** OFF with code  **PREORDER** | Nov 29 - Dec 13 |
+| 37 |[Draftss](https://draftss.com/free-trial-signup) | Draftss is an Unlimited Graphic Design & Development service on subscription. | 7 day Free Trial + 50% OFF for 2 months, 50% OFF on Annual plans (pay for 6 months & 6 months free) with code **BLACKFRIDAY50** | Nov 29 - Dec 15 |
+
 
 ## 🎨 Themes & Design Resource
 
