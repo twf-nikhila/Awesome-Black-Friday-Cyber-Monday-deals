@@ -284,6 +284,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 35 |[Typogram](https://typogram.co/) | Logo and Brand Builder | **40%** OFF with code  **LIGATURE** | Nov 29 - Jan 1 |
 | 36 |[Typogram Studio](https://typogram.co/Studio/) | Typography Graphic Design App | **50%** OFF with code  **PREORDER** | Nov 29 - Dec 13 |
 | 37 |[Draftss](https://draftss.com/free-trial-signup) | Draftss is an Unlimited Graphic Design & Development service on subscription. | 7 day Free Trial + 50% OFF for 2 months, 50% OFF on Annual plans (pay for 6 months & 6 months free) with code **BLACKFRIDAY50** | Nov 29 - Dec 15 |
+| 38 |[Artha Job Board](https://arthajobboard.com/pricing) | Artha Job Board lets creators launch no-code, niche job boards with AI matching, custom branding, SEO tools, and monetization features to grow their communities. | Free Forever Plan + 20% OFF on Annual plans | Nov 10 - JAN 1 |
 
 
 ## 🎨 Themes & Design Resource
