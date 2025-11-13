@@ -48,7 +48,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:|
-| 1 | [Example App](https://example.com) | Example description for an app | 50% OFF with code **EXAMPLE2025** | Nov 25 - Dec 2, 2025 |
+| 1 | [TranslateMom Pro Plan](https://translate.mom) | Instantly caption, translate, or dub your content with natural sounding voices in 100+ languages! PRO PLAN: - 2000 minutes of AI transcription + translation monthly - 30-day storage for all your tasks - Export without watermark + custom branding - AI dubbing in 29 languages (up to 45 min/file) - Early access to new features - Access to advanced AI models like GPT-4o - Multiple export formats (SRT, VTT, TXT, ASS) - HD video import support - Support for 4.5-hour videos up to 1GB - Smart voice detection for cleaner subtitles - Download original source videos - Enhanced subtitle editor with advanced tools - Priority customer support | Annual Pro Plan at 70% OFF Black Friday Deal: $159 Regular: $528  **Coupon code**: **BLACK** | Nov 28 - Dec 12, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -60,7 +60,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Dev Tool](https://example.com) | Example description for a developer tool | 40% OFF with code **DEV2025** | Nov 20 - Dec 5, 2025 |
+| 1 | [Dirstarter](https://dirstarter.com/?discountCode=BF2025) | Launch your directory faster with built-in ad support, Stripe payments, AI automation, SEO & admin panel. | 40% OFF using code **BF2025** | Nov 12 - Dec 01, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
