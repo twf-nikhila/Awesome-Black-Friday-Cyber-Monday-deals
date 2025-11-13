@@ -61,6 +61,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Dirstarter](https://dirstarter.com/?discountCode=BF2025) | Launch your directory faster with built-in ad support, Stripe payments, AI automation, SEO & admin panel. | 40% OFF using code **BF2025** | Nov 12 - Dec 01, 2025 |
+| 2 | [HTTP Toolkit](https://httptoolkit.com/?ref=twf-nikhila) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, browsers, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | Now - Dec 3, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
