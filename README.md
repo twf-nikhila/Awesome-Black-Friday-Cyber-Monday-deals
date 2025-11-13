@@ -13,17 +13,17 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 # Table of Contents
 
-* 💻 [Apps](#-apps)
-* ⚙️ [NoCode Tools](#-nocode-tools)
-* 🧑‍💻 [Developer Tools](#-developer-tools)
-* 🤖 [AI Tools](#-ai-tools)  
-* 📚 [Books & Courses](#-books--courses)
-* ♻️ [SaaS Software](#-saas-software)
-* 🎨 [Themes & Design Resource](#-themes--design-resource)
-* 🌈 [Marketing Tools](#-marketing-tools)
-* 📩 [Newsletter & Communities](#-newsletter--communities)
-* 🔌 [Plugins](#-plugins)
-* 🧬 [Standalone scripts](#-standalone-scripts)
+* 💻 [Apps](#-apps) - Mobile/desktop apps (iOS, Android, macOS, Windows)
+* ⚙️ [NoCode Tools](#-nocode-tools) - Builders/automation without coding
+* 🧑‍💻 [Developer Tools](#-developer-tools) - Dev utilities, SDKs, APIs, CLIs
+* 🤖 [AI Tools](#-ai-tools) - AI products/services
+* 📚 [Books & Courses](#-books--courses) - Educational content
+* ♻️ [SaaS Software](#-saas-software) - Web software (subscription)
+* 🎨 [Themes & Design Resource](#-themes--design-resource) - Templates, UI kits, assets
+* 🌈 [Marketing Tools](#-marketing-tools) - SEO, analytics, email, social tools
+* 📩 [Newsletter & Communities](#-newsletter--communities) - Paid/newsletters, groups
+* 🔌 [Plugins](#-plugins) - Extensions/add-ons for platforms
+* 🧬 [Standalone scripts](#-standalone-scripts) - One-time purchase scripts/snippets
 
 **Special Request 👉** ⭐ Star this repository so it becomes trending on Black Friday!
 
