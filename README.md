@@ -83,7 +83,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Theme](https://example.com) | Example description for a theme or design resource | 60% OFF with code **DESIGN2025** | Nov 20 - Dec 30, 2025 |
+| 1 | [Tailkit](https://tailkit.com) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to 50% OFF for a limited number of licenses with code BLACKFRIDAY2025 | Nov 24 - Dec 2, 2025 |
 
 ## 🌈 Marketing Tools
 
