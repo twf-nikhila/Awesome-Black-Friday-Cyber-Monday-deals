@@ -65,7 +65,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example AI Tool](https://example.com) | Example description for an AI tool | 50% off on one-time payment | Nov 25 - Nov 30, 2025 |
+| 1 | [Fenn](https://usefenn.com/?utm_source=twf-nikhila) | AI File Search Agent for MacOS | 50% off with code **BLACKFRIDAY** | Nov 12 - Dec 3, 2025 |
 
 ## 📚 Books & Courses
 
