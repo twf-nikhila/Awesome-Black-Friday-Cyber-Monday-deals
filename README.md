@@ -71,7 +71,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Course](https://example.com) | Example description for a book or course | 75% OFF | Till Cyber Monday, 2025 |
+| 1 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch.  | 50% off with coupon code **BLACK** | Nov 15 - Nov 30, 2025 |
 
 ## ♻️ SaaS Software
 
