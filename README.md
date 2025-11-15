@@ -53,7 +53,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example NoCode Tool](https://example.com) | Example description for a nocode tool | **50% OFF** in Yearly Plans | Valid till 30th Nov, 2025 |
+| 1 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF (automatically applied) | Nov 15  - Dec 05 |
 
 
 ## 🧑‍💻 Developer Tools
