@@ -49,6 +49,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:|
 | 1 | [TranslateMom Pro Plan](https://translate.mom) | Instantly caption, translate, or dub your content with natural sounding voices in 100+ languages! PRO PLAN: - 2000 minutes of AI transcription + translation monthly - 30-day storage for all your tasks - Export without watermark + custom branding - AI dubbing in 29 languages (up to 45 min/file) - Early access to new features - Access to advanced AI models like GPT-4o - Multiple export formats (SRT, VTT, TXT, ASS) - HD video import support - Support for 4.5-hour videos up to 1GB - Smart voice detection for cleaner subtitles - Download original source videos - Enhanced subtitle editor with advanced tools - Priority customer support | Annual Pro Plan at 70% OFF Black Friday Deal: $159 Regular: $528  **Coupon code**: **BLACK** | Nov 28 - Dec 12, 2025 |
+| 2 | [Reckord](https://apps.apple.com/us/app/id6744819252) | Reckord helps users to create professional invoices in seconds, manage income and expenses, and track their business performance. It also supports multiple languages and currencies to make invoicing accessible for users around the world. | **70% OFF** Lifetime plan with code **BLACKFRIDAY** | Nov 21 - Dec 5, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
