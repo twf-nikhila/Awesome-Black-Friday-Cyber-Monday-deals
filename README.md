@@ -78,6 +78,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Example SaaS](https://example.com) | Example description for SaaS software | Black Friday discount for lifetime access | Nov 15 - Dec 2, 2025 |
+| 2 | [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, track contacts. Built for busy professionals. | **60% OFF** annual plan with code **BLACKFRIDAY2025** | Nov 15 - Dec 1, 2025 |
 
 ## 🎨 Themes & Design Resource
 
