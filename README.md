@@ -65,7 +65,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example AI Tool](https://example.com) | Example description for an AI tool | 50% off on one-time payment | Nov 25 - Nov 30, 2025 |
+| 1 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | **BFCM2025** 50% OFF (LIFETIME) | Nov 24 - Dec 1, 2025 |
 
 ## 📚 Books & Courses
 
