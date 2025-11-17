@@ -61,6 +61,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Dirstarter](https://dirstarter.com/?discountCode=BF2025) | Launch your directory faster with built-in ad support, Stripe payments, AI automation, SEO & admin panel. | 40% OFF using code **BF2025** | Nov 12 - Dec 01, 2025 |
+| 2 | [LaunchFast](https://www.launchfa.st) | Save hours with complete SaaS starter kits for Next.js, SvelteKit, and Astro — including SEO, auth, payments, docs, analytics, and more. | $50 OFF using code **BLACKFRIDAY** | Nov 14 - Dec 01, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
