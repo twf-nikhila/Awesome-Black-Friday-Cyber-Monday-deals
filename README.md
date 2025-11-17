@@ -64,6 +64,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Motherboard](https://trymotherboard.com) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) | Forever |
+| 2 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF (automatically applied) | Nov 15  - Dec 05 |
 
 
 ## 🧑‍💻 Developer Tools
