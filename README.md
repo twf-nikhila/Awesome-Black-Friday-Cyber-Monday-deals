@@ -76,6 +76,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Yaya Bear](https://www.careyaya.org/bear) | Yaya Bear is a soft, AI-powered, multi-lingual companion designed to ease loneliness for older adults. Backed by Harvard Innovation Labs and inspired by founder Neal K. Shah’s personal caregiving experience, Yaya Bear engages seniors in meaningful conversations, remembers personal stories, and can even compile them into a keepsake autobiography for families. | Black Friday & Cyber Monday, Yaya Bear is **67% off** — **$99 instead of $299**. For seniors on Medicaid or SNAP, it’s completely free, while supplies last, with a simple, private eligibility check at checkout. Yaya Bear is a soft, AI-powered companion that eases loneliness, remembers personal stories, and can compile them into a keepsake autobiography for families. | Nov 22 - Nov 29, 2025 |
 | 2 | [Orchard](https://orchard.5km.tech/?utm_source=tonybf) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025** | Nov 20 - Dec 2, 2025 |
+| 3 | [Fenn](https://usefenn.com/?utm_source=twf-nikhila) | AI File Search Agent for MacOS | 50% off with code **BLACKFRIDAY** | Nov 12 - Dec 3, 2025 |
 
 ## 📚 Books & Courses
 
