@@ -85,12 +85,13 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
+| 2 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics, powered by AI. | Black Friday Lifetime Deal **$49** | Nov 16 - Dec 2, 2025 |
 
 ## 🌈 Marketing Tools
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Marketing Tool](https://example.com) | Example description for a marketing tool | 80% OFF with code **MARKETING2025** | Nov. 25 - Dec. 25, 2025 |
+| 1 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics, powered by AI. | Black Friday Lifetime Deal **$49** | Nov 16 - Dec 2, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
