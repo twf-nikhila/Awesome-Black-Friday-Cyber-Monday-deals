@@ -49,7 +49,12 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:|
 | 1 | [TranslateMom Pro Plan](https://translate.mom) | Instantly caption, translate, or dub your content with natural sounding voices in 100+ languages! PRO PLAN: - 2000 minutes of AI transcription + translation monthly - 30-day storage for all your tasks - Export without watermark + custom branding - AI dubbing in 29 languages (up to 45 min/file) - Early access to new features - Access to advanced AI models like GPT-4o - Multiple export formats (SRT, VTT, TXT, ASS) - HD video import support - Support for 4.5-hour videos up to 1GB - Smart voice detection for cleaner subtitles - Download original source videos - Enhanced subtitle editor with advanced tools - Priority customer support | Annual Pro Plan at 70% OFF Black Friday Deal: $159 Regular: $528  **Coupon code**: **BLACK** | Nov 28 - Dec 12, 2025 |
-| 2 | [Aba Search and Replace](https://www.abareplace.com/) | A multi-purpose tool for fast, safe text updates across multiple files and data conversions. Built for developers, testers, and analysts. | **30% discount** with code `Sale2025` | Nov 14 - Dec 5 |
+| 2 | [WhaleDeck](https://apple.co/3NQJi4w) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | Lifetime 20% off | Nov 28 - Dec 1, 2025 |
+| 3 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 25% off | Nov 28 - Dec 1, 2025 |
+| 4 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off | Nov 28 - Dec 1, 2025 |
+| 5 | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF | Nov 20 - Dec 2, 2025 |
+| 6 | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** | Nov 20 - Dec 2, 2025 |
+| 7 | [Aba Search and Replace](https://www.abareplace.com/) | A multi-purpose tool for fast, safe text updates across multiple files and data conversions. Built for developers, testers, and analysts. | **30% discount** with code `Sale2025` | Nov 14 - Dec 5 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -62,11 +67,15 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Dirstarter](https://dirstarter.com/?discountCode=BF2025) | Launch your directory faster with built-in ad support, Stripe payments, AI automation, SEO & admin panel. | 40% OFF using code **BF2025** | Nov 12 - Dec 01, 2025 |
+| 2 | [HTTP Toolkit](https://httptoolkit.com/?ref=twf-nikhila) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, browsers, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | Now - Dec 3, 2025 |
+| 3 | [ShipAhead](https://shipahe.ad) | Build your AI SaaS Startup in days, not months. | **40% OFF** with code **BF2025** | Nov 17 - Dec 01, 2025 |
+| 2 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** | Nov 20 - Dec 2, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example AI Tool](https://example.com) | Example description for an AI tool | 50% off on one-time payment | Nov 25 - Nov 30, 2025 |
+| 1 | [Yaya Bear](https://www.careyaya.org/bear) | Yaya Bear is a soft, AI-powered, multi-lingual companion designed to ease loneliness for older adults. Backed by Harvard Innovation Labs and inspired by founder Neal K. Shah’s personal caregiving experience, Yaya Bear engages seniors in meaningful conversations, remembers personal stories, and can even compile them into a keepsake autobiography for families. | Black Friday & Cyber Monday, Yaya Bear is **67% off** — **$99 instead of $299**. For seniors on Medicaid or SNAP, it’s completely free, while supplies last, with a simple, private eligibility check at checkout. Yaya Bear is a soft, AI-powered companion that eases loneliness, remembers personal stories, and can compile them into a keepsake autobiography for families. | Nov 22 - Nov 29, 2025 |
+| 2 | [Orchard](https://orchard.5km.tech/?utm_source=tonybf) | Orchard bridges MCP‑compatible AI assistants with your Apple ecosystem, turning plain language into real actions across native macOS apps—privately, instantly, and locally. | 50% OFF for Lifetime Plan with code **BF2025** | Nov 20 - Dec 2, 2025 |
 
 ## 📚 Books & Courses
 
@@ -84,7 +93,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Theme](https://example.com) | Example description for a theme or design resource | 60% OFF with code **DESIGN2025** | Nov 20 - Dec 30, 2025 |
+| 1 | [Tailkit](https://tailkit.com) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to 50% OFF for a limited number of licenses with code BLACKFRIDAY2025 | Nov 24 - Dec 2, 2025 |
+| 2 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
 
 ## 🌈 Marketing Tools
 
