@@ -65,7 +65,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example AI Tool](https://example.com) | Example description for an AI tool | 50% off on one-time payment | Nov 25 - Nov 30, 2025 |
+| 1 | [Yaya Bear](https://www.careyaya.org/bear) | Yaya Bear is a soft, AI-powered, multi-lingual companion designed to ease loneliness for older adults. Backed by Harvard Innovation Labs and inspired by founder Neal K. Shah’s personal caregiving experience, Yaya Bear engages seniors in meaningful conversations, remembers personal stories, and can even compile them into a keepsake autobiography for families. | Black Friday & Cyber Monday, Yaya Bear is **67% off** — **$99 instead of $299**. For seniors on Medicaid or SNAP, it’s completely free, while supplies last, with a simple, private eligibility check at checkout. Yaya Bear is a soft, AI-powered companion that eases loneliness, remembers personal stories, and can compile them into a keepsake autobiography for families. | Nov 22 - Nov 29, 2025 |
 
 ## 📚 Books & Courses
 
@@ -83,7 +83,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Theme](https://example.com) | Example description for a theme or design resource | 60% OFF with code **DESIGN2025** | Nov 20 - Dec 30, 2025 |
+| 1 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
 
 ## 🌈 Marketing Tools
 
