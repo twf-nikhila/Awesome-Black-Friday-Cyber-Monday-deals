@@ -49,6 +49,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:|
 | 1 | [TranslateMom Pro Plan](https://translate.mom) | Instantly caption, translate, or dub your content with natural sounding voices in 100+ languages! PRO PLAN: - 2000 minutes of AI transcription + translation monthly - 30-day storage for all your tasks - Export without watermark + custom branding - AI dubbing in 29 languages (up to 45 min/file) - Early access to new features - Access to advanced AI models like GPT-4o - Multiple export formats (SRT, VTT, TXT, ASS) - HD video import support - Support for 4.5-hour videos up to 1GB - Smart voice detection for cleaner subtitles - Download original source videos - Enhanced subtitle editor with advanced tools - Priority customer support | Annual Pro Plan at 70% OFF Black Friday Deal: $159 Regular: $528  **Coupon code**: **BLACK** | Nov 28 - Dec 12, 2025 |
+| 2 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package | Nov.28 to Dec.2 |
+| 3 | [LEDit](https://apple.co/47mMM6W) | Turns your iPhone or iPad into a LED-screen matrix to display messages | **50% OFF** Lifetime Package | Nov.28 to Dec.2 |
+| 4 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package | Nov.28 to Dec.2 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -61,6 +64,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Dirstarter](https://dirstarter.com/?discountCode=BF2025) | Launch your directory faster with built-in ad support, Stripe payments, AI automation, SEO & admin panel. | 40% OFF using code **BF2025** | Nov 12 - Dec 01, 2025 |
+| 2 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package | Nov.28 to Dec.2 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
