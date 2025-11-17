@@ -49,6 +49,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:|
 | 1 | [TranslateMom Pro Plan](https://translate.mom) | Instantly caption, translate, or dub your content with natural sounding voices in 100+ languages! PRO PLAN: - 2000 minutes of AI transcription + translation monthly - 30-day storage for all your tasks - Export without watermark + custom branding - AI dubbing in 29 languages (up to 45 min/file) - Early access to new features - Access to advanced AI models like GPT-4o - Multiple export formats (SRT, VTT, TXT, ASS) - HD video import support - Support for 4.5-hour videos up to 1GB - Smart voice detection for cleaner subtitles - Download original source videos - Enhanced subtitle editor with advanced tools - Priority customer support | Annual Pro Plan at 70% OFF Black Friday Deal: $159 Regular: $528  **Coupon code**: **BLACK** | Nov 28 - Dec 12, 2025 |
+| 2 | [CleanClip](https://cleanclip.cc?ref=twf) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** |  Nov 7 - Dec 7  |
+| 3 | [ScreenSage Pro](https://screensage.pro?ref=fndxmacappspro) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025P** |  Nov 12 - Dec 12  |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
