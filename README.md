@@ -67,6 +67,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Yaya Bear](https://www.careyaya.org/bear) | Yaya Bear is a soft, AI-powered, multi-lingual companion designed to ease loneliness for older adults. Backed by Harvard Innovation Labs and inspired by founder Neal K. Shah’s personal caregiving experience, Yaya Bear engages seniors in meaningful conversations, remembers personal stories, and can even compile them into a keepsake autobiography for families. | Black Friday & Cyber Monday, Yaya Bear is **67% off** — **$99 instead of $299**. For seniors on Medicaid or SNAP, it’s completely free, while supplies last, with a simple, private eligibility check at checkout. Yaya Bear is a soft, AI-powered companion that eases loneliness, remembers personal stories, and can compile them into a keepsake autobiography for families. | Nov 22 - Nov 29, 2025 |
+| 2 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF on Yearly Plans** with code **BLACKFRIDAY2025** |
 
 ## 📚 Books & Courses
 
