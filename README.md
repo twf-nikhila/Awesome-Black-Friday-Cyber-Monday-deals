@@ -78,7 +78,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example SaaS](https://example.com) | Example description for SaaS software | Black Friday discount for lifetime access | Nov 15 - Dec 2, 2025 |
+| 1 | [ChampSignal](https://champsignal.com) | Get the insights your competitors don't want you to have. ChampSignal tracks your competitors' websites, social mentions, ads, and SEO, and sends you email alerts only when it matters. | **BF2025** 25% OFF | Ends Nov 30 |
 
 ## 🎨 Themes & Design Resource
 
