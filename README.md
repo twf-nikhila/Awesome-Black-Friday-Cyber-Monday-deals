@@ -54,6 +54,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 4 | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 50% off | Nov 28 - Dec 1, 2025 |
 | 5 | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF | Nov 20 - Dec 2, 2025 |
 | 6 | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** | Nov 20 - Dec 2, 2025 |
+| 7 | [Aba Search and Replace](https://www.abareplace.com/) | A multi-purpose tool for fast, safe text updates across multiple files and data conversions. Built for developers, testers, and analysts. | **30% discount** with code `Sale2025` | Nov 14 - Dec 5 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
