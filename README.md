@@ -59,7 +59,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example NoCode Tool](https://example.com) | Example description for a nocode tool | **50% OFF** in Yearly Plans | Valid till 30th Nov, 2025 |
+| 1 | [Motherboard](https://trymotherboard.com) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) | Forever |
 
 
 ## 🧑‍💻 Developer Tools
