@@ -59,6 +59,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 9 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. |	**30% OFF** yearly plan with code **BLACKFRIDAY** | Nov 14 - Dec 2 |
 | 10 | [Gardenly - Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. |	**50% OFF** first week with code **BLACKFRIDAY** | Nov 14 - Dec 2 |
 | 11 | [Reckord](https://apps.apple.com/us/app/id6744819252) | Reckord helps users to create professional invoices in seconds, manage income and expenses, and track their business performance. It also supports multiple languages and currencies to make invoicing accessible for users around the world. | **70% OFF** Lifetime plan with code **BLACKFRIDAY** | Nov 21 - Dec 5, 2025 |
+| 12 | [Evelize Teleprompter](https://evelize.com?utm_source=twf-nikhila) | Don't memorize your script and create studio quality videos with 4K and HDR from your phone. Record in 1 take instead of 100. Get your content to the next level. | [Premium Lifetime deal at 53% OFF](https://evelize.com?utm_source=twf-nikhila) Black Friday Deal: <s>$149</s> $69 Regular: $149| Nov 25 - Dec 6, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
