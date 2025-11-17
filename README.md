@@ -55,6 +55,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 5 | [TimeGo Clock](https://apps.apple.com/cn/app/timego-clock/id6448658165?l=en-GB&mt=12&utm_source=tonybf) | TimeGo is a lightweight timer app with a fresh 2.0 Ul. Create custom countdown combinations for your workflow. | 50% OFF | Nov 20 - Dec 2, 2025 |
 | 6 | [Zipic](https://zipic.app) | A Mac image compression tool that optimizes images while preserving quality. Features multiple formats, batch processing, automated workflows, and local processing. | 33% OFF with code **BF2025** | Nov 20 - Dec 2, 2025 |
 | 7 | [Aba Search and Replace](https://www.abareplace.com/) | A multi-purpose tool for fast, safe text updates across multiple files and data conversions. Built for developers, testers, and analysts. | **30% discount** with code `Sale2025` | Nov 14 - Dec 5 |
+| 8 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Easily capture your thoughts & ideas on the go and export them to your favourite apps. |	**50% OFF** Lifetime plan with code **BLACKFRIDAY** | Nov 14 - Dec 2 |
+| 9 | [Calorific - Nutrition Tracker](https://apps.apple.com/app/apple-store/id6645043253) | Quickly capture your meals and get instant nutritional insights. |	**30% OFF** yearly plan with code **BLACKFRIDAY** | Nov 14 - Dec 2 |
+| 10 | [Gardenly - Garden Design](https://apps.apple.com/app/apple-store/id6747178697) | Transform your garden instantly from one photo with AI-generated, photorealistic garden designs. |	**50% OFF** first week with code **BLACKFRIDAY** | Nov 14 - Dec 2 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
