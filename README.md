@@ -94,8 +94,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Pagerly](https://pagerly.io) | Oncalls, Rotations, Incidents,  Tasks on Slack/Teams with Ease |  20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
-| 1 | [SyncMyGroup](https://syncmygroup.com) | Sync Users, Teams, Groups across platforms  | 20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
-
+| 2 | [SyncMyGroup](https://syncmygroup.com) | Sync Users, Teams, Groups across platforms  | 20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
+| 3 | [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, track contacts. Built for busy professionals. | **60% OFF** annual plan with code **BLACKFRIDAY2025** | Nov 15 - Dec 1, 2025 |
 
 ## 🎨 Themes & Design Resource
 
