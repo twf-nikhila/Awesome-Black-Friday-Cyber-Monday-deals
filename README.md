@@ -62,6 +62,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Dirstarter](https://dirstarter.com/?discountCode=BF2025) | Launch your directory faster with built-in ad support, Stripe payments, AI automation, SEO & admin panel. | 40% OFF using code **BF2025** | Nov 12 - Dec 01, 2025 |
 | 2 | [ShipAhead](https://shipahe.ad) | Build your AI SaaS Startup in days, not months. | **40% OFF** with code **BF2025** | Nov 17 - Dec 01, 2025 |
+| 3 | [Cozy Watch](https://www.cozywatch.com) | Stay in the flow. GitHub updates? You’ll know. | **4$ OFF** with code **BLACKFRIDAY** | Nov 17 - Dec 01, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
