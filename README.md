@@ -91,7 +91,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example SaaS](https://example.com) | Example description for SaaS software | Black Friday discount for lifetime access | Nov 15 - Dec 2, 2025 |
+| 1 | [Pagerly](https://pagerly.io) | Oncalls, Rotations, Incidents,  Tasks on Slack/Teams with Ease |  20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
+| 1 | [SyncMyGroup](https://syncmygroup.com) | Sync Users, Teams, Groups across platforms  | 20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
+
 
 ## 🎨 Themes & Design Resource
 
@@ -104,8 +106,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Marketing Tool](https://example.com) | Example description for a marketing tool | 80% OFF with code **MARKETING2025** | Nov. 25 - Dec. 25, 2025 |
-| 2 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A Proven Blueprint to launch your SaaS on top of Product Hunt. Steal the secret launch strategies of 20+ successful SaaS founders, 60+ Done for you post templates, and 70+ communities to get support for your launch day | 60% OFF with code **BF60** | Nov 14 - Dec 7, 2025 |
+| 1 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A Proven Blueprint to launch your SaaS on top of Product Hunt. Steal the secret launch strategies of 20+ successful SaaS founders, 60+ Done for you post templates, and 70+ communities to get support for your launch day | 60% OFF with code **BF60** | Nov 14 - Dec 7, 2025 |
+| 2 | [Updately](https://updately.ai) | Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc | 20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
