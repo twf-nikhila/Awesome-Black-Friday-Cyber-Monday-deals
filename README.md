@@ -89,6 +89,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 6 | [LaunchFast](https://www.launchfa.st) | Save hours with complete SaaS starter kits for Next.js, SvelteKit, and Astro — including SEO, auth, payments, docs, analytics, and more. | $50 OFF using code **BLACKFRIDAY** | Nov 14 - Dec 01, 2025 |
 | 7 | [ShipAhead](https://shipahe.ad) | Build your AI SaaS Startup in days, not months. | **40% OFF** with code **BF2025** | Nov 17 - Dec 01, 2025 |
 | 8 | [Cozy Watch](https://www.cozywatch.com) | Stay in the flow. GitHub updates? You’ll know. | **4$ OFF** with code **BLACKFRIDAY** | Nov 17 - Dec 01, 2025 |
+| 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=Awesome-Black-Friday-Cyber-Monday-deals/) | Vue PDF Viewer is a Vue 3 + Nuxt-ready PDF viewer with advanced tooling like annotations, theming, responsive layouts, and programmatic control designed for production apps. | 30% OFF Viewer / 40% OFF Viewer+Annotation (auto-applied) | 17 Nov - 1 Dec |
+| 10 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=Awesome-Black-Friday-Cyber-Monday-deals/) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied) | 17 Nov - 1 Dec |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
