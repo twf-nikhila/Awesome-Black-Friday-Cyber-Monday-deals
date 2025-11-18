@@ -108,6 +108,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 8 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** |Nov 21 to Dec 7 |
 | 9 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** |Nov 21 to Dec 7 |
 | 10 | [Anything](https://createanything.com) | Anything is a vibe coding platform that lets you build Anything you can imagine. No Coding Needed. | 50% OFF all plans with code **NIKHILA2K25** | Nov 18 - Dec 1, 2025 |
+| 11 | [SharpAPI](https://sharpapi.com/en/pricing) | SharpAPI provides ready-to-use AI workflow APIs for product descriptions, resume parsing, job match scoring, SEO tags, and more. Developers get consistent, production-grade AI results without building custom models or maintaining GPU infrastructure. | 50% OFF first year with code **BF2025** | Nov 24 - Dec 3, 2025 |
 
 ## 📚 Books & Courses
 
