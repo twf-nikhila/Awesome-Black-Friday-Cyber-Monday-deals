@@ -85,6 +85,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 4 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** | Nov 20 - Dec 2, 2025 |
 | 5 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package | Nov.28 to Dec.2 |
 | 6 | [LaunchFast](https://www.launchfa.st) | Save hours with complete SaaS starter kits for Next.js, SvelteKit, and Astro — including SEO, auth, payments, docs, analytics, and more. | $50 OFF using code **BLACKFRIDAY** | Nov 14 - Dec 01, 2025 |
+| 7 | [ShipAhead](https://shipahe.ad) | Build your AI SaaS Startup in days, not months. | **40% OFF** with code **BF2025** | Nov 17 - Dec 01, 2025 |
+| 8 | [Cozy Watch](https://www.cozywatch.com) | Stay in the flow. GitHub updates? You’ll know. | **4$ OFF** with code **BLACKFRIDAY** | Nov 17 - Dec 01, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
