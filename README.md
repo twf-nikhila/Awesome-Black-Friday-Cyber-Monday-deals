@@ -69,6 +69,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 19 |[Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BFDISC2025** | Nov 17 - Dec 2, 2025 |
 | 20 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | Nov 17 - Dec 1, 2025 |
 | 21 | [BucketMate](https://bucketmate.app/pricing?ref=twf-nikhila-abfcmd) | a Finder-style S3-compatible manager for macOS. | **BLACKFRIDAY11** - 70% OFF lifetime license | Nov 5 - Dec 5, 2025 |
+| 22 | [ExploitPack](https://www.exploitpack.com/products/exploit-pack) | Exploit Framework. Get access to over 39,500+ exploits, zero-days from our lab, implants and utilities. | Lifetime license | Nov 24 - Dec 1, 2025 |
+| 23 | [ControlPack](https://www.exploitpack.com/products/control-pack) | Control Pack gives you full access to the most advanced and stealthiest post-exploitation C2 framework | Lifetime license | Nov 24 - Dec 1, 2025 |
+| 24 | [KernelPack](https://www.exploitpack.com/products/kernel-pack) | Kernel Pack is the game over tool that allows you to create your own rootkit (driver) and uses exploits to obtain ring-0 access. | Lifetime license | Nov 24 - Dec 1, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
