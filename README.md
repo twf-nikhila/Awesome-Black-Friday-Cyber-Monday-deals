@@ -88,6 +88,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 3 | [Fenn](https://usefenn.com/?utm_source=twf-nikhila) | AI File Search Agent for MacOS | 50% off with code **BLACKFRIDAY** | Nov 12 - Dec 3, 2025 |
 | 4 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | **BFCM2025** 50% OFF (LIFETIME) | Nov 24 - Dec 1, 2025 |
 | 5 | [SEOengine.ai](https://seoengine.ai) | SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. | 35% OFF with code **BLACKFRIDAY** | Nov 17 - Dec 7, 2025 |
+| 6 | [SharpAPI](https://sharpapi.com/en/pricing) | SharpAPI provides ready-to-use AI workflow APIs for product descriptions, resume parsing, job match scoring, SEO tags, and more. Developers get consistent, production-grade AI results without building custom models or maintaining GPU infrastructure. | 50% OFF first year with code **BF2025** | Nov 24 - Dec 3, 2025 |
+
 
 ## 📚 Books & Courses
 
