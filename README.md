@@ -117,6 +117,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A Proven Blueprint to launch your SaaS on top of Product Hunt. Steal the secret launch strategies of 20+ successful SaaS founders, 60+ Done for you post templates, and 70+ communities to get support for your launch day | 60% OFF with code **BF60** | Nov 14 - Dec 7, 2025 |
 | 2 | [Updately](https://updately.ai) | Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc | 20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
+| 3 | [IndieEarnr](https://unapologeticih.gumroad.com/l/indieearnr) | Boost your income with 580+ Affiliate & Referral Programs for Solopreneurs, Indie Hackers, SaaS Owners, and Creators | 60% OFF. Lifetime Access and Updates **Coupon code**: **60OFF**  | Nov 17 - Dec 15, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
