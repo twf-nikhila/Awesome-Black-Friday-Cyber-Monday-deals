@@ -63,6 +63,12 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 13 | [CleanClip](https://cleanclip.cc?ref=twf) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** |  Nov 7 - Dec 7  |
 | 14 | [ScreenSage Pro](https://screensage.pro?ref=fndxmacappspro) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025P** |  Nov 12 - Dec 12  |
 | 15 | [Fileside](https://www.fileside.app/?ref=abfcmd) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license | Nov 24 - Dec 1, 2025 |
+| 16 | [Everlog](https://apple.co/3pmdUCn) | Full-featured journaling app for iPhone, iPad, Mac and Vision Pro | **40% OFF** Lifetime Package | Nov.28 to Dec.2 |
+| 17 | [LEDit](https://apple.co/47mMM6W) | Turns your iPhone or iPad into a LED-screen matrix to display messages | **50% OFF** Lifetime Package | Nov.28 to Dec.2 |
+| 18 | [Pasta](https://apple.co/46omrEk) | Visual Clipboard Manager for your Mac | **50% OFF** Lifetime Package | Nov.28 to Dec.2 |
+| 19 |[Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BFDISC2025** | Nov 17 - Dec 2, 2025 |
+| 20 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | Nov 17 - Dec 1, 2025 |
+| 21 | [BucketMate](https://bucketmate.app/pricing?ref=twf-nikhila-abfcmd) | a Finder-style S3-compatible manager for macOS. | **BLACKFRIDAY11** - 70% OFF lifetime license | Nov 5 - Dec 5, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -78,7 +84,13 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 1 | [Dirstarter](https://dirstarter.com/?discountCode=BF2025) | Launch your directory faster with built-in ad support, Stripe payments, AI automation, SEO & admin panel. | 40% OFF using code **BF2025** | Nov 12 - Dec 01, 2025 |
 | 2 | [HTTP Toolkit](https://httptoolkit.com/?ref=twf-nikhila) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, browsers, node.js & more | **50% off** forever on annual subscriptions, with code **BLACKFRIDAY25** | Now - Dec 3, 2025 |
 | 3 | [ShipAhead](https://shipahe.ad) | Build your AI SaaS Startup in days, not months. | **40% OFF** with code **BF2025** | Nov 17 - Dec 01, 2025 |
-| 2 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** | Nov 20 - Dec 2, 2025 |
+| 4 | [KeygenGo](https://keygengo.5km.tech?utm_source=tonybf) | A native macOS app that transforms your Keygen.sh experience. Manage licenses, track users, and monitor products through an elegant visual interface. | 50% OFF for Lifetime Plan with code **BF2025** | Nov 20 - Dec 2, 2025 |
+| 5 | [Verba](https://apple.co/43AG6kX) | String Catalog editor with AI capabilities to translate strings and generate comments using your own API keys | **50% OFF** Lifetime Package | Nov.28 to Dec.2 |
+| 6 | [LaunchFast](https://www.launchfa.st) | Save hours with complete SaaS starter kits for Next.js, SvelteKit, and Astro — including SEO, auth, payments, docs, analytics, and more. | $50 OFF using code **BLACKFRIDAY** | Nov 14 - Dec 01, 2025 |
+| 7 | [ShipAhead](https://shipahe.ad) | Build your AI SaaS Startup in days, not months. | **40% OFF** with code **BF2025** | Nov 17 - Dec 01, 2025 |
+| 8 | [Cozy Watch](https://www.cozywatch.com) | Stay in the flow. GitHub updates? You’ll know. | **4$ OFF** with code **BLACKFRIDAY** | Nov 17 - Dec 01, 2025 |
+| 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=Awesome-Black-Friday-Cyber-Monday-deals/) | Vue PDF Viewer is a Vue 3 + Nuxt-ready PDF viewer with advanced tooling like annotations, theming, responsive layouts, and programmatic control designed for production apps. | 30% OFF Viewer / 40% OFF Viewer+Annotation (auto-applied) | 17 Nov - 1 Dec |
+| 10 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=Awesome-Black-Friday-Cyber-Monday-deals/) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied) | 17 Nov - 1 Dec |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -88,8 +100,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 3 | [Fenn](https://usefenn.com/?utm_source=twf-nikhila) | AI File Search Agent for MacOS | 50% off with code **BLACKFRIDAY** | Nov 12 - Dec 3, 2025 |
 | 4 | [Aikeedo](https://aikeedo.com/self-hosted/) | Launch your own AI SaaS, branded and self-hosted. AI videos, images, and chat - all in one AI workspace. | **BFCM2025** 50% OFF (LIFETIME) | Nov 24 - Dec 1, 2025 |
 | 5 | [SEOengine.ai](https://seoengine.ai) | SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice—not generic ChatGPT content. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. | 35% OFF with code **BLACKFRIDAY** | Nov 17 - Dec 7, 2025 |
-| 6 | [SharpAPI](https://sharpapi.com/en/pricing) | SharpAPI provides ready-to-use AI workflow APIs for product descriptions, resume parsing, job match scoring, SEO tags, and more. Developers get consistent, production-grade AI results without building custom models or maintaining GPU infrastructure. | 50% OFF first year with code **BF2025** | Nov 24 - Dec 3, 2025 |
-
+| 6 | [inReels.ai](https://www.inreels.ai) | Create stunning videos in seconds using AI. Turn text, PDFs, or images into videos. Repurpose content for YouTube, TikTok, Reels, and more. | **50% OFF on Yearly Plans** with code **BLACKFRIDAY2025** |
+| 7 | [HyperWhisper](https://hyperwhisper.com) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF with code **BLACKFRIDAY** | Nov 12 - Dec 1, 2025 |
+| 8 | [SharpAPI](https://sharpapi.com/en/pricing) | SharpAPI provides ready-to-use AI workflow APIs for product descriptions, resume parsing, job match scoring, SEO tags, and more. Developers get consistent, production-grade AI results without building custom models or maintaining GPU infrastructure. | 50% OFF first year with code **BF2025** | Nov 24 - Dec 3, 2025 |
 
 ## 📚 Books & Courses
 
@@ -105,6 +118,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 1 | [Pagerly](https://pagerly.io) | Oncalls, Rotations, Incidents,  Tasks on Slack/Teams with Ease |  20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
 | 2 | [SyncMyGroup](https://syncmygroup.com) | Sync Users, Teams, Groups across platforms  | 20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
 | 3 | [Reepl](https://app.reepl.io/claim-offer/BLACKFRIDAY2025) | AI-powered LinkedIn automation platform. Train AI on your writing, automate personalized DMs/comments, schedule posts, track contacts. Built for busy professionals. | **60% OFF** annual plan with code **BLACKFRIDAY2025** | Nov 15 - Dec 1, 2025 |
+| 4 | [ChampSignal](https://champsignal.com) | Get the insights your competitors don't want you to have. ChampSignal tracks your competitors' websites, social mentions, ads, and SEO, and sends you email alerts only when it matters. | **BF2025** 25% OFF | Ends Nov 30 |
 
 ## 🎨 Themes & Design Resource
 
@@ -112,6 +126,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Tailkit](https://tailkit.com) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to 50% OFF for a limited number of licenses with code BLACKFRIDAY2025 | Nov 24 - Dec 2, 2025 |
 | 2 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
+| 3 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
+| 4 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics, powered by AI. | Black Friday Lifetime Deal **$49** | Nov 16 - Dec 2, 2025 |
 
 ## 🌈 Marketing Tools
 
@@ -120,6 +136,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 1 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A Proven Blueprint to launch your SaaS on top of Product Hunt. Steal the secret launch strategies of 20+ successful SaaS founders, 60+ Done for you post templates, and 70+ communities to get support for your launch day | 60% OFF with code **BF60** | Nov 14 - Dec 7, 2025 |
 | 2 | [Updately](https://updately.ai) | Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc | 20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
 | 3 | [IndieEarnr](https://unapologeticih.gumroad.com/l/indieearnr) | Boost your income with 580+ Affiliate & Referral Programs for Solopreneurs, Indie Hackers, SaaS Owners, and Creators | 60% OFF. Lifetime Access and Updates **Coupon code**: **60OFF**  | Nov 17 - Dec 15, 2025 |
+| 4 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics, powered by AI. | Black Friday Lifetime Deal **$49** | Nov 16 - Dec 2, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
