@@ -107,6 +107,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 7 | [HyperWhisper](https://hyperwhisper.com) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF with code **BLACKFRIDAY** | Nov 12 - Dec 1, 2025 |
 | 8 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** |Nov 21 to Dec 7 |
 | 9 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** |Nov 21 to Dec 7 |
+| 10 | [Anything](https://createanything.com) | Anything is a vibe coding platform that lets you build Anything you can imagine. No Coding Needed. | 50% OFF all plans with code **NIKHILA2K25** | Nov 18 - Dec 1, 2025 |
 
 ## 📚 Books & Courses
 
