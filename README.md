@@ -69,6 +69,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 19 |[Keystro](https://keystro.app) | Display keystrokes, highlight cursor, and virtualize mechanical keyboard sounds. Massively enhance your tutorial and presentation. Available for Windows and MacOS for free with watermark. | **30% OFF** with code **BFDISC2025** | Nov 17 - Dec 2, 2025 |
 | 20 | [XGetter](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | Nov 17 - Dec 1, 2025 |
 | 21 | [BucketMate](https://bucketmate.app/pricing?ref=twf-nikhila-abfcmd) | a Finder-style S3-compatible manager for macOS. | **BLACKFRIDAY11** - 70% OFF lifetime license | Nov 5 - Dec 5, 2025 |
+| 22 | [ExploitPack](https://www.exploitpack.com/products/exploit-pack) | Exploit Framework. Get access to over 39,500+ exploits, zero-days from our lab, implants and utilities. | Lifetime license | Nov 24 - Dec 1, 2025 |
+| 23 | [ControlPack](https://www.exploitpack.com/products/control-pack) | Control Pack gives you full access to the most advanced and stealthiest post-exploitation C2 framework | Lifetime license | Nov 24 - Dec 1, 2025 |
+| 24 | [KernelPack](https://www.exploitpack.com/products/kernel-pack) | Kernel Pack is the game over tool that allows you to create your own rootkit (driver) and uses exploits to obtain ring-0 access. | Lifetime license | Nov 24 - Dec 1, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -104,7 +107,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 7 | [HyperWhisper](https://hyperwhisper.com) | Highly customizable speech-to-text. Ultra-fast and accurate. Offline models. 8+ STT providers. | 50% OFF with code **BLACKFRIDAY** | Nov 12 - Dec 1, 2025 |
 | 8 | [SEO Bot](https://seobotai.com/) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | **20% OFF** first payment, code **JOHNRUSH** |Nov 21 to Dec 7 |
 | 9 | [AIScraper](https://aiscraper.co/) | Extract data from any website in seconds | **20% OFF** first payment, code **JOHNRUSH** |Nov 21 to Dec 7 |
-| 8 | [SharpAPI](https://sharpapi.com/en/pricing) | SharpAPI provides ready-to-use AI workflow APIs for product descriptions, resume parsing, job match scoring, SEO tags, and more. Developers get consistent, production-grade AI results without building custom models or maintaining GPU infrastructure. | 50% OFF first year with code **BF2025** | Nov 24 - Dec 3, 2025 |
+| 10 | [Anything](https://createanything.com) | Anything is a vibe coding platform that lets you build Anything you can imagine. No Coding Needed. | 50% OFF all plans with code **NIKHILA2K25** | Nov 18 - Dec 1, 2025 |
+| 11 | [SharpAPI](https://sharpapi.com/en/pricing) | SharpAPI provides ready-to-use AI workflow APIs for product descriptions, resume parsing, job match scoring, SEO tags, and more. Developers get consistent, production-grade AI results without building custom models or maintaining GPU infrastructure. | 50% OFF first year with code **BF2025** | Nov 24 - Dec 3, 2025 |
 
 ## 📚 Books & Courses
 
@@ -112,6 +116,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/) | A complete step by step guide to get your first client as a freelancer from scratch.  | 50% off with coupon code **BLACK** | Nov 15 - Nov 30, 2025 |
 | 2 | [LabEx](https://labex.io/learn)| Learn Linux, DevOps & Cybersecurity with Hands-on Labs |  [50% OFF for Two Years](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: 2025BF50) and [30% OFF for One Year](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: 2025BF30) | Nov 12 – Dec 1, 2025 |
+| 3 | [Vue School](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Comprehensive video courses for Vue, Nuxt, TypeScript, Pinia, and modern frontend practices, trusted by the Vue.js community. | 60% OFF a Yearly or Lifetime plan. Plus get 7 BONUS resources (worth $2,040) absolutely free | Live now |
+| 4 | [Certificates.dev](https://certificates.dev/?friend=VUEPDF) | Get certified with official Vue & Nuxt certifications, plus expert-reviewed certifications for React, Angular & JavaScript. Includes hands-on coding exams, not just MCQ. Trusted by devs from IBM, Ford and 680+ companies. | Up to 60% OFF all mid & senior certifications + Bonus: 2 AI Dev Courses + Any Junior Certification included FREE with purchase. | Live now |
 
 ## ♻️ SaaS Software
 
@@ -133,6 +139,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 2 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
 | 3 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
 | 4 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics, powered by AI. | Black Friday Lifetime Deal **$49** | Nov 16 - Dec 2, 2025 |
+| 5 | [Tailkits UI](https://tailkits.com) | Modern library of over 200 customizable Tailwind components | Up to 60% OFF with code BLACKFRIDAY2025 | Nov 18 - Dec 2, 2025 |
 
 ## 🌈 Marketing Tools
 
@@ -160,3 +167,4 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 # 🔖 Other places to list Black Friday Deals:
 
+  
