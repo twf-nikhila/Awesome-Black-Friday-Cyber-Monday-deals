@@ -119,6 +119,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Tailkit](https://tailkit.com) | 640+ carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. 2,000+ code snippets for React, Vue.js, Alpine.js and HTML along with 10 templates are included. | Up to 50% OFF for a limited number of licenses with code BLACKFRIDAY2025 | Nov 24 - Dec 2, 2025 |
 | 2 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
+| 3 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
+| 4 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics, powered by AI. | Black Friday Lifetime Deal **$49** | Nov 16 - Dec 2, 2025 |
 
 ## 🌈 Marketing Tools
 
@@ -127,6 +129,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 1 | [Product Hunt Workbook](https://launchpedia.co/product-hunt-workbook/) | A Proven Blueprint to launch your SaaS on top of Product Hunt. Steal the secret launch strategies of 20+ successful SaaS founders, 60+ Done for you post templates, and 70+ communities to get support for your launch day | 60% OFF with code **BF60** | Nov 14 - Dec 7, 2025 |
 | 2 | [Updately](https://updately.ai) | Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc | 20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
 | 3 | [IndieEarnr](https://unapologeticih.gumroad.com/l/indieearnr) | Boost your income with 580+ Affiliate & Referral Programs for Solopreneurs, Indie Hackers, SaaS Owners, and Creators | 60% OFF. Lifetime Access and Updates **Coupon code**: **60OFF**  | Nov 17 - Dec 15, 2025 |
+| 4 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics, powered by AI. | Black Friday Lifetime Deal **$49** | Nov 16 - Dec 2, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
