@@ -63,6 +63,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 13 | [CleanClip](https://cleanclip.cc?ref=twf) | The cleanest system-level clipboard manager for Mac, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% OFF with code **BFC2025** |  Nov 7 - Dec 7  |
 | 14 | [ScreenSage Pro](https://screensage.pro?ref=fndxmacappspro) | A screen recording app on maOS that simultaneously captures your screen, webcam, microphone. Create 2D/3D auto zoom with cursor tracking for beautiful demos; smooth A‑roll/B‑roll switching for beautiful vlogs | 53% OFF with code **BFS2025P** |  Nov 12 - Dec 12  |
 | 15 | [Fileside](https://www.fileside.app/?ref=abfcmd) | A modern multi-pane file manager for Mac and Windows. Create tiled workspaces for your projects and collections. | 66% OFF lifetime license | Nov 24 - Dec 1, 2025 |
+| 16 | [ExploitPack](https://www.exploitpack.com/products/exploit-pack) | Exploit Framework. Get access to over 39,500+ exploits, zero-days from our lab, implants and utilities. | Lifetime license | Nov 24 - Dec 1, 2025 |
+| 17 | [ControlPack](https://www.exploitpack.com/products/control-pack) | Control Pack gives you full access to the most advanced and stealthiest post-exploitation C2 framework | Lifetime license | Nov 24 - Dec 1, 2025 |
+| 18 | [KernelPack](https://www.exploitpack.com/products/kernel-pack) | Kernel Pack is the game over tool that allows you to create your own rootkit (driver) and uses exploits to obtain ring-0 access. | Lifetime license | Nov 24 - Dec 1, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
