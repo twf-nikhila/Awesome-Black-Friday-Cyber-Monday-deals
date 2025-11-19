@@ -140,6 +140,10 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 3 | [Priyansh Animations](https://www.priyansh.net/) | Get blockbuster style customized intros! Perfect for your social media, special events, or just for fun. | Flat 20% Off with code **BLACKFRIDAY25** | Nov 16 - Nov 30, 2025 |
 | 4 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics, powered by AI. | Black Friday Lifetime Deal **$49** | Nov 16 - Dec 2, 2025 |
 | 5 | [Tailkits UI](https://tailkits.com) | Modern library of over 200 customizable Tailwind components | Up to 60% OFF with code BLACKFRIDAY2025 | Nov 18 - Dec 2, 2025 |
+| 6 | [MGC UI](https://mgcui.framer.website/?utm_source=twf) | Design system and UI Kit for Figma | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
+| 7 | [MGC ICON](https://mgc.mingcute.com/?utm_source=twf) | Carefully crafted icon pack collection featuring over 14,000 high-quality vector icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
+| 8 | [MGC Animation](https://www.mingcute.com/animation?utm_source=twf) | 120+ lively and smooth animated icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
+| 9 | [MGC Weather](https://mgcweather.framer.website/?utm_source=twf) | 120 graceful weather icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
 
 ## 🌈 Marketing Tools
 
