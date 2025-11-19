@@ -24,6 +24,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 * 📩 [Newsletter & Communities](#-newsletter--communities) - Paid/newsletters, groups
 * 🔌 [Plugins](#-plugins) - Extensions/add-ons for platforms
 * 🧬 [Standalone scripts](#-standalone-scripts) - One-time purchase scripts/snippets
+* 🔥 [Productivity Tools](#-productivity-tools) - Task management, workflow, scheduling, note-taking, focus tools
 
 **Special Request 👉** ⭐ Star this repository so it becomes trending on Black Friday!
 
@@ -173,6 +174,12 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Example Script](https://example.com) | Example description for a standalone script | 50% OFF | Nov 25 - Dec 6, 2025 |
+
+## 🔥 Productivity Tools
+| **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|:-:
+| 1 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Includes Fuelance Freelance System, 35+ Page Welcome Pack, 250+ Customizable Email Templates, B2B Signals & Tracker & Blog Basics Workbook. | **75% OFF**. Lifetime Access and Updates. Coupon Code: **75BSB** | Nov 18 - Dec 15, 2025 |
+| 2 | [Mail Mastery MEGA BUNDLE](https://unapologeticih.gumroad.com/l/nyzwb) | 250 customizable email templates covering every aspect of client communication with a range of 30+ essential business documents such as invoices, proposals, and client intake guides. | **60% OFF**. Lifetime Access and Updates. Coupon Code: **60OFFMM** | Nov 18 - Dec 15, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
 
