@@ -154,6 +154,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 2 | [Updately](https://updately.ai) | Monitor and grow your product mentions in ChatGPT, and your customer conversations over Reddit, X, LinkedIn, Facebook, etc | 20% Black Friday off on oncall products Use code BF2025 on checkout | Nov 15 - Dec 31, 2025 |
 | 3 | [IndieEarnr](https://unapologeticih.gumroad.com/l/indieearnr) | Boost your income with 580+ Affiliate & Referral Programs for Solopreneurs, Indie Hackers, SaaS Owners, and Creators | 60% OFF. Lifetime Access and Updates **Coupon code**: **60OFF**  | Nov 17 - Dec 15, 2025 |
 | 4 | [Infography](https://infography.in/) | Turn your blogs into stunning, shareable infographics, powered by AI. | Black Friday Lifetime Deal **$49** | Nov 16 - Dec 2, 2025 |
+| 5 | [HoneyPot - 1100+ Beehiiv Newsletter Database](https://unapologeticih.gumroad.com/l/ejsmjv) | Airtable database of 1100+ newsletters, links, social accounts to connect with creators & 100s of Filterable categories including Startups, SaaS, Founders, Creators & more. | 50% OFF. Lifetime Access and Updates. Coupon Code: **50BEEHIIV** | Nov 18 - Dec 15, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
