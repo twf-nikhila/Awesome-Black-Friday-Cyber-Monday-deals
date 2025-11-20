@@ -96,6 +96,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 9 | [Vue PDF Viewer](https://www.vue-pdf-viewer.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=Awesome-Black-Friday-Cyber-Monday-deals/) | Vue PDF Viewer is a Vue 3 + Nuxt-ready PDF viewer with advanced tooling like annotations, theming, responsive layouts, and programmatic control designed for production apps. | 30% OFF Viewer / 40% OFF Viewer+Annotation (auto-applied) | 17 Nov - 1 Dec |
 | 10 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=Awesome-Black-Friday-Cyber-Monday-deals/) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied) | 17 Nov - 1 Dec |
 | 11 | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** | 21st November to 31st December) |
+| 12 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit for solo builders with subagents system, commands, and AI-powered automation | 50% OFF ($49, was $99) with code **CKEBF2025** (auto-applied) | Nov 24 - Nov 30, 2025 |
+| 13 | [ClaudeKit Combo](https://claudekit.cc) | Complete Claude Code toolkit - Engineer Kit + Marketing Kit for building and scaling your micro SaaS | Buy 1 Get 1 - $99 (includes both kits, normally $199) | Nov 24 - Nov 30, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
