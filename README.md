@@ -73,6 +73,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 22 | [ExploitPack](https://www.exploitpack.com/products/exploit-pack) | Exploit Framework. Get access to over 39,500+ exploits, zero-days from our lab, implants and utilities. | Lifetime license | Nov 24 - Dec 1, 2025 |
 | 23 | [ControlPack](https://www.exploitpack.com/products/control-pack) | Control Pack gives you full access to the most advanced and stealthiest post-exploitation C2 framework | Lifetime license | Nov 24 - Dec 1, 2025 |
 | 24 | [KernelPack](https://www.exploitpack.com/products/kernel-pack) | Kernel Pack is the game over tool that allows you to create your own rootkit (driver) and uses exploits to obtain ring-0 access. | Lifetime license | Nov 24 - Dec 1, 2025 |
+| 25 | [Unplugged](https://apps.apple.com/us/app/unplugged-battery-life-watch/id6476698892) | Your iPhone's battery level, displayed on your Apple Watch. | Lifetime license with - **up to 50% OFF** use **INDIEAPPSALES2025**  | Nov 22 - Dec 3, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -112,6 +113,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 10 | [Anything](https://createanything.com) | Anything is a vibe coding platform that lets you build Anything you can imagine. No Coding Needed. | 50% OFF all plans with code **NIKHILA2K25** | Nov 18 - Dec 1, 2025 |
 | 11 | [SharpAPI](https://sharpapi.com/en/pricing) | SharpAPI provides ready-to-use AI workflow APIs for product descriptions, resume parsing, job match scoring, SEO tags, and more. Developers get consistent, production-grade AI results without building custom models or maintaining GPU infrastructure. | 50% OFF first year with code **BF2025** | Nov 24 - Dec 3, 2025 |
 | 12 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. Do advanced competitor research for Youtube and know what their audience actually cares about. | **30% OFF** on all Plans with code **BFCM25** | Nov 17 - Dec 4, 2025 |
+| 13 | [Elephas](https://elephas.app/) | Elephas is a Mac knowledge assistant that helps you capture, organize, and access information right from your computer. It has Super Brain, which builds your personal knowledge base using documents, notes, and web content. The tool works with multiple AI providers like OpenAI, Claude, and Gemini, and runs completely offline to keep your data private. You get AI Workflows for handling multistep tasks, web search built in, and smart writing features that work across all your Mac apps. Elephas offers different rewrite modes, grammar fixes, smart replies, and personalized tones that match how you write. It handles file formats like CSV, JSON, and PDF. The tool also works on iOS devices and lets you automate tasks with snippets for faster work. | **20% OFF** on lifetime deal plans | Nov 19 - Dec 04, 2025 |
 
 ## 📚 Books & Courses
 
