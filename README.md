@@ -98,7 +98,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 10 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=Awesome-Black-Friday-Cyber-Monday-deals/) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied) | 17 Nov - 1 Dec |
 | 11 | [Dynomate](https://dynomate.io?utm_source=trungdq88-blackfriday) | Cross-platform Dynamodb GUI client for desktop with Multi-tab, multi-account support, SSO & MFA support, and more  | 30% off with code **BF25** | 21st November to 31st December) |
 | 12 | [KAppMaker](https://kappmaker.com) | Kotlin & Compose Multiplatform mobile app boilerplate | **40% OFF** with code **BLACKFRIDAY40** | Nov 19 - Dec 1, 2025 |
-
+| 13 | [saasbrella](https://saasbrella.co/?utm_source=twf-nikhila) | Hosted, Deployed & Fully Functional SaaS Template with instant Dev Environment setup | $99 LIFETIME PRO PLAN with 10 Hosting Years|
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
