@@ -76,7 +76,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 25 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors design workflow. | 30% OFF Lifetime - NO CODE REQUIRED | Nov 24th - Dec 4th |
 | 26 | [Viso](https://getviso.app) | Beautiful minimal image viewer for macOS | 30% OFF - NO CODE REQUIRED | Nov 24th - Dec 4th |
 | 27 | [Litur(iOS)](https://litur.app) | A color picker for the real world. Litur helps you find and collect all the colors around you. | 33% OFF Lifetime | Nov 24th - Dec 4th |
-| [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | Nov 24th - Dec 4th |
+| 28 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | Nov 24th - Dec 4th |
 
 
 ## ⚙️ NoCode Tools
