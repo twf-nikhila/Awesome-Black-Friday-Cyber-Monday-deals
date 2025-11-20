@@ -182,6 +182,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Includes Fuelance Freelance System, 35+ Page Welcome Pack, 250+ Customizable Email Templates, B2B Signals & Tracker & Blog Basics Workbook. | **75% OFF**. Lifetime Access and Updates. Coupon Code: **75BSB** | Nov 18 - Dec 15, 2025 |
 | 2 | [Mail Mastery MEGA BUNDLE](https://unapologeticih.gumroad.com/l/nyzwb) | 250 customizable email templates covering every aspect of client communication with a range of 30+ essential business documents such as invoices, proposals, and client intake guides. | **60% OFF**. Lifetime Access and Updates. Coupon Code: **60OFFMM** | Nov 18 - Dec 15, 2025 |
+| 3 | [Lingon Pro](https://www.peterborgapps.com/lingon) | Run whatever you want, whenever you want with Lingon Pro | **20% OFF** (automatically applied)| Nov 20 - Dec 1, 2025 |
+| 4 | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us | **20% OFF** (automatically applied)| Nov 20 - Dec 1, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
 
