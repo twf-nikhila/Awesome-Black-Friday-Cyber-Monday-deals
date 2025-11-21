@@ -201,6 +201,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 2 | [Mail Mastery MEGA BUNDLE](https://unapologeticih.gumroad.com/l/nyzwb) | 250 customizable email templates covering every aspect of client communication with a range of 30+ essential business documents such as invoices, proposals, and client intake guides. | **60% OFF**. Lifetime Access and Updates. Coupon Code: **60OFFMM** | Nov 18 - Dec 15, 2025 |
 | 3 | [Lingon Pro](https://www.peterborgapps.com/lingon) | Run whatever you want, whenever you want with Lingon Pro | **20% OFF** (automatically applied)| Nov 20 - Dec 1, 2025 |
 | 4 | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us | **20% OFF** (automatically applied)| Nov 20 - Dec 1, 2025 |
+| 5 | [SupaSidebar](https://www.supasidebar.com) | Arc-like Sidebar for all browsers. All links, files and folders in one place. | **50% OFF**. Lifetime Access and Updates. BLACKFRIDAY50 | Nov 21 - Nov 30, 2025 |
+| 6 | [Focusmo](https://www.focusmo.app) | Focusmo helps you log your day as you go - so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF**. Lifetime Access and Updates. (automatically applied)| Nov 21 - Nov 30, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
 
