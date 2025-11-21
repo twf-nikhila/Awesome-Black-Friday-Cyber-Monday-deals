@@ -202,6 +202,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 2 | [Mail Mastery MEGA BUNDLE](https://unapologeticih.gumroad.com/l/nyzwb) | 250 customizable email templates covering every aspect of client communication with a range of 30+ essential business documents such as invoices, proposals, and client intake guides. | **60% OFF**. Lifetime Access and Updates. Coupon Code: **60OFFMM** | Nov 18 - Dec 15, 2025 |
 | 3 | [Lingon Pro](https://www.peterborgapps.com/lingon) | Run whatever you want, whenever you want with Lingon Pro | **20% OFF** (automatically applied)| Nov 20 - Dec 1, 2025 |
 | 4 | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us | **20% OFF** (automatically applied)| Nov 20 - Dec 1, 2025 |
+| 5 | [Daily Time Tracking](https://dailytimetracking.com?ref=twfbf) | Daily tracks time effortlessly by periodically asking what you’re doing. No more toggling timers or forgetting to.  | **30% off** on the Mac App Store | Nov 24 - Dec 1, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
 
