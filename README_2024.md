@@ -220,6 +220,7 @@ Your most affordable form builder with Logic, Integrations, Duplicate checks, Si
 | 7 | [A Developer's Guide to Blogging](https://theankurtyagi.com/books/) | A guide for developers to start and grow a successful blog. | 50% OFF with code **BLACKFRIDAY** | Nov 1 - Dec 2 |
 | 8 | [Codecourse](https://codecourse.com) | Practical screencasts for developers | 50% off all memberships. No code needed. | Nov 18 - Dec 2 |
 | 9 | [DNS for Developers](https://nslookup.io/dns-course/) | Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all. | 66% off. No code needed. | Nov 27 - Dec 3 |
+| 10 | [Zero to Mastery](https://zerotomastery.io/) | Learn the most in-demand tech skills including AI, machine learning, data science, and software engineering with Zero To Mastery. | 66% OFF with code **BFCM25** | Nov 21 - Dec 1 |
 
 
 ### 🚀 Startup Books  
