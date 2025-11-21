@@ -113,6 +113,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 14 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit for solo builders with subagents system, commands, and AI-powered automation | 50% OFF ($49, was $99) with code **CKEBF2025** (auto-applied) | Nov 24 - Nov 30, 2025 |
 | 15 | [ClaudeKit Combo](https://claudekit.cc) | Complete Claude Code toolkit - Engineer Kit + Marketing Kit for building and scaling your micro SaaS | Buy 1 Get 1 - $99 (includes both kits, normally $199) | Nov 24 - Nov 30, 2025 |
 | 16 | [TestDino](https://testdino.com/) | TestDino is a Playwright-native test reporting platform for engineering, QA, and product teams. It classifies failures, detects flaky tests, and provides insights for faster debugging and improved test stability. | **40%** Discount on Annual Plans | Nov 21 - Dec 01, 2025 |
+| 17 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows | 30% off any Tower plan | Nov 25 - Dec 7, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
