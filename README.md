@@ -32,7 +32,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 # **Sponsored Deal**
 
-### [FormNX](https://formnx.com) 
+### [FormNX](https://formnx.com)
 🔥 **(50% OFF all Yearly Plans)**
 
 <p align="center">
@@ -84,7 +84,10 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 33 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens. | 50% OFF Lifetime | Nov 21th - Dec 3th |
 | 34 | [FiveNotes](https://www.apptorium.com/fivenotes) | Teleport your cursor across your screens. | 50% OFF Lifetime | Nov 21th - Dec 3th |
 | 35 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime | Nov 21th - Dec 3th |
-
+| 36 | [Airfare Alerts: Price Tracker](https://getairfarealerts.com/) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. For iOS and Android. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. | Nov 21 - Dec 2 |
+| 37 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes on iPhone, iPad, and Mac. Add your logo, pick custom colors, and export high-quality codes ready to print or share. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
+| 38 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes, then test them instantly with the built-in camera scanner. Supports formats like Code 128, EAN-13, PDF417, and more. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
+| 39 | [Itemlist – Inventory Tracker](https://www.getitemlist.app) | Powerful inventory tracker for home and business. Organize, categorize, and find items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -141,6 +144,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 3 | [Vue School](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Comprehensive video courses for Vue, Nuxt, TypeScript, Pinia, and modern frontend practices, trusted by the Vue.js community. | 60% OFF a Yearly or Lifetime plan. Plus get 7 BONUS resources (worth $2,040) absolutely free | Live now |
 | 4 | [Certificates.dev](https://certificates.dev/?friend=VUEPDF) | Get certified with official Vue & Nuxt certifications, plus expert-reviewed certifications for React, Angular & JavaScript. Includes hands-on coding exams, not just MCQ. Trusted by devs from IBM, Ford and 680+ companies. | Up to 60% OFF all mid & senior certifications + Bonus: 2 AI Dev Courses + Any Junior Certification included FREE with purchase. | Live now |
 | 5 | [CloudBreach - Advanced Offensive Azure & AWS Security Trainings and Certifications](https://cloudbreach.io/blackfriday/) | 20% off with code: BlackFriday25 Deal valid: 21st November - 8th December | 20% off with code: **BlackFriday25** | Nov 21 - Dec 8, 2025 |
+| 6 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount applied automatically  | Nov 27 - Dec 1, 2025 |
 
 ## ♻️ SaaS Software
 
@@ -209,5 +213,3 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 5 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime | Nov 21th - Dec 3th |
 
 # 🔖 Other places to list Black Friday Deals:
-
-  
