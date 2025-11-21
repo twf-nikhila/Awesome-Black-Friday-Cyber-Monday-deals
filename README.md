@@ -81,6 +81,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 30 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | Nov 24th - Dec 4th |
 | 31 | [Memos - Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. |	**50% OFF** | Nov 24 - Dec 2 |
 | 32 | [Digital Photo Frame App](https://www.digitalphotoframeapp.com) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS.	 |	**67% OFF** | Nov 24 - Dec 2 |
+| 33 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. |	**30% OFF** | Nov 22 - Dec 25 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
