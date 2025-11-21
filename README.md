@@ -32,7 +32,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 # **Sponsored Deal**
 
-### [FormNX](https://formnx.com) 
+### [FormNX](https://formnx.com)
 🔥 **(50% OFF all Yearly Plans)**
 
 <p align="center">
@@ -81,6 +81,10 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 30 | [Blark](https://blark.app) | The best way to take monochrome/black & white pictures and videos on the iPhone and iPad. | 30% OFF Yearly Plan with <strong>BLARKFRIDAY</strong> | Nov 24th - Dec 4th |
 | 31 | [Memos - Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. |	**50% OFF** | Nov 24 - Dec 2 |
 | 32 | [Digital Photo Frame App](https://www.digitalphotoframeapp.com) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS.	 |	**67% OFF** | Nov 24 - Dec 2 |
+| 33 | [Airfare Alerts: Price Tracker](https://getairfarealerts.com/) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. For iOS and Android. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. | Nov 21 - Dec 2 |
+| 34 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes on iPhone, iPad, and Mac. Add your logo, pick custom colors, and export high-quality codes ready to print or share. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
+| 35 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes, then test them instantly with the built-in camera scanner. Supports formats like Code 128, EAN-13, PDF417, and more. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
+| 36 | [Itemlist – Inventory Tracker](https://www.getitemlist.app) | Powerful inventory tracker for home and business. Organize, categorize, and find items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -108,7 +112,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 13 | [saasbrella](https://saasbrella.co/?utm_source=twf-nikhila) | Hosted, Deployed & Fully Functional SaaS Template with instant Dev Environment setup | $99 LIFETIME PRO PLAN with 10 Hosting Years|
 | 14 | [ClaudeKit Engineer](https://claudekit.cc) | Claude Code starter kit for solo builders with subagents system, commands, and AI-powered automation | 50% OFF ($49, was $99) with code **CKEBF2025** (auto-applied) | Nov 24 - Nov 30, 2025 |
 | 15 | [ClaudeKit Combo](https://claudekit.cc) | Complete Claude Code toolkit - Engineer Kit + Marketing Kit for building and scaling your micro SaaS | Buy 1 Get 1 - $99 (includes both kits, normally $199) | Nov 24 - Nov 30, 2025 |
-| 16 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** | Nov 20 - Dec 2, 2025 |
+| 16 | [TestDino](https://testdino.com/) | TestDino is a Playwright-native test reporting platform for engineering, QA, and product teams. It classifies failures, detects flaky tests, and provides insights for faster debugging and improved test stability. | **40%** Discount on Annual Plans | Nov 21 - Dec 01, 2025 |
+| 17 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows | 30% off any Tower plan | Nov 25 - Dec 7, 2025 |
+| 18 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** | Nov 20 - Dec 2, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -137,6 +143,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 3 | [Vue School](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Comprehensive video courses for Vue, Nuxt, TypeScript, Pinia, and modern frontend practices, trusted by the Vue.js community. | 60% OFF a Yearly or Lifetime plan. Plus get 7 BONUS resources (worth $2,040) absolutely free | Live now |
 | 4 | [Certificates.dev](https://certificates.dev/?friend=VUEPDF) | Get certified with official Vue & Nuxt certifications, plus expert-reviewed certifications for React, Angular & JavaScript. Includes hands-on coding exams, not just MCQ. Trusted by devs from IBM, Ford and 680+ companies. | Up to 60% OFF all mid & senior certifications + Bonus: 2 AI Dev Courses + Any Junior Certification included FREE with purchase. | Live now |
 | 5 | [CloudBreach - Advanced Offensive Azure & AWS Security Trainings and Certifications](https://cloudbreach.io/blackfriday/) | 20% off with code: BlackFriday25 Deal valid: 21st November - 8th December | 20% off with code: **BlackFriday25** | Nov 21 - Dec 8, 2025 |
+| 6 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount applied automatically  | Nov 27 - Dec 1, 2025 |
 
 ## ♻️ SaaS Software
 
@@ -151,6 +158,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 7 | [Unicorn Platform](https://unicornplatform.com/) | AI website builder to quickly create websites without design or dev skills for SaaS, Apps, Directories, Blogs, Personal pages | **20% OFF** first payment, code **JOHNRUSH** |Nov 21 to Dec 7 |
 | 8 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. Do advanced competitor research for Youtube and know what their audience actually cares about. | **30% OFF** on all Plans with code **BFCM25** | Nov 17 - Dec 4, 2025 |
 | 9 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for smarter vulnerability management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
+| 10 | [RightBlogger](https://rightblogger.com/) | RightBlogger is the best AI article writer and autoblogging platform for bloggers, helping you automate content creation, boost SEO, and publish faster. | **50% OFF** on all Yearly Plans | Nov 20 - Dec 2, 2025 |
 
 ## 🎨 Themes & Design Resource
 
@@ -204,5 +212,3 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 4 | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us | **20% OFF** (automatically applied)| Nov 20 - Dec 1, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
-
-  
