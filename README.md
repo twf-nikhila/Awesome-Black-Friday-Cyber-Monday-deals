@@ -213,5 +213,6 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 4 | [Smultron](https://www.peterborgapps.com/smultron) | Smultron - The text editor for all of us | **20% OFF** (automatically applied)| Nov 20 - Dec 1, 2025 |
 | 5 | [SupaSidebar](https://www.supasidebar.com/?utm_source=twf-github) | Arc-like Sidebar for all browsers. Save links, files and folders in one place. | **50% OFF**. Lifetime Access and Updates. BLACKFRIDAY50 | Nov 21 - Nov 30, 2025 |
 | 6 | [Focusmo](https://www.focusmo.app/?utm_source=twf-github) | #1 Focus app for ADHD timeblindness. Focusmo helps you log your day as you go - so you stop losing hours to distractions and end every day proud of what you achieved | **50% OFF**. Lifetime Access and Updates. (automatically applied)| Nov 21 - Nov 30, 2025 |
+| 7 | [Migi](https://migiapp.com/) | Make your prompt templates just once and bring them up instantly with ⌥ Space. Just fill in the blanks, and in a second you'll have a custom prompt ready to go. | Nov 21 - Dec 2, 2025|
 
 # 🔖 Other places to list Black Friday Deals:
