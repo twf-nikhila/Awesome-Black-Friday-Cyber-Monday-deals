@@ -82,6 +82,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 31 | [Memos - Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay. |	**50% OFF** | Nov 24 - Dec 2 |
 | 32 | [Digital Photo Frame App](https://www.digitalphotoframeapp.com) | Turn your device into a powerful Smart Photo Frame. For iOS, iPadOS, macOS and tvOS.	 |	**67% OFF** | Nov 24 - Dec 2 |
 | 33 | [Airfare Alerts: Price Tracker](https://getairfarealerts.com/) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. For iOS and Android. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. | Nov 21 - Dec 2 |
+| 34 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes on iPhone, iPad, and Mac. Add your logo, pick custom colors, and export high-quality codes ready to print or share. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
+| 35 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes, then test them instantly with the built-in camera scanner. Supports formats like Code 128, EAN-13, PDF417, and more. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
+| 36 | [Itemlist – Inventory Tracker](https://www.getitemlist.app) | Powerful inventory tracker for home and business. Organize, categorize, and find items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
