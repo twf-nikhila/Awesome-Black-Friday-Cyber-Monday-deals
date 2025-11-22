@@ -94,6 +94,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 43 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes on iPhone, iPad, and Mac. Add your logo, pick custom colors, and export high-quality codes ready to print or share. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
 | 44 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes, then test them instantly with the built-in camera scanner. Supports formats like Code 128, EAN-13, PDF417, and more. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
 | 45 | [Itemlist – Inventory Tracker](https://www.getitemlist.app) | Powerful inventory tracker for home and business. Organize, categorize, and find items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
+| 46 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF) | Nov 22 - Dec 2, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
