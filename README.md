@@ -181,6 +181,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 5 | [CloudBreach - Advanced Offensive Azure & AWS Security Trainings and Certifications](https://cloudbreach.io/blackfriday/) | 20% off with code: BlackFriday25 Deal valid: 21st November - 8th December | 20% off with code: **BlackFriday25** | Nov 21 - Dec 8, 2025 |
 | 6 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount applied automatically  | Nov 27 - Dec 1, 2025 |
 | 7 | [How To Test Frontend.com](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React and Frontend based apps. | 25% with discount code **BLACKFRIDAYDEAL2025** | Nov 23-Dec 5th 2025 |
+| 8 | [AppSecEngineer Hands-on Application Security Labs](https://www.appsecengineer.com/individuals/pricing) | Hands-on Training Courses and Labs on Application Security, GenAI Security, AWS, Azure and GCP Security, Kubernetes Security, Threat Modeling and more | **40% off on Pro Plus and Bootcamps**. Use `LEVELUP40` at checkout | Nov 23 - Nov 30, 2025 |
 
 ## ♻️ SaaS Software
 
