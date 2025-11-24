@@ -227,5 +227,6 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 8 | [Daily Time Tracking](https://dailytimetracking.com?ref=twfbf) | Daily tracks time effortlessly by periodically asking what you’re doing. No more toggling timers or forgetting to.  | **30% off** on the Mac App Store | Nov 24 - Dec 1, 2025 |
 | 9 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime | Nov 21th - Dec 3th |
 | 10 | [Hyud](https://www.hyud.app) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. | **50% OFF** with the code **BLACKFRIDAY50** | Nov 20 - Dec 1, 2025 |
+| 11 | [Joonote](https://play.google.com/store/apps/details?id=com.kyw.joonote) | A note-taking app in your lockscreen. | **25% OFF** (automatically applied) | Nov 20 - Dec 1, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
