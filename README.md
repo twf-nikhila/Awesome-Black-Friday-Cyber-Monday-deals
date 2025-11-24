@@ -124,6 +124,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 16 | [TestDino](https://testdino.com/) | TestDino is a Playwright-native test reporting platform for engineering, QA, and product teams. It classifies failures, detects flaky tests, and provides insights for faster debugging and improved test stability. | **40%** Discount on Annual Plans | Nov 21 - Dec 01, 2025 |
 | 17 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows | 30% off any Tower plan | Nov 25 - Dec 7, 2025 |
 | 18 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** | Nov 20 - Dec 2, 2025 |
+| 19 | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS | 25% off with code **BLACKFRIDAY25** | Nov 20 - Nov 30, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
