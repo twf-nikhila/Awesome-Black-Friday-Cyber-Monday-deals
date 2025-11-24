@@ -272,6 +272,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 11 | [Lingon](https://apps.apple.com/redeem?ctx=offercodes&id=6742142873&code=BLACKWEEK25YEAR) | Meet the new easy to use Lingon to help you run whatever you want, whenever you want | **50% OFF** for one year with the link | Nov 22 - Dec 1, 2025 |
 | 12 | [TextSniper](https://textsniper.app/)  | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac. | **75% OFF** with the code **ABFCD25** | Nov 24 - Dec 3, 2025 |
 | 23 | [Joonote](https://play.google.com/store/apps/details?id=com.kyw.joonote) | A note-taking app in your lockscreen. | **25% OFF** (automatically applied) | Nov 20 - Dec 1, 2025 |
+| 24 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | **30% OFF Yearly Plan** with the code **BLACKFRIDAY2025** | Nov 20 - Dec 25, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
 
