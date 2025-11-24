@@ -262,3 +262,5 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 11 | [Lingon](https://apps.apple.com/redeem?ctx=offercodes&id=6742142873&code=BLACKWEEK25YEAR) | Meet the new easy to use Lingon to help you run whatever you want, whenever you want | **50% OFF** for one year with the link | Nov 22 - Dec 1, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
+
+[BlackFridayDeals.dev](https://blackfridaydeals.dev) 
