@@ -14,11 +14,11 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 # Table of Contents
 
 * 💻 [Apps](#-apps) - Mobile/desktop apps (iOS, Android, macOS, Windows)
-* ⚙️ [NoCode Tools](#-nocode-tools) - Builders/automation without coding
-* 🧑‍💻 [Developer Tools](#-developer-tools) - Dev utilities, SDKs, APIs, CLIs
+* ⚙️ [NoCode Tools](#%EF%B8%8F-nocode-tools) - Builders/automation without coding
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) - Dev utilities, SDKs, APIs, CLIs
 * 🤖 [AI Tools](#-ai-tools) - AI products/services
 * 📚 [Books & Courses](#-books--courses) - Educational content
-* ♻️ [SaaS Software](#-saas-software) - Web software (subscription)
+* ♻️ [SaaS Software](#%EF%B8%8F-saas-software) - Web software (subscription)
 * 🎨 [Themes & Design Resource](#-themes--design-resource) - Templates, UI kits, assets
 * 🌈 [Marketing Tools](#-marketing-tools) - SEO, analytics, email, social tools
 * 📩 [Newsletter & Communities](#-newsletter--communities) - Paid/newsletters, groups
@@ -157,6 +157,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 13 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. Do advanced competitor research for Youtube and know what their audience actually cares about. | **30% OFF** on all Plans with code **BFCM25** | Nov 17 - Dec 4, 2025 |
 | 14 | [RewriteBar](https://rewritebar.com?ref=twf-nikhila&utm_source=twf-nikhila) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | **50% OFF** all plans with code **BF2025** | Nov 20 - Dec 02, 2025 |
 | 15 | [TypingMind](https://www.typingmind.com/) | Professional Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | **60% OFF** LIFETIME with code **BLACKFRIDAY2025** | Nov 24 - Dec 01, 2025 |
+| 16 |  [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
 
 ## 📚 Books & Courses
 
@@ -184,6 +185,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 9 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for smarter vulnerability management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
 | 10 | [RightBlogger](https://rightblogger.com/) | RightBlogger is the best AI article writer and autoblogging platform for bloggers, helping you automate content creation, boost SEO, and publish faster. | **50% OFF** on all Yearly Plans | Nov 20 - Dec 2, 2025 |
 | 11 | [Koofr cloud storage](https://koofr.eu/) | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | **55% OFF** on yearly plans 100 GB or larger. Coupon Code: **BF2025** | Nov 24 - Dec 01, 2025 |
+| 12 | [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
 
 ## 🎨 Themes & Design Resource
 
@@ -212,6 +214,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 7 | [SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Airtable databases including details such as Description, URL, Member Count, Creator, Categories, Links & filterable categories include Startup, AI, Entrepreneurship, Solopreneur, Tech and more. | **50% OFF**. Lifetime Access and Updates. Coupon Code: **50SUBSTACK** | Nov 18 - Dec 15, 2025 |
 | 8 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. Do advanced competitor research for YouTube and know what their audience actually cares about. | **30% OFF** on All Plans. Coupon Code: **BFCM25** | Nov 19 - Dec 04, 2025 |
 | 9 | [🥁WaveGen.ai🥁](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** | Nov 18 - Dec 30, 2025 |
+| 10 |  [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
+
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
