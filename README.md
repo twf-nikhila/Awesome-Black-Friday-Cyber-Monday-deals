@@ -112,12 +112,15 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 47 | [EV Charge Stations Map](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25) | Long distance EV route planner and charge stations. | **50% OFF** Lifetime PRO | Nov 12 - Dec 31, 2025 |
 | 48 | [Travel Route Map](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | Animate your travel destinations on the world map. | **50% OFF** Lifetime PRO | Nov 12 - Dec 31, 2025 |
 | 49 | [Folge](https://www.folge.me/) | The fastest app for creating step-by-step guides and documentation. A desktop tool to capture steps with every click of the mouse, customize screenshots, create annotations, and generate the final guide in HTML, Word, PDF, Confluence, Wordpress and more. | **25% OFF** with **BLACKFRIDAY25**  | Nov 21 - Nov 30, 2025 |
+| 46 | [Squash 3](https://realmacsoftware.com/squash/) | Powerful Batch Photo Editor. Quickly batch convert, and resize images. Apply layered watermarks and filters, rename files, remove or edit private metadata, and so much more. | Save 45% on first year with code **BLACKFRIDAY45**. | Nov 15 - Dec 1, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Motherboard](https://trymotherboard.com) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) | Forever |
 | 2 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF (automatically applied) | Nov 15  - Dec 05 |
+| 3 | [RapidWeaver Elements](https://realmacsoftware.com/rapidweaver) | A Powerful, Next-Gen Website Builder for Mac. Design and publish modern, responsive websites visually with complete design freedom. No-code required. | Save 45% on first year with code **BLACKFRIDAY45**. | Nov 15 - Dec 1, 2025 |
+| 4 | [RapidWeaver Classic](https://realmacsoftware.com/rapidweaver-classic/) | The Original Easy to Use Web Design Software for Mac. Select a theme, add your content, and publish. No-code required | Save 45% on first year with code **BLACKFRIDAY45**. | Nov 15 - Dec 1, 2025 |
 
 
 ## 🧑‍💻 Developer Tools
