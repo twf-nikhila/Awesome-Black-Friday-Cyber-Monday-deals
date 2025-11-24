@@ -159,6 +159,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 14 | [RewriteBar](https://rewritebar.com?ref=twf-nikhila&utm_source=twf-nikhila) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | **50% OFF** all plans with code **BF2025** | Nov 20 - Dec 02, 2025 |
 | 15 | [TypingMind](https://www.typingmind.com/) | Professional Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | **60% OFF** LIFETIME with code **BLACKFRIDAY2025** | Nov 24 - Dec 01, 2025 |
 | 16 |  [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
+| 17 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** | Nov 20 - Dec 12, 2025 |
 
 ## 📚 Books & Courses
 
