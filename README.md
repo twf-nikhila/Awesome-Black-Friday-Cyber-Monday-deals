@@ -14,11 +14,11 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 # Table of Contents
 
 * 💻 [Apps](#-apps) - Mobile/desktop apps (iOS, Android, macOS, Windows)
-* ⚙️ [NoCode Tools](#-nocode-tools) - Builders/automation without coding
-* 🧑‍💻 [Developer Tools](#-developer-tools) - Dev utilities, SDKs, APIs, CLIs
+* ⚙️ [NoCode Tools](#%EF%B8%8F-nocode-tools) - Builders/automation without coding
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) - Dev utilities, SDKs, APIs, CLIs
 * 🤖 [AI Tools](#-ai-tools) - AI products/services
 * 📚 [Books & Courses](#-books--courses) - Educational content
-* ♻️ [SaaS Software](#-saas-software) - Web software (subscription)
+* ♻️ [SaaS Software](#%EF%B8%8F-saas-software) - Web software (subscription)
 * 🎨 [Themes & Design Resource](#-themes--design-resource) - Templates, UI kits, assets
 * 🌈 [Marketing Tools](#-marketing-tools) - SEO, analytics, email, social tools
 * 📩 [Newsletter & Communities](#-newsletter--communities) - Paid/newsletters, groups
@@ -42,6 +42,20 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 **FormNX** is the most affordable nocode Drag-n-Drop form builder, create any forms in minutes without coding.
 
 **[Get FormNX Now →](https://formnx.com)**
+
+---
+
+### [Indie Masterminds](https://indiemasterminds.com/)
+🔥 **(50% Off on all plans - BFCM25)**
+
+<p align="center">
+  <a href="https://indiemasterminds.com"><img width="400" src="https://storage.thewebfosters.com/indiemastermind.jpg" alt="Indie Masterminds"></a>
+</p>
+
+0 to $5K MRR: With a Tight Knit Community of Indie Founders. 📚 Premium Courses 🚀 Co-Working Sessions 🔥 Monthly Demo Days 💪 Accountability Circle ❤ Direct 1:1 Help 🤗 Personalized Feedback and Support. And more...
+
+
+**[Join Now →](https://indiemasterminds.com/)**
 
 ---
 
@@ -88,18 +102,27 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 37 | [LaunchOS](https://launchosapp.com/) | The best launchpad alternative for macOS 26 (Tahoe). Built to feel instantly familiar, effortlessly smooth, and surprisingly powerful.	|	**60%** OFF + **5%** OFF with **EARLYBIRDBLACKFRIDAY** | Nov 17 - Dec 5 |
 | 38 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. |	**30% OFF** | Nov 22 - Dec 25 |
 | 39 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your screens. | 50% OFF Lifetime | Nov 21th - Dec 3th |
-| 40 | [FiveNotes](https://www.apptorium.com/fivenotes) | Teleport your cursor across your screens. | 50% OFF Lifetime | Nov 21th - Dec 3th |
+| 40 | [FiveNotes](https://www.apptorium.com/fivenotes) | 5 quickly accessed notes. Floating above other apps and looking great with themes. | 50% OFF Lifetime | Nov 21th - Dec 3th |
 | 41 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on your screen side with no distraction. | 40% OFF Lifetime | Nov 21th - Dec 3th |
 | 42 | [Airfare Alerts: Price Tracker](https://getairfarealerts.com/) | Get real‑time flight price alerts that match your budget and travel preferences, not generic deals. For iOS and Android. | **90% OFF** forever on Premium Annual plan. Auto-applied in app. | Nov 21 - Dec 2 |
 | 43 | [QRGenie – QR Code Generator](https://www.qrgenie.app) | Create stunning, branded QR codes on iPhone, iPad, and Mac. Add your logo, pick custom colors, and export high-quality codes ready to print or share. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
 | 44 | [BarcodeCraft – Barcode Generator](https://barcodecraft.com) | Design and customize high-quality barcodes, then test them instantly with the built-in camera scanner. Supports formats like Code 128, EAN-13, PDF417, and more. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
 | 45 | [Itemlist – Inventory Tracker](https://www.getitemlist.app) | Powerful inventory tracker for home and business. Organize, categorize, and find items in seconds so you never forget where anything is again. | **50% OFF** Lifetime PRO (prices may vary based on purchasing parity) | Nov 21 - Dec 7, 2025 |
+| 46 | [Walk Mate - Weight Loss](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25) | Daily random walking routes in your location. | **50% OFF** Lifetime PRO | Nov 12 - Dec 31, 2025 |
+| 47 | [EV Charge Stations Map](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25) | Long distance EV route planner and charge stations. | **50% OFF** Lifetime PRO | Nov 12 - Dec 31, 2025 |
+| 48 | [Travel Route Map](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | Animate your travel destinations on the world map. | **50% OFF** Lifetime PRO | Nov 12 - Dec 31, 2025 |
+| 49 | [Folge](https://www.folge.me/) | The fastest app for creating step-by-step guides and documentation. A desktop tool to capture steps with every click of the mouse, customize screenshots, create annotations, and generate the final guide in HTML, Word, PDF, Confluence, Wordpress and more. | **25% OFF** with **BLACKFRIDAY25**  | Nov 21 - Nov 30, 2025 |
+| 50 | [Squash 3](https://realmacsoftware.com/squash/) | Powerful Batch Photo Editor. Quickly batch convert, and resize images. Apply layered watermarks and filters, rename files, remove or edit private metadata, and so much more. | Save 45% on first year with code **BLACKFRIDAY45**. | Nov 15 - Dec 1, 2025 |
+| 51 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF) | Nov 22 - Dec 2, 2025 |
+| 52 | [PostPocket](https://apps.apple.com/us/app/bookmark-links-postpocket/id6670723615) | Save everything you love in one clean space and access it instantly across all your devices. | **75% OFF Lifetime** (auto-applied), Nov 22 - Dec 4 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Motherboard](https://trymotherboard.com) | Motherboard brings all your key metrics into one dashboard. Works with any website. Saves you hours every week. Needs zero coding. | **BF2K25** (40% off) | Forever |
 | 2 | [Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF (automatically applied) | Nov 15  - Dec 05 |
+| 3 | [RapidWeaver Elements](https://realmacsoftware.com/rapidweaver) | A Powerful, Next-Gen Website Builder for Mac. Design and publish modern, responsive websites visually with complete design freedom. No-code required. | Save 45% on first year with code **BLACKFRIDAY45**. | Nov 15 - Dec 1, 2025 |
+| 4 | [RapidWeaver Classic](https://realmacsoftware.com/rapidweaver-classic/) | The Original Easy to Use Web Design Software for Mac. Select a theme, add your content, and publish. No-code required | Save 45% on first year with code **BLACKFRIDAY45**. | Nov 15 - Dec 1, 2025 |
 
 
 ## 🧑‍💻 Developer Tools
@@ -124,6 +147,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 16 | [TestDino](https://testdino.com/) | TestDino is a Playwright-native test reporting platform for engineering, QA, and product teams. It classifies failures, detects flaky tests, and provides insights for faster debugging and improved test stability. | **40%** Discount on Annual Plans | Nov 21 - Dec 01, 2025 |
 | 17 | [Tower](https://www.git-tower.com/) | Powerful, native Git client for Mac and Windows | 30% off any Tower plan | Nov 25 - Dec 7, 2025 |
 | 18 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** | Nov 20 - Dec 2, 2025 |
+| 19 | [TestDino](https://testdino.com/) | Smart Playwright Test Reporting and Analytics, and more | 30% off with code **BFTD25** | 20th November to 1st December) |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -142,6 +166,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 12 | [Elephas](https://elephas.app/) | Elephas is a Mac knowledge assistant that helps you capture, organize, and access information right from your computer. It has Super Brain, which builds your personal knowledge base using documents, notes, and web content. The tool works with multiple AI providers like OpenAI, Claude, and Gemini, and runs completely offline to keep your data private. You get AI Workflows for handling multistep tasks, web search built in, and smart writing features that work across all your Mac apps. Elephas offers different rewrite modes, grammar fixes, smart replies, and personalized tones that match how you write. It handles file formats like CSV, JSON, and PDF. The tool also works on iOS devices and lets you automate tasks with snippets for faster work. | **20% OFF** on lifetime deal plans | Nov 19 - Dec 04, 2025 |
 | 13 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. Do advanced competitor research for Youtube and know what their audience actually cares about. | **30% OFF** on all Plans with code **BFCM25** | Nov 17 - Dec 4, 2025 |
 | 14 | [RewriteBar](https://rewritebar.com?ref=twf-nikhila&utm_source=twf-nikhila) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | **50% OFF** all plans with code **BF2025** | Nov 20 - Dec 02, 2025 |
+| 15 | [TypingMind](https://www.typingmind.com/) | Professional Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | **60% OFF** LIFETIME with code **BLACKFRIDAY2025** | Nov 24 - Dec 01, 2025 |
+| 16 |  [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
+| 17 | [PostSam](https://postsam.ai) | Build. Ship. Let Sam Grow Your Social Media. AI that creates, schedules, and publishes viral content automatically. | 50% OFF with code **BLACKFRIDAY2025** | Nov 20 - Dec 12, 2025 |
 
 ## 📚 Books & Courses
 
@@ -153,7 +180,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 4 | [Certificates.dev](https://certificates.dev/?friend=VUEPDF) | Get certified with official Vue & Nuxt certifications, plus expert-reviewed certifications for React, Angular & JavaScript. Includes hands-on coding exams, not just MCQ. Trusted by devs from IBM, Ford and 680+ companies. | Up to 60% OFF all mid & senior certifications + Bonus: 2 AI Dev Courses + Any Junior Certification included FREE with purchase. | Live now |
 | 5 | [CloudBreach - Advanced Offensive Azure & AWS Security Trainings and Certifications](https://cloudbreach.io/blackfriday/) | 20% off with code: BlackFriday25 Deal valid: 21st November - 8th December | 20% off with code: **BlackFriday25** | Nov 21 - Dec 8, 2025 |
 | 6 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount applied automatically  | Nov 27 - Dec 1, 2025 |
-| 7 | [AppSecEngineer Hands-on Application Security Labs](https://www.appsecengineer.com/individuals/pricing) | Hands-on Training Courses and Labs on Application Security, GenAI Security, AWS, Azure and GCP Security, Kubernetes Security, Threat Modeling and more | **40% off on Pro Plus and Bootcamps**. Use `LEVELUP40` at checkout | Nov 23 - Nov 30, 2025 |
+| 7 | [How To Test Frontend.com](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React and Frontend based apps. | 25% with discount code **BLACKFRIDAYDEAL2025** | Nov 23-Dec 5th 2025 |
+| 8 | [AppSecEngineer Hands-on Application Security Labs](https://www.appsecengineer.com/individuals/pricing) | Hands-on Training Courses and Labs on Application Security, GenAI Security, AWS, Azure and GCP Security, Kubernetes Security, Threat Modeling and more | **40% off on Pro Plus and Bootcamps**. Use `LEVELUP40` at checkout | Nov 23 - Nov 30, 2025 |
 
 ## ♻️ SaaS Software
 
@@ -169,6 +197,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 8 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. Do advanced competitor research for Youtube and know what their audience actually cares about. | **30% OFF** on all Plans with code **BFCM25** | Nov 17 - Dec 4, 2025 |
 | 9 | [Beagle Security](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for smarter vulnerability management. | **35% OFF annual** (Code **BFCMY25**) & **20% OFF monthly** (Code **BFCMM25**) — Valid for both Advanced & Essential plans for the next 6 months | **Nov 25 – Dec 4, 2025** |
 | 10 | [RightBlogger](https://rightblogger.com/) | RightBlogger is the best AI article writer and autoblogging platform for bloggers, helping you automate content creation, boost SEO, and publish faster. | **50% OFF** on all Yearly Plans | Nov 20 - Dec 2, 2025 |
+| 11 | [Koofr cloud storage](https://koofr.eu/) | Koofr is a secure, reliable, and user-friendly European cloud storage service. Backup, sync and share files while maintaining complete privacy - Koofr doesn't use trackers, cookies nor ads. | **55% OFF** on yearly plans 100 GB or larger. Coupon Code: **BF2025** | Nov 24 - Dec 01, 2025 |
+| 12 | [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
+| 13 | [TranscriptBunny](https://transcriptbunny.com/?utm_source=nikhilabf) | Instant YouTube transcript extraction and AI summarization. Get accurate text and timestamps via web dashboard or API. | Use promo code **BF25** for a **30% discount** on all plans | Nov 17 - Dec 5, 2025 |
 
 ## 🎨 Themes & Design Resource
 
@@ -197,6 +228,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 7 | [SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Airtable databases including details such as Description, URL, Member Count, Creator, Categories, Links & filterable categories include Startup, AI, Entrepreneurship, Solopreneur, Tech and more. | **50% OFF**. Lifetime Access and Updates. Coupon Code: **50SUBSTACK** | Nov 18 - Dec 15, 2025 |
 | 8 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. Do advanced competitor research for YouTube and know what their audience actually cares about. | **30% OFF** on All Plans. Coupon Code: **BFCM25** | Nov 19 - Dec 04, 2025 |
 | 9 | [🥁WaveGen.ai🥁](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** | Nov 18 - Dec 30, 2025 |
+| 10 |  [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
+
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -226,5 +259,6 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 8 | [Daily Time Tracking](https://dailytimetracking.com?ref=twfbf) | Daily tracks time effortlessly by periodically asking what you’re doing. No more toggling timers or forgetting to.  | **30% off** on the Mac App Store | Nov 24 - Dec 1, 2025 |
 | 9 | [Workspaces 2](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | 50% OFF Lifetime | Nov 21th - Dec 3th |
 | 10 | [Hyud](https://www.hyud.app) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. | **50% OFF** with the code **BLACKFRIDAY50** | Nov 20 - Dec 1, 2025 |
+| 11 | [Lingon](https://apps.apple.com/redeem?ctx=offercodes&id=6742142873&code=BLACKWEEK25YEAR) | Meet the new easy to use Lingon to help you run whatever you want, whenever you want | **50% OFF** for one year with the link | Nov 22 - Dec 1, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
