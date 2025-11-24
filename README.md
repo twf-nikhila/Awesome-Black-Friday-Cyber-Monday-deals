@@ -196,6 +196,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 7 | [SubSearchr - 1900+ Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Airtable databases including details such as Description, URL, Member Count, Creator, Categories, Links & filterable categories include Startup, AI, Entrepreneurship, Solopreneur, Tech and more. | **50% OFF**. Lifetime Access and Updates. Coupon Code: **50SUBSTACK** | Nov 18 - Dec 15, 2025 |
 | 8 | [OutlierKit](https://outlierkit.com/) | AI Powered YouTube Research tool that helps you find outlier videos, low-competition & high-volume keywords, channel analytics, script analysis. Do advanced competitor research for YouTube and know what their audience actually cares about. | **30% OFF** on All Plans. Coupon Code: **BFCM25** | Nov 19 - Dec 04, 2025 |
 | 9 | [🥁WaveGen.ai🥁](https://wavegen.ai) | Turn text content(e.g. blog url, podcast scripts) into clips / carousels for social media. Create, edit, schedule, publish all in one - turn expertise into visibility automatically, and consistently. | **40% OFF** yearly plan with code **BF2025** | Nov 18 - Dec 30, 2025 |
+| 10 | [Appfigures](https://appfigures.com?utm_source=twfbf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads. | **50% OFF** monthly and yearly plans **BF2550** | Nov 24 - Dec 2, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
