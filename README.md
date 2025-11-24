@@ -14,11 +14,11 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 # Table of Contents
 
 * 💻 [Apps](#-apps) - Mobile/desktop apps (iOS, Android, macOS, Windows)
-* ⚙️ [NoCode Tools](#-nocode-tools) - Builders/automation without coding
-* 🧑‍💻 [Developer Tools](#-developer-tools) - Dev utilities, SDKs, APIs, CLIs
+* ⚙️ [NoCode Tools](#%EF%B8%8F-nocode-tools) - Builders/automation without coding
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) - Dev utilities, SDKs, APIs, CLIs
 * 🤖 [AI Tools](#-ai-tools) - AI products/services
 * 📚 [Books & Courses](#-books--courses) - Educational content
-* ♻️ [SaaS Software](#-saas-software) - Web software (subscription)
+* ♻️ [SaaS Software](#%EF%B8%8F-saas-software) - Web software (subscription)
 * 🎨 [Themes & Design Resource](#-themes--design-resource) - Templates, UI kits, assets
 * 🌈 [Marketing Tools](#-marketing-tools) - SEO, analytics, email, social tools
 * 📩 [Newsletter & Communities](#-newsletter--communities) - Paid/newsletters, groups
