@@ -227,3 +227,5 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 10 | [Hyud](https://www.hyud.app) | Block applications and websites to boost your productivity, fix your posture and take refreshing breaks to reduce work fatigue. | **50% OFF** with the code **BLACKFRIDAY50** | Nov 20 - Dec 1, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
+
+[BlackFridayDeals.dev](https://blackfridaydeals.dev) 
