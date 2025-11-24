@@ -45,6 +45,20 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 
 ---
 
+### [Indie Masterminds](https://indiemasterminds.com/)
+🔥 **(50% Off on all plans - BFCM25)**
+
+<p align="center">
+  <a href="https://indiemasterminds.com"><img width="400" src="https://i.ibb.co/CpJt8VjN/indiemastermind.jpg" alt="Indie Masterminds"></a>
+</p>
+
+0 to $5K MRR: With a Tight Knit Community of Indie Founders. 📚 Premium Courses 🚀 Co-Working Sessions 🔥 Monthly Demo Days 💪 Accountability Circle ❤ Direct 1:1 Help 🤗 Personalized Feedback and Support. And more...
+
+
+**[Join Now →](https://indiemasterminds.com/)**
+
+---
+
 ## 💻 Apps
 
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
