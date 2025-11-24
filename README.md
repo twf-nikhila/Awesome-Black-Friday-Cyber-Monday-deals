@@ -111,6 +111,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 46 | [Walk Mate - Weight Loss](https://apps.apple.com/redeem?ctx=offercodes&id=6739468121&code=BLCKFRDY25) | Daily random walking routes in your location. | **50% OFF** Lifetime PRO | Nov 12 - Dec 31, 2025 |
 | 47 | [EV Charge Stations Map](https://apps.apple.com/redeem?ctx=offercodes&id=6466442459&code=BLCKFRDY25) | Long distance EV route planner and charge stations. | **50% OFF** Lifetime PRO | Nov 12 - Dec 31, 2025 |
 | 48 | [Travel Route Map](https://apps.apple.com/redeem?ctx=offercodes&id=6504141706&code=BLCKFRDY25) | Animate your travel destinations on the world map. | **50% OFF** Lifetime PRO | Nov 12 - Dec 31, 2025 |
+| 49 | [Folge](https://www.folge.me/) | The fastest app for creating step-by-step guides and documentation. A desktop tool to capture steps with every click of the mouse, customize screenshots, create annotations, and generate the final guide in HTML, Word, PDF, Confluence, Wordpress and more. | **25% OFF** with **BLACKFRIDAY25**  | Nov 21 - Nov 30, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
