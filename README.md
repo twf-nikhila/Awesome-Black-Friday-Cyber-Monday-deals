@@ -247,7 +247,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Newsletter](https://example.com) | Example description for a newsletter or community | 50% OFF annual subscription | Nov 26 - Dec 15, 2025 |
+| 1 | [Indie Masterminds](https://indiemasterminds.com/) | 0 to $5K MRR: With a Tight Knit Community of Indie Founders | **50%** off on all plans with code **BFCM25** | Nov 24 - Dec 04, 2025 |
 
 ## 🔌 Plugins
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
