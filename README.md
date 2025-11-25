@@ -193,6 +193,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 6 | [Build Your Own Pub/Sub Protocol (NATS)](https://protocol-zero.pmbanugo.me) | Master Distributed Systems by building a Pub/Sub server from raw TCP/Sockets. A deep-dive course & workshop on building a [NATS-compatible](https://nats.io) server from scratch | **60+% only during Cyberweek** ($49 Course / $129 Live Workshop). Discount applied automatically  | Nov 27 - Dec 1, 2025 |
 | 7 | [How To Test Frontend.com](https://howtotestfrontend.com/) | Learn how to write and maintain tests for your React and Frontend based apps. | 25% with discount code **BLACKFRIDAYDEAL2025** | Nov 23-Dec 5th 2025 |
 | 8 | [AppSecEngineer Hands-on Application Security Labs](https://www.appsecengineer.com/individuals/pricing) | Hands-on Training Courses and Labs on Application Security, GenAI Security, AWS, Azure and GCP Security, Kubernetes Security, Threat Modeling and more | **40% off on Pro Plus and Bootcamps**. Use `LEVELUP40` at checkout | Nov 23 - Nov 30, 2025 |
+| 9 | [Boost Your GitHub DX](https://adamchainz.gumroad.com/l/byghdx) | A book about using GitHub more effectively. | 50% off, from $44 to $22, no coupon required. | Nov 11 - Dec 1, 2025 |
 
 ## ♻️ SaaS Software
 
