@@ -248,6 +248,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
 | 1 | [Indie Masterminds](https://indiemasterminds.com/) | 0 to $5K MRR: With a Tight Knit Community of Indie Founders | **50%** off on all plans with code **BFCM25** | Nov 24 - Dec 04, 2025 |
+| 2 | [Idea Bank by Superframeworks](https://superframeworks.com/idea-bank) | Get instant access to our curated database of 40+ SEO validated business ideas — complete with search volume, competition analysis, and market insights. | **100%** OFF with code **BFCM25** | Nov 24 - Dec 04, 2025 |
 
 ## 🔌 Plugins
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
