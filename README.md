@@ -228,6 +228,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 8 | [MGC Animation](https://www.mingcute.com/animation?utm_source=twf) | 120+ lively and smooth animated icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
 | 9 | [MGC Weather](https://mgcweather.framer.website/?utm_source=twf) | 120 graceful weather icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
 | 10 | [SyncSignature](https://syncsignature.com/black-friday-deals-email-signature) | SyncSignature is an email signature software that offers you the easiest way to create professional email signatures for Gmail, Outlook, Apple mail and other email clients. It also helps you standardize company email signatures by automatically installing them across your company. | **87% OFF**| Nov 24 - Dec 05, 2025 |
+| 11 | [AnimStats](https://animstats.com) | SCreate viral animated GIFs/Videos, AI Shorts, and UGC ads - then post directly to YouTube, Instagram & TikTok from one platform. 30+ templates, advanced editor, AI-powered generation. No switching between tools. | Black Friday 50% off **Coupon code: BF50ALL** | Nov 25 - Dec 02, 2025 |
 
 ## 🌈 Marketing Tools
 
