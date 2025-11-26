@@ -212,7 +212,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 12 | [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
 | 13 | [TranscriptBunny](https://transcriptbunny.com/?utm_source=nikhilabf) | Instant YouTube transcript extraction and AI summarization. Get accurate text and timestamps via web dashboard or API. | Use promo code **BF25** for a **30% discount** on all plans | Nov 17 - Dec 5, 2025 |
 | 13 | [Cleavr](https://cleavr.io) | Cleavr is your all-in-one control center for effortless server management and app deployment. Deploy and manage PHP, Node.js, Strapi, Directus, WordPress, Next.js, Nuxt, and more — automatically. | **50%** off your first annual Lite plan **25BFCM50YL** - **65%** off your first annual Pro/Business plan **25BFCM65YPB** |
-| 14 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2025** | Nov 20 2025 - Dec 31 2025 |
+| 14 | [Cleavr](https://cleavr.io) | Cleavr is your all-in-one control center for effortless server management and app deployment. Deploy and manage PHP, Node.js, Strapi, Directus, WordPress, Next.js, Nuxt, and more — automatically. | **50%** off your first annual Lite plan **25BFCM50YL** - **65%** off your first annual Pro/Business plan **25BFCM65YPB** |
+| 15 | [AdverseMonitor](https://adversemonitor.com/) | Real-time threat intelligence platform monitoring 500+ dark web sources, ransomware groups, and data breaches. Get instant alerts when your organization appears in threat actor communications. | Annual Detection Plan at **75%** OFF. Black Friday Deal: $97 Regular: $388  **Coupon code: BLACKFRIDAY2025** | Nov 25 - Jan 01, 2026 |
+| 16 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2025** | Nov 20 2025 - Dec 31 2025 |
 
 ## 🎨 Themes & Design Resource
 
@@ -227,6 +229,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 7 | [MGC ICON](https://mgc.mingcute.com/?utm_source=twf) | Carefully crafted icon pack collection featuring over 14,000 high-quality vector icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
 | 8 | [MGC Animation](https://www.mingcute.com/animation?utm_source=twf) | 120+ lively and smooth animated icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
 | 9 | [MGC Weather](https://mgcweather.framer.website/?utm_source=twf) | 120 graceful weather icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
+| 10 | [SyncSignature](https://syncsignature.com/black-friday-deals-email-signature) | SyncSignature is an email signature software that offers you the easiest way to create professional email signatures for Gmail, Outlook, Apple mail and other email clients. It also helps you standardize company email signatures by automatically installing them across your company. | **87% OFF**| Nov 24 - Dec 05, 2025 |
 
 ## 🌈 Marketing Tools
 
@@ -248,7 +251,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Newsletter](https://example.com) | Example description for a newsletter or community | 50% OFF annual subscription | Nov 26 - Dec 15, 2025 |
+| 1 | [Indie Masterminds](https://indiemasterminds.com/) | 0 to $5K MRR: With a Tight Knit Community of Indie Founders | **50%** off on all plans with code **BFCM25** | Nov 24 - Dec 04, 2025 |
+| 2 | [Idea Bank by Superframeworks](https://superframeworks.com/idea-bank) | Get instant access to our curated database of 40+ SEO validated business ideas — complete with search volume, competition analysis, and market insights. | **100%** OFF with code **BFCM25** | Nov 24 - Dec 04, 2025 |
 
 ## 🔌 Plugins
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
