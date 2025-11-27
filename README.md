@@ -155,6 +155,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 19 | [TestDino](https://testdino.com/) | Smart Playwright Test Reporting and Analytics, and more | 30% off with code **BFTD25** | 20th November to 1st December) |
 | 20 | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS | 25% off with code **BLACKFRIDAY25** | Nov 20 - Nov 30, 2025 |
 | 21 | [FlyonUI](https://flyonui.com) | FlyonUI is the easiest, free and open-source Tailwind CSS UI components library with semantic classes. | Flat 30% OFF with code **BFCM30FY** | Nov 26 - Dec 01, 2025 |
+| 22 | [shadcn/studio](https://shadcnstudio.com/) | Accelerate your project development with ready-to-use, & customizable 1000+ Shadcn UI Components, Blocks, UI Kit, Boilerplate, Templates & Themes with AI Tools. | Flat 30% OFF with code **BFCM30SS** | Nov 26 - Dec 01, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
