@@ -184,6 +184,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 22 | [TypingMind](https://www.typingmind.com/) | Professional Chat UI for ChatGPT, Claude, Gemini to use with your API key. Support MCP, multi-model, Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | **60% OFF** LIFETIME with code **BLACKFRIDAY2025** | Nov 24 - Dec 01, 2025 |
 | 23 |  [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
 | 24 | [Manzoni](https://www.manzoni.app/) | Local AI word processor to draft and edit text on your Mac. No data leaves your device. 100% private. | **10% OFF** LIFETIME with code **BLACKFRIDAY10** | Nov 24 - Dec 04, 2025 |
+| 25 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** on all plans with code **CXBLACK2025** | Nov 27 – Dec 3 |
 
 ## 📚 Books & Courses
 
