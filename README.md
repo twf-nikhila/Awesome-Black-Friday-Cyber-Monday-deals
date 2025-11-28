@@ -250,6 +250,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 10 |  [<img src="https://cms.parthkoshti.com/assets/f9dada14-630c-41c2-bd4e-28c9833a1b54.png" width="20" /> SnitchFeed](https://snitchfeed.com/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2025&utm_content=tfw-repo) | The best way to catch high-intent leads: monitor pain-point keywords across LinkedIn, Twitter (X), Reddit, Bluesky and get real-time alerts the moment someone signals buying intent. Social listening on steroids. | **30% OFF** on ALL plans with code: **`BLACKFRIDAY2025`** | Nov 24 - Dec 30, 2025 |
 | 11 | [Appfigures](https://appfigures.com?utm_source=twfbf) | ASO, Apple Ads Optimization, and App Intelligence tools to help you get more downloads. | **50% OFF** monthly and yearly plans **BF2550** | Nov 24 - Dec 2, 2025 |
 | 12 | [AnimAds](https://animads.app) | Add studio-grade captions to your short videos in seconds | **50% OFF** on Lifetime Deals with code **BFCM2025** | Nov 24 - Dec 02, 2025 |
+| 13 | [Evendeals](https://evendeals.com) | Increase your sales by upto 30% with parity pricing | **60% OFF** on Lifetime Deals with code **BF25** | Nov 24 - Dec 02, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -284,6 +285,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 12 | [TextSniper](https://textsniper.app/)  | Extract text (OCR) from images/videos/PDFs, scan QR codes, and listen with text-to-speech on your Mac. | **75% OFF** with the code **ABFCD25** | Nov 24 - Dec 3, 2025 |
 | 23 | [Joonote](https://play.google.com/store/apps/details?id=com.kyw.joonote) | A note-taking app in your lockscreen. | **25% OFF** (automatically applied) | Nov 20 - Dec 1, 2025 |
 | 24 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | **30% OFF Yearly Plan** with the code **BLACKFRIDAY2025** | Nov 20 - Dec 25, 2025 |
+| 25 | [Safe Screen Share](https://safescreenshare.com)  | Blur out personal info while sharing your screen or taking a screenshot. | **60% OFF** on Lifetime Deals with code **BF25** | Nov 24 - Dec 02, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
 
