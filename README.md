@@ -217,6 +217,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 13 | [TranscriptBunny](https://transcriptbunny.com/?utm_source=nikhilabf) | Instant YouTube transcript extraction and AI summarization. Get accurate text and timestamps via web dashboard or API. | Use promo code **BF25** for a **30% discount** on all plans | Nov 17 - Dec 5, 2025 |
 | 14 | [Cleavr](https://cleavr.io) | Cleavr is your all-in-one control center for effortless server management and app deployment. Deploy and manage PHP, Node.js, Strapi, Directus, WordPress, Next.js, Nuxt, and more — automatically. | **50%** off your first annual Lite plan **25BFCM50YL** - **65%** off your first annual Pro/Business plan **25BFCM65YPB** |
 | 15 | [AdverseMonitor](https://adversemonitor.com/) | Real-time threat intelligence platform monitoring 500+ dark web sources, ransomware groups, and data breaches. Get instant alerts when your organization appears in threat actor communications. | Annual Detection Plan at **75%** OFF. Black Friday Deal: $97 Regular: $388  **Coupon code: BLACKFRIDAY2025** | Nov 25 - Jan 01, 2026 |
+| 16 | [Autentique](https://www.autentique.com.br/en) | An electronic signature & document workflow platform with API, webhooks, audit trail and team features. | 90% OFF with code **BF2025DEV** | Nov 28 - Dec 10, 2025 |
 
 ## 🎨 Themes & Design Resource
 
