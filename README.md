@@ -33,7 +33,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 # **Sponsored Deal**
 
 ### [FormNX](https://formnx.com)
-🔥 **(50% OFF all Yearly Plans)**
+🔥 **(50% OFF on all Plans, coupon code: BFCM25)**
 
 <p align="center">
   <a href="https://formnx.com"><img width="400" src="https://formnx.com/img/form-nx-og-full.png" alt="FormNX"></a>
@@ -120,6 +120,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 55 | [AudioBo: AudioBook Converter](https://apps.apple.com/us/app/audiobo-audiobook-converter/id6754019673) | AudioBo turns messy audio folders into a polished, chaptered M4B — ready for Apple Books and old iPods alike. Unlike MP3, the M4B format is designed specifically for audiobooks. | 50% OFF Lifetime | Nov 24 - Nov 30, 2025 |
 | 56 | [Focusito: Pomodoro Focus Timer](https://apps.apple.com/us/app/focusito-pomodoro-focus-timer/id1473808464?mt=12) | A quiet companion for focused work. Set a timer, stay in flow, and step away when it's time to rest. Clean Mac design, built-in ambient sounds, and nothing to distract you. | 50% OFF Lifetime | Nov 24 - Nov 30, 2025 |
 | 57 | [SubManager](https://apps.apple.com/gb/app/submanager-subscription-list/id1632853914) | Track your subscriptions in one place and get notified before a subscription is due for renewal. | 75% off SubManager+ ($1.49) and 68% off SubManager+ Family ($3.49) for lifetime | Nov 28 - Dec 3 |
+| 58 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | Smart Photo Cleaner helps you to clean your photo gallery. It uses Vision AI to scan your whole phone, and creates a detailed report for you. It also scans for videos and shows you all hidden videos on your phone. You can bulk delete photos, create new albums or add to existing albums. | Annual Plan **50% OFF** | Nov 26 - Dec 03, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -154,6 +155,9 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 18 | [Dataflare](https://dataflare.app) | Fast, simple, and lightweight database manager with intuitive GUI for 20+ databases: PostgreSQL, MySQL, SQLite, ClickHouse, DuckDB, Redis, and more. | **50% OFF** with code **BF2025** | Nov 20 - Dec 2, 2025 |
 | 19 | [TestDino](https://testdino.com/) | Smart Playwright Test Reporting and Analytics, and more | 30% off with code **BFTD25** | 20th November to 1st December) |
 | 20 | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS | 25% off with code **BLACKFRIDAY25** | Nov 20 - Nov 30, 2025 |
+| 21 | [FlyonUI](https://flyonui.com) | FlyonUI is the easiest, free and open-source Tailwind CSS UI components library with semantic classes. | Flat 30% OFF with code **BFCM30FY** | Nov 26 - Dec 01, 2025 |
+| 22 | [shadcn/studio](https://shadcnstudio.com/) | Accelerate your project development with ready-to-use, & customizable 1000+ Shadcn UI Components, Blocks, UI Kit, Boilerplate, Templates & Themes with AI Tools. | Flat 30% OFF with code **BFCM30SS** | Nov 26 - Dec 01, 2025 |
+| 23 | [Themeselection](https://themeselection.com) | Selected high-quality, modern design, professional & easy-to-use Premium & Free Admin Template, HTML Themes & UI Kits for faster applications! | Flat 30% OFF with code **CW30OFF** | Nov 26 - Dec 01, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -229,6 +233,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 8 | [MGC Animation](https://www.mingcute.com/animation?utm_source=twf) | 120+ lively and smooth animated icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
 | 9 | [MGC Weather](https://mgcweather.framer.website/?utm_source=twf) | 120 graceful weather icons | 30% OFF with code **BF2025** | Nov 15 - Dec 5, 2025 |
 | 10 | [SyncSignature](https://syncsignature.com/black-friday-deals-email-signature) | SyncSignature is an email signature software that offers you the easiest way to create professional email signatures for Gmail, Outlook, Apple mail and other email clients. It also helps you standardize company email signatures by automatically installing them across your company. | **87% OFF**| Nov 24 - Dec 05, 2025 |
+| 11 | [AnimStats](https://animstats.com) | SCreate viral animated GIFs/Videos, AI Shorts, and UGC ads - then post directly to YouTube, Instagram & TikTok from one platform. 30+ templates, advanced editor, AI-powered generation. No switching between tools. | Black Friday 50% off **Coupon code: BF50ALL** | Nov 25 - Dec 02, 2025 |
 
 ## 🌈 Marketing Tools
 
@@ -256,7 +261,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ## 🔌 Plugins
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Plugin](https://example.com) | Example description for a plugin | Use **BF2025** for 40% off | Till 30 Nov, 2025 |
+| 1 | [Searchly pro](https://searchly.pro/) | Searchly Pro is an AI-powered WordPress search plugin that delivers smarter, personalized search results. | Searchly Pro Black Friday LTD Deals offer exclusive lifetime access at unbeatable prices. Choose from three tiers: Tier 1 ($49): Lifetime access for 1 website, 2000 AI credits, and standard support. Tier 2 ($99): Lifetime access for up to 10 websites, 5000 AI credits, and priority support. Tier 3 ($199): Lifetime access for up to 50 websites, 10,000 AI credits, priority support + Zoom. | Nov 27 - Dec 31, 2025 |
 
 ## 🧬 Standalone scripts
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
