@@ -33,7 +33,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 # **Sponsored Deal**
 
 ### [FormNX](https://formnx.com)
-🔥 **(50% OFF all Yearly Plans)**
+🔥 **(50% OFF on all Plans, coupon code: BFCM25)**
 
 <p align="center">
   <a href="https://formnx.com"><img width="400" src="https://formnx.com/img/form-nx-og-full.png" alt="FormNX"></a>
