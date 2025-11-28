@@ -260,7 +260,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 ## 🔌 Plugins
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|:-:
-| 1 | [Example Plugin](https://example.com) | Example description for a plugin | Use **BF2025** for 40% off | Till 30 Nov, 2025 |
+| 1 | [Searchly pro](https://searchly.pro/) | Searchly Pro is an AI-powered WordPress search plugin that delivers smarter, personalized search results. | Searchly Pro Black Friday LTD Deals offer exclusive lifetime access at unbeatable prices. Choose from three tiers: Tier 1 ($49): Lifetime access for 1 website, 2000 AI credits, and standard support. Tier 2 ($99): Lifetime access for up to 10 websites, 5000 AI credits, and priority support. Tier 3 ($199): Lifetime access for up to 50 websites, 10,000 AI credits, priority support + Zoom. | Nov 27 - Dec 31, 2025 |
 
 ## 🧬 Standalone scripts
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
