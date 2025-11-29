@@ -168,6 +168,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 21 | [FlyonUI](https://flyonui.com) | FlyonUI is the easiest, free and open-source Tailwind CSS UI components library with semantic classes. | Flat 30% OFF with code **BFCM30FY** | Nov 26 - Dec 01, 2025 |
 | 22 | [shadcn/studio](https://shadcnstudio.com/) | Accelerate your project development with ready-to-use, & customizable 1000+ Shadcn UI Components, Blocks, UI Kit, Boilerplate, Templates & Themes with AI Tools. | Flat 30% OFF with code **BFCM30SS** | Nov 26 - Dec 01, 2025 |
 | 23 | [Themeselection](https://themeselection.com) | Selected high-quality, modern design, professional & easy-to-use Premium & Free Admin Template, HTML Themes & UI Kits for faster applications! | Flat 30% OFF with code **CW30OFF** | Nov 26 - Dec 01, 2025 |
+| 24 | [DeployHQ](https://www.deployhq.com) | Deploy with confidence — zero downtime, every time. Automate your deployments, roll out changes safely, and ship faster with Zero Downtime, Auto Deploy, Turbo Deploy, and AI-powered optimizations for your workflows. | **50% OFF** for 3 months (automatically applied for new customers) | Nov 25 - Dec 2, 2025 |
 
 ## 🤖 AI Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
