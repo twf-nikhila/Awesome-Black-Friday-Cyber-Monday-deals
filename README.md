@@ -275,6 +275,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 13 | [TrendPost](https://trendpost.co) | AI-powered social media automation platform that helps you manage and sync posts across multiple platforms like Twitter and LinkedIn. Schedule content, manage multiple accounts, and enable automatic sharing with AI-generated captions and viral hooks to maximize engagement. | **30% off** monthly & Up to **65% off** yearly — No Coupon Needed | Nov 24 - Dec 2, 2025 |
 | 14 | [Airefs](https://getairefs.com) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice across hundreds of prompts, without breaking the bank. | **50% OFF** with code **BFAI50** | Nov 26 - Dec 02, 2025 |
 | 15 | [Linkcraft AI](https://linkcraftai.com/lifetime-deal) | Generate internal link suggestions for your blog articles in a single click and get more website traffic with increased SEO rankings | **Lifetime deal at 50%** 20 Nov - 31 Dec |
+| 16 | [Startup Buffer](https://startupbuffer.com) | A startup directory and promotion platform that helps founders get their startups discovered by submitting to multiple directories and communities. | **50% OFF** with code **BF50** | Nov 25 - Dec 7, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
