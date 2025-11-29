@@ -281,6 +281,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 14 | [Airefs](https://getairefs.com) | The Google Search Console for AI Search. Track AI Search Impressions and Share of Voice across hundreds of prompts, without breaking the bank. | **50% OFF** with code **BFAI50** | Nov 26 - Dec 02, 2025 |
 | 15 | [Linkcraft AI](https://linkcraftai.com/lifetime-deal) | Generate internal link suggestions for your blog articles in a single click and get more website traffic with increased SEO rankings | **Lifetime deal at 50%** 20 Nov - 31 Dec |
 | 16 | [Startup Buffer](https://startupbuffer.com) | A startup directory and promotion platform that helps founders get their startups discovered by submitting to multiple directories and communities. | **50% OFF** with code **BF50** | Nov 25 - Dec 7, 2025 |
+| 17 | [Evendeals](https://evendeals.com) | Increase your sales by upto 30% with parity pricing | **60% OFF** on Lifetime Deals with code **BF25** | Nov 24 - Dec 02, 2025 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -321,6 +322,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 27 | [Craft Docs](https://www.craft.do/) | Create stunning documents, manage tasks, build dynamic collections, and structure your ideas your way. | **40% LIFETIME OFF** – No code required | Nov 20 - Dec 2, 2025 |
 | 28 | [Timemator](https://timemator.com/) | Automatically tracks work on your Mac, turning app, file & website activity into accurate timesheets. | **50% OFF** Lifetime with promocode TM-BLACKFRIDAY25 | Nov 27 – Dec 5 |
 | 29 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | **40% OFF Lifetime** | Nov 26 - Dec 2 |
+| 30 | [Safe Screen Share](https://safescreenshare.com)  | Blur out personal info while sharing your screen or taking a screenshot. | **60% OFF** on Lifetime Deals with code **BF25** | Nov 24 - Dec 02, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
 
