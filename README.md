@@ -237,6 +237,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 16 | [Quotion](https://quotion.co) | Apple Notes to blogs/portfolios/portals in minutes. | 30% OFF all plans for 12 months with code **BLACKFRIDAY2025** | Nov 20 2025 - Dec 31 2025 |
 | 17 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | 30% OFF with code `BF2025` | Nov 25 - Dec 1 |
 | 18 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | 20% OFF with code `20BF2025` | Nov 25 - Dec 31 |
+| 19 | [PingPing.io](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | **LIFETIME 25% OFF** with code **CYBER25** | Nov 27 - Dec 5, 2025 |
 
 ## 🎨 Themes & Design Resource
 
