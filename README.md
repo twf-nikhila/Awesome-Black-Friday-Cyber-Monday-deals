@@ -239,6 +239,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 17 | [VerifyForge](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | 30% OFF with code `BF2025` | Nov 25 - Dec 1 |
 | 18 | [Semantic Pen](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | 20% OFF with code `20BF2025` | Nov 25 - Dec 31 |
 | 19 | [PingPing.io](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | **LIFETIME 25% OFF** with code **CYBER25** | Nov 27 - Dec 5, 2025 |
+| 20 | [Labs64 NetLicensing](https://netlicensing.io/blog/2025/11/25/labs64-netlicensing-cyber-weeks-2025/) | Elevate your licensing & monetization | Save up to **50%** on any paid plan, get an **extended 60-day trial**, and unlock optional **onboarding**, integration, and migration support when you sign up with code CYBER2025 | Nov 28 – Dec 8, 2025 |
 
 ## 🎨 Themes & Design Resource
 
