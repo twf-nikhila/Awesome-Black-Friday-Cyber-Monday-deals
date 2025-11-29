@@ -131,6 +131,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 66 | [Smart Photo Cleaner: Sardis](https://apps.apple.com/tr/app/smart-photo-cleaner-sardis/id6749212207) | Smart Photo Cleaner helps you to clean your photo gallery. It uses Vision AI to scan your whole phone, and creates a detailed report for you. It also scans for videos and shows you all hidden videos on your phone. You can bulk delete photos, create new albums or add to existing albums. | Annual Plan **50% OFF** | Nov 26 - Dec 03, 2025 |
 | 67 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase 40% OFF | Nov 25 - Dec 5, 2025 |
 | 68 | [ScreenSnap Pro](https://www.screensnap.pro/) |Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly. | 50% OFF Lifetime and Subscription EZNZQWNW | Nov 20 - Dec 31, 2025 |
+| 69 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | Lifetime Plan **50% OFF** with discount code **BLACKFRIDAY** | Nov 26 - Dec 10, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
