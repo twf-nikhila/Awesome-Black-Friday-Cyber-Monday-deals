@@ -132,6 +132,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 67 | [Note](https://apps.apple.com/app/note/id1602765272) | Keep what you care most about in focus with this minimalist notes app & widget. It’s like a pinned/sticky note in its own app, for goals, ideas, reminders, or to-do lists. | $2.99 one-time purchase 40% OFF | Nov 25 - Dec 5, 2025 |
 | 68 | [ScreenSnap Pro](https://www.screensnap.pro/) |Turn ordinary screenshots into stunning visuals in seconds. Add gorgeous backgrounds, annotate with 14 tools, and cloud share instantly. | 50% OFF Lifetime and Subscription EZNZQWNW | Nov 20 - Dec 31, 2025 |
 | 69 | [CopyMagic](https://copymagic.app) | The smartest, most-intuitive clipboard manager for macOS. | Lifetime Plan **50% OFF** with discount code **BLACKFRIDAY** | Nov 26 - Dec 10, 2025 |
+| 70 | [Webhookify](https://webhookify.io) | Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server. | **70% OFF** with the code **BLACKFRIDAY2025** (yearly plan) | Ends Dec 14, 2025 |
 
 ## ⚙️ NoCode Tools
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
