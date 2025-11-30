@@ -325,6 +325,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 28 | [Timemator](https://timemator.com/) | Automatically tracks work on your Mac, turning app, file & website activity into accurate timesheets. | **50% OFF** Lifetime with promocode TM-BLACKFRIDAY25 | Nov 27 – Dec 5 |
 | 29 | [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | **40% OFF Lifetime** | Nov 26 - Dec 2 |
 | 30 | [Safe Screen Share](https://safescreenshare.com)  | Blur out personal info while sharing your screen or taking a screenshot. | **60% OFF** on Lifetime Deals with code **BF25** | Nov 24 - Dec 02, 2025 |
+| 31 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **50% OFF** - Annual: $10/mo (was $20/mo), Monthly: $15/mo (was $30/mo) with code **SUMMATEBF25** | Nov 28 - Dec 5, 2025 |
 
 # 🔖 Other places to list Black Friday Deals:
 
