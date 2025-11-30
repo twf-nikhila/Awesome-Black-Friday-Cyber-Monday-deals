@@ -216,6 +216,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 9 | [pwn.guide](https://pwn.guide) | Learn hacking from 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, defense & certification training for certs like the CompTIA Security+ SY0-701. |  [20% OFF ALL Plans, Including **Lifetime**](https://pwn.guide): Coupon: **BLKFRI20** | Nov 20 – Dec 5, 2025 |
 | 10 | [Boost Your GitHub DX](https://adamchainz.gumroad.com/l/byghdx) | A book about using GitHub more effectively. | 50% off, from $44 to $22, no coupon required. | Nov 11 - Dec 1, 2025 |
 | 11 | [AIDD – AI-Driven Development Masterclass](https://www.aidd.io?friend=VUEPDF) | Learn to code 20x faster with AI using real-world workflows like test generation, code reviews, and repo-aware agents. Includes free bonuses and a 30-day money-back guarantee. | **45% off all plans** | Live Now |  
+| 12 | [TheXero Training Academy SAVE 65% OFF Wireless Mastery](https://training.thexero.co.uk/p/2025-black-friday-sale) | Learn how to perform wireless penetration tests like a professional and kick-start your career as a penetration tester. | **65% off** | Live Now |  
+
 
 ## ♻️ SaaS Software
 
