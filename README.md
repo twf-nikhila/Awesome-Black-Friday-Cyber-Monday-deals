@@ -329,6 +329,8 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 22 | [Joonote](https://play.google.com/store/apps/details?id=com.kyw.joonote) | A note-taking app in your lockscreen. | **25% OFF** (automatically applied) | Nov 20 - Dec 1, 2025 |
 | 23 | [AI Meeting Notes & Recorder](https://apps.apple.com/app/ai-meeting-notes-recorder/id6746161214) | Turn meetings, lectures, and voice memos into structured notes using AI. Record audio, transcribe speech to text, generate summaries, create mind maps, and turn notes into flashcards instantly. Perfect for professionals, students, and creators who want to save time and stay organized. | **30% OFF Yearly Plan** with the code **BLACKFRIDAY2025** | Nov 20 - Dec 25, 2025 |
 | 24 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2025&s=git#UNCLUTTER) | A smart space on your desktop to store and organize your everyday files, notes, and clipboard data. | **50% OFF** Lifetime ($20 → $10) | Nov 26 - Dec 07, 2025 |
+| 25 | [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours → 10 minutes. | **50% OFF** - Annual: $10/mo (was $20/mo), Monthly: $15/mo (was $30/mo) with code **SUMMATEBF25** | Nov 28 - Dec 5, 2025 |
+
 
 # 🔖 Other places to list Black Friday Deals:
 
