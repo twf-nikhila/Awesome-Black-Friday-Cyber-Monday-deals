@@ -202,6 +202,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 25 | [Backona AI](https://backona.com/?utm_source=awesome-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** | Nov 25 - Dec 05, 2025 |
 | 26 | [Enconvo](https://www.enconvo.app/) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% OFF** LIFETIME with code **BLACK-FRIDAY-2025-LTD** | Nov 24 - Dec 02, 2025 |
 | 27 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** on all plans with code **CXBLACK2025** | Nov 27 – Dec 3 |
+| 28 | [Kensa](https://www.kensa.cc/deals/black-friday?utm_source=twf-nikhila&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance. Turn text, images or a product link into videos. | **25% OFF** the first year of yearly plans (code shown on the deal page) | Nov 20 - Dec 1, 2026 |
 
 ## 📚 Books & Courses
 
