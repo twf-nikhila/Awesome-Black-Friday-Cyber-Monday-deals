@@ -336,3 +336,5 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 # 🔖 Other places to list Black Friday Deals:
 
 [BlackFridayDeals.dev](https://blackfridaydeals.dev) 
+
+[SaaS Black Friday](https://saasblackfriday.online/) - Tracker of 240 SaaS & AI tools for BF/CM 2026; past deals labelled by year, 2026 deals verified as they go live.
