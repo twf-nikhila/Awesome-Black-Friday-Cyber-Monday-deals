@@ -202,6 +202,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 25 | [Backona AI](https://backona.com/?utm_source=awesome-github&utm_medium=sale-list&utm_campaign=blackfriday2025) | Backona AI helps you turn marketing data into clear, actionable insights. It connects your key platforms like Google Analytics and advertising channels into one smart chat solution. | Get 30% off yearly subscriptions with code **BIGWIN30** or enjoy 50% off your first month with code **QUICKWIN50** | Nov 25 - Dec 05, 2025 |
 | 26 | [Enconvo](https://www.enconvo.app/) | The Always‑Online AI Companion That Knows You Best, contextually aware of your screen and apps, delivering the perfect response to automate your complex tasks. | **50% OFF** LIFETIME with code **BLACK-FRIDAY-2025-LTD** | Nov 24 - Dec 02, 2025 |
 | 27 | [ConsoleX AI](https://consolex.ai) | The ultimate AI studio for creators: all frontier models and creative tools in one place — Gemini 3, Opus 4.5, GPT 5.1, Nano Banana Pro, Sora 2 & Veo 3. | **50% OFF** on all plans with code **CXBLACK2025** | Nov 27 – Dec 3 |
+| 28 | [Supacite](https://supacite.com?ref=twf) | Let Claude Code and Cursor handle your SEO. Every tool they need in one place: keywords, blogs, listings, AI visibility, competitor tracking and more. | **70% OFF** Lifetime · first 100 · code `CITEBF` | Nov 9 - Dec 7, 2026 |
 
 ## 📚 Books & Courses
 
@@ -286,6 +287,7 @@ Black Friday, Cyber Monday Deals & Holidays for Developers, Techies, &amp; Enter
 | 15 | [Linkcraft AI](https://linkcraftai.com/lifetime-deal) | Generate internal link suggestions for your blog articles in a single click and get more website traffic with increased SEO rankings | **Lifetime deal at 50%** 20 Nov - 31 Dec |
 | 16 | [Startup Buffer](https://startupbuffer.com) | A startup directory and promotion platform that helps founders get their startups discovered by submitting to multiple directories and communities. | **50% OFF** with code **BF50** | Nov 25 - Dec 7, 2025 |
 | 17 | [Evendeals](https://evendeals.com) | Increase your sales by upto 30% with parity pricing | **60% OFF** on Lifetime Deals with code **BF25** | Nov 24 - Dec 02, 2025 |
+| 18 | [Supacite](https://supacite.com?ref=twf) | Let Claude Code and Cursor handle your SEO. Every tool they need in one place: keywords, blogs, listings, AI visibility, competitor tracking and more. | **70% OFF** Lifetime · first 100 · code `CITEBF` | Nov 9 - Dec 7, 2026 |
 
 ## 📩 Newsletter & Communities
 | **#** | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
