@@ -126,6 +126,7 @@ Add it to your website, README, or launch post:
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS | ♾️ **40% OFF** · code `BLACKFRIDAY26` (direct purchase only) | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
