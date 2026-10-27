@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>__TITLE__</title>
+<meta name="description" content="__SUBTITLE__">
+<meta property="og:title" content="__TITLE__">
+<meta property="og:description" content="__SUBTITLE__">
+<meta property="og:image" content="https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/assets/brand/social-preview.png">
+<meta property="og:image:width" content="1280">
+<meta property="og:image:height" content="640">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="assets/brand/logo.png">
+<style>
+  :root { --bg:#000; --card:#0d0d0d; --line:#222; --text:#fff; --muted:#9a9a9a; --y:#FFD400; }
+  * { box-sizing:border-box }
+  [hidden] { display:none !important }
+  body { margin:0; background:var(--bg); color:var(--text); font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,sans-serif }
+  a { color:inherit }
+  .wrap { max-width:1160px; margin:0 auto; padding:0 20px }
+  .display { font-family:"Avenir Next Condensed","Arial Narrow",-apple-system,sans-serif; font-weight:800; letter-spacing:-.5px }
+
+  header.wrap { text-align:center; padding:64px 20px 40px }
+  header img { width:96px; height:96px }
+  h1 { font-size:clamp(34px,6vw,64px); line-height:1; margin:22px 0 12px; text-transform:uppercase }
+  h1 .y { color:var(--y) }
+  .sub { color:var(--muted); font-size:18px; margin:0 auto; max-width:620px }
+  .stats { margin:16px 0 0; color:var(--muted); font-size:14px }
+  .stats b { color:var(--text) }
+  .cta { display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-top:28px }
+  .btn { display:inline-flex; align-items:center; gap:8px; padding:12px 20px; border-radius:10px; border:1.5px solid #333; text-decoration:none; font-weight:600; font-size:15px }
+  .btn:hover { border-color:#666 }
+  .btn.primary { background:var(--y); color:#000; border-color:var(--y) }
+
+  .label { color:var(--muted); font-size:12px; letter-spacing:3px; text-transform:uppercase; margin:0 0 12px }
+  .sponsors { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; margin-bottom:40px }
+  .sponsor { display:flex; gap:14px; align-items:center; padding:16px; border:1px solid var(--line); border-radius:14px; background:var(--card); text-decoration:none }
+  .sponsor:hover { border-color:#444 }
+  .sponsor img { width:48px; height:48px; border-radius:10px; flex:none }
+  .sponsor b { display:block }
+  .sponsor small { color:var(--muted); display:block; line-height:1.35 }
+  .sponsor .sdeal { color:var(--y); font-size:13px; font-weight:600; margin-top:2px }
+  .sponsor.open { border-style:dashed; justify-content:center; text-align:center; color:var(--muted) }
+
+  .controls { position:sticky; top:0; z-index:5; background:rgba(0,0,0,.88); backdrop-filter:blur(10px); padding:14px 0; border-bottom:1px solid var(--line) }
+  .search { width:100%; padding:13px 16px; border-radius:10px; border:1.5px solid #2a2a2a; background:#0a0a0a; color:var(--text); font-size:16px; outline:none }
+  .search:focus { border-color:var(--y) }
+  .chips { display:flex; gap:8px; overflow-x:auto; padding-top:12px; scrollbar-width:none }
+  .chip { flex:none; padding:7px 13px; border-radius:999px; border:1.5px solid #2a2a2a; background:none; color:var(--text); font-size:14px; cursor:pointer; white-space:nowrap }
+  .chip:hover { border-color:#555 }
+  .chip.on { background:var(--text); color:#000; border-color:var(--text) }
+  .chip.toggle.on { background:var(--y); border-color:var(--y) }
+  .chip .n { opacity:.55; margin-left:4px }
+
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px; padding:24px 0 60px }
+  .deal { display:flex; flex-direction:column; gap:10px; padding:20px; border:1px solid var(--line); border-radius:14px; background:var(--card) }
+  .deal:hover { border-color:#3a3a3a }
+  .deal .top { display:flex; justify-content:space-between; gap:8px; font-size:12px; color:var(--muted) }
+  .deal h3 { margin:0; font-size:19px; line-height:1.25 }
+  .deal h3 a { text-decoration:none }
+  .deal h3 a:hover { color:var(--y) }
+  .deal p { margin:0; color:#cfcfcf; font-size:15px; display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden }
+  .deal .offer { margin-top:auto; padding:10px 12px; border-radius:10px; background:#161300; border:1px solid #3d3300; font-size:15px }
+  .deal .offer a { color:var(--y) }
+  .deal code { background:#000; border:1px dashed var(--y); color:var(--y); padding:1px 6px; border-radius:6px; font-size:13px }
+  .deal .dates { font-size:13px; color:var(--muted) }
+  .badges span { margin-left:4px }
+
+  .empty { text-align:center; padding:70px 20px 90px; color:var(--muted) }
+  .empty .display { color:var(--text); font-size:34px; text-transform:uppercase; margin-bottom:8px }
+
+  footer { border-top:1px solid var(--line); padding:36px 0 60px; color:var(--muted); font-size:14px }
+  footer .cols { display:flex; gap:40px; flex-wrap:wrap; justify-content:space-between }
+  footer a { color:var(--text); text-decoration:none; margin-right:14px }
+  footer a:hover { color:var(--y) }
+</style>
+</head>
+<body>
+<header class="wrap">
+  <img src="assets/brand/logo.png" alt="">
+  <h1 class="display" id="title"></h1>
+  <p class="sub">__SUBTITLE__</p>
+  <p class="stats" id="stats"></p>
+  <div class="cta" id="cta"></div>
+</header>
+
+<section class="wrap" id="sponsors-wrap">
+  <p class="label">Sponsors</p>
+  <div class="sponsors" id="sponsors"></div>
+</section>
+
+<div class="controls" id="controls">
+  <div class="wrap">
+    <input class="search" id="q" type="search" placeholder="Search deals, e.g. “mac”, “lifetime”, “AI”…" autocomplete="off">
+    <div class="chips" id="chips"></div>
+  </div>
+</div>
+
+<main class="wrap">
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" hidden></div>
+</main>
+
+<footer class="wrap">
+  <div class="cols">
+    <div><p class="label">Previous years</p><div id="archives"></div></div>
+    <div><p class="label">More deal lists</p><div id="others"></div></div>
+    <div><p class="label">Source</p><a id="repo">Edit on GitHub ↗</a></div>
+  </div>
+</footer>
+
+<script type="application/json" id="data">/*__DATA__*/null</script>
+<script>
+const D = JSON.parse(document.getElementById('data').textContent);
+const $ = id => document.getElementById(id);
+const el = (tag, attrs = {}, ...kids) => {
+  const n = document.createElement(tag);
+  for (const [k, v] of Object.entries(attrs)) if (v != null) k === 'html' ? n.innerHTML = v : n.setAttribute(k, v);
+  n.append(...kids);
+  return n;
+};
+const ext = { target: '_blank', rel: 'noopener' };
+
+// Title: highlight the last word ("Deals" / year) in yellow
+const words = D.title.split(' ');
+$('title').append(words.slice(0, -1).join(' ') + ' ', el('span', { class: 'y' }, words.at(-1)));
+
+const deals = D.categories.flatMap(c => c.deals.map(d => ({ ...d, cat: c })));
+$('stats').append(deals.length
+  ? el('span', { html: `<b>${deals.length}</b> deals · <b>${D.categories.filter(c => c.deals.length).length}</b> categories · Updated ${D.updated}` })
+  : 'Submissions are open. Deals go live here as they are added.');
+
+$('cta').append(
+  el('a', { class: 'btn primary', href: D.addDeal, ...ext }, '✍️ Add your deal'),
+  ...(D.subscribe ? [el('a', { class: 'btn', href: D.subscribe, ...ext }, '📬 Get deals by email')] : []),
+  el('a', { class: 'btn', href: D.repo, ...ext }, '⭐ Star on GitHub'),
+);
+
+if (D.sponsors.length) {
+  for (const s of D.sponsors) $('sponsors').append(el('a', { class: 'sponsor', href: s.url, ...ext },
+    el('img', { src: s.logo, alt: '' }),
+    el('div', {}, el('b', {}, s.name), el('small', {}, s.description), s.deal ? el('div', { class: 'sdeal' }, s.deal) : '')));
+  $('sponsors').append(el('a', { class: 'sponsor open', href: D.sponsorship, ...ext }, 'Your logo here · Become a sponsor →'));
+} else $('sponsors-wrap').hidden = true;
+
+// Filters
+const state = { cat: null, big: false, life: false, q: '' };
+const chips = $('chips');
+function chip(label, count, on, onClick, extraClass = '') {
+  const b = el('button', { class: `chip ${extraClass}${on ? ' on' : ''}`, type: 'button' }, label);
+  if (count != null) b.append(el('span', { class: 'n' }, count));
+  b.onclick = onClick;
+  return b;
+}
+function renderChips() {
+  chips.replaceChildren(
+    chip('All', deals.length, !state.cat, () => { state.cat = null; render(); }),
+    ...D.categories.filter(c => c.deals.length).map(c =>
+      chip(`${c.emoji} ${c.name}`, c.deals.length, state.cat === c, () => { state.cat = state.cat === c ? null : c; render(); })),
+    chip('💸 50%+ off', null, state.big, () => { state.big = !state.big; render(); }, 'toggle'),
+    chip('♾️ Lifetime', null, state.life, () => { state.life = !state.life; render(); }, 'toggle'),
+  );
+}
+
+const text = d => (d.name + ' ' + d.description + ' ' + d.deal + ' ' + d.cat.name).replace(/<[^>]+>/g, '').toLowerCase();
+function render() {
+  renderChips();
+  const q = state.q.trim().toLowerCase();
+  const shown = deals.filter(d => (!state.cat || d.cat === state.cat) && (!state.big || d.big) && (!state.life || d.lifetime)
+    && (!q || q.split(/\s+/).every(w => text(d).includes(w))));
+  $('grid').replaceChildren(...shown.map(d => el('article', { class: 'deal' },
+    el('div', { class: 'top' }, el('span', {}, `${d.cat.emoji} ${d.cat.name}`),
+      el('span', { class: 'badges' }, d.big ? el('span', { title: '50% OFF or more' }, '💸') : '', d.lifetime ? el('span', { title: 'Lifetime deal' }, '♾️') : '')),
+    el('h3', {}, d.url ? el('a', { href: d.url, ...ext, rel: 'noopener nofollow' }, d.name + ' ↗') : d.name),
+    el('p', { html: d.description }),
+    el('div', { class: 'offer', html: d.deal }),
+    d.dates ? el('div', { class: 'dates' }, '🗓 ' + d.dates) : '')));
+  const empty = $('empty');
+  empty.hidden = shown.length > 0;
+  if (!shown.length) empty.replaceChildren(...(deals.length
+    ? [el('div', { class: 'display' }, 'No matches'), 'Try another search or clear the filters.']
+    : [el('div', { class: 'display' }, 'Deals drop soon'), el('p', {}, 'Be the first to list your Black Friday deal. It’s free.'),
+       el('a', { class: 'btn primary', href: D.addDeal, ...ext }, '✍️ Add your deal')]));
+  $('controls').hidden = !deals.length;
+}
+$('q').oninput = e => { state.q = e.target.value; render(); };
+
+for (const a of D.archives) $('archives').append(el('a', { href: a.url, ...ext }, a.label));
+for (const o of D.others) $('others').append(el('a', { href: o.url, ...ext }, o.label + ' ↗'));
+$('repo').href = D.repo;
+render();
+</script>
+</body>
+</html>
