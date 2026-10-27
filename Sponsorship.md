@@ -7,4 +7,4 @@ DM me on [Twitter](https://twitter.com/HeyNikhila) or Email (nikhil_agrawal at l
 1. **Why sponsor?:** Get special highlight at the top, which brings visitors' immediate attention to your product. More visitors mean more sales. 
 2. **What do I get as a sponsor?:** Special highlight at the top of this repository. With brand/product logo, Caption, Sub-heading & link to the product. This will definitely help to attract more visitors/customers to your product.
 3. **Sponsorship cost & duration:** Cost is [$75 for 1 year](https://www.paypal.com/paypalme/NikhilAgrawal/75usd). Meaning this year's sponsor will be changed 1 week before next black friday. For more info contact me in nikhil_agrawal at live dot com
-4. **Limited 5 sponsors only**
+4. **Limited 4 sponsors only**

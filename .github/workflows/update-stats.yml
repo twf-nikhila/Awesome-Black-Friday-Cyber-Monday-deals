@@ -1,0 +1,36 @@
+name: Update deal stats
+
+on:
+  push:
+    branches: [main]
+    paths: [README.md]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update deal counts and last-updated date
+        run: python3 scripts/update_stats.py
+
+      # Pushes made with GITHUB_TOKEN don't trigger workflows, so this can't loop.
+      - name: Commit changes
+        run: |
+          if git diff --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update deal stats"
+          git pull --rebase
+          git push
