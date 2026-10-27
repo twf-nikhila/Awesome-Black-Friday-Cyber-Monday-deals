@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/brand/logo.png" width="112" height="112" alt="Awesome Black Friday & Cyber Monday Deals">
+
 # Awesome Black Friday & Cyber Monday Deals 2026
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
