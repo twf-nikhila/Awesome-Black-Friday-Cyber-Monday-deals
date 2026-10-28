@@ -126,16 +126,19 @@ Add it to your website, README, or launch post:
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS | ♾️ **40% OFF** · code `BLACKFRIDAY26` (direct purchase only) | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [Seedeo](https://seedeo.ai/black-friday) | All-in-one AI creative platform for video, image, music & voice (Kling 3.0, Seedance 2, Veo, GPT Image, Nano Banana Pro) on one shared credit balance | 💸 ♾️ **62% OFF** 20,000 never-expiring credits for $99 · **64% OFF** Pro annual ($129 first year) · auto-applied | Oct 27, 2026 - Nov 30, 2026 |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | AI image, video and music generator in one studio (Nano Banana, Seedream, FLUX, LTX-2 video, AI music, bg remove, upscale, LoRA) · free users get 20 FLUX/day | **20% OFF** monthly & yearly subscriptions (credit packs excluded) · discounted price locked on renewals · auto-applied via link | Nov 20, 2026 - Dec 1, 2026 |
+| [Kensa](https://www.kensa.cc/deals/black-friday?utm_source=twf-nikhila&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance · turn text, images or a product link into videos | **25% OFF** first year of yearly plans · code shown on the deal page | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📚 Books & Courses
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 💸 **50% OFF** · code `BLACK` ($49.99 → $24.99) | Oct 28, 2026 - Dec 31, 2026 |
 
 ## ♻️ SaaS Software
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -149,6 +152,7 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [SwiftERM](https://swifterm.com/black-friday/) | Autonomous individualisation for ecommerce email marketing · picks what each customer is most likely to buy next and sends it without campaigns | **40% OFF** first 12 paid monthly subscriptions after the free 30-day trial · new customers only · code `BLACKFRIDAY26` | Nov 20, 2026 - Dec 3, 2026 |
+| [LandinTools](https://tools.landin.page/advertise?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 💸 **50% OFF** Featured listing for a full year · code `BF2026` ($49 → $24.50) | Oct 28, 2026 - Dec 31, 2026 |
 
 ## 📩 Newsletter & Communities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -157,6 +161,7 @@ Add it to your website, README, or launch post:
 ## 🔌 Plugins
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider & carousel blocks for the WordPress block editor: 70+ designs, WooCommerce carousels, no jQuery | ♾️ **Up to 40% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🧬 Standalone scripts
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -165,6 +170,7 @@ Add it to your website, README, or launch post:
 ## 🔥 Productivity Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [SupaSidebar](https://supasidebar.com?r=twf) | Arc-like sidebar for all browsers · view or fuzzy search open tabs, bookmarks and Finder files, one shortcut away | 💸 ♾️ **70% OFF** Lifetime ($99 → $29.70) · first 100 buyers · code `SIDEBARBF70` | Nov 9, 2026 - Dec 7, 2026 |
 
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -180,3 +186,5 @@ Add it to your website, README, or launch post:
 # 🔖 Other places to list Black Friday Deals:
 
 [BlackFridayDeals.dev](https://blackfridaydeals.dev) 
+
+[SaaS Black Friday](https://saasblackfriday.online/) - Tracker of 240 SaaS & AI tools for BF/CM 2026; past deals labelled by year, 2026 deals verified as they go live.
