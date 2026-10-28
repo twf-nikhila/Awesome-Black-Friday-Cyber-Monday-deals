@@ -154,6 +154,7 @@ Add it to your website, README, or launch post:
 ## 🔌 Plugins
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider & carousel blocks for the WordPress block editor: 70+ designs, WooCommerce carousels, no jQuery | ♾️ **Up to 40% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🧬 Standalone scripts
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
