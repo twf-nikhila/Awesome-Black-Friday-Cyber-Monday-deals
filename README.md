@@ -131,6 +131,7 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [Seedeo](https://seedeo.ai/black-friday) | All-in-one AI creative platform for video, image, music & voice (Kling 3.0, Seedance 2, Veo, GPT Image, Nano Banana Pro) on one shared credit balance | 💸 ♾️ **62% OFF** 20,000 never-expiring credits for $99 · **64% OFF** Pro annual ($129 first year) · auto-applied | Oct 27, 2026 - Nov 30, 2026 |
+| [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | AI image, video and music generator in one studio (Nano Banana, Seedream, FLUX, LTX-2 video, AI music, bg remove, upscale, LoRA) · free users get 20 FLUX/day | **20% OFF** monthly & yearly subscriptions (credit packs excluded) · discounted price locked on renewals · auto-applied via link | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📚 Books & Courses
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -147,6 +148,7 @@ Add it to your website, README, or launch post:
 ## 🌈 Marketing Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [SwiftERM](https://swifterm.com/black-friday/) | Autonomous individualisation for ecommerce email marketing · picks what each customer is most likely to buy next and sends it without campaigns | **40% OFF** first 12 paid monthly subscriptions after the free 30-day trial · new customers only · code `BLACKFRIDAY26` | Nov 20, 2026 - Dec 3, 2026 |
 
 ## 📩 Newsletter & Communities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
