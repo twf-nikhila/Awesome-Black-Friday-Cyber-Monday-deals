@@ -130,6 +130,7 @@ Add it to your website, README, or launch post:
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [Seedeo](https://seedeo.ai/black-friday) | All-in-one AI creative platform for video, image, music & voice (Kling 3.0, Seedance 2, Veo, GPT Image, Nano Banana Pro) on one shared credit balance | 💸 ♾️ **62% OFF** 20,000 never-expiring credits for $99 · **64% OFF** Pro annual ($129 first year) · auto-applied | Oct 27, 2026 - Nov 30, 2026 |
 
 ## 📚 Books & Courses
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
