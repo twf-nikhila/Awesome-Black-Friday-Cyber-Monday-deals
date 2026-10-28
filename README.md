@@ -127,6 +127,9 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [JuxtaCode](https://juxtacode.app) | Compare Git branches and resolve merge conflicts with ease on macOS | ♾️ **40% OFF** · code `BLACKFRIDAY26` (direct purchase only) | Nov 20, 2026 - Dec 1, 2026 |
+| [1bench](https://1bench.dev/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | One desktop GUI for 25+ databases. | 💸 ♾️ **50% OFF** lifetime, $199 → $99 · code `FCBF26` | Nov 20, 2026 - Dec 1, 2026 |
+| [SSH Workbench](https://sshworkbench.com/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Manage every server visually over SSH. | 💸 ♾️ **50% OFF** lifetime, $199 → $99 · code `FCBF26` | Nov 20, 2026 - Dec 1, 2026 |
+| [CostGoat](https://costgoat.com/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Desktop app that tracks your AI, cloud and SaaS costs in real time. | 💸 ♾️ **50% OFF** lifetime, $199 → $99 · code `FCBF26` | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
