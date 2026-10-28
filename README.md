@@ -135,6 +135,7 @@ Add it to your website, README, or launch post:
 ## 📚 Books & Courses
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 💸 **50% OFF** · code `BLACK` ($49.99 → $24.99) | Oct 28, 2026 - Dec 31, 2026 |
 
 ## ♻️ SaaS Software
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -147,6 +148,7 @@ Add it to your website, README, or launch post:
 ## 🌈 Marketing Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [LandinTools](https://tools.landin.page/advertise?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 💸 **50% OFF** Featured listing for a full year · code `BF2026` ($49 → $24.50) | Oct 28, 2026 - Dec 31, 2026 |
 
 ## 📩 Newsletter & Communities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
