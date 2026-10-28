@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start --><!-- stats:end -->
+<!-- stats:start -->🔥 **1 deals** listed · Updated Oct 28, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -64,7 +64,7 @@ Add it to your website, README, or launch post:
 * 💻 [Apps](#-apps) - Mobile/desktop apps (iOS, Android, macOS, Windows)
 * ⚙️ [NoCode Tools](#%EF%B8%8F-nocode-tools) - Builders/automation without coding
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) - Dev utilities, SDKs, APIs, CLIs
-* 🤖 [AI Tools](#-ai-tools) - AI products/services
+* 🤖 [AI Tools](#-ai-tools) (1) - AI products/services
 * 📚 [Books & Courses](#-books--courses) - Educational content
 * ♻️ [SaaS Software](#%EF%B8%8F-saas-software) - Web software (subscription)
 * 🎨 [Themes & Design Resource](#-themes--design-resource) - Templates, UI kits, assets
