@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **3 deals** listed · Updated Oct 28, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **9 deals** listed · Updated Oct 28, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -63,16 +63,16 @@ Add it to your website, README, or launch post:
 
 * 💻 [Apps](#-apps) - Mobile/desktop apps (iOS, Android, macOS, Windows)
 * ⚙️ [NoCode Tools](#%EF%B8%8F-nocode-tools) - Builders/automation without coding
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) - Dev utilities, SDKs, APIs, CLIs
-* 🤖 [AI Tools](#-ai-tools) (2) - AI products/services
-* 📚 [Books & Courses](#-books--courses) - Educational content
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (1) - Dev utilities, SDKs, APIs, CLIs
+* 🤖 [AI Tools](#-ai-tools) (3) - AI products/services
+* 📚 [Books & Courses](#-books--courses) (1) - Educational content
 * ♻️ [SaaS Software](#%EF%B8%8F-saas-software) - Web software (subscription)
 * 🎨 [Themes & Design Resource](#-themes--design-resource) - Templates, UI kits, assets
-* 🌈 [Marketing Tools](#-marketing-tools) (1) - SEO, analytics, email, social tools
+* 🌈 [Marketing Tools](#-marketing-tools) (2) - SEO, analytics, email, social tools
 * 📩 [Newsletter & Communities](#-newsletter--communities) - Paid/newsletters, groups
-* 🔌 [Plugins](#-plugins) - Extensions/add-ons for platforms
+* 🔌 [Plugins](#-plugins) (1) - Extensions/add-ons for platforms
 * 🧬 [Standalone scripts](#-standalone-scripts) - One-time purchase scripts/snippets
-* 🔥 [Productivity Tools](#-productivity-tools) - Task management, workflow, scheduling, note-taking, focus tools
+* 🔥 [Productivity Tools](#-productivity-tools) (1) - Task management, workflow, scheduling, note-taking, focus tools
 * 🎁 [Free Stuff](#-free-stuff) - Free credits, free plans, giveaways
 
 **Legend:** 💸 50% OFF or more · ♾️ Lifetime / buy-once deal
