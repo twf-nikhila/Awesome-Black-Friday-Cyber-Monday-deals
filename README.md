@@ -130,6 +130,8 @@ Add it to your website, README, or launch post:
 | [1bench](https://1bench.dev/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | One desktop GUI for 25+ databases. | 💸 ♾️ **50% OFF** lifetime, $199 → $99 · code `FCBF26` | Nov 20, 2026 - Dec 1, 2026 |
 | [SSH Workbench](https://sshworkbench.com/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Manage every server visually over SSH. | 💸 ♾️ **50% OFF** lifetime, $199 → $99 · code `FCBF26` | Nov 20, 2026 - Dec 1, 2026 |
 | [CostGoat](https://costgoat.com/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Desktop app that tracks your AI, cloud and SaaS costs in real time. | 💸 ♾️ **50% OFF** lifetime, $199 → $99 · code `FCBF26` | Nov 20, 2026 - Dec 1, 2026 |
+| [Pagerly](https://pagerly.io) | On-call schedules, rotations, alerting and incident response inside Slack and Teams | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
+| [Lockit](https://lockitbot.com) | Reserve, lock and release shared resources (environments, servers) inside Slack | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -146,6 +148,7 @@ Add it to your website, README, or launch post:
 ## ♻️ SaaS Software
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [SyncMyGroup](https://syncmygroup.com) | Keep user groups in sync across Google, Slack, Teams, Jira, GitHub and BambooHR | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🎨 Themes & Design Resource
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -159,6 +162,7 @@ Add it to your website, README, or launch post:
 |:-:|:-:|:-:|:-:|
 | [SwiftERM](https://swifterm.com/black-friday/) | Autonomous individualisation for ecommerce email marketing · picks what each customer is most likely to buy next and sends it without campaigns | **40% OFF** first 12 paid monthly subscriptions after the free 30-day trial · new customers only · code `BLACKFRIDAY26` | Nov 20, 2026 - Dec 3, 2026 |
 | [LandinTools](https://tools.landin.page/advertise?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 💸 **50% OFF** Featured listing for a full year · code `BF2026` ($49 → $24.50) | Oct 28, 2026 - Dec 31, 2026 |
+| [Updately](https://updately.ai) | AI that finds high-intent leads on LinkedIn and messages them the way you would | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 📩 Newsletter & Communities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -177,6 +181,7 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [SupaSidebar](https://supasidebar.com?r=twf) | Arc-like sidebar for all browsers · view or fuzzy search open tabs, bookmarks and Finder files, one shortcut away | 💸 ♾️ **70% OFF** Lifetime ($99 → $29.70) · first 100 buyers · code `SIDEBARBF70` | Nov 9, 2026 - Dec 7, 2026 |
+| [Presend](https://getpresend.com) | Checks every email and message before you send it for leaked passwords, personal data, wrong recipients and AI-sounding writing (Chrome extension and Mac app) | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
