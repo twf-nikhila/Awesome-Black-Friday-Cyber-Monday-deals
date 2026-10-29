@@ -194,3 +194,5 @@ Add it to your website, README, or launch post:
 [BlackFridayDeals.dev](https://blackfridaydeals.dev) 
 
 [SaaS Black Friday](https://saasblackfriday.online/) - Tracker of 240 SaaS & AI tools for BF/CM 2026; past deals labelled by year, 2026 deals verified as they go live.
+
+[IndieMarkdowns](https://indiemarkdowns.com) - Free Black Friday 2026 tracker for indie Mac apps, iOS apps and dev tools; makers list their deal free, and deals go live only once the maker publishes them.
