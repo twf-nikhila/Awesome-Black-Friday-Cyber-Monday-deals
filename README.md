@@ -132,6 +132,7 @@ Add it to your website, README, or launch post:
 | [CostGoat](https://costgoat.com/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Desktop app that tracks your AI, cloud and SaaS costs in real time. | 💸 ♾️ **50% OFF** lifetime, $199 → $99 · code `FCBF26` | Nov 20, 2026 - Dec 1, 2026 |
 | [Pagerly](https://pagerly.io) | On-call schedules, rotations, alerting and incident response inside Slack and Teams | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [Lockit](https://lockitbot.com) | Reserve, lock and release shared resources (environments, servers) inside Slack | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
+| [PixelVault](https://pixelvault.dev/blackfriday/) | Image hosting for developers and AI agents. Upload through the API, CLI or MCP and get a permanent CDN URL back. Zero egress fees, EU data storage. | 💸 **50% OFF** Starter or Pro for the first 3 monthly invoices, new paying customers only · code `BLACKFRIDAY2026` | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
