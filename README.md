@@ -139,6 +139,7 @@ Add it to your website, README, or launch post:
 | [Seedeo](https://seedeo.ai/black-friday) | All-in-one AI creative platform for video, image, music & voice (Kling 3.0, Seedance 2, Veo, GPT Image, Nano Banana Pro) on one shared credit balance | 💸 ♾️ **62% OFF** 20,000 never-expiring credits for $99 · **64% OFF** Pro annual ($129 first year) · auto-applied | Oct 27, 2026 - Nov 30, 2026 |
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | AI image, video and music generator in one studio (Nano Banana, Seedream, FLUX, LTX-2 video, AI music, bg remove, upscale, LoRA) · free users get 20 FLUX/day | **20% OFF** monthly & yearly subscriptions (credit packs excluded) · discounted price locked on renewals · auto-applied via link | Nov 20, 2026 - Dec 1, 2026 |
 | [Kensa](https://www.kensa.cc/deals/black-friday?utm_source=twf-nikhila&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance · turn text, images or a product link into videos | **25% OFF** first year of yearly plans · code shown on the deal page | Nov 20, 2026 - Dec 1, 2026 |
+| [Rezi](https://www.rezi.ai/pricing) | AI resume builder · writes and tailors ATS-friendly resumes, scores them on 23 ATS metrics, plus AI cover letters, mock interviews and auto-apply to jobs in the mobile app | 💸 **70% OFF** Rezi Pro for 3 months ($29 → $8.70/mo) · code `Blackfriday2026` | Nov 13, 2026 - Dec 11, 2026 |
 
 ## 📚 Books & Courses
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
