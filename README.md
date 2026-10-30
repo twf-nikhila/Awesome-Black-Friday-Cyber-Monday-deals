@@ -118,6 +118,7 @@ Add it to your website, README, or launch post:
 ## 💻 Apps
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [Cutfac](https://cutfac.com) | Create and refine short videos with Claude Code or Codex on Mac. | ♾️ **40% OFF** one-time licenses · code `BF2026` · [auto-applied at checkout](https://buy.polar.sh/polar_cl_DCl65fjz77iirFmV46uiC4ad5ffs62aJNUFM327F9zH) · 1/3/5 Macs: $29.40/$41.40/$59.40 before tax; 1 year of updates, then keep the last version; bring your own agent subscription | Oct 31, 2026 - Dec 31, 2026 |
 
 ## ⚙️ NoCode Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
