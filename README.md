@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **21 deals** listed · Updated Oct 29, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **24 deals** listed · Updated Oct 30, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -63,16 +63,16 @@ Add it to your website, README, or launch post:
 
 * 💻 [Apps](#-apps) - Mobile/desktop apps (iOS, Android, macOS, Windows)
 * ⚙️ [NoCode Tools](#%EF%B8%8F-nocode-tools) - Builders/automation without coding
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (6) - Dev utilities, SDKs, APIs, CLIs
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (7) - Dev utilities, SDKs, APIs, CLIs
 * 🤖 [AI Tools](#-ai-tools) (4) - AI products/services
 * 📚 [Books & Courses](#-books--courses) (1) - Educational content
 * ♻️ [SaaS Software](#%EF%B8%8F-saas-software) (1) - Web software (subscription)
-* 🎨 [Themes & Design Resource](#-themes--design-resource) (3) - Templates, UI kits, assets
+* 🎨 [Themes & Design Resource](#-themes--design-resource) (4) - Templates, UI kits, assets
 * 🌈 [Marketing Tools](#-marketing-tools) (3) - SEO, analytics, email, social tools
 * 📩 [Newsletter & Communities](#-newsletter--communities) - Paid/newsletters, groups
 * 🔌 [Plugins](#-plugins) (1) - Extensions/add-ons for platforms
 * 🧬 [Standalone scripts](#-standalone-scripts) - One-time purchase scripts/snippets
-* 🔥 [Productivity Tools](#-productivity-tools) (2) - Task management, workflow, scheduling, note-taking, focus tools
+* 🔥 [Productivity Tools](#-productivity-tools) (3) - Task management, workflow, scheduling, note-taking, focus tools
 * 🎁 [Free Stuff](#-free-stuff) - Free credits, free plans, giveaways
 
 **Legend:** 💸 50% OFF or more · ♾️ Lifetime / buy-once deal
