@@ -185,6 +185,7 @@ Add it to your website, README, or launch post:
 |:-:|:-:|:-:|:-:|
 | [SupaSidebar](https://supasidebar.com?r=twf) | Arc-like sidebar for all browsers · view or fuzzy search open tabs, bookmarks and Finder files, one shortcut away | 💸 ♾️ **70% OFF** Lifetime ($99 → $29.70) · first 100 buyers · code `SIDEBARBF70` | Nov 9, 2026 - Dec 7, 2026 |
 | [Presend](https://getpresend.com) | Checks every email and message before you send it for leaked passwords, personal data, wrong recipients and AI-sounding writing (Chrome extension and Mac app) | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
+| [RewriteBar](https://rewritebar.com?ref=twf-nikhila) | AI writing toolkit for macOS · fix grammar, adjust tone, translate, rewrite and summarize in any app, plus custom actions and templates | 💸 ♾️ **50% OFF** one-time licenses and subscriptions · code `BF2026` | Nov 2, 2026 - Dec 3, 2026 |
 
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
