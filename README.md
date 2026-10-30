@@ -158,6 +158,7 @@ Add it to your website, README, or launch post:
 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system for building marketing websites with your AI agent: core blocks, backgrounds and animated visuals, guided by skills | ♾️ **Up to 47% OFF** · code auto-applied on site | Nov 23, 2026 - Dec 1, 2026 |
 | [CodedVisuals](https://codedvisuals.com) | Coded visual and illustration components for React and shadcn/ui, plus AI skills agents can build with | ♾️ **Up to 40% OFF** · code auto-applied on site | Nov 23, 2026 - Dec 1, 2026 |
 | [Tailkit](https://tailkit.com) | 2,000+ responsive Tailwind CSS UI components for React, Vue.js, Laravel, Alpine.js and HTML, with an MCP server for AI-powered development | 💸 ♾️ **Up to 60% OFF** · code auto-applied on site | Nov 23, 2026 - Dec 1, 2026 |
+| [SportyBlocks](https://sportyblocks.com/?discount=BLACKFRIDAY&ref=bf-twf) | 87 sports UI components for Tailwind CSS, from scoreboards to player cards, in HTML and React with a Figma file | ♾️ **40% OFF**, $49 to $29, code `BLACKFRIDAY` | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🌈 Marketing Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
