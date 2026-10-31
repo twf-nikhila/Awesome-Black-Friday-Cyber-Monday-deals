@@ -122,6 +122,7 @@ Add it to your website, README, or launch post:
 |:-:|:-:|:-:|:-:|
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | Automate repeated screenshots and keypress sequences on Mac. | ♾️ **40% OFF** lifetime licenses · code `BF2026` · 1 Mac $23.40 (was $39), up to 3 Macs $65.40 (was $109); before tax, subscriptions excluded | Oct 18, 2026 - Dec 31, 2026 |
 | [Cutfac](https://cutfac.com) | Create and refine short videos with Claude Code or Codex on Mac. | ♾️ **40% OFF** one-time licenses · code `BF2026` · [auto-applied at checkout](https://buy.polar.sh/polar_cl_DCl65fjz77iirFmV46uiC4ad5ffs62aJNUFM327F9zH) · 1/3/5 Macs: $29.40/$41.40/$59.40 before tax; 1 year of updates, then keep the last version; bring your own agent subscription | Oct 31, 2026 - Dec 31, 2026 |
+| [AppsByMo](https://appsbymo.app/?ref=twf-bf) | 14 Mac and iPhone apps from one independent developer: Atelier, Cue, Scry, Thurayya, Margin, Wick, Vigil, Mo, What Happened, Chute, Yonder, Soluna, Emojist and Pinvoy. Native, private, no accounts. | 💸 **50% OFF every paid app**, Nov 27 - Nov 30, 2026. Mac apps bought direct: code **BLACKFRIDAY** at checkout (e.g. Cue ~~$29~~ $14.50, Scry ~~$24~~ $12). App Store apps already half price, no code (e.g. Wick ~~$15.99~~ $7.99, Margin for iPhone ~~$5.99~~ $2.99) | Nov 27, 2026 - Nov 30, 2026 |
 
 ## ⚙️ NoCode Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
