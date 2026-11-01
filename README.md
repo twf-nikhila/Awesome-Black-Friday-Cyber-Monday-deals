@@ -145,6 +145,7 @@ Add it to your website, README, or launch post:
 | [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | AI image, video and music generator in one studio (Nano Banana, Seedream, FLUX, LTX-2 video, AI music, bg remove, upscale, LoRA) · free users get 20 FLUX/day | **20% OFF** monthly & yearly subscriptions (credit packs excluded) · discounted price locked on renewals · auto-applied via link | Nov 20, 2026 - Dec 1, 2026 |
 | [Kensa](https://www.kensa.cc/deals/black-friday?utm_source=twf-nikhila&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance · turn text, images or a product link into videos | **25% OFF** first year of yearly plans · code shown on the deal page | Nov 20, 2026 - Dec 1, 2026 |
 | [Rezi](https://www.rezi.ai/pricing) | AI resume builder · writes and tailors ATS-friendly resumes, scores them on 23 ATS metrics, plus AI cover letters, mock interviews and auto-apply to jobs in the mobile app | 💸 **70% OFF** Rezi Pro for 3 months ($29 → $8.70/mo) · code `Blackfriday2026` | Nov 13, 2026 - Dec 11, 2026 |
+| [inReels](https://www.inreels.ai/pricing?utm_source=twf-bf26) | AI creative platform built for ads: UGC video ads, static ads, product & marketing videos, AI images, plus faceless & brainrot videos | 💸 **50% OFF** all yearly plans · code `BLACKFRIDAY2026` (auto-applied at yearly checkout) | Oct 31, 2026 - Dec 1, 2026 |
 
 ## 📚 Books & Courses
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
