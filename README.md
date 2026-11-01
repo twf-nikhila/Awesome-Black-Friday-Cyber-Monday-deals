@@ -123,6 +123,7 @@ Add it to your website, README, or launch post:
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | Automate repeated screenshots and keypress sequences on Mac. | ♾️ **40% OFF** lifetime licenses · code `BF2026` · 1 Mac $23.40 (was $39), up to 3 Macs $65.40 (was $109); before tax, subscriptions excluded | Oct 18, 2026 - Dec 31, 2026 |
 | [Cutfac](https://cutfac.com) | Create and refine short videos with Claude Code or Codex on Mac. | ♾️ **40% OFF** one-time licenses · code `BF2026` · [auto-applied at checkout](https://buy.polar.sh/polar_cl_DCl65fjz77iirFmV46uiC4ad5ffs62aJNUFM327F9zH) · 1/3/5 Macs: $29.40/$41.40/$59.40 before tax; 1 year of updates, then keep the last version; bring your own agent subscription | Oct 31, 2026 - Dec 31, 2026 |
 | [AppsByMo](https://appsbymo.app/?ref=twf-bf) | 14 native, private Mac and iPhone apps from one independent developer (Cue, Scry, Wick, Margin and more), no accounts needed | 💸 **50% OFF** every paid app · code `BLACKFRIDAY` for Mac apps bought direct · App Store apps already half price, no code | Nov 27, 2026 - Nov 30, 2026 |
+| [Ratio](https://useratio.app/?ref=twf-bf) | Notepad calculator for Mac, Windows and Linux with live currencies, units, dates and time zones as you type. | ♾️ **30% OFF** one-time licenses · code `BLACKFRIDAY26` · 1/2/3 computers: $13.99/$20.99/$27.99 (was $19.99/$29.99/$39.99) · direct purchase only | Nov 24, 2026 - Dec 1, 2026 |
 
 ## ⚙️ NoCode Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
