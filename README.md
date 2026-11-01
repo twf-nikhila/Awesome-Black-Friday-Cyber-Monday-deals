@@ -150,6 +150,7 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 💸 **50% OFF** · code `BLACK` ($49.99 → $24.99) | Oct 28, 2026 - Dec 31, 2026 |
+| [pwn.guide](https://pwn.guide) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training | ♾️ **20% OFF** all plans, forever, including lifetime · code `BLKFRI20` · Certificate lifetime $249 → $199.20 | Nov 1, 2026 - Dec 5, 2026 |
 
 ## ♻️ SaaS Software
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
