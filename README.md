@@ -127,6 +127,9 @@ Add it to your website, README, or launch post:
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | Batch image resizing for Mac: resize, convert (JPEG, PNG, HEIC, WebP, TIFF) and rename many images at once, with built-in presets and drag-and-drop | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $6 (was $10) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | Redact text in images and screenshots on Mac: cover names, emails and other sensitive details before sharing | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $3 (was $5) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
 | [Ratio](https://useratio.app/?ref=twf-bf) | Notepad calculator for Mac, Windows and Linux with live currencies, units, dates and time zones as you type. | ♾️ **30% OFF** one-time licenses · code `BLACKFRIDAY26` · 1/2/3 computers: $13.99/$20.99/$27.99 (was $19.99/$29.99/$39.99) · direct purchase only | Nov 24, 2026 - Dec 1, 2026 |
+| [Compresto](https://compresto.app/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Video, image and PDF compression for macOS | ♾️ **40% OFF** lifetime · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
+| [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | ♾️ **40% OFF** lifetime · code `BFCM26` · lifetime family sharing with code `BFCM26FAMILY` | Nov 2, 2026 - Dec 1, 2026 |
+| [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** first year · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
 
 ## ⚙️ NoCode Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
