@@ -126,6 +126,7 @@ Add it to your website, README, or launch post:
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26) | Floating camera overlay for Mac video calls and recordings: a movable facecam bubble with custom shapes, zoom, mirror and name labels | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $6 (was $10) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | Batch image resizing for Mac: resize, convert (JPEG, PNG, HEIC, WebP, TIFF) and rename many images at once, with built-in presets and drag-and-drop | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $6 (was $10) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | Redact text in images and screenshots on Mac: cover names, emails and other sensitive details before sharing | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $3 (was $5) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
+| [Ratio](https://useratio.app/?ref=twf-bf) | Notepad calculator for Mac, Windows and Linux with live currencies, units, dates and time zones as you type. | ♾️ **30% OFF** one-time licenses · code `BLACKFRIDAY26` · 1/2/3 computers: $13.99/$20.99/$27.99 (was $19.99/$29.99/$39.99) · direct purchase only | Nov 24, 2026 - Dec 1, 2026 |
 
 ## ⚙️ NoCode Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
