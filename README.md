@@ -149,6 +149,7 @@ Add it to your website, README, or launch post:
 | [ShipAhead](https://shipahe.ad) | Ship your SaaS in a weekend with Nuxt Starter Kit | 💸 ♾️ **50% OFF** · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | 💸 **50% OFF** Pro Annual | Nov 27, 2026 - Dec 1, 2026 |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | ♾️ **40% OFF** Lifetime | Nov 27, 2026 - Dec 1, 2026 |
+| [ClipAudit](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard | ♾️ **40% OFF** ($29 → $17.40) · code `BLACKFRIDAY2026` | Nov 27, 2026 - Dec 1, 2026 |
 
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
