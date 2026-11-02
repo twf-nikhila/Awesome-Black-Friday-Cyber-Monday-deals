@@ -138,6 +138,8 @@ Add it to your website, README, or launch post:
 | [Pagerly](https://pagerly.io) | On-call schedules, rotations, alerting and incident response inside Slack and Teams | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [Lockit](https://lockitbot.com) | Reserve, lock and release shared resources (environments, servers) inside Slack | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [PixelVault](https://pixelvault.dev/blackfriday/) | Image hosting for developers and AI agents. Upload through the API, CLI or MCP and get a permanent CDN URL back. Zero egress fees, EU data storage. | 💸 **50% OFF** Starter or Pro for the first 3 monthly invoices, new paying customers only · code `BLACKFRIDAY2026` | Nov 23, 2026 - Nov 30, 2026 |
+| [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | 💸 **50% OFF** Pro Annual  | Nov 27, 2026 - Dec 1, 2026 |
+| [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | ♾️ **40% OFF** Lifetime  | Nov 27, 2026 - Dec 1, 2026 |
 
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
