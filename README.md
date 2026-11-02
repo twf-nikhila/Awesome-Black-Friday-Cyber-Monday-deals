@@ -130,6 +130,7 @@ Add it to your website, README, or launch post:
 | [Compresto](https://compresto.app/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Video, image and PDF compression for macOS | ♾️ **40% OFF** lifetime · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | ♾️ **40% OFF** lifetime · code `BFCM26` · lifetime family sharing with code `BFCM26FAMILY` | Nov 2, 2026 - Dec 1, 2026 |
 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** first year · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
+| [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 11 native Mac utilities for windows, Dock and productivity: DockView 2, ActiveDock 2, SuperTab 7, Quick Exposé 3 and more. | ♾️ **30% OFF** all apps incl. lifetime licenses · code `MACPLUSBLACKFRIDAY26` · e.g. DockView 2 $14.99 → $10.49, Lifetime $49.99 → $34.99 | Nov 1, 2026 - Nov 30, 2026 |
 
 ## ⚙️ NoCode Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
