@@ -168,6 +168,7 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [SyncMyGroup](https://syncmygroup.com) | Keep user groups in sync across Google, Slack, Teams, Jira, GitHub and BambooHR | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
+| [RocketScribe](https://rocketscribe.ai) | Transcribe audio and video to text with timestamps and speakers, export to Word, PDF, SRT or VTT | ♾️ **Up to 60% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 6, 2026 |
 
 ## 🎨 Themes & Design Resource
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
