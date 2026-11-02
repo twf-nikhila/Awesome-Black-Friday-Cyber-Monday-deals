@@ -130,7 +130,7 @@ Add it to your website, README, or launch post:
 | [Compresto](https://compresto.app/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Video, image and PDF compression for macOS | ♾️ **40% OFF** lifetime · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | ♾️ **40% OFF** lifetime · code `BFCM26` · lifetime family sharing with code `BFCM26FAMILY` | Nov 2, 2026 - Dec 1, 2026 |
 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** first year · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
-| [Video Wall Live](https://www.videowalllive.com/blackfriday) | A multi-camera live view for Ring. Turns your TV or computer into a camera wall on Apple TV, Fire TV, Google TV, Roku, Mac, Windows and web. | **2nd month FREE** · ~~$1.99~~ $0 per camera after the 30-day free trial · no code needed | Nov 2, 2026 - Nov 30, 2026 |
+| [Video Wall Live](https://www.videowalllive.com/blackfriday) | A multi-camera live view for Ring. Turns your TV or computer into a camera wall on Apple TV, Fire TV, Google TV, Roku, Mac, Windows and web. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups · no code needed | Nov 2, 2026 - Nov 30, 2026 |
 
 ## ⚙️ NoCode Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
