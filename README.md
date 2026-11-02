@@ -142,6 +142,7 @@ Add it to your website, README, or launch post:
 | [Pagerly](https://pagerly.io) | On-call schedules, rotations, alerting and incident response inside Slack and Teams | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [Lockit](https://lockitbot.com) | Reserve, lock and release shared resources (environments, servers) inside Slack | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [PixelVault](https://pixelvault.dev/blackfriday/) | Image hosting for developers and AI agents. Upload through the API, CLI or MCP and get a permanent CDN URL back. Zero egress fees, EU data storage. | 💸 **50% OFF** Starter or Pro for the first 3 monthly invoices, new paying customers only · code `BLACKFRIDAY2026` | Nov 23, 2026 - Nov 30, 2026 |
+| [DevUtils](https://devutils.com/?utm_source=twf-nikhila) | Offline all-in-one toolbox for developers on macOS | 💸 ♾️ **60% OFF** all plans, one-time license · code `BLACKFRIDAY2026` | Nov 2, 2026 - Dec 30, 2026 |
 
 ## 🤖 AI Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -151,6 +152,7 @@ Add it to your website, README, or launch post:
 | [Kensa](https://www.kensa.cc/deals/black-friday?utm_source=twf-nikhila&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance · turn text, images or a product link into videos | **25% OFF** first year of yearly plans · code shown on the deal page | Nov 20, 2026 - Dec 1, 2026 |
 | [Rezi](https://www.rezi.ai/pricing) | AI resume builder · writes and tailors ATS-friendly resumes, scores them on 23 ATS metrics, plus AI cover letters, mock interviews and auto-apply to jobs in the mobile app | 💸 **70% OFF** Rezi Pro for 3 months ($29 → $8.70/mo) · code `Blackfriday2026` | Nov 13, 2026 - Dec 11, 2026 |
 | [inReels](https://www.inreels.ai/pricing?utm_source=twf-bf26) | AI creative platform built for ads: UGC video ads, static ads, product & marketing videos, AI images, plus faceless & brainrot videos | 💸 **50% OFF** all yearly plans · code `BLACKFRIDAY2026` (auto-applied at yearly checkout) | Oct 31, 2026 - Dec 1, 2026 |
+| [TypingMind](https://www.typingmind.com/?utm_source=twf-nikhila) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | 💸 ♾️ **60% OFF** Lifetime Premium · code `BLACKFRIDAY2026` | Nov 2, 2026 - Dec 15, 2026 |
 
 ## 📚 Books & Courses
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
