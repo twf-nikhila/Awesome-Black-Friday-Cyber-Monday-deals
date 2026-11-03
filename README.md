@@ -142,6 +142,9 @@ Add it to your website, README, or launch post:
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | Batch image resizing for Mac: resize, convert (JPEG, PNG, HEIC, WebP, TIFF) and rename many images at once, with built-in presets and drag-and-drop | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $6 (was $10) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | Redact text in images and screenshots on Mac: cover names, emails and other sensitive details before sharing | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $3 (was $5) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
 | [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | Automate repeated screenshots and keypress sequences on Mac. | ♾️ **40% OFF** lifetime licenses · code `BF2026` · 1 Mac $23.40 (was $39), up to 3 Macs $65.40 (was $109); before tax, subscriptions excluded | Oct 18, 2026 - Dec 31, 2026 |
+| [Digital Photo Frame](https://digitalphotoframeapp.com/) | Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame | 💸 **50% OFF** · $19.99 → $9.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
+| [Photo Booth App](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events | 💸 **50% OFF** · $99.99 → $49.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
+| [Our Family Album](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad | 💸 **50% OFF** · $49.99 → $24.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -221,6 +224,7 @@ Add it to your website, README, or launch post:
 |:-:|:-:|:-:|:-:|
 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac that sorts apps, sites and docs into projects and turns hours into invoices | 💸 ♾️ **50% OFF** Lifetime and Personal · code `BLACKFRIDAY26` (auto-applied on the pricing page) · Lifetime $74.50 (was $149), Personal $49.50 (was $99), Chronoid + SmoothCapture bundle $99.50 (was $199) | Nov 3, 2026 - Dec 2, 2026 |
 | [Presend](https://getpresend.com) | Checks every email and message before you send it for leaked passwords, personal data, wrong recipients and AI-sounding writing (Chrome extension and Mac app) | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
+| [Email Me](https://emailmeapp.net/) | The fastest way to record your thoughts as voice or text notes, sent to your inbox. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay | 💸 **50% OFF** · $19.99 → $9.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
