@@ -193,6 +193,7 @@ Add it to your website, README, or launch post:
 | [LandinTools](https://tools.landin.page/advertise?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 💸 **50% OFF** Featured listing for a full year · code `BF2026` ($49 → $24.50) | Oct 28, 2026 - Dec 31, 2026 |
 | [Updately](https://updately.ai) | AI that finds high-intent leads on LinkedIn and messages them the way you would | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | 💸 **36% OFF** Pro Plan; **50% OFF** [directory submission service](https://citewing.com/directory-submission-service) · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
+| [AUTX AI Visibility Check](https://autx.ai/) | See whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report, $39.20 instead of $49 · code `LAUNCH20` | Nov 2, 2026 - Nov 30, 2026 |
 
 ## 📩 Newsletter & Communities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
