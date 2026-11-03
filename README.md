@@ -130,6 +130,8 @@ Add it to your website, README, or launch post:
 | [Compresto](https://compresto.app/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Video, image and PDF compression for macOS | ♾️ **40% OFF** lifetime · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | ♾️ **40% OFF** lifetime · code `BFCM26` · lifetime family sharing with code `BFCM26FAMILY` | Nov 2, 2026 - Dec 1, 2026 |
 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** first year · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
+| [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac that sorts apps, sites and docs into projects and turns hours into invoices | 💸 ♾️ **50% OFF** Lifetime and Personal · code `BLACKFRIDAY26` (auto-applied on the pricing page) · Lifetime $74.50 (was $149), Personal $49.50 (was $99), Chronoid + SmoothCapture bundle $99.50 (was $199) | Nov 3, 2026 - Dec 2, 2026 |
+| [SmoothCapture](https://www.smoothcapture.app/pricing) | Turns screen recordings into polished app demo videos on Mac, with auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models | 💸 ♾️ **50% OFF** Lifetime and Personal · code `BLACKFRIDAY26` (auto-applied on the pricing page) · Lifetime $74.50 (was $149), Personal $39.50 (was $79), Chronoid + SmoothCapture bundle $99.50 (was $199) | Nov 3, 2026 - Dec 2, 2026 |
 
 ## ⚙️ NoCode Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
