@@ -81,6 +81,7 @@ Add it to your website, README, or launch post:
 * 📚 [Courses & Books](#-courses--books) (2) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) - Free credits, free plans, giveaways
+* 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
 
 **Legend:** 💸 50% OFF or more · ♾️ Lifetime / buy-once deal
 

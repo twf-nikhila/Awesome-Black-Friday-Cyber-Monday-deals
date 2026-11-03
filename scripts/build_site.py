@@ -111,6 +111,20 @@ def section_links(text, heading_prefix):
     return links
 
 
+def other_places(text):
+    """Each line of the "Other places" section: [Name](url) - optional description."""
+    m = re.search(r"^# 🔖 Other places.*?$(.*?)(?=^# |\Z)", text, re.M | re.S)
+    places = []
+    for line in (m.group(1) if m else "").split("\n"):
+        link = LINK_RE.match(line.strip())
+        url = safe_url(link.group(2)) if link else None
+        if not url:
+            continue
+        rest = line.strip()[link.end():].strip().lstrip("-–—:").strip()
+        places.append({"label": strip_tags(link.group(1)), "url": url, "description": strip_tags(inline_md(rest))})
+    return places
+
+
 def parse(readme):
     text = readme.read_text()
     lines = text.split("\n")
@@ -145,7 +159,7 @@ def parse(readme):
         "categories": categories,
         "sponsors": parse_sponsors(text),
         "archives": section_links(text, "📅 Previous years"),
-        "others": section_links(text, "🔖 Other places"),
+        "others": other_places(text),
     }
 
 
