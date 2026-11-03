@@ -131,6 +131,7 @@ Add it to your website, README, or launch post:
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | ♾️ **40% OFF** lifetime · code `BFCM26` · lifetime family sharing with code `BFCM26FAMILY` | Nov 2, 2026 - Dec 1, 2026 |
 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** first year · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | A multi-camera live view for Ring. Turns your TV or computer into a camera wall on Apple TV, Fire TV, Google TV, Roku, Mac, Windows and web. | **$4.99 → $1.99 per camera/month (60% off)** for new sign-ups · no code needed | Nov 2, 2026 - Nov 30, 2026 |
+| [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 11 native Mac utilities for windows, Dock and productivity: DockView 2, ActiveDock 2, SuperTab 7, Quick Exposé 3 and more. | ♾️ **30% OFF** all apps incl. lifetime licenses · code `MACPLUSBLACKFRIDAY26` · e.g. DockView 2 $14.99 → $10.49, Lifetime $49.99 → $34.99 | Nov 1, 2026 - Nov 30, 2026 |
 
 ## ⚙️ NoCode Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
