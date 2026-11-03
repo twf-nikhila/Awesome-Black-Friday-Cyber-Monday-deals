@@ -20,6 +20,7 @@ Maintained by Nikhil · 👋 Let's connect on X: **[@HeyNikhila](https://x.com/H
 
 - 🏆 **Top 10 deals get featured in our newsletter**: the best deals submitted here are sent to all our subscribers.
 - 💸 ♾️ **Spot the best deals faster**: 💸 marks 50% OFF or more, ♾️ marks lifetime / buy-once deals.
+- 🗂️ **Categories by what the product does**: find video tools, SEO tools, Mac utilities and more in one place, instead of digging through "Apps", "SaaS" or "AI".
 - 🎁 **New [Free Stuff](#-free-stuff) section** for free credits, free plans and giveaways.
 - 🔢 **Live deal counts** in the Table of Contents, updated automatically.
 - 🏅 **"Featured on" badge** for every listed product.
@@ -28,7 +29,7 @@ Maintained by Nikhil · 👋 Let's connect on X: **[@HeyNikhila](https://x.com/H
 
 Listing is free, and the 10 best deals get featured in our newsletter.
 
-1. 🔁 [Edit the README](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/edit/main/README.md) and add one row at the **end** of the right category's table, then open a pull request
+1. 🔁 [Edit the README](https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals/edit/main/README.md) and add one row at the **end** of the right category's table, then open a pull request. Pick the category by what the product **does** (e.g. a video editor goes in Video, whether it's an app, SaaS or AI)
 2. 👤 Not technical? Fill [this form](https://fill.formnx.com/f/63pk80)
 
 <details>
@@ -63,18 +64,22 @@ Add it to your website, README, or launch post:
 
 # Table of Contents
 
-* 💻 [Apps](#-apps) (14) - Mobile/desktop apps (iOS, Android, macOS, Windows)
-* ⚙️ [NoCode Tools](#%EF%B8%8F-nocode-tools) - Builders/automation without coding
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (13) - Dev utilities, SDKs, APIs, CLIs
-* 🤖 [AI Tools](#-ai-tools) (6) - AI products/services
-* 📚 [Books & Courses](#-books--courses) (2) - Educational content
-* ♻️ [SaaS Software](#%EF%B8%8F-saas-software) (4) - Web software (subscription)
-* 🎨 [Themes & Design Resource](#-themes--design-resource) (8) - Templates, UI kits, assets
-* 🌈 [Marketing Tools](#-marketing-tools) (5) - SEO, analytics, email, social tools
-* 📩 [Newsletter & Communities](#-newsletter--communities) - Paid/newsletters, groups
-* 🔌 [Plugins](#-plugins) (1) - Extensions/add-ons for platforms
-* 🧬 [Standalone scripts](#-standalone-scripts) - One-time purchase scripts/snippets
-* 🔥 [Productivity Tools](#-productivity-tools) (3) - Task management, workflow, scheduling, note-taking, focus tools
+* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (8) - Video editing, AI video & music, screen recording, captions, transcription
+* 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (4) - Image editing & compression, AI images, screenshots, color tools
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (3) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (2) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (3) - Social media, lead finding & outreach, email marketing, launch directories
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (3) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (10) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (2) - Code templates & components to ship a SaaS or app faster
+* 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (8) - Tailwind/React components, Figma kits, icons, themes, animations
+* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (1) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (5) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (2) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* 🔐 [Security & Privacy](#-security--privacy) (1) - Pentesting, threat monitoring, encrypted email & files, privacy tools
+* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (2) - Fitness, nutrition, travel, home & personal apps
+* 📚 [Courses & Books](#-courses--books) (2) - Courses, books, certifications & guides
+* 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) - Free credits, free plans, giveaways
 
 **Legend:** 💸 50% OFF or more · ♾️ Lifetime / buy-once deal
@@ -117,27 +122,52 @@ Add it to your website, README, or launch post:
 
 ---
 
-## 💻 Apps
+## 🎬 Video, Audio & Podcasting
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
-| [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | Automate repeated screenshots and keypress sequences on Mac. | ♾️ **40% OFF** lifetime licenses · code `BF2026` · 1 Mac $23.40 (was $39), up to 3 Macs $65.40 (was $109); before tax, subscriptions excluded | Oct 18, 2026 - Dec 31, 2026 |
+| [Seedeo](https://seedeo.ai/black-friday) | All-in-one AI creative platform for video, image, music & voice (Kling 3.0, Seedance 2, Veo, GPT Image, Nano Banana Pro) on one shared credit balance | 💸 ♾️ **62% OFF** 20,000 never-expiring credits for $99 · **64% OFF** Pro annual ($129 first year) · auto-applied | Oct 27, 2026 - Nov 30, 2026 |
+| [Kensa](https://www.kensa.cc/deals/black-friday?utm_source=twf-nikhila&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance · turn text, images or a product link into videos | **25% OFF** first year of yearly plans · code shown on the deal page | Nov 20, 2026 - Dec 1, 2026 |
+| [inReels](https://www.inreels.ai/pricing?utm_source=twf-bf26) | AI creative platform built for ads: UGC video ads, static ads, product & marketing videos, AI images, plus faceless & brainrot videos | 💸 **50% OFF** all yearly plans · code `BLACKFRIDAY2026` (auto-applied at yearly checkout) | Oct 31, 2026 - Dec 1, 2026 |
 | [Cutfac](https://cutfac.com) | Create and refine short videos with Claude Code or Codex on Mac. | ♾️ **40% OFF** one-time licenses · code `BF2026` · [auto-applied at checkout](https://buy.polar.sh/polar_cl_DCl65fjz77iirFmV46uiC4ad5ffs62aJNUFM327F9zH) · 1/3/5 Macs: $29.40/$41.40/$59.40 before tax; 1 year of updates, then keep the last version; bring your own agent subscription | Oct 31, 2026 - Dec 31, 2026 |
-| [AppsByMo](https://appsbymo.app/?ref=twf-bf) | 14 native, private Mac and iPhone apps from one independent developer (Cue, Scry, Wick, Margin and more), no accounts needed | 💸 **50% OFF** every paid app · code `BLACKFRIDAY` for Mac apps bought direct · App Store apps already half price, no code | Nov 27, 2026 - Nov 30, 2026 |
+| [SmoothCapture](https://www.smoothcapture.app/pricing) | Turns screen recordings into polished app demo videos on Mac, with auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models | 💸 ♾️ **50% OFF** Lifetime and Personal · code `BLACKFRIDAY26` (auto-applied on the pricing page) · Lifetime $74.50 (was $149), Personal $39.50 (was $79), Chronoid + SmoothCapture bundle $99.50 (was $199) | Nov 3, 2026 - Dec 2, 2026 |
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26) | Floating camera overlay for Mac video calls and recordings: a movable facecam bubble with custom shapes, zoom, mirror and name labels | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $6 (was $10) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
+| [Compresto](https://compresto.app/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Video, image and PDF compression for macOS | ♾️ **40% OFF** lifetime · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
+| [RocketScribe](https://rocketscribe.ai) | Transcribe audio and video to text with timestamps and speakers, export to Word, PDF, SRT or VTT | 💸 ♾️ **Up to 60% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 6, 2026 |
+
+## 📸 Photo, Image & Screenshot
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | AI image, video and music generator in one studio (Nano Banana, Seedream, FLUX, LTX-2 video, AI music, bg remove, upscale, LoRA) · free users get 20 FLUX/day | **20% OFF** monthly & yearly subscriptions (credit packs excluded) · discounted price locked on renewals · auto-applied via link | Nov 20, 2026 - Dec 1, 2026 |
 | [ResizeGenius](https://gracehuang.gumroad.com/l/resizegenius/BLACKFRIDAY26) | Batch image resizing for Mac: resize, convert (JPEG, PNG, HEIC, WebP, TIFF) and rename many images at once, with built-in presets and drag-and-drop | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $6 (was $10) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
 | [Redac](https://gracehuang.gumroad.com/l/redac/BLACKFRIDAY26) | Redact text in images and screenshots on Mac: cover names, emails and other sensitive details before sharing | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $3 (was $5) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
-| [Ratio](https://useratio.app/?ref=twf-bf) | Notepad calculator for Mac, Windows and Linux with live currencies, units, dates and time zones as you type. | ♾️ **30% OFF** one-time licenses · code `BLACKFRIDAY26` · 1/2/3 computers: $13.99/$20.99/$27.99 (was $19.99/$29.99/$39.99) · direct purchase only | Nov 24, 2026 - Dec 1, 2026 |
-| [Compresto](https://compresto.app/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Video, image and PDF compression for macOS | ♾️ **40% OFF** lifetime · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
-| [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | ♾️ **40% OFF** lifetime · code `BFCM26` · lifetime family sharing with code `BFCM26FAMILY` | Nov 2, 2026 - Dec 1, 2026 |
-| [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** first year · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
-| [Video Wall Live](https://www.videowalllive.com/blackfriday) | Multi-camera live view for Ring that turns your TV or computer into a camera wall (Apple TV, Fire TV, Google TV, Roku, Mac, Windows, web) | 💸 **60% OFF** ($4.99 → $1.99 per camera/month) for new sign-ups · no code needed | Nov 2, 2026 - Nov 30, 2026 |
-| [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 11 native Mac utilities for windows, Dock and productivity: DockView 2, ActiveDock 2, SuperTab 7, Quick Exposé 3 and more. | ♾️ **30% OFF** all apps incl. lifetime licenses · code `MACPLUSBLACKFRIDAY26` · e.g. DockView 2 $14.99 → $10.49, Lifetime $49.99 → $34.99 | Nov 1, 2026 - Nov 30, 2026 |
-| [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac that sorts apps, sites and docs into projects and turns hours into invoices | 💸 ♾️ **50% OFF** Lifetime and Personal · code `BLACKFRIDAY26` (auto-applied on the pricing page) · Lifetime $74.50 (was $149), Personal $49.50 (was $99), Chronoid + SmoothCapture bundle $99.50 (was $199) | Nov 3, 2026 - Dec 2, 2026 |
-| [SmoothCapture](https://www.smoothcapture.app/pricing) | Turns screen recordings into polished app demo videos on Mac, with auto zoom, a smooth cursor and real 3D iPhone, iPad and Mac models | 💸 ♾️ **50% OFF** Lifetime and Personal · code `BLACKFRIDAY26` (auto-applied on the pricing page) · Lifetime $74.50 (was $149), Personal $39.50 (was $79), Chronoid + SmoothCapture bundle $99.50 (was $199) | Nov 3, 2026 - Dec 2, 2026 |
+| [Shotomatic](https://www.shotomatic.com/pricing?discount_code=BF2026) | Automate repeated screenshots and keypress sequences on Mac. | ♾️ **40% OFF** lifetime licenses · code `BF2026` · 1 Mac $23.40 (was $39), up to 3 Macs $65.40 (was $109); before tax, subscriptions excluded | Oct 18, 2026 - Dec 31, 2026 |
 
-## ⚙️ NoCode Tools
+## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [TypingMind](https://www.typingmind.com/?utm_source=twf-nikhila) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | 💸 ♾️ **60% OFF** Lifetime Premium · code `BLACKFRIDAY2026` | Nov 2, 2026 - Dec 15, 2026 |
+| [RewriteBar](https://rewritebar.com?ref=twf-nikhila) | AI writing toolkit for macOS · fix grammar, adjust tone, translate, rewrite and summarize in any app, plus custom actions and templates | 💸 ♾️ **50% OFF** one-time licenses and subscriptions · code `BF2026` | Nov 2, 2026 - Dec 3, 2026 |
+| [Rezi](https://www.rezi.ai/pricing) | AI resume builder · writes and tailors ATS-friendly resumes, scores them on 23 ATS metrics, plus AI cover letters, mock interviews and auto-apply to jobs in the mobile app | 💸 **70% OFF** Rezi Pro for 3 months ($29 → $8.70/mo) · code `Blackfriday2026` | Nov 13, 2026 - Dec 11, 2026 |
+
+## 🔍 SEO & AI Search Visibility
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | 💸 **36% OFF** Pro Plan; **50% OFF** [directory submission service](https://citewing.com/directory-submission-service) · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
+| [AUTX AI Visibility Check](https://autx.ai/) | See whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report, $39.20 instead of $49 · code `LAUNCH20` | Nov 2, 2026 - Nov 30, 2026 |
+
+## 📣 Marketing, Social & Lead Gen
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [SwiftERM](https://swifterm.com/black-friday/) | Autonomous individualisation for ecommerce email marketing · picks what each customer is most likely to buy next and sends it without campaigns | **40% OFF** first 12 paid monthly subscriptions after the free 30-day trial · new customers only · code `BLACKFRIDAY26` | Nov 20, 2026 - Dec 3, 2026 |
+| [LandinTools](https://tools.landin.page/advertise?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 💸 **50% OFF** Featured listing for a full year · code `BF2026` ($49 → $24.50) | Oct 28, 2026 - Dec 31, 2026 |
+| [Updately](https://updately.ai) | AI that finds high-intent leads on LinkedIn and messages them the way you would | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
+
+## 💼 Business, Finance & Operations
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** first year · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
+| [SyncMyGroup](https://syncmygroup.com) | Keep user groups in sync across Google, Slack, Teams, Jira, GitHub and BambooHR | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
+| [UserJot](https://userjot.com/?ref=twf-bf) | Live chat, feedback boards, roadmap and changelog for SaaS teams, with an AI agent that answers support questions | **30% OFF** first year on yearly plans · code `BF2026` | Nov 2, 2026 - Dec 2, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -150,37 +180,16 @@ Add it to your website, README, or launch post:
 | [Lockit](https://lockitbot.com) | Reserve, lock and release shared resources (environments, servers) inside Slack | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [PixelVault](https://pixelvault.dev/blackfriday/) | Image hosting for developers and AI agents. Upload through the API, CLI or MCP and get a permanent CDN URL back. Zero egress fees, EU data storage. | 💸 **50% OFF** Starter or Pro for the first 3 monthly invoices, new paying customers only · code `BLACKFRIDAY2026` | Nov 23, 2026 - Nov 30, 2026 |
 | [DevUtils](https://devutils.com/?utm_source=twf-nikhila) | Offline all-in-one toolbox for developers on macOS | 💸 ♾️ **60% OFF** all plans, one-time license · code `BLACKFRIDAY2026` | Nov 2, 2026 - Dec 30, 2026 |
-| [ShipAhead](https://shipahe.ad) | Ship your SaaS in a weekend with Nuxt Starter Kit | 💸 ♾️ **50% OFF** · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | 💸 **50% OFF** Pro Annual | Nov 27, 2026 - Dec 1, 2026 |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | ♾️ **40% OFF** Lifetime | Nov 27, 2026 - Dec 1, 2026 |
-| [ClipAudit](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard | ♾️ **40% OFF** ($29 → $17.40) · code `BLACKFRIDAY2026` | Nov 27, 2026 - Dec 1, 2026 |
+
+## 🧱 Boilerplates & Starter Kits
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [ShipAhead](https://shipahe.ad) | Ship your SaaS in a weekend with Nuxt Starter Kit | 💸 ♾️ **50% OFF** · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing?utm_source=github-twf-nikhila&utm_medium=referral&utm_campaign=bfcm2026) | Customizable PDF viewer component for React apps | 💸 ♾️ **50% OFF** Developer ($89 → $44.50) & Organization ($239 → $119.50) perpetual licenses · code `BFCM2026` | Nov 1, 2026 - Dec 1, 2026 |
 
-## 🤖 AI Tools
-| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
-|:-:|:-:|:-:|:-:|
-| [Seedeo](https://seedeo.ai/black-friday) | All-in-one AI creative platform for video, image, music & voice (Kling 3.0, Seedance 2, Veo, GPT Image, Nano Banana Pro) on one shared credit balance | 💸 ♾️ **62% OFF** 20,000 never-expiring credits for $99 · **64% OFF** Pro annual ($129 first year) · auto-applied | Oct 27, 2026 - Nov 30, 2026 |
-| [NewYouGo](https://newyougo.com/pricing?promo=bf2026) | AI image, video and music generator in one studio (Nano Banana, Seedream, FLUX, LTX-2 video, AI music, bg remove, upscale, LoRA) · free users get 20 FLUX/day | **20% OFF** monthly & yearly subscriptions (credit packs excluded) · discounted price locked on renewals · auto-applied via link | Nov 20, 2026 - Dec 1, 2026 |
-| [Kensa](https://www.kensa.cc/deals/black-friday?utm_source=twf-nikhila&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance · turn text, images or a product link into videos | **25% OFF** first year of yearly plans · code shown on the deal page | Nov 20, 2026 - Dec 1, 2026 |
-| [Rezi](https://www.rezi.ai/pricing) | AI resume builder · writes and tailors ATS-friendly resumes, scores them on 23 ATS metrics, plus AI cover letters, mock interviews and auto-apply to jobs in the mobile app | 💸 **70% OFF** Rezi Pro for 3 months ($29 → $8.70/mo) · code `Blackfriday2026` | Nov 13, 2026 - Dec 11, 2026 |
-| [inReels](https://www.inreels.ai/pricing?utm_source=twf-bf26) | AI creative platform built for ads: UGC video ads, static ads, product & marketing videos, AI images, plus faceless & brainrot videos | 💸 **50% OFF** all yearly plans · code `BLACKFRIDAY2026` (auto-applied at yearly checkout) | Oct 31, 2026 - Dec 1, 2026 |
-| [TypingMind](https://www.typingmind.com/?utm_source=twf-nikhila) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | 💸 ♾️ **60% OFF** Lifetime Premium · code `BLACKFRIDAY2026` | Nov 2, 2026 - Dec 15, 2026 |
-
-## 📚 Books & Courses
-| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
-|:-:|:-:|:-:|:-:|
-| [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 💸 **50% OFF** · code `BLACK` ($49.99 → $24.99) | Oct 28, 2026 - Dec 31, 2026 |
-| [pwn.guide](https://pwn.guide) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training | ♾️ **20% OFF** all plans, forever, including lifetime · code `BLKFRI20` · Certificate lifetime $249 → $199.20 | Nov 1, 2026 - Dec 5, 2026 |
-
-## ♻️ SaaS Software
-| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
-|:-:|:-:|:-:|:-:|
-| [SyncMyGroup](https://syncmygroup.com) | Keep user groups in sync across Google, Slack, Teams, Jira, GitHub and BambooHR | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
-| [RocketScribe](https://rocketscribe.ai) | Transcribe audio and video to text with timestamps and speakers, export to Word, PDF, SRT or VTT | 💸 ♾️ **Up to 60% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 6, 2026 |
-| [anon.li](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms | **40% OFF** all paid plans for 12 months · code `BLKFRI40` · card checkout | Nov 2, 2026 - Dec 6, 2026 |
-| [UserJot](https://userjot.com/?ref=twf-bf) | Live chat, feedback boards, roadmap and changelog for SaaS teams, with an AI agent that answers support questions | **30% OFF** first year on yearly plans · code `BF2026` | Nov 2, 2026 - Dec 2, 2026 |
-
-## 🎨 Themes & Design Resource
+## 🎨 UI Kits, Icons & Design Assets
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [Buildkit for Astro](https://astrobuildkit.com) | Astro design system for building marketing websites with your AI agent: core blocks, backgrounds and animated visuals, guided by skills | ♾️ **Up to 47% OFF** · code auto-applied on site | Nov 23, 2026 - Dec 1, 2026 |
@@ -192,39 +201,50 @@ Add it to your website, README, or launch post:
 | [MingCute Animation](https://www.mingcute.com/animation?utm_source=twf) | 120+ lively and smooth animated icons | ♾️ **30% OFF** · code `BF2006` | Nov 15, 2026 - Dec 5, 2026 |
 | [MingCute Weather](https://mgcweather.framer.website/?utm_source=twf) | 120 graceful weather icons | ♾️ **30% OFF** · code `BF2006` | Nov 15, 2026 - Dec 5, 2026 |
 
-## 🌈 Marketing Tools
-| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
-|:-:|:-:|:-:|:-:|
-| [SwiftERM](https://swifterm.com/black-friday/) | Autonomous individualisation for ecommerce email marketing · picks what each customer is most likely to buy next and sends it without campaigns | **40% OFF** first 12 paid monthly subscriptions after the free 30-day trial · new customers only · code `BLACKFRIDAY26` | Nov 20, 2026 - Dec 3, 2026 |
-| [LandinTools](https://tools.landin.page/advertise?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Directory of 1,000+ AI and SaaS tools. Get your tool featured for a full year. | 💸 **50% OFF** Featured listing for a full year · code `BF2026` ($49 → $24.50) | Oct 28, 2026 - Dec 31, 2026 |
-| [Updately](https://updately.ai) | AI that finds high-intent leads on LinkedIn and messages them the way you would | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
-| [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | 💸 **36% OFF** Pro Plan; **50% OFF** [directory submission service](https://citewing.com/directory-submission-service) · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
-| [AUTX AI Visibility Check](https://autx.ai/) | See whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report, $39.20 instead of $49 · code `LAUNCH20` | Nov 2, 2026 - Nov 30, 2026 |
-
-## 📩 Newsletter & Communities
-| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
-|:-:|:-:|:-:|:-:|
-
-## 🔌 Plugins
+## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider & carousel blocks for the WordPress block editor: 70+ designs, WooCommerce carousels, no jQuery | ♾️ **Up to 40% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 1, 2026 |
 
-## 🧬 Standalone scripts
+## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
-
-## 🔥 Productivity Tools
-| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
-|:-:|:-:|:-:|:-:|
+| [AppsByMo](https://appsbymo.app/?ref=twf-bf) | 14 native, private Mac and iPhone apps from one independent developer (Cue, Scry, Wick, Margin and more), no accounts needed | 💸 **50% OFF** every paid app · code `BLACKFRIDAY` for Mac apps bought direct · App Store apps already half price, no code | Nov 27, 2026 - Nov 30, 2026 |
+| [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 11 native Mac utilities for windows, Dock and productivity: DockView 2, ActiveDock 2, SuperTab 7, Quick Exposé 3 and more. | ♾️ **30% OFF** all apps incl. lifetime licenses · code `MACPLUSBLACKFRIDAY26` · e.g. DockView 2 $14.99 → $10.49, Lifetime $49.99 → $34.99 | Nov 1, 2026 - Nov 30, 2026 |
 | [SupaSidebar](https://supasidebar.com?r=twf) | Arc-like sidebar for all browsers · view or fuzzy search open tabs, bookmarks and Finder files, one shortcut away | 💸 ♾️ **50% OFF** Lifetime ($79 → $39.50) · code `SIDEBARBF50` | Nov 9, 2026 - Dec 7, 2026 |
+| [ClipAudit](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard | ♾️ **40% OFF** ($29 → $17.40) · code `BLACKFRIDAY2026` | Nov 27, 2026 - Dec 1, 2026 |
+| [Ratio](https://useratio.app/?ref=twf-bf) | Notepad calculator for Mac, Windows and Linux with live currencies, units, dates and time zones as you type. | ♾️ **30% OFF** one-time licenses · code `BLACKFRIDAY26` · 1/2/3 computers: $13.99/$20.99/$27.99 (was $19.99/$29.99/$39.99) · direct purchase only | Nov 24, 2026 - Dec 1, 2026 |
+
+## ✅ Productivity, Notes & Focus
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac that sorts apps, sites and docs into projects and turns hours into invoices | 💸 ♾️ **50% OFF** Lifetime and Personal · code `BLACKFRIDAY26` (auto-applied on the pricing page) · Lifetime $74.50 (was $149), Personal $49.50 (was $99), Chronoid + SmoothCapture bundle $99.50 (was $199) | Nov 3, 2026 - Dec 2, 2026 |
 | [Presend](https://getpresend.com) | Checks every email and message before you send it for leaked passwords, personal data, wrong recipients and AI-sounding writing (Chrome extension and Mac app) | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
-| [RewriteBar](https://rewritebar.com?ref=twf-nikhila) | AI writing toolkit for macOS · fix grammar, adjust tone, translate, rewrite and summarize in any app, plus custom actions and templates | 💸 ♾️ **50% OFF** one-time licenses and subscriptions · code `BF2026` | Nov 2, 2026 - Dec 3, 2026 |
+
+## 🔐 Security & Privacy
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [anon.li](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms | **40% OFF** all paid plans for 12 months · code `BLKFRI40` · card checkout | Nov 2, 2026 - Dec 6, 2026 |
+
+## 📱 Lifestyle, Health & Travel
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | ♾️ **40% OFF** lifetime · code `BFCM26` · lifetime family sharing with code `BFCM26FAMILY` | Nov 2, 2026 - Dec 1, 2026 |
+| [Video Wall Live](https://www.videowalllive.com/blackfriday) | Multi-camera live view for Ring that turns your TV or computer into a camera wall (Apple TV, Fire TV, Google TV, Roku, Mac, Windows, web) | 💸 **60% OFF** ($4.99 → $1.99 per camera/month) for new sign-ups · no code needed | Nov 2, 2026 - Nov 30, 2026 |
+
+## 📚 Courses & Books
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 💸 **50% OFF** · code `BLACK` ($49.99 → $24.99) | Oct 28, 2026 - Dec 31, 2026 |
+| [pwn.guide](https://pwn.guide) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training | ♾️ **20% OFF** all plans, forever, including lifetime · code `BLKFRI20` · Certificate lifetime $249 → $199.20 | Nov 1, 2026 - Dec 5, 2026 |
+
+## 📩 Newsletters, Communities & Databases
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
 
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
-
 
 # 📅 Previous years
 

@@ -4,7 +4,7 @@
 
 ## Row format
 
-Add your row at the **end** of the right category's table in `README.md`:
+Add your row at the **end** of the right category's table in `README.md`. Pick the category by what the product **does** (a video editor goes in 🎬 Video, Audio & Podcasting, whether it's an app, SaaS or AI tool):
 
 ```
 | [Product Name](https://product.com) | One-line description of what it does | 💸 ♾️ **60% OFF** lifetime · code `BF26` | Nov 24, 2026 - Dec 1, 2026 |
