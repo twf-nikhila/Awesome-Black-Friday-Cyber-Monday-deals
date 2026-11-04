@@ -145,6 +145,7 @@ Add it to your website, README, or launch post:
 | [Digital Photo Frame](https://digitalphotoframeapp.com/) | Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame | 💸 **50% OFF** · $19.99 → $9.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 | [Photo Booth App](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events | 💸 **50% OFF** · $99.99 → $49.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 | [Our Family Album](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad | 💸 **50% OFF** · $49.99 → $24.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
+| [BirdFrame](https://getbirdframe.com/?utm_source=bf26-twf#black-friday) | Mac app that crops thousands of bird photos in one go, from the full-size original | ♾️ **33% OFF** the one-time unlock · $29.99 → $19.99 USD · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
