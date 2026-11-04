@@ -134,6 +134,7 @@ Add it to your website, README, or launch post:
 | [FaceCam](https://gracehuang.gumroad.com/l/facecam/BLACKFRIDAY26) | Floating camera overlay for Mac video calls and recordings: a movable facecam bubble with custom shapes, zoom, mirror and name labels | ♾️ **40% OFF** one-time · code `BLACKFRIDAY26` · $6 (was $10) on Gumroad | Nov 1, 2026 - Dec 2, 2026 |
 | [Compresto](https://compresto.app/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Video, image and PDF compression for macOS | ♾️ **40% OFF** lifetime · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
 | [RocketScribe](https://rocketscribe.ai) | Transcribe audio and video to text with timestamps and speakers, export to Word, PDF, SRT or VTT | 💸 ♾️ **Up to 60% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 6, 2026 |
+| [FaceScreen](https://facescreen.app) | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls on Mac, iPhone, and iPad | ♾️ **30% OFF** one-time purchase ($5.99 → $4.19) · code `FACESCREEN30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -220,6 +221,8 @@ Add it to your website, README, or launch post:
 | [SupaSidebar](https://supasidebar.com?r=twf) | Arc-like sidebar for all browsers · view or fuzzy search open tabs, bookmarks and Finder files, one shortcut away | 💸 ♾️ **50% OFF** Lifetime ($79 → $39.50) · code `SIDEBARBF50` | Nov 9, 2026 - Dec 7, 2026 |
 | [ClipAudit](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard | ♾️ **40% OFF** ($29 → $17.40) · code `BLACKFRIDAY2026` | Nov 27, 2026 - Dec 1, 2026 |
 | [Ratio](https://useratio.app/?ref=twf-bf) | Notepad calculator for Mac, Windows and Linux with live currencies, units, dates and time zones as you type. | ♾️ **30% OFF** one-time licenses · code `BLACKFRIDAY26` · 1/2/3 computers: $13.99/$20.99/$27.99 (was $19.99/$29.99/$39.99) · direct purchase only | Nov 24, 2026 - Dec 1, 2026 |
+| [Presentify](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom, for presentations, calls, demos, and teaching | ♾️ **30% OFF** one-time purchase ($14 → $9.80) · code `PRESENTIFY30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
+| [KeyScreen](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos | ♾️ **30% OFF** one-time purchase ($5.99 → $4.19) · code `KEYSCREEN30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
