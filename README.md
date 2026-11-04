@@ -190,7 +190,7 @@ Add it to your website, README, or launch post:
 | [DevUtils](https://devutils.com/?utm_source=twf-nikhila) | Offline all-in-one toolbox for developers on macOS | 💸 ♾️ **60% OFF** all plans, one-time license · code `BLACKFRIDAY2026` | Nov 2, 2026 - Dec 30, 2026 |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | 💸 **50% OFF** Pro Annual | Nov 27, 2026 - Dec 1, 2026 |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | ♾️ **40% OFF** Lifetime | Nov 27, 2026 - Dec 1, 2026 |
-| [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert timestamps, Base64, URL encoding, and decode JWT tokens. | 💸♾️ **50% OFF** Lifetime ($30 → $15) with code `Sale2026` | Nov 3, 2026 - Dec 31, 2026 |
+| [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert timestamps, Base64, URL encoding, and decode JWT tokens. | 💸 ♾️ **50% OFF** Lifetime ($30 → $15) · code `Sale2026` | Nov 3, 2026 - Dec 31, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -214,7 +214,7 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider & carousel blocks for the WordPress block editor: 70+ designs, WooCommerce carousels, no jQuery | ♾️ **Up to 40% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 1, 2026 |
-| [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, live previews and publishing; available on macOS, Windows and Linux. | **20% OFF for 12 months** on all plans, monthly or annual, with code **BLACKFRIDAY2026** | Nov 3, 2026 - Dec 2, 2026 |
+| [Layerwise](https://layerwise.app/pricing) | Desktop AI app builder with local source files, live previews and publishing; available on macOS, Windows and Linux. | **20% OFF** all plans for 12 months, monthly or annual · code `BLACKFRIDAY2026` | Nov 3, 2026 - Dec 2, 2026 |
 
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
