@@ -223,7 +223,7 @@ Add it to your website, README, or launch post:
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
-| [AppsByMo](https://appsbymo.app/?ref=twf-bf) | 14 native, private Mac and iPhone apps from one independent developer (Cue, Scry, Wick, Margin and more), no accounts needed | 💸 **50% OFF** on appsbymo.app · code `BLACKFRIDAY` · App Store apps half price Nov 27 - Nov 30, no code | Nov 9, 2026 - Dec 1, 2026 |
+| [AppsByMo](https://appsbymo.app/?ref=twf-bf) | 14 native, private Mac and iPhone apps from one independent developer (Cue, Scry, Wick, Margin and more), no accounts needed | 💸 **50% OFF** every paid app · code `BLACKFRIDAY` for Mac apps bought direct · App Store apps half price, no code | Nov 9, 2026 - Dec 1, 2026 |
 | [MacPlus Software Mac apps](https://noteifyapp.com/apps/) | 11 native Mac utilities for windows, Dock and productivity: DockView 2, ActiveDock 2, SuperTab 7, Quick Exposé 3 and more. | ♾️ **30% OFF** all apps incl. lifetime licenses · code `MACPLUSBLACKFRIDAY26` · e.g. DockView 2 $14.99 → $10.49, Lifetime $49.99 → $34.99 | Nov 1, 2026 - Nov 30, 2026 |
 | [SupaSidebar](https://supasidebar.com?r=twf) | Arc-like sidebar for all browsers · view or fuzzy search open tabs, bookmarks and Finder files, one shortcut away | 💸 ♾️ **50% OFF** Lifetime ($79 → $39.50) · code `SIDEBARBF50` | Nov 9, 2026 - Dec 7, 2026 |
 | [ClipAudit](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard | ♾️ **40% OFF** ($29 → $17.40) · code `BLACKFRIDAY2026` | Nov 27, 2026 - Dec 1, 2026 |
