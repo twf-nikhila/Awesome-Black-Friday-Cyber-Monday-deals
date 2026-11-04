@@ -156,6 +156,7 @@ Add it to your website, README, or launch post:
 | [TypingMind](https://www.typingmind.com/?utm_source=twf-nikhila) | Advanced chat UI for ChatGPT, Claude, Gemini and more, with all models in one place, MCP & plugins, AI agents, and private local storage | 💸 ♾️ **60% OFF** Lifetime Premium · code `BLACKFRIDAY2026` | Nov 2, 2026 - Dec 15, 2026 |
 | [RewriteBar](https://rewritebar.com?ref=twf-nikhila) | AI writing toolkit for macOS · fix grammar, adjust tone, translate, rewrite and summarize in any app, plus custom actions and templates | 💸 ♾️ **50% OFF** one-time licenses and subscriptions · code `BF2026` | Nov 2, 2026 - Dec 3, 2026 |
 | [Rezi](https://www.rezi.ai/pricing) | AI resume builder · writes and tailors ATS-friendly resumes, scores them on 23 ATS metrics, plus AI cover letters, mock interviews and auto-apply to jobs in the mobile app | 💸 **70% OFF** Rezi Pro for 3 months ($29 → $8.70/mo) · code `Blackfriday2026` | Nov 13, 2026 - Dec 11, 2026 |
+| [Fluent 2](https://fluentmac.app/?ref=twf-nikhila) | Not another chat window: AI for macOS that works in any app, plus AI teammates for routine tasks | ♾️ **25% OFF** lifetime licenses · code `BF2026` | Nov 1, 2026 - Dec 1, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
