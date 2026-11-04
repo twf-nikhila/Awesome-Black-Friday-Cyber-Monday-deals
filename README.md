@@ -209,6 +209,7 @@ Add it to your website, README, or launch post:
 | [MingCute UI](https://ui.mingcute.com/?utm_source=twf) | Design system and UI Kit for Figma | ♾️ **30% OFF** · code `BF2026` | Nov 15, 2026 - Dec 5, 2026 |
 | [MingCute Animation](https://www.mingcute.com/animation?utm_source=twf) | 120+ lively and smooth animated icons | ♾️ **30% OFF** · code `BF2026` | Nov 15, 2026 - Dec 5, 2026 |
 | [MingCute Weather](https://mgcweather.framer.website/?utm_source=twf) | 120 graceful weather icons | ♾️ **30% OFF** · code `BF2026` | Nov 15, 2026 - Dec 5, 2026 |
+| [HextaUI Pro](https://hextaui.com/pricing?utm_source=bf-twf) | React blocks for AI products on shadcn/ui: chat threads, streaming, tool calls, agent todos, model compare and voice mode, installed with the shadcn CLI | ♾️ **Up to 40% OFF** · early-bird $49 (regular $79) · auto-applied | Nov 4, 2026 - Dec 1, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
