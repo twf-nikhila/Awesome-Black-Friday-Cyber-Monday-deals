@@ -145,6 +145,7 @@ Add it to your website, README, or launch post:
 | [Digital Photo Frame](https://digitalphotoframeapp.com/) | Turn your iPhone, iPad, Mac or Apple TV into a smart photo frame | 💸 **50% OFF** · $19.99 → $9.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 | [Photo Booth App](https://thephotoboothapp.com/) | Turn your iPhone or iPad into a photo booth for events | 💸 **50% OFF** · $99.99 → $49.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 | [Our Family Album](https://ourfamilyalbum.com/) | The private family album app for iPhone and iPad | 💸 **50% OFF** · $49.99 → $24.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
+| [Atmos](https://atmos.style/?utm_source=twf-nikhila&utm_campaign=bf2026) | Color palette tool for UI design that builds accessible, perceptually uniform shades and syncs them to Figma | 💸 ♾️ **50% OFF** Lifetime · code `BF2026` | Nov 23, 2026 - Nov 29, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
