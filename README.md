@@ -224,6 +224,7 @@ Add it to your website, README, or launch post:
 | [Ratio](https://useratio.app/?ref=twf-bf) | Notepad calculator for Mac, Windows and Linux with live currencies, units, dates and time zones as you type. | ♾️ **30% OFF** one-time licenses · code `BLACKFRIDAY26` · 1/2/3 computers: $13.99/$20.99/$27.99 (was $19.99/$29.99/$39.99) · direct purchase only | Nov 24, 2026 - Dec 1, 2026 |
 | [Presentify](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom, for presentations, calls, demos, and teaching | ♾️ **30% OFF** one-time purchase ($14 → $9.80) · code `PRESENTIFY30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
 | [KeyScreen](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos | ♾️ **30% OFF** one-time purchase ($5.99 → $4.19) · code `KEYSCREEN30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
+| [Wins](https://wins.cool/) | Windows-style window management for Mac. | **40% OFF** all plans · code `BF_26` | Nov 11, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
