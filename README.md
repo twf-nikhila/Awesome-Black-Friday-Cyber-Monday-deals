@@ -186,7 +186,7 @@ Add it to your website, README, or launch post:
 | [DevUtils](https://devutils.com/?utm_source=twf-nikhila) | Offline all-in-one toolbox for developers on macOS | 💸 ♾️ **60% OFF** all plans, one-time license · code `BLACKFRIDAY2026` | Nov 2, 2026 - Dec 30, 2026 |
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | 💸 **50% OFF** Pro Annual | Nov 27, 2026 - Dec 1, 2026 |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | ♾️ **40% OFF** Lifetime | Nov 27, 2026 - Dec 1, 2026 |
-| [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert timestamps, Base64, URL encoding, and decode JWT tokens. | 💸♾️ **50% OFF** Lifetime | Nov 3, 2026 - Dec 31, 2026 |
+| [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert timestamps, Base64, URL encoding, and decode JWT tokens. | 💸♾️ **50% OFF** Lifetime ($30 → $15) with code `Sale2026` | Nov 3, 2026 - Dec 31, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
