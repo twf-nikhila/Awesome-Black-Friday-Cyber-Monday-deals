@@ -178,6 +178,7 @@ Add it to your website, README, or launch post:
 | [Finny: AI Money Manager](https://apps.apple.com/us/app/finny-ai-money-manager/id6736472735) | Fully automatic expense tracking on iPhone | **40% OFF** first year · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
 | [SyncMyGroup](https://syncmygroup.com) | Keep user groups in sync across Google, Slack, Teams, Jira, GitHub and BambooHR | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [UserJot](https://userjot.com/?ref=twf-bf) | Live chat, feedback boards, roadmap and changelog for SaaS teams, with an AI agent that answers support questions | **30% OFF** first year on yearly plans · code `BF2026` | Nov 2, 2026 - Dec 2, 2026 |
+| [Clientish](https://clientish.co/black-friday-client-management-portal-deal/?utm_source=github&utm_medium=deal-list&utm_campaign=twf-bfcm) | White-label client portal and CRM for agencies and freelancers: orders, invoices, payments, tickets and live chat | **30% OFF** every yearly renewal, not just year one · code `BF30` | Nov 1, 2026 - Dec 1, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
