@@ -135,6 +135,7 @@ Add it to your website, README, or launch post:
 | [Compresto](https://compresto.app/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Video, image and PDF compression for macOS | ♾️ **40% OFF** lifetime · code `BFCM26` | Nov 2, 2026 - Dec 1, 2026 |
 | [RocketScribe](https://rocketscribe.ai) | Transcribe audio and video to text with timestamps and speakers, export to Word, PDF, SRT or VTT | 💸 ♾️ **Up to 60% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 6, 2026 |
 | [FaceScreen](https://facescreen.app) | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls on Mac, iPhone, and iPad | ♾️ **30% OFF** one-time purchase ($5.99 → $4.19) · code `FACESCREEN30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
+| [JSON2Video](https://json2video.com/pricing/blackfriday-2026/?c=twf) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images, from code, n8n, Make, Zapier, Claude or ChatGPT | **25% OFF** first year of yearly plans · code `BF2026TWF` (auto-applied) · Professional $399.60 → $299.70 ($24.98/mo, half the monthly plan), Hobby $199.50 → $149.63 | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
