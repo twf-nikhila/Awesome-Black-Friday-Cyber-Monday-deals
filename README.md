@@ -191,6 +191,7 @@ Add it to your website, README, or launch post:
 | [ConnectWizard](https://apps.apple.com/us/app/asc-analytics-connectwizard/id6747314580) | Unlock hidden App Store Connect Analytics. | 💸 **50% OFF** Pro Annual | Nov 27, 2026 - Dec 1, 2026 |
 | [WhaleDeck](https://apps.apple.com/us/app/docker-manager-gui-whaledeck/id1581548562) | Effortlessly manage and monitor your Docker servers on your iPhone, iPad, and Mac. | ♾️ **40% OFF** Lifetime | Nov 27, 2026 - Dec 1, 2026 |
 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert timestamps, Base64, URL encoding, and decode JWT tokens. | 💸 ♾️ **50% OFF** Lifetime ($30 → $15) · code `Sale2026` | Nov 3, 2026 - Dec 31, 2026 |
+| [DynoTable](https://dynotable.com/?utm_source=twf-nikhila) | Desktop GUI for DynamoDB and OpenSearch on Apple Silicon Macs, Windows and Linux, with a SQL Workbench that runs JOIN and GROUP BY | 💸 **50% OFF** for 12 months, Individual $108 → $54 first year · code `BF50` | Nov 4, 2026 - Dec 3, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
