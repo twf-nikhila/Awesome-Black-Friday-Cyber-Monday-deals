@@ -218,6 +218,7 @@ Add it to your website, README, or launch post:
 | [SupaSidebar](https://supasidebar.com?r=twf) | Arc-like sidebar for all browsers · view or fuzzy search open tabs, bookmarks and Finder files, one shortcut away | 💸 ♾️ **50% OFF** Lifetime ($79 → $39.50) · code `SIDEBARBF50` | Nov 9, 2026 - Dec 7, 2026 |
 | [ClipAudit](https://clipaudit.app) | macOS clipboard manager that detects 700+ types of API keys and secrets and keeps them out of shell history and apps reading the clipboard | ♾️ **40% OFF** ($29 → $17.40) · code `BLACKFRIDAY2026` | Nov 27, 2026 - Dec 1, 2026 |
 | [Ratio](https://useratio.app/?ref=twf-bf) | Notepad calculator for Mac, Windows and Linux with live currencies, units, dates and time zones as you type. | ♾️ **30% OFF** one-time licenses · code `BLACKFRIDAY26` · 1/2/3 computers: $13.99/$20.99/$27.99 (was $19.99/$29.99/$39.99) · direct purchase only | Nov 24, 2026 - Dec 1, 2026 |
+| [Wins](https://wins.cool/) | Windows-style window management for Mac. | **40% OFF** all plans · code `BF_26` | Nov 11, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
