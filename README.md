@@ -136,7 +136,7 @@ Add it to your website, README, or launch post:
 | [RocketScribe](https://rocketscribe.ai) | Transcribe audio and video to text with timestamps and speakers, export to Word, PDF, SRT or VTT | 💸 ♾️ **Up to 60% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 6, 2026 |
 | [FaceScreen](https://facescreen.app) | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls on Mac, iPhone, and iPad | ♾️ **30% OFF** one-time purchase ($5.99 → $4.19) · code `FACESCREEN30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/?c=twf) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images, from code, n8n, Make, Zapier, Claude or ChatGPT | **25% OFF** first year of yearly plans · code `BF2026TWF` (auto-applied) · Professional $399.60 → $299.70 ($24.98/mo, half the monthly plan), Hobby $199.50 → $149.63 | Nov 24, 2026 - Dec 1, 2026 |
-| [Podwise](https://podwise.ai) | Turns any podcast episode into summaries, transcripts, mind maps and searchable notes, on web, iOS and Android, plus API/CLI/MCP for coding agents | 💸 **40% OFF** annual plans on top of the existing annual price (64% off vs paying monthly) · code `BF2026` · Pro $142.80 → $85.68/yr, Standard $70.80 → $42.48/yr | Nov 16, 2026 - Dec 6, 2026 |
+| [Podwise](https://podwise.ai) | Turns any podcast episode into summaries, transcripts, mind maps and searchable notes, on web, iOS and Android, plus API/CLI/MCP for coding agents | **40% OFF** annual plans on top of the existing annual price (64% off vs paying monthly) · code `BF2026` · Pro $142.80 → $85.68/yr, Standard $70.80 → $42.48/yr | Nov 16, 2026 - Dec 6, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -247,7 +247,7 @@ Add it to your website, README, or launch post:
 | [Presend](https://getpresend.com) | Checks every email and message before you send it for leaked passwords, personal data, wrong recipients and AI-sounding writing (Chrome extension and Mac app) | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [Email Me](https://emailmeapp.net/) | The fastest way to record your thoughts as voice or text notes, sent to your inbox. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay | 💸 **50% OFF** · $19.99 → $9.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 | [Shiori](https://shioriapp.io) | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
-| [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Mobile and share them with your PC. | 💸 ** 50% off ** Lifetime ($8.99 → $4.49 USD) , No code needed;  | Nov 20, 2026 - Dec 1, 2026  |
+| [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Mobile and share them with your PC. | 💸 ♾️ **50% OFF** Lifetime ($8.99 → $4.49 USD) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
