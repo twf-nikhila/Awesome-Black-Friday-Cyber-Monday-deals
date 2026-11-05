@@ -248,6 +248,7 @@ Add it to your website, README, or launch post:
 | [Email Me](https://emailmeapp.net/) | The fastest way to record your thoughts as voice or text notes, sent to your inbox. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay | 💸 **50% OFF** · $19.99 → $9.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 | [Shiori](https://shioriapp.io) | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
 | [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Mobile and share them with your PC. | 💸 ♾️ **50% OFF** Lifetime ($8.99 → $4.49 USD) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
+| [Todowing](https://todowing.com/?ref=twf-nikhila) | Chrome extension that upgrades Todoist: pick today's few tasks and run a focus session on them | ♾️ **40% OFF** lifetime unlock · code `BF2026` ($9.99 → $5.99) | Nov 5, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
