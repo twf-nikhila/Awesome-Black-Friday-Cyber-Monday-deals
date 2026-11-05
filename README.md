@@ -231,6 +231,10 @@ Add it to your website, README, or launch post:
 | [Presentify](https://presentifyapp.com) | Draw and annotate on your screen, highlight your cursor and clicks, spotlight, and zoom, for presentations, calls, demos, and teaching | ♾️ **30% OFF** one-time purchase ($14 → $9.80) · code `PRESENTIFY30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
 | [KeyScreen](https://keyscreen.app) | Shows the keys you press on screen, for tutorials, streams, and live demos | ♾️ **30% OFF** one-time purchase ($5.99 → $4.19) · code `KEYSCREEN30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
 | [Wins](https://wins.cool/) | Windows-style window management for Mac. | **40% OFF** all plans · code `BF_26` | Nov 11, 2026 - Dec 1, 2026 |
+| [ExtraDock](https://extradock.app) | Create unlimited floating docks and place them anywhere on any screen. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
+| [DockFlow](https://dockflowapp.io) | Save Dock presets and switch between them instantly. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
+| [CoolDock](https://cooldock.app) | A second Dock with live widgets for music, calendar, weather, to-dos and system stats. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
+| [ExtraBar](https://extrabar.app) | Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -238,6 +242,7 @@ Add it to your website, README, or launch post:
 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac that sorts apps, sites and docs into projects and turns hours into invoices | 💸 ♾️ **50% OFF** Lifetime and Personal · code `BLACKFRIDAY26` (auto-applied on the pricing page) · Lifetime $74.50 (was $149), Personal $49.50 (was $99), Chronoid + SmoothCapture bundle $99.50 (was $199) | Nov 3, 2026 - Dec 2, 2026 |
 | [Presend](https://getpresend.com) | Checks every email and message before you send it for leaked passwords, personal data, wrong recipients and AI-sounding writing (Chrome extension and Mac app) | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [Email Me](https://emailmeapp.net/) | The fastest way to record your thoughts as voice or text notes, sent to your inbox. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay | 💸 **50% OFF** · $19.99 → $9.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
+| [Shiori](https://shioriapp.io) | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
