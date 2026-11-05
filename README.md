@@ -245,6 +245,7 @@ Add it to your website, README, or launch post:
 | [Presend](https://getpresend.com) | Checks every email and message before you send it for leaked passwords, personal data, wrong recipients and AI-sounding writing (Chrome extension and Mac app) | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [Email Me](https://emailmeapp.net/) | The fastest way to record your thoughts as voice or text notes, sent to your inbox. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay | 💸 **50% OFF** · $19.99 → $9.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 | [Shiori](https://shioriapp.io) | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
+| [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Mobile and share them with your PC. | 💸 ** 50% off ** Lifetime ($8.99 → $4.49 USD) , No code needed;  | Nov 20, 2026 - Dec 1, 2026  |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
