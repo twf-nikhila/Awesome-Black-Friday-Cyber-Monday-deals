@@ -238,7 +238,7 @@ Add it to your website, README, or launch post:
 | [Chronoid](https://www.chronoid.app/pricing) | Automatic time tracking for Mac that sorts apps, sites and docs into projects and turns hours into invoices | 💸 ♾️ **50% OFF** Lifetime and Personal · code `BLACKFRIDAY26` (auto-applied on the pricing page) · Lifetime $74.50 (was $149), Personal $49.50 (was $99), Chronoid + SmoothCapture bundle $99.50 (was $199) | Nov 3, 2026 - Dec 2, 2026 |
 | [Presend](https://getpresend.com) | Checks every email and message before you send it for leaked passwords, personal data, wrong recipients and AI-sounding writing (Chrome extension and Mac app) | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [Email Me](https://emailmeapp.net/) | The fastest way to record your thoughts as voice or text notes, sent to your inbox. For iOS, iPadOS, macOS, watchOS, visionOS & CarPlay | 💸 **50% OFF** · $19.99 → $9.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
-| [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Mobile and share them with your PC. | 50% off Lifetime ($8.99 → $4.49 USD) | No code needed; 2026-11-27 to 2026-12-01 |
+| [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Mobile and share them with your PC. | 50% off Lifetime ($8.99 → $4.49 USD) | No code needed; 2026-11-20 to 2026-12-01 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
