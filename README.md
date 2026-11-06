@@ -249,6 +249,7 @@ Add it to your website, README, or launch post:
 | [Shiori](https://shioriapp.io) | Fast bookmark manager with tags and folders, for Mac, web and Chrome. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
 | [PromptClaw](https://vifly.net/) | Save, organize, and reuse AI prompts locally on Mobile and share them with your PC. | 💸 ♾️ **50% OFF** Lifetime ($8.99 → $4.49 USD) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [Todowing](https://todowing.com/?ref=twf-nikhila) | Chrome extension that upgrades Todoist: pick today's few tasks and run a focus session on them | ♾️ **40% OFF** lifetime unlock · code `BF2026` ($9.99 → $5.99) | Nov 5, 2026 - Nov 30, 2026 |
+| [Deckloud](https://deckloud.com/black-friday/?ref=twf-black-friday) | Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows and Linux, with offline sync to your own server | ♾️ **40% OFF** Pro Lifetime · auto-applied on the App Store and Google Play, no code · $22.99 (was $39), 22,99 € (was 39 €) · desktop-only Pro $11.40 (was $19) with code `BF2026` · subscriptions excluded | Nov 27, 2026 - Dec 2, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
