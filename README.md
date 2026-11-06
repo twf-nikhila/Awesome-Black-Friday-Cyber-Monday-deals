@@ -241,6 +241,7 @@ Add it to your website, README, or launch post:
 | [DockFlow](https://dockflowapp.io) | Save Dock presets and switch between them instantly. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
 | [CoolDock](https://cooldock.app) | A second Dock with live widgets for music, calendar, weather, to-dos and system stats. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
 | [ExtraBar](https://extrabar.app) | Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
+| [InfiniDesk](https://infinidesk.app/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Create multiple desktop 'surfaces' each with its own layout of file and folder icons, widget visibility, and wallpaper. | ♾️ **30% OFF** with code `INFINIBLACK` | Nov 25, 2026 - Dec 4, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
