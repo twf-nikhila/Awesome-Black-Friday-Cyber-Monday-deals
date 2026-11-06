@@ -198,6 +198,7 @@ Add it to your website, README, or launch post:
 | [Aba Search and Replace](https://www.abareplace.com) | Regular expression search and replace, convert timestamps, Base64, URL encoding, and decode JWT tokens. | 💸 ♾️ **50% OFF** Lifetime ($30 → $15) · code `Sale2026` | Nov 3, 2026 - Dec 31, 2026 |
 | [DynoTable](https://dynotable.com/?utm_source=twf-nikhila) | Desktop GUI for DynamoDB and OpenSearch on Apple Silicon Macs, Windows and Linux, with a SQL Workbench that runs JOIN and GROUP BY | 💸 **50% OFF** for 12 months, Individual $108 → $54 first year · code `BF50` | Nov 4, 2026 - Dec 3, 2026 |
 | [Poedit](https://poedit.com/?utm_source=twf-nikhila) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation | **30% OFF** · code `BF26` | Nov 4, 2026 - Dec 3, 2026 |
+| [ESN Hosting](https://panel.esnoffical.com/plans) | Discord bot, Minecraft and game server hosting on a Pterodactyl web panel (Python, Node.js, Java and more) | 💸 **85% OFF** the first month on monthly plans, applied at checkout, no code (Stripe minimum $0.50): Elite 4 GB $4.49 → $0.67 first month | Oct 31, 2026 - Dec 1, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
