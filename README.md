@@ -241,6 +241,8 @@ Add it to your website, README, or launch post:
 | [DockFlow](https://dockflowapp.io) | Save Dock presets and switch between them instantly. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
 | [CoolDock](https://cooldock.app) | A second Dock with live widgets for music, calendar, weather, to-dos and system stats. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
 | [ExtraBar](https://extrabar.app) | Customize the menu bar with shortcuts, quick actions and deep links. Native macOS app. | 💸 ♾️ **50% OFF** all Lifetime licenses · code `BLACK2026FRIDAY50` (auto-applied on the website) | Nov 12, 2026 - Dec 1, 2026 |
+| [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | 💸 ♾️ **50% OFF** lifetime ($14.99 → $7.49) · code `INDIEGOODIESBF26` · standalone Mac version | Nov 20, 2026 - Nov 30, 2026 |
+| [Almighty](https://indiegoodies.com/almighty) | Over 100 Mac tweaks and utilities in one native app, from hidden settings to notch actions. | 💸 ♾️ **50% OFF** lifetime ($14.99 → $7.49) · code `INDIEGOODIESBF26` | Nov 20, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -253,6 +255,7 @@ Add it to your website, README, or launch post:
 | [Todowing](https://todowing.com/?ref=twf-nikhila) | Chrome extension that upgrades Todoist: pick today's few tasks and run a focus session on them | ♾️ **40% OFF** lifetime unlock · code `BF2026` ($9.99 → $5.99) | Nov 5, 2026 - Nov 30, 2026 |
 | [Deckloud](https://deckloud.com/black-friday/?ref=twf-black-friday) | Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows and Linux, with offline sync to your own server | ♾️ **40% OFF** Pro Lifetime ($39 → $22.99) · auto-applied on the App Store and Google Play · desktop-only Pro $11.40 (was $19) with code `BF2026` | Nov 27, 2026 - Dec 2, 2026 |
 | [Dictionaries](https://dictionaries.io/?utm_source=twf-nikhil) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 💸 ♾️ **50% OFF** incl. lifetime · code `BF26` | Nov 4, 2026 - Dec 3, 2026 |
+| [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 💸 ♾️ **50% OFF** lifetime ($7.99 → $3.99) · code `INDIEGOODIESBF26` | Nov 20, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
