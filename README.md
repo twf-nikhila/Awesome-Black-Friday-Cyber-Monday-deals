@@ -201,6 +201,7 @@ Add it to your website, README, or launch post:
 | [DynoTable](https://dynotable.com/?utm_source=twf-nikhila) | Desktop GUI for DynamoDB and OpenSearch on Apple Silicon Macs, Windows and Linux, with a SQL Workbench that runs JOIN and GROUP BY | 💸 **50% OFF** for 12 months, Individual $108 → $54 first year · code `BF50` | Nov 4, 2026 - Dec 3, 2026 |
 | [Poedit](https://poedit.com/?utm_source=twf-nikhila) | Translations editor for app and websites, supports PO, XLIFF, JSON, RESX and other formats, with built-in auto-translation | **30% OFF** · code `BF26` | Nov 4, 2026 - Dec 3, 2026 |
 | [ESN Hosting](https://panel.esnoffical.com/plans) | Discord bot, Minecraft and game server hosting on a Pterodactyl web panel (Python, Node.js, Java and more) | 💸 **85% OFF** the first month on monthly plans, applied at checkout, no code (Stripe minimum $0.50): Elite 4 GB $4.49 → $0.67 first month | Oct 31, 2026 - Dec 1, 2026 |
+| [GetYouTubeTranscript](https://getyoutubetranscript.com/) | YouTube transcript API, MCP server and Chrome extension | **30% OFF** the first year of the annual plan · auto-applied at checkout, or code `BF26GYT` | Nov 1, 2026 - Dec 10, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
