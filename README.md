@@ -225,7 +225,7 @@ Add it to your website, README, or launch post:
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
-| [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider & carousel blocks for the WordPress block editor: 70+ designs, WooCommerce carousels, no jQuery | ♾️ **Up to 40% OFF** · lifetime from $69 · no code needed | Nov 24, 2026 - Dec 1, 2026 |
+| [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider & carousel blocks for the WordPress block editor: 70+ designs, WooCommerce carousels, no jQuery | ♾️ **Up to 40% OFF** · lifetime from $69 · no code needed | Nov 5, 2026 - Dec 1, 2026 |
 | [Layerwise](https://layerwise.app/pricing) | Build and ship full-stack apps with database, login, email and cloud storage built in. Use your existing ChatGPT or Claude subscription for AI coding. | **20% OFF** all plans for 12 months, monthly or annual · code `BLACKFRIDAY2026` | Nov 3, 2026 - Dec 2, 2026 |
 
 ## 💻 Mac & Desktop Utilities
