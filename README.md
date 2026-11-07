@@ -247,6 +247,7 @@ Add it to your website, README, or launch post:
 | [PastePal](https://indiegoodies.com/pastepal) | Clipboard manager for Mac, iPhone and iPad that keeps everything you copy searchable, organized and synced through iCloud. Native, private, one-time purchase. | 💸 ♾️ **50% OFF** lifetime ($14.99 → $7.49) · code `INDIEGOODIESBF26` · standalone Mac version | Nov 20, 2026 - Nov 30, 2026 |
 | [Almighty](https://indiegoodies.com/almighty) | Over 100 Mac tweaks and utilities in one native app, from hidden settings to notch actions. | 💸 ♾️ **50% OFF** lifetime ($14.99 → $7.49) · code `INDIEGOODIESBF26` | Nov 20, 2026 - Nov 30, 2026 |
 | [Iruka](https://iruka.sh/black-friday) | Native file manager for Mac with dual panes, previews, and a terminal that follows your folder | ♾️ **30% OFF** new licences, one-time purchase ($19.99 → $13.99) · code `BF30` | Nov 6, 2026 - Dec 3, 2026 |
+| [SnowWall](https://snowwall.app) | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them, rain fogs the glass, frost grows in from the edges | ♾️ **33% OFF** SnowWall Pro one-time unlock · $14.99 → $9.99 · Mac App Store, no code | Nov 27, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
