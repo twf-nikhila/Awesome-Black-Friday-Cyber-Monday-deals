@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **106 deals** listed · Updated Nov 8, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **107 deals** listed · Updated Nov 8, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -74,7 +74,7 @@ Add it to your website, README, or launch post:
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (2) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (11) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (2) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (19) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (20) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (10) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (2) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (3) - Fitness, nutrition, travel, home & personal apps
