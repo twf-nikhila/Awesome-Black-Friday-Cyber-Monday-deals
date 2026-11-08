@@ -255,6 +255,7 @@ Add it to your website, README, or launch post:
 | [SnowWall](https://snowwall.app) | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them, rain fogs the glass, frost grows in from the edges | ♾️ **33% OFF** SnowWall Pro one-time unlock · $14.99 → $9.99 · Mac App Store, no code | Nov 27, 2026 - Dec 1, 2026 |
 | [ActionClip](https://actionclip.app/black-friday-deal) | iPhone-style text action menu for Mac; describe a workflow to create a reusable custom action (Apple Silicon, macOS 15+). | ♾️ **25% OFF** Individual ($12 → $9) · lifetime plans for 1/3/10 Macs: $9/$15/$29 · auto-applied, no code needed | Nov 5, 2026 - Nov 29, 2026 |
 | [CleanClip](https://pricing.cleanclip.cc/src?ref=twf-nikhila-bf2026) | Minimalist native clipboard manager for Mac, with searchable history, smart lists, quick paste and Paste Stack | ♾️ **30% OFF** one-time licenses · Standard $13.99 (was $19.99), Pro $20.99 (was $29.99) · code `BF2026` | Nov 4, 2026 - Dec 15, 2026 |
+| [Sip](https://sipapp.io/pricing/?ref=twf-bf) | Modern color picker for Mac that brings ease to color organization and team collaboration | 💸 ♾️ **50% OFF** · code `BLACKFRIDAY26` | Nov 27, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
