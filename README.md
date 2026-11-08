@@ -166,6 +166,7 @@ Add it to your website, README, or launch post:
 | [CiteWing](https://citewing.com) | AI Backlink Outreach Agent to get recommended by AI | 💸 **36% OFF** Pro Plan; **50% OFF** [directory submission service](https://citewing.com/directory-submission-service) · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
 | [AUTX AI Visibility Check](https://autx.ai/) | See whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report, $39.20 instead of $49 · code `LAUNCH20` | Nov 2, 2026 - Nov 30, 2026 |
 | [Outpublished](https://outpublished.com/black-friday) | Shows content and SEO teams every page their competitors have that they don't, and each new one they publish | **40% OFF** for as long as you stay subscribed, first 150 accounts · auto-applied | Nov 20, 2026 - Dec 4, 2026 |
+| [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | Build and exchange nofollow backlinks through your coding agent | **30% OFF** first annual payment ($210 → $147), then $210/year · code `BLACKFRIDAY2026` | Nov 5, 2026 - Nov 30, 2026 |
 
 ## 📣 Marketing, Social & Lead Gen
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
