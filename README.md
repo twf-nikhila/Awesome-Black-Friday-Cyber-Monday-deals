@@ -137,6 +137,7 @@ Add it to your website, README, or launch post:
 | [FaceScreen](https://facescreen.app) | Floating camera overlay plus a text overlay (name, handle) and a ring light, for screen recordings and video calls on Mac, iPhone, and iPad | ♾️ **30% OFF** one-time purchase ($5.99 → $4.19) · code `FACESCREEN30` · direct purchase from the website only | Nov 18, 2026 - Dec 2, 2026 |
 | [JSON2Video](https://json2video.com/pricing/blackfriday-2026/?c=twf) | Video editing API: turn JSON or templates into MP4 videos with AI voices, subtitles and AI images, from code, n8n, Make, Zapier, Claude or ChatGPT | **25% OFF** first year of yearly plans · code `BF2026TWF` (auto-applied) · Professional $399.60 → $299.70 ($24.98/mo, half the monthly plan), Hobby $199.50 → $149.63 | Nov 24, 2026 - Dec 1, 2026 |
 | [Podwise](https://podwise.ai) | Turns any podcast episode into summaries, transcripts, mind maps and searchable notes, on web, iOS and Android, plus API/CLI/MCP for coding agents | **40% OFF** annual plans on top of the existing annual price (64% off vs paying monthly) · code `BF2026` · Pro $142.80 → $85.68/yr, Standard $70.80 → $42.48/yr | Nov 16, 2026 - Dec 6, 2026 |
+| [ScreenSage Pro](https://screensage.pro/bf2026) | Mac screen recording and video editing for polished tutorials and product demos, with cursor-following auto zoom, camera layouts and iPhone/iPad recording | 💸 ♾️ **Up to 53% OFF** one-time licenses · Lifetime $209.90 (was $449), code `BFS2026L` · Pro 3 Macs $79.90 (was $149), 46% off, code `BFS2026P` | Nov 4, 2026 - Dec 11, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -251,6 +252,7 @@ Add it to your website, README, or launch post:
 | [Iruka](https://iruka.sh/black-friday) | Native file manager for Mac with dual panes, previews, and a terminal that follows your folder | ♾️ **30% OFF** new licences, one-time purchase ($19.99 → $13.99) · code `BF30` | Nov 6, 2026 - Dec 3, 2026 |
 | [SnowWall](https://snowwall.app) | Weather for the Mac desktop: snow settles on your windows and slides off when you drag them, rain fogs the glass, frost grows in from the edges | ♾️ **33% OFF** SnowWall Pro one-time unlock · $14.99 → $9.99 · Mac App Store, no code | Nov 27, 2026 - Dec 1, 2026 |
 | [ActionClip](https://actionclip.app/black-friday-deal) | iPhone-style text action menu for Mac; describe a workflow to create a reusable custom action (Apple Silicon, macOS 15+). | ♾️ **25% OFF** Individual ($12 → $9) · lifetime plans for 1/3/10 Macs: $9/$15/$29 · auto-applied, no code needed | Nov 5, 2026 - Nov 29, 2026 |
+| [CleanClip](https://pricing.cleanclip.cc/src) | Minimalist native clipboard manager for Mac, with searchable history, smart lists, quick paste and Paste Stack | ♾️ **30% OFF** one-time licenses · Standard $13.99 (was $19.99), Pro $20.99 (was $29.99) · code `BF2026` | Nov 4, 2026 - Dec 15, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
