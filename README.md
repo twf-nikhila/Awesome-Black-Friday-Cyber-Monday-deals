@@ -268,6 +268,7 @@ Add it to your website, README, or launch post:
 | [Deckloud](https://deckloud.com/black-friday/?ref=twf-black-friday) | Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows and Linux, with offline sync to your own server | ♾️ **40% OFF** Pro Lifetime ($39 → $22.99) · auto-applied on the App Store and Google Play · desktop-only Pro $11.40 (was $19) with code `BF2026` | Nov 27, 2026 - Dec 2, 2026 |
 | [Dictionaries](https://dictionaries.io/?utm_source=twf-nikhil) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 💸 ♾️ **50% OFF** incl. lifetime · code `BF26` | Nov 4, 2026 - Dec 3, 2026 |
 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 💸 ♾️ **50% OFF** lifetime ($7.99 → $3.99) · code `INDIEGOODIESBF26` | Nov 20, 2026 - Nov 30, 2026 |
+| [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines | 💸 ♾️ **50% OFF** Lifetime · $59.99 → $29.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -280,6 +281,7 @@ Add it to your website, README, or launch post:
 |:-:|:-:|:-:|:-:|
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | ♾️ **40% OFF** lifetime · code `BFCM26` · lifetime family sharing with code `BFCM26FAMILY` | Nov 2, 2026 - Dec 1, 2026 |
 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | Multi-camera live view for Ring that turns your TV or computer into a camera wall (Apple TV, Fire TV, Google TV, Roku, Mac, Windows, web) | 💸 **60% OFF** ($4.99 → $1.99 per camera/month) for new sign-ups · no code needed | Nov 2, 2026 - Nov 30, 2026 |
+| [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders | 💸 **50% OFF** the first year of the annual plan · $29.99 → $14.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
