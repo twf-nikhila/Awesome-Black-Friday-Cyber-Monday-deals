@@ -189,6 +189,7 @@ Add it to your website, README, or launch post:
 | [UserJot](https://userjot.com/?ref=twf-bf) | Live chat, feedback boards, roadmap and changelog for SaaS teams, with an AI agent that answers support questions | **30% OFF** first year on yearly plans · code `BF2026` | Nov 2, 2026 - Dec 2, 2026 |
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/?utm_source=github&utm_medium=deal-list&utm_campaign=twf-bfcm) | White-label client portal and CRM for agencies and freelancers: orders, invoices, payments, tickets and live chat | **30% OFF** every yearly renewal, not just year one · code `BF30` | Nov 1, 2026 - Dec 1, 2026 |
 | [Evendeals](https://evendeals.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Increase revenue by up to 30% with purchasing power parity pricing | **40% OFF** all annual and lifetime plans · code `BF2026` | Nov 5, 2026 - Nov 30, 2026 |
+| [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | **50% OFF** SubManager+ for lifetime | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
