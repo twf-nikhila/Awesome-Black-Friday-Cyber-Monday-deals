@@ -177,6 +177,7 @@ Add it to your website, README, or launch post:
 | [Updately](https://updately.ai) | AI that finds high-intent leads on LinkedIn and messages them the way you would | **20% OFF** all paid plans · code `BF20` | Nov 24, 2026 - Dec 1, 2026 |
 | [SyncSignature](https://syncsignature.com/?utm_source=twf-github&utm_medium=bf-listicle&utm_campaign=bfcm26) | Email signature management for Google Workspace and Microsoft 365 · design once, auto-installs for every employee, with banner campaigns and click tracking | 💸 **50% OFF** Teams plan · 2 years for the price of 1 ($180 for 24 months, up to 5 users) · no code needed | Nov 10, 2026 - Dec 4, 2026 |
 | [Sponsonizer](https://sponsonizer.com/?ref=twf-nikhila) | Sell newsletter sponsorships without the email back-and-forth: sponsors pick an open slot, fill in their ad and pay with Stripe | 💸 **50% OFF** first year of Pro Yearly · code `BF2026` ($99 → $49.50) | Nov 5, 2026 - Nov 30, 2026 |
+| [Nuelink](https://offer.nuelink.com/mcp/?utm_source=github&utm_medium=referral&utm_campaign=bfcm_2026&utm_content=twf_nikhila_awesome_black_friday_cyber_monday_deals) | Agentic social media scheduling and automation for 12 platforms: tell Claude or ChatGPT what to post and Nuelink publishes it | 💸 **50% OFF** yearly plans (6 months free) or **25% OFF** your first 3 monthly payments · code `BFCM26` (Standard $288 → $144 first year, or $24 → $18/mo) | Nov 6, 2026 - Nov 30, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
