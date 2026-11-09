@@ -161,6 +161,8 @@ Add it to your website, README, or launch post:
 | [RewriteBar](https://rewritebar.com?ref=twf-nikhila) | AI writing toolkit for macOS · fix grammar, adjust tone, translate, rewrite and summarize in any app, plus custom actions and templates | 💸 ♾️ **50% OFF** one-time licenses and subscriptions · code `BF2026` | Nov 2, 2026 - Dec 3, 2026 |
 | [Rezi](https://www.rezi.ai/pricing) | AI resume builder · writes and tailors ATS-friendly resumes, scores them on 23 ATS metrics, plus AI cover letters, mock interviews and auto-apply to jobs in the mobile app | 💸 **70% OFF** Rezi Pro for 3 months ($29 → $8.70/mo) · code `Blackfriday2026` | Nov 13, 2026 - Dec 11, 2026 |
 | [Fluent 2](https://fluentmac.app/?ref=twf-nikhila) | Not another chat window: AI for macOS that works in any app, plus AI teammates for routine tasks | ♾️ **25% OFF** lifetime licenses · code `BF2026` | Nov 1, 2026 - Dec 1, 2026 |
+| [BoltAI](https://boltai.com/pricing?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Native AI workspace for Mac · ChatGPT, Claude, Gemini and local AI models in one app, now with agents that browse in Chrome and use the apps you allow | ♾️ **40% OFF** Pro, Pro+ and Lifetime · code `BFCM2026` (Lifetime $399 → $239.40) | Nov 2, 2026 - Dec 1, 2026 |
+| [PDF Pals](https://pdfpals.com/buy?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models | ♾️ **40% OFF** Lifetime ($249 → $149, no code) · **20% OFF** Basic and Plus · code `BF20` | Nov 2, 2026 - Dec 1, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -277,6 +279,7 @@ Add it to your website, README, or launch post:
 | [Dictionaries](https://dictionaries.io/?utm_source=twf-nikhil) | Add dictionaries for 80+ languages to Mac’s Look Up, with pronunciation; also for Kindle. | 💸 ♾️ **50% OFF** incl. lifetime · code `BF26` | Nov 4, 2026 - Dec 3, 2026 |
 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 💸 ♾️ **50% OFF** lifetime ($7.99 → $3.99) · code `INDIEGOODIESBF26` | Nov 20, 2026 - Nov 30, 2026 |
 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines | 💸 ♾️ **50% OFF** Lifetime · $59.99 → $29.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
+| [KTool](https://ktool.io/pricing?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone | ♾️ Lifetime **$179 → $149** · no code needed | Nov 2, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
