@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **111 deals** listed · Updated Nov 9, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **119 deals** listed · Updated Nov 9, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -66,19 +66,19 @@ Add it to your website, README, or launch post:
 
 * 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (12) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (11) - Image editing & compression, AI images, screenshots, color tools
-* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (4) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (6) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (4) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (7) - Social media, lead finding & outreach, email marketing, launch directories
-* 💼 [Business, Finance & Operations](#-business-finance--operations) (5) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (15) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (8) - Social media, lead finding & outreach, email marketing, launch directories
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (6) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (16) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (2) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (11) - Tailwind/React components, Figma kits, icons, themes, animations
-* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (3) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
+* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (4) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (20) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
-* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (10) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (11) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (2) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (3) - Fitness, nutrition, travel, home & personal apps
-* 📚 [Courses & Books](#-courses--books) (2) - Courses, books, certifications & guides
+* 📚 [Courses & Books](#-courses--books) (3) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
