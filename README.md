@@ -152,6 +152,7 @@ Add it to your website, README, or launch post:
 | [Atmos](https://atmos.style/?utm_source=twf-nikhila&utm_campaign=bf2026) | Color palette tool for UI design that builds accessible, perceptually uniform shades and syncs them to Figma | 💸 ♾️ **50% OFF** Lifetime · code `BF2026` | Nov 23, 2026 - Nov 29, 2026 |
 | [BirdFrame](https://getbirdframe.com/?utm_source=bf26-twf#black-friday) | Mac app that crops thousands of bird photos in one go, from the full-size original | ♾️ **33% OFF** the one-time unlock · $29.99 → $19.99 USD · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-twf-bf&utm_medium=listing&utm_campaign=press-twf-bf) | Turn photos of your pets, friends and food into chat stickers for iMessage, WhatsApp and Telegram, on iPhone and Android | ♾️ **43% OFF** the one-time Plus purchase · $6.99 → $3.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
+| [Sip](https://sipapp.io/pricing/?ref=twf-bf) | Modern color picker for Mac that brings ease to color organization and team collaboration | 💸 **50% OFF** · code `BLACKFRIDAY26` | Nov 27, 2026 - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
