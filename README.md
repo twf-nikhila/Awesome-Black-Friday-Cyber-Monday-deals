@@ -193,6 +193,7 @@ Add it to your website, README, or launch post:
 | [Clientish](https://clientish.co/black-friday-client-management-portal-deal/?utm_source=github&utm_medium=deal-list&utm_campaign=twf-bfcm) | White-label client portal and CRM for agencies and freelancers: orders, invoices, payments, tickets and live chat | **30% OFF** every yearly renewal, not just year one · code `BF30` | Nov 1, 2026 - Dec 1, 2026 |
 | [Evendeals](https://evendeals.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Increase revenue by up to 30% with purchasing power parity pricing | **40% OFF** all annual and lifetime plans · code `BF2026` | Nov 5, 2026 - Nov 30, 2026 |
 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 💸 ♾️ **50% OFF** SubManager+ Lifetime | Nov 27, 2026 - Nov 30, 2026 |
+| [Kira-AI](https://getkira.com/black-friday?promo=BF-DIRECTORY) | Voice-interviews every applicant and hands you the evidence, quoted with timestamps | 💸 **50% OFF** for 12 months, Starter $149 → $74/mo, Professional $349 → $174/mo · code `BF-DIRECTORY` | Nov 9, 2026 - Dec 2, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
