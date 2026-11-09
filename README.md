@@ -73,7 +73,7 @@ Add it to your website, README, or launch post:
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (15) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (2) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (11) - Tailwind/React components, Figma kits, icons, themes, animations
-* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (2) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
+* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (3) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (19) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (10) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (2) - Pentesting, threat monitoring, encrypted email & files, privacy tools
@@ -232,6 +232,7 @@ Add it to your website, README, or launch post:
 |:-:|:-:|:-:|:-:|
 | [GutSlider Pro](https://gutslider.com/black-friday/?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026) | Slider & carousel blocks for the WordPress block editor: 70+ designs, WooCommerce carousels, no jQuery | ♾️ **Up to 40% OFF** · lifetime from $69 · no code needed | Nov 5, 2026 - Dec 1, 2026 |
 | [Layerwise](https://layerwise.app/pricing) | Build and ship full-stack apps with database, login, email and cloud storage built in. Use your existing ChatGPT or Claude subscription for AI coding. | **20% OFF** all plans for 12 months, monthly or annual · code `BLACKFRIDAY2026` | Nov 3, 2026 - Dec 2, 2026 |
+| [Wordify](https://wordify.com/black-friday/?utm_source=github-twf&utm_medium=deals-list&utm_campaign=black-friday-2026) | Managed WordPress hosting for agencies: free migration of every client site, Automated Safe Updates with automatic rollback, staging and daily backups | 💸 **50% OFF** plan charges for 6 months, $2.50 a site instead of $5, new customers only · code `BF50` | Nov 9, 2026 - Dec 1, 2026 |
 
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
