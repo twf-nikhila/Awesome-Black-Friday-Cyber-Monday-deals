@@ -293,6 +293,7 @@ Add it to your website, README, or launch post:
 |:-:|:-:|:-:|:-:|
 | [Get Your First Client](https://getyourfirstclient.freelancerpath.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Step-by-step guide plus Notion templates (proposal, contract, invoice, CRM) to land your first freelance client. | 💸 **50% OFF** · code `BLACK` ($49.99 → $24.99) | Oct 28, 2026 - Dec 31, 2026 |
 | [pwn.guide](https://pwn.guide) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training | ♾️ **20% OFF** all plans, forever, including lifetime · code `BLKFRI20` · Certificate lifetime $249 → $199.20 | Nov 1, 2026 - Dec 5, 2026 |
+| [LabEx](https://labex.io/) | Learn Linux, DevOps, Cybersecurity, and Cloud with hands-on labs. | 💸 [**50% OFF LabEx Pro for 2 years**](https://labex.io/checkout?type=4&coupon=2026BF50) · code `2026BF50`; [**30% OFF for 1 year**](https://labex.io/checkout?type=2&coupon=2026BF30) · code `2026BF30` | Nov 15, 2026 - Dec 7, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
