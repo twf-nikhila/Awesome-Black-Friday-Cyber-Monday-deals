@@ -78,6 +78,7 @@ Add it to your website, README, or launch post:
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (11) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (2) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (4) - Fitness, nutrition, travel, home & personal apps
+* 🎓 [Education & Language Learning](#-education--language-learning) (2) - Dictionaries, language learning, flashcards & study tools
 * 📚 [Courses & Books](#-courses--books) (4) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) - Free credits, free plans, giveaways
@@ -290,7 +291,6 @@ Add it to your website, README, or launch post:
 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 💸 ♾️ **50% OFF** lifetime ($7.99 → $3.99) · code `INDIEGOODIESBF26` | Nov 20, 2026 - Nov 30, 2026 |
 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines | 💸 ♾️ **50% OFF** Lifetime · $59.99 → $29.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [KTool](https://ktool.io/pricing?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone | ♾️ **17% OFF** Lifetime ($179 → $149) · no code needed | Nov 2, 2026 - Dec 1, 2026 |
-| [Nihongo](https://nihongo-app.com/) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | 💸 ♾️ **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -306,6 +306,12 @@ Add it to your website, README, or launch post:
 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders | 💸 **50% OFF** the first year of the annual plan · $29.99 → $14.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for iPhone and iPad Home Screen and StandBy: snow globes, glowing pumpkins and festive scenes | ♾️ **33% OFF** one-time Premium ($2.99 → $1.99 USD) · automatic in-app discount, no code | Nov 27, 2026 - Nov 30, 2026 |
 
+## 🎓 Education & Language Learning
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [Nihongo](https://nihongo-app.com/) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | 💸 ♾️ **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
+| [Nihongo Lessons](https://lessons.nihongo-app.com/) | Learn Japanese vocabulary and grammar with sentence-based flashcards. | 💸 ♾️ **50% OFF** All Access lifetime ($299.99 → $149.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
+
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
@@ -313,7 +319,6 @@ Add it to your website, README, or launch post:
 | [pwn.guide](https://pwn.guide) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training | ♾️ **20% OFF** all plans, forever, including lifetime · code `BLKFRI20` · Certificate lifetime $249 → $199.20 | Nov 1, 2026 - Dec 5, 2026 |
 | [LabEx](https://labex.io/) | Learn Linux, DevOps, Cybersecurity, and Cloud with hands-on labs. | 💸 [**50% OFF LabEx Pro for 2 years**](https://labex.io/checkout?type=4&coupon=2026BF50) · code `2026BF50` · [**30% OFF for 1 year**](https://labex.io/checkout?type=2&coupon=2026BF30) · code `2026BF30` | Nov 15, 2026 - Dec 7, 2026 |
 | [FindExams](https://findexams.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Exam simulators for PMP, CBAP, ITIL 4 and more. | 💸 **Up to 50% OFF** · auto-applied, no coupon needed | Nov 16, 2026 - Nov 30, 2026 |
-| [Nihongo Lessons](https://lessons.nihongo-app.com/) | Learn Japanese vocabulary and grammar with sentence-based flashcards. | 💸 ♾️ **50% OFF** All Access lifetime ($299.99 → $149.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
