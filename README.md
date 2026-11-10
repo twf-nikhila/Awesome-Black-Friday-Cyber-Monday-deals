@@ -188,6 +188,7 @@ Add it to your website, README, or launch post:
 | [Scalelist](https://scalelist.com/black-friday/) | Finds the emails and mobile numbers of the people you want to call | **40% OFF** annual plans · 12 months for the price of 7 · code `BF40` | Nov 9, 2026 - Dec 2, 2026 |
 | [Terlido](https://terlido.com/pricing?utm_source=twf-github&utm_medium=deal-list&utm_campaign=bfcm-2026) | Cold email and newsletters from your own mailbox · warmup, campaigns, inbox and an AI agent; newsletters free up to 10,000 subscribers | **40% OFF** for 12 months · code `BF2026` (Email Pro $39 → $23.40/seat/mo, Newsletter Pro $29 → $17.40/mo) | Nov 9, 2026 - Dec 1, 2026 |
 | [PageDuel](https://pageduel.com/pricing?utm_source=twf-github&utm_medium=deal-list&utm_campaign=bfcm-2026) | Web analytics, A/B testing and revenue attribution in one tool · funnels and URL personalization for indie hackers, SaaS and Shopify stores | **40% OFF** for 12 months · code `BF2026` (plans from $9 → $5.40/mo) | Nov 9, 2026 - Dec 1, 2026 |
+| [Broadcast](https://sendbroadcast.net/black-friday?ref=twf-nikhila) | Self-hosted email marketing · newsletters, automations and transactional email on your own server, with a one-time license and unlimited subscribers | ♾️ **40% OFF** the Regular License, a one-time license ($250 → $150) · code `BLACKFRIDAY26` | Nov 9, 2026 - Dec 1, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
