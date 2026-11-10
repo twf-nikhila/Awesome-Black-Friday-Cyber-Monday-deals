@@ -251,6 +251,8 @@ Add it to your website, README, or launch post:
 | [Wordify](https://wordify.com/black-friday/?utm_source=github-twf&utm_medium=deals-list&utm_campaign=black-friday-2026) | Managed WordPress hosting for agencies: free migration of every client site, Automated Safe Updates with automatic rollback, staging and daily backups | 💸 **50% OFF** plan charges for 6 months, $2.50 a site instead of $5, new customers only · code `BF50` | Nov 9, 2026 - Dec 1, 2026 |
 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into a blog, portfolio or portal, published automatically on your own domain. No coding required. | **30% OFF** all paid plans for 12 months, monthly or annual · code `BLACKFRIDAY2026` · Lite $12 → $8.40/mo | Nov 9, 2026 - Dec 2, 2026 |
 
+| [Popup Maker Pro and Pro+](https://wppopupmaker.com/black-friday-sale-2026/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | Targeted WordPress popups for email signups, announcements and promotions | 💸 **50% OFF** first year of new annual Pro and Pro+ plans · code `PMBFCM26` active Nov 24 · renews at regular price | Nov 24, 2026 - Nov 30, 2026 |
+
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
