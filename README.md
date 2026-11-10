@@ -166,6 +166,7 @@ Add it to your website, README, or launch post:
 | [Fluent 2](https://fluentmac.app/?ref=twf-nikhila) | Not another chat window: AI for macOS that works in any app, plus AI teammates for routine tasks | ♾️ **25% OFF** lifetime licenses · code `BF2026` | Nov 1, 2026 - Dec 1, 2026 |
 | [BoltAI](https://boltai.com/pricing?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Native AI workspace for Mac · ChatGPT, Claude, Gemini and local AI models in one app, now with agents that browse in Chrome and use the apps you allow | ♾️ **40% OFF** Pro, Pro+ and Lifetime · code `BFCM2026` (Lifetime $399 → $239.40) | Nov 2, 2026 - Dec 1, 2026 |
 | [PDF Pals](https://pdfpals.com/buy?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models | ♾️ **40% OFF** Lifetime ($249 → $149, no code) · **20% OFF** Basic and Plus · code `BF20` | Nov 2, 2026 - Dec 1, 2026 |
+| [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform for developers and teams | **30% OFF** Premium yearly · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -200,6 +201,7 @@ Add it to your website, README, or launch post:
 | [Evendeals](https://evendeals.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Increase revenue by up to 30% with purchasing power parity pricing | **40% OFF** all annual and lifetime plans · code `BF2026` | Nov 5, 2026 - Nov 30, 2026 |
 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 💸 ♾️ **50% OFF** SubManager+ Lifetime | Nov 27, 2026 - Nov 30, 2026 |
 | [Kira-AI](https://getkira.com/black-friday?promo=BF-DIRECTORY) | Voice-interviews every applicant and hands you the evidence, quoted with timestamps | 💸 **50% OFF** for 12 months, Starter $149 → $74/mo, Professional $349 → $174/mo · code `BF-DIRECTORY` | Nov 9, 2026 - Dec 2, 2026 |
+| [Nivon](https://nivon.ai/pricing) | No-code AI customer support chatbot trained on your website and docs | **40% OFF** all paid plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -220,12 +222,18 @@ Add it to your website, README, or launch post:
 | [ESN Hosting](https://panel.esnoffical.com/plans) | Discord bot, Minecraft and game server hosting on a Pterodactyl web panel (Python, Node.js, Java and more) | 💸 **85% OFF** the first month on monthly plans, applied at checkout, no code (Stripe minimum $0.50): Elite 4 GB $4.49 → $0.67 first month | Oct 31, 2026 - Dec 1, 2026 |
 | [GetYouTubeTranscript](https://getyoutubetranscript.com/) | YouTube transcript API, MCP server and Chrome extension | **30% OFF** the first year of the annual plan · auto-applied at checkout, or code `BF26GYT` | Nov 1, 2026 - Dec 10, 2026 |
 | [Piloterr](https://www.piloterr.com/blackfriday) | Web scraping API that handles headless browsers and rotating proxies for you | 💸 **50% OFF** the first 3 months on every monthly plan, e.g. $49 → $24.50/mo · code `BLACKFRIDAY50` | Nov 9, 2026 - Nov 30, 2026 |
+| [FormBold](https://formbold.com/pricing) | Form backend and API that sends submissions to email, Slack and Notion | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [Static.run](https://static.run/pricing) | Static site hosting with analytics and one-click deploy | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [ShipAhead](https://shipahe.ad) | Ship your SaaS in a weekend with Nuxt Starter Kit | 💸 ♾️ **50% OFF** · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
 | [React PDF Kit](https://www.react-pdf-kit.dev/pricing?utm_source=github-twf-nikhila&utm_medium=referral&utm_campaign=bfcm2026) | Customizable PDF viewer component for React apps | 💸 ♾️ **50% OFF** Developer ($89 → $44.50) & Organization ($239 → $119.50) perpetual licenses · code `BFCM2026` | Nov 1, 2026 - Dec 1, 2026 |
+| [NextJS Templates](https://nextjstemplates.com/all-access) | 20+ Next.js templates, starter kits and boilerplates | **40% OFF** Business plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [SaaSBold](https://saasbold.com/pricing) | Full-stack Next.js SaaS boilerplate | **40% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [CozyCommerce](https://cozycommerce.dev/pricing) | Next.js and Tailwind eCommerce kit with 100+ components and 20+ pages | **30% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [NextMerce](https://nextmerce.com/pricing) | Next.js eCommerce boilerplate | **30% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 
 ## 🎨 UI Kits, Icons & Design Assets
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -242,6 +250,12 @@ Add it to your website, README, or launch post:
 | [LS Graphics](https://www.ls.graphics/) | Browser-based editor for static and animated mockups, plus 100+ branding and device mockup bundles with downloadable PSD, Figma, and Sketch source files. | 💸 **50% OFF** all bundles, monthly plans, and annual plans | Nov 6, 2026 - Dec 1, 2026 |
 | [AdminKit](https://adminkit.io/pricing/) | Bootstrap 5 admin dashboard template in HTML, React and Next.js versions, with light and dark mode | ♾️ **30% OFF** all licenses · code `BF2026` | Nov 23, 2026 - Dec 6, 2026 |
 | [Miguel Recio Framer Templates](https://www.framer.com/@miguel-recio/) | Framer website templates for SaaS, boutique hotels, real estate, law firms and finance, plus CMS components and vector sets | ♾️ **30% OFF** all paid templates, components and the 5-template bundle ($99 → $69.30) · code `BF26` | Nov 24, 2026 - Dec 1, 2026 |
+| [Lineicons](https://lineicons.com/pricing) | Icon pack of 30,000+ icons in 10 styles | **40% OFF** Business plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [TailGrids](https://tailgrids.com/pricing) | 600+ Tailwind CSS UI components, blocks and templates for HTML, React, Vue and Figma | **30% OFF** All Access plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [TailAdmin](https://tailadmin.com/pricing) | Tailwind CSS admin dashboard template with 500+ components for HTML, React, Next.js, Angular and Vue | **30% OFF** Business plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [TailTemplates](https://tailtemplates.com/all-access) | Premium Tailwind CSS templates for startups, SaaS and landing pages | 💸 **80% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [UIdeck](https://uideck.com/all-access) | 100+ Tailwind CSS and Bootstrap templates and landing pages | 💸 **60% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [NextAdmin](https://nextadmin.co/pricing) | 200+ Next.js dashboard templates and UI components | **30% OFF** Business plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -250,6 +264,7 @@ Add it to your website, README, or launch post:
 | [Layerwise](https://layerwise.app/pricing) | Build and ship full-stack apps with database, login, email and cloud storage built in. Use your existing ChatGPT or Claude subscription for AI coding. | **20% OFF** all plans for 12 months, monthly or annual · code `BLACKFRIDAY2026` | Nov 3, 2026 - Dec 2, 2026 |
 | [Wordify](https://wordify.com/black-friday/?utm_source=github-twf&utm_medium=deals-list&utm_campaign=black-friday-2026) | Managed WordPress hosting for agencies: free migration of every client site, Automated Safe Updates with automatic rollback, staging and daily backups | 💸 **50% OFF** plan charges for 6 months, $2.50 a site instead of $5, new customers only · code `BF50` | Nov 9, 2026 - Dec 1, 2026 |
 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into a blog, portfolio or portal, published automatically on your own domain. No coding required. | **30% OFF** all paid plans for 12 months, monthly or annual · code `BLACKFRIDAY2026` · Lite $12 → $8.40/mo | Nov 9, 2026 - Dec 2, 2026 |
+| [Meku](https://meku.dev/pricing) | AI builder for websites and web apps | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
