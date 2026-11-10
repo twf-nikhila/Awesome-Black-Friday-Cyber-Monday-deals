@@ -228,6 +228,7 @@ Add it to your website, README, or launch post:
 | [OneClickClaw](https://oneclickclaw.io/plans?utm_source=twf_nikhila&utm_medium=deal_list&utm_campaign=blackfriday2026) | Your own OpenClaw or Hermes Agent server in the EU (Denmark), set up for you · free 7-day trial, no card | **Up to 33% OFF** the first month on monthly plans: Starter €14.99 → €9.99, Hobbyist €25.99 → €17.99, Pro €49.99 → €34.99 · auto-applied at checkout, no code · then the regular monthly price | Nov 10, 2026 - Dec 1, 2026 |
 | [FormBold](https://formbold.com/pricing) | Form backend and API that sends submissions to email, Slack and Notion | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [Static.run](https://static.run/pricing) | Static site hosting with analytics and one-click deploy | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [POSH](https://poshtui.com/black-friday?utm_source=twf-bfcm&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** for as long as you stay subscribed · code `BLACKFRIDAY2026` · €7 → €4.90/month, €60 → €42/year · new subscriptions only | Nov 11, 2026 - Dec 2, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
