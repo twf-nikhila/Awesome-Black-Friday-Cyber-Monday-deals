@@ -290,7 +290,7 @@ Add it to your website, README, or launch post:
 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 💸 ♾️ **50% OFF** lifetime ($7.99 → $3.99) · code `INDIEGOODIESBF26` | Nov 20, 2026 - Nov 30, 2026 |
 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines | 💸 ♾️ **50% OFF** Lifetime · $59.99 → $29.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [KTool](https://ktool.io/pricing?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone | ♾️ **17% OFF** Lifetime ($179 → $149) · no code needed | Nov 2, 2026 - Dec 1, 2026 |
-| [Nihongo](https://nihongo-app.com/) | Japanese dictionary and study app for words you encounter. | 💸 ♾️ **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
+| [Nihongo](https://nihongo-app.com/) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | 💸 ♾️ **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
