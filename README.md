@@ -221,6 +221,7 @@ Add it to your website, README, or launch post:
 | [ESN Hosting](https://panel.esnoffical.com/plans) | Discord bot, Minecraft and game server hosting on a Pterodactyl web panel (Python, Node.js, Java and more) | 💸 **85% OFF** the first month on monthly plans, applied at checkout, no code (Stripe minimum $0.50): Elite 4 GB $4.49 → $0.67 first month | Oct 31, 2026 - Dec 1, 2026 |
 | [GetYouTubeTranscript](https://getyoutubetranscript.com/) | YouTube transcript API, MCP server and Chrome extension | **30% OFF** the first year of the annual plan · auto-applied at checkout, or code `BF26GYT` | Nov 1, 2026 - Dec 10, 2026 |
 | [Piloterr](https://www.piloterr.com/blackfriday) | Web scraping API that handles headless browsers and rotating proxies for you | 💸 **50% OFF** the first 3 months on every monthly plan, e.g. $49 → $24.50/mo · code `BLACKFRIDAY50` | Nov 9, 2026 - Nov 30, 2026 |
+| [OneClickClaw](https://oneclickclaw.io/plans?utm_source=twf_nikhila&utm_medium=deal_list&utm_campaign=blackfriday2026) | Your own OpenClaw or Hermes Agent server in the EU (Denmark), set up for you · free 7-day trial, no card | **Up to 33% OFF** the first month on monthly plans: Starter €14.99 → €9.99, Hobbyist €25.99 → €17.99, Pro €49.99 → €34.99 · auto-applied at checkout, no code · then the regular monthly price | Nov 10, 2026 - Dec 1, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
