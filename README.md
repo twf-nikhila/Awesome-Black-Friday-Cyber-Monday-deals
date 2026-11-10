@@ -139,6 +139,7 @@ Add it to your website, README, or launch post:
 | [Podwise](https://podwise.ai) | Turns any podcast episode into summaries, transcripts, mind maps and searchable notes, on web, iOS and Android, plus API/CLI/MCP for coding agents | **40% OFF** annual plans on top of the existing annual price (64% off vs paying monthly) · code `BF2026` · Pro $142.80 → $85.68/yr, Standard $70.80 → $42.48/yr | Nov 16, 2026 - Dec 6, 2026 |
 | [ScreenSage Pro](https://screensage.pro/bf2026?ref=twf-nikhila-bf2026) | Mac screen recording and video editing for polished tutorials and product demos, with cursor-following auto zoom, camera layouts and iPhone/iPad recording | 💸 ♾️ **Up to 53% OFF** one-time licenses · Lifetime $209.90 (was $449), code `BFS2026L` · Pro 3 Macs $79.90 (was $149), 46% off, code `BFS2026P` | Nov 4, 2026 - Dec 15, 2026 |
 | [SmoothCut](https://smoothcut.studio/pricing) | Screen recorder for macOS and Windows that auto-zooms on your clicks, smooths the cursor and adds a camera bubble and on-device captions | ♾️ **40% OFF** Personal and Pro one-time licenses · code `BLACKFRIDAY40` (auto-applied at checkout) · Personal $47.40 (was $79), Pro $101.40 (was $169) | Nov 10, 2026 - Dec 1, 2026 |
+| [Transcrybe](https://transcrybe.app/) | Live translated subtitles for your microphone or any Mac app. | 💸 ♾️ **50% OFF** one-time purchase ($29.99 → $14.99 USD) · auto-applied on the Mac App Store and direct website; no code needed | Nov 16, 2026 - Dec 2, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -311,6 +312,8 @@ Add it to your website, README, or launch post:
 | [pwn.guide](https://pwn.guide) | Hands-on ethical hacking and cybersecurity tutorials, plus CompTIA Security+ and PenTest+ certification training | ♾️ **20% OFF** all plans, forever, including lifetime · code `BLKFRI20` · Certificate lifetime $249 → $199.20 | Nov 1, 2026 - Dec 5, 2026 |
 | [LabEx](https://labex.io/) | Learn Linux, DevOps, Cybersecurity, and Cloud with hands-on labs. | 💸 [**50% OFF LabEx Pro for 2 years**](https://labex.io/checkout?type=4&coupon=2026BF50) · code `2026BF50` · [**30% OFF for 1 year**](https://labex.io/checkout?type=2&coupon=2026BF30) · code `2026BF30` | Nov 15, 2026 - Dec 7, 2026 |
 | [FindExams](https://findexams.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals) | Exam simulators for PMP, CBAP, ITIL 4 and more. | 💸 **Up to 50% OFF** · auto-applied, no coupon needed | Nov 16, 2026 - Nov 30, 2026 |
+| [Nihongo](https://nihongo-app.com/) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | 💸 ♾️ **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
+| [Nihongo Lessons](https://lessons.nihongo-app.com/) | Learn Japanese vocabulary and grammar with sentence-based flashcards. | 💸 ♾️ **50% OFF** All Access lifetime ($299.99 → $149.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
