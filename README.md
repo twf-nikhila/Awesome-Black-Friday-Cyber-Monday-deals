@@ -296,6 +296,7 @@ Add it to your website, README, or launch post:
 | [Steps: Workout & Pedometer](https://apps.apple.com/us/app/steps-workout-pedometer/id6746096378) | Step counter and workout tracker for iPhone and Apple Watch, featured by Apple | ♾️ **40% OFF** lifetime · code `BFCM26` · lifetime family sharing with code `BFCM26FAMILY` | Nov 2, 2026 - Dec 1, 2026 |
 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | Multi-camera live view for Ring that turns your TV or computer into a camera wall (Apple TV, Fire TV, Google TV, Roku, Mac, Windows, web) | 💸 **60% OFF** ($4.99 → $1.99 per camera/month) for new sign-ups · no code needed | Nov 2, 2026 - Nov 30, 2026 |
 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders | 💸 **50% OFF** the first year of the annual plan · $29.99 → $14.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
+| [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for iPhone and iPad Home Screen and StandBy: snow globes, glowing pumpkins and festive scenes | ♾️ **US$2.99 → US$1.99** for one-time Premium (save US$1, about 33%), no subscription. Upcoming offer; automatic in-app discount, no code. US pricing; local prices and timing vary | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
