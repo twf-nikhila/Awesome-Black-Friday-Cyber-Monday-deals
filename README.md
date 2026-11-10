@@ -317,6 +317,7 @@ Add it to your website, README, or launch post:
 | [anon.li](https://anon.li/pricing) | Open-source email aliases, end-to-end encrypted file sharing and encrypted forms | **40% OFF** all paid plans for 12 months · code `BLKFRI40` · card checkout | Nov 2, 2026 - Dec 6, 2026 |
 | [PortDroid](https://portdroid.net/sale) | Android network toolkit: port scanner, ping, traceroute, DNS, WHOIS, LAN discovery, WiFi analyser and certificate inspection. | 💸 ♾️ **50% OFF** Pro Lifetime, $9.49 → $4.69 USD · code `CYBER_2026` | Nov 5, 2026 - Dec 4, 2026 |
 | [SimpleumSafe](https://simpleum.com/en/?utm_source=bf26-awesome) | Keep private photos and important documents in an encrypted safe on Mac, iPhone and iPad. | ♾️ **30% OFF** the one-time purchase and the first year of an annual subscription · automatically applied to App Store in-app purchases · no code needed | Nov 16, 2026 - Dec 6, 2026 |
+| [Scanify](https://scanify.to/pricing) | Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirect chain and a sandbox picture of the page, in one 0-100 risk score | 💸 ♾️ **50% OFF** Lifetime Pro, $29 → $14.50 · code `BLACKFRIDAY` · or **50% OFF** Pro monthly for 3 months, $20 → $10/mo · code `BFPRO` | Nov 10, 2026 - Dec 9, 2026 |
 
 ## 📱 Lifestyle, Health & Travel
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
