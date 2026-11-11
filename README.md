@@ -327,6 +327,7 @@ Add it to your website, README, or launch post:
 | [Video Wall Live](https://www.videowalllive.com/blackfriday) | Multi-camera live view for Ring that turns your TV or computer into a camera wall (Apple TV, Fire TV, Google TV, Roku, Mac, Windows, web) | 💸 **60% OFF** ($4.99 → $1.99 per camera/month) for new sign-ups · no code needed | Nov 2, 2026 - Nov 30, 2026 |
 | [PepFlow](https://pepflow.app/download) | Track your peptide routine with dose history, flexible schedules, and reminders | 💸 **50% OFF** the first year of the annual plan · $29.99 → $14.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [Jubs](https://www.tryjubs.com/black-friday) | Animated holiday widgets for iPhone and iPad Home Screen and StandBy: snow globes, glowing pumpkins and festive scenes | ♾️ **33% OFF** one-time Premium ($2.99 → $1.99 USD) · automatic in-app discount, no code | Nov 27, 2026 - Nov 30, 2026 |
+| [Comic Weather](https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-awesome-twf&mt=8) | Weather app for iPhone that turns your forecast into a comic book page, painted in four comic skins | 💸 ♾️ **67% OFF** one-time purchase ($2.99 → $0.99 USD) · App Store price drop, no code needed | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
