@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **170 deals** listed · Updated Nov 11, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **171 deals** listed · Updated Nov 11, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -69,7 +69,7 @@ Add it to your website, README, or launch post:
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (8) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (5) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (14) - Social media, lead finding & outreach, email marketing, launch directories
-* 💼 [Business, Finance & Operations](#-business-finance--operations) (9) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (10) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (20) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (7) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (18) - Tailwind/React components, Figma kits, icons, themes, animations
