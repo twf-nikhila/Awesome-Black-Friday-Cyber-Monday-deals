@@ -240,6 +240,7 @@ Add it to your website, README, or launch post:
 | [SaaSBold](https://saasbold.com/pricing) | Full-stack Next.js SaaS boilerplate | **40% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [CozyCommerce](https://cozycommerce.dev/pricing) | Next.js and Tailwind eCommerce kit with 100+ components and 20+ pages | **30% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [NextMerce](https://nextmerce.com/pricing) | Next.js eCommerce boilerplate | **30% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [Dirstarter](https://dirstarter.com/?discountCode=BF2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents | 💸 ♾️ **50% OFF** lifetime license: Basic $150 → $75, Pro $200 → $100 · code `BF2026` | Nov 10, 2026 - Dec 1, 2026 |
 
 ## 🎨 UI Kits, Icons & Design Assets
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
