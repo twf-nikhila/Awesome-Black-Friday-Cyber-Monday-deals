@@ -284,7 +284,7 @@ Add it to your website, README, or launch post:
 | [Quotion](https://quotion.co/#pricing) | Turn Apple Notes into a blog, portfolio or portal, published automatically on your own domain. No coding required. | **30% OFF** all paid plans for 12 months, monthly or annual · code `BLACKFRIDAY2026` · Lite $12 → $8.40/mo | Nov 9, 2026 - Dec 2, 2026 |
 | [Popup Maker Pro and Pro+](https://wppopupmaker.com/black-friday-sale-2026/?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | Targeted WordPress popups for email signups, announcements and promotions | 💸 **50% OFF** first year of new annual Pro and Pro+ plans · code `PMBFCM26` active Nov 24 · renews at regular price | Nov 24, 2026 - Nov 30, 2026 |
 | [Meku](https://meku.dev/pricing) | AI builder for websites and web apps | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
-| [Kinsta](https://kinsta.com/black-friday/) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare | **3 months FREE** on annual plans or **50% OFF** the first 3 months on monthly plans · new customers · no code needed | Until Dec 1, 2026 |
+| [Kinsta](https://kinsta.com/black-friday/) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare | 💸 **3 months FREE** on annual plans or **50% OFF** the first 3 months on monthly plans · new customers · auto-applied | Nov 11, 2026 - Dec 1, 2026 |
 
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
