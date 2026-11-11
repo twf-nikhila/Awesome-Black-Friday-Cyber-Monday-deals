@@ -216,6 +216,7 @@ Add it to your website, README, or launch post:
 | [Kira-AI](https://getkira.com/black-friday?promo=BF-DIRECTORY) | Voice-interviews every applicant and hands you the evidence, quoted with timestamps | 💸 **50% OFF** for 12 months, Starter $149 → $74/mo, Professional $349 → $174/mo · code `BF-DIRECTORY` | Nov 9, 2026 - Dec 2, 2026 |
 | [Nivon](https://nivon.ai/pricing) | No-code AI customer support chatbot trained on your website and docs | **40% OFF** all paid plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [Voksha](https://voksha.com/) | AI receptionist that answers business calls | **30% OFF** · code `FESTIVE30` · Starter $14/mo → $9.80/mo | Nov 5, 2026 - Feb 5, 2027 |
+| [MotionOps](https://www.motionops.com/black-friday?utm_source=awesome-bf-cm-deals-shortliste&utm_medium=deal_listing&utm_campaign=bfcm_2026) | Field service management for growing contractor teams: jobs, crew schedules, proposals, invoices and payments in one app | 💸 **50% OFF** any plan for 6 months · Solo $59/mo → $29.50/mo · no code, claim by booking a short onboarding call | Nov 10, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
