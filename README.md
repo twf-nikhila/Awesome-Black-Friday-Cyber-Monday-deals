@@ -176,6 +176,7 @@ Add it to your website, README, or launch post:
 | [PDF Pals](https://pdfpals.com/buy?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models | ♾️ **40% OFF** Lifetime ($249 → $149, no code) · **20% OFF** Basic and Plus · code `BF20` | Nov 2, 2026 - Dec 1, 2026 |
 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform for developers and teams | **30% OFF** Premium yearly · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [LogicBalls](https://logicballs.com/blog/black-friday-deals) | AI workspace for writing, SEO and content | 💸 **50% OFF** · code `BF2026` · Pro $9.99/mo → $5.00/mo | Nov 11, 2026 - Dec 15, 2026 |
+| [MindPal](https://mindpal.io/pricing?utm_source=github-twf-nikhila&utm_campaign=bf2026) | Turn your expertise into AI agents and multi-agent workflows that your team, clients and audience use around the clock · no code | 💸 **60% OFF** your first year on any annual plan · code `BLACKFRIDAY2026` (billed yearly: Pro $39 → $16/mo, Advanced $149 → $60/mo, Ultra $374 → $150/mo) | Nov 10, 2026 - Dec 11, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
