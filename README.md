@@ -144,6 +144,7 @@ Add it to your website, README, or launch post:
 | [Pimosa](https://pimosa.app) | Offline desktop toolkit with 36 tools for video, audio, images, GIFs and PDFs, for macOS 12.4+ (Apple Silicon) and Windows | ♾️ **40% OFF** one-time · code `BLACKFRIDAY40` (auto-applied at checkout) · Personal $17.40 (was $29), Plus $29.40 (was $49) | Nov 10, 2026 - Nov 30, 2026 |
 | [MultiTrim](https://multitrim.app) | Mac app that trims leading and trailing silence from whole folders of audio (MP3, WAV, FLAC, AIFF, AAC/ALAC, Ogg) without re-encoding · free for single files | ♾️ Pro **€4.99** one-time on the Mac App Store (regular €9.99; lowest price in the previous 30 days €4.99) · no code, auto-applied · local prices vary | Nov 27, 2026 - Nov 30, 2026 |
 | [ClipUGC](https://clipugc.com/black-friday?utm_source=twf-nikhila) | Make UGC style videos for your app with AI influencers: paste your App Store or Play link, add a screen recording, get vertical videos with hooks and captions | 💸 **50% OFF** any plan for your first 2 months · code `BLACKFRIDAY` · Professional $14.99 → $7.50/mo · first videos free, no card | Nov 11, 2026 - Dec 6, 2026 |
+| [Kveeky](https://kveeky.com/blog/best-black-friday-ai-voiceover-deals) | AI voiceover for video and audio | **35% OFF** · code `BF2026` · Basic $9.00/mo → $5.85/mo | Through Dec 15, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -173,6 +174,7 @@ Add it to your website, README, or launch post:
 | [BoltAI](https://boltai.com/pricing?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Native AI workspace for Mac · ChatGPT, Claude, Gemini and local AI models in one app, now with agents that browse in Chrome and use the apps you allow | ♾️ **40% OFF** Pro, Pro+ and Lifetime · code `BFCM2026` (Lifetime $399 → $239.40) | Nov 2, 2026 - Dec 1, 2026 |
 | [PDF Pals](https://pdfpals.com/buy?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Chat with your PDF, Word, Excel, PowerPoint, EPUB and Markdown files on Mac, with cited answers and built-in local AI models | ♾️ **40% OFF** Lifetime ($249 → $149, no code) · **20% OFF** Basic and Plus · code `BF20` | Nov 2, 2026 - Dec 1, 2026 |
 | [Aymo AI](https://aymo.ai/pricing) | All-in-one multi-AI chat platform for developers and teams | **30% OFF** Premium yearly · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [LogicBalls](https://logicballs.com/blog/black-friday-deals) | AI workspace for writing, SEO and content | 💸 **50% OFF** · code `BF2026` · Pro $9.99/mo → $5.00/mo | Through Dec 15, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -181,6 +183,7 @@ Add it to your website, README, or launch post:
 | [AUTX AI Visibility Check](https://autx.ai/) | See whether AI models name your business when customers ask | **20% OFF** the AUTX AI Visibility Report, $39.20 instead of $49 · code `LAUNCH20` | Nov 2, 2026 - Nov 30, 2026 |
 | [Outpublished](https://outpublished.com/black-friday) | Shows content and SEO teams every page their competitors have that they don't, and each new one they publish | **40% OFF** for as long as you stay subscribed, first 150 accounts · auto-applied | Nov 20, 2026 - Dec 4, 2026 |
 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | Build and exchange nofollow backlinks through your coding agent | **30% OFF** first annual payment ($210 → $147), then $210/year · code `BLACKFRIDAY2026` | Nov 5, 2026 - Nov 30, 2026 |
+| [GrackerAI](https://gracker.ai/blog/black-friday-deals) | AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS | **20% OFF** · code `BF2026` · Individual $99/mo → $79.20/mo | Through Dec 15, 2026 |
 
 ## 📣 Marketing, Social & Lead Gen
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -197,6 +200,8 @@ Add it to your website, README, or launch post:
 | [PageDuel](https://pageduel.com/pricing?utm_source=twf-github&utm_medium=deal-list&utm_campaign=bfcm-2026) | Web analytics, A/B testing and revenue attribution in one tool · funnels and URL personalization for indie hackers, SaaS and Shopify stores | **40% OFF** for 12 months · code `BF2026` (plans from $9 → $5.40/mo) | Nov 9, 2026 - Dec 1, 2026 |
 | [Broadcast](https://sendbroadcast.net/black-friday?ref=twf-nikhila) | Self-hosted email marketing · newsletters, automations and transactional email on your own server, with a one-time license and unlimited subscribers | ♾️ **40% OFF** the Regular License, a one-time license ($250 → $150) · code `BLACKFRIDAY26` | Nov 9, 2026 - Dec 1, 2026 |
 | [LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=twf-github) | Local business leads for AI agents and automations · owner names, checked emails, phone line types and site tech via API or dashboard | **40% OFF** your first payment, the whole first year on yearly plans · code `BF2026` (Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr) | Nov 10, 2026 - Dec 2, 2026 |
+| [Social9](https://social9.com/) | Social media scheduling | **30% OFF** · code `BF2026` · Individual $12/mo → $8.40/mo | Through Dec 15, 2026 |
+| [Mailazy](https://mailazy.com/blog/black-friday-deals) | Email sending and marketing | **30% OFF** · code `THANKS30` · Pro $49/mo → $34.30/mo | Nov 5, 2026 - Feb 5, 2027 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -209,6 +214,7 @@ Add it to your website, README, or launch post:
 | [SubManager](https://submanager.app) | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | 💸 ♾️ **50% OFF** SubManager+ Lifetime | Nov 27, 2026 - Nov 30, 2026 |
 | [Kira-AI](https://getkira.com/black-friday?promo=BF-DIRECTORY) | Voice-interviews every applicant and hands you the evidence, quoted with timestamps | 💸 **50% OFF** for 12 months, Starter $149 → $74/mo, Professional $349 → $174/mo · code `BF-DIRECTORY` | Nov 9, 2026 - Dec 2, 2026 |
 | [Nivon](https://nivon.ai/pricing) | No-code AI customer support chatbot trained on your website and docs | **40% OFF** all paid plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [Voksha](https://voksha.com/) | AI receptionist that answers business calls | **30% OFF** · code `FESTIVE30` · Starter $14/mo → $9.80/mo | Nov 5, 2026 - Feb 5, 2027 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -324,6 +330,8 @@ Add it to your website, README, or launch post:
 | [SimpleumSafe](https://simpleum.com/en/?utm_source=bf26-awesome) | Keep private photos and important documents in an encrypted safe on Mac, iPhone and iPad. | ♾️ **30% OFF** the one-time purchase and the first year of an annual subscription · automatically applied to App Store in-app purchases · no code needed | Nov 16, 2026 - Dec 6, 2026 |
 | [Scanify](https://scanify.to/pricing) | Check a link, file, QR code or IP before you open it: 95+ antivirus engines, domain age, redirect chain and a sandbox picture of the page, in one 0-100 risk score | 💸 ♾️ **50% OFF** Lifetime Pro, $29 → $14.50 · code `BLACKFRIDAY` · or **50% OFF** Pro monthly for 3 months, $20 → $10/mo · code `BFPRO` | Nov 10, 2026 - Dec 9, 2026 |
 | [Vibe App Scanner](https://vibeappscanner.com/black-friday) | Live-app and source-code security checks with evidence, fix guidance and coverage limits. | 💸 **60% OFF** the first month of Go or Pro (Go $29 → $11.60, Pro $49 → $19.60 USD) · auto-applied, no code · new subscriptions only | Nov 10, 2026 - Nov 30, 2026 |
+| [SSOJet](https://ssojet.com/blog/black-friday-deals) | Single sign-on for B2B apps | **20% OFF** · code `BF2026` · Business $79/connection/mo → $63.20 | Through Dec 15, 2026 |
+| [MojoAuth](https://mojoauth.com/) | Passwordless login for apps | **20% OFF** · code `BF2026` · Business Pro (2,500 MAU) $150/mo → $120/mo | Through Dec 15, 2026 |
 
 ## 📱 Lifestyle, Health & Travel
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
