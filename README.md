@@ -159,6 +159,7 @@ Add it to your website, README, or launch post:
 | [PAPLO](https://getpaplo.com/news/black-friday-2026?utm_source=press-twf-bf&utm_medium=listing&utm_campaign=press-twf-bf) | Turn photos of your pets, friends and food into chat stickers for iMessage, WhatsApp and Telegram, on iPhone and Android | ♾️ **43% OFF** the one-time Plus purchase · $6.99 → $3.99 USD · no code needed | Nov 27, 2026 - Dec 1, 2026 |
 | [Sip](https://sipapp.io/pricing/?ref=twf-bf) | Modern color picker for Mac that brings ease to color organization and team collaboration | 💸 **50% OFF** · code `BLACKFRIDAY26` | Nov 27, 2026 - Dec 1, 2026 |
 | [SnapTidy](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm | 💸 ♾️ **50% OFF** the one-time Pro Lifetime purchase · $39.99 → $19.99 USD · no code needed · local prices vary, not in mainland China | Nov 27, 2026 - Nov 30, 2026 |
+| [ScreenSnap Pro](https://www.screensnap.pro/pricing) | All-in-one screenshot and screen recording app for Mac and Windows, with annotation tools and a built-in video editor | 💸 ♾️ **50% OFF** lifetime license · code `BLACKFRIDAY` · $19.50 (was $39), one license covers 2 computers | Nov 10, 2026 - Nov 30, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
