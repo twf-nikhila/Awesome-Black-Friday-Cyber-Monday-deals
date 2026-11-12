@@ -146,6 +146,7 @@ Add it to your website, README, or launch post:
 | [ClipUGC](https://clipugc.com/black-friday?utm_source=twf-nikhila) | Make UGC style videos for your app with AI influencers: paste your App Store or Play link, add a screen recording, get vertical videos with hooks and captions | 💸 **50% OFF** any plan for your first 2 months · code `BLACKFRIDAY` · Professional $14.99 → $7.50/mo · first videos free, no card | Nov 11, 2026 - Dec 6, 2026 |
 | [Kveeky](https://kveeky.com/blog/best-black-friday-ai-voiceover-deals) | AI voiceover for video and audio | **35% OFF** · code `BF2026` · Basic $9.00/mo → $5.85/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [BlitzReels](https://blitzreels.com/black-friday?utm_source=twf-nikhila) | Turns long videos into captioned vertical clips for TikTok, Reels and Shorts, then schedules them to your accounts | **Up to 34% OFF** the first year on yearly plans · auto-applied, no code · Starter $204 → $139, Growth $564 → $379, Agency $1,428 → $949 · +90 bonus credits | Nov 10, 2026 - Dec 1, 2026 |
+| [OutlierKit](https://outlierkit.com/app/pricing?utm_source=twf-github&utm_campaign=bfcm26) | YouTube research: find videos that beat a channel's usual views, research keywords and study competitors · MCP server and API on Pro and Max | **40% OFF** any plan, including lifetime · code `BFCM40` (Pro annual $599 → $359.40) | Nov 12, 2026 - Dec 5, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
