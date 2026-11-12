@@ -352,6 +352,7 @@ Add it to your website, README, or launch post:
 | [SSOJet](https://ssojet.com/blog/black-friday-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Single sign-on for B2B apps | **20% OFF** · code `BF2026` · Business $79/connection/mo → $63.20 | Nov 11, 2026 - Dec 15, 2026 |
 | [MojoAuth](https://mojoauth.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Passwordless login for apps | **20% OFF** · code `BF2026` · Business Pro (2,500 MAU) $150/mo → $120/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [SmartUsername Pro](https://smartusername.com/black-friday/?code=AWESOMEBF10&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | WordPress plugin that renames any user, including admin, and stops WordPress showing login names in author URLs, the REST API and oEmbed. Free version on wordpress.org | 💸 ♾️ **60% OFF** every yearly plan, no code needed · Personal $29 → $12, Pro $79 → $32, Agency $179 → $72 first year · Agency lifetime $299 → $149 · extra 10% with code `AWESOMEBF10` | Nov 11, 2026 - Dec 1, 2026 |
+| [Safe Screen Share](https://www.safescreenshare.com) | Chrome and Firefox extension that blurs emails, API keys and customer data on any web page before you screen share or record. Detection runs locally. | ♾️ **40% OFF** the lifetime license · code `BF2026` | Nov 12, 2026 - Dec 2, 2026 |
 
 ## 📱 Lifestyle, Health & Travel
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
