@@ -285,6 +285,7 @@ Add it to your website, README, or launch post:
 | [TailTemplates](https://tailtemplates.com/all-access?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Premium Tailwind CSS templates for startups, SaaS and landing pages | 💸 **80% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [UIdeck](https://uideck.com/all-access?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 100+ Tailwind CSS and Bootstrap templates and landing pages | 💸 **60% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [NextAdmin](https://nextadmin.co/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 200+ Next.js dashboard templates and UI components | **30% OFF** Business plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
+| [Artnap Pro](https://artnap.com/pro) | Archive of about 540,000 public domain artworks from museum open access collections; Pro adds museum master files up to about 13,000 px and print-ready paper sizes | **38% OFF** the first year of the yearly plan, $95.88 to $59 · no code needed | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
