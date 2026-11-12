@@ -178,6 +178,7 @@ Add it to your website, README, or launch post:
 | [Aymo AI](https://aymo.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | All-in-one multi-AI chat platform for developers and teams | **30% OFF** Premium yearly · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [LogicBalls](https://logicballs.com/blog/black-friday-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI workspace for writing, SEO and content | 💸 **50% OFF** · code `BF2026` · Pro $9.99/mo → $5.00/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [MindPal](https://mindpal.io/pricing?utm_source=github-twf-nikhila&utm_campaign=bf2026) | Turn your expertise into AI agents and multi-agent workflows that your team, clients and audience use around the clock · no code | 💸 **60% OFF** your first year on any annual plan · code `BLACKFRIDAY2026` (billed yearly: Pro $39 → $16/mo, Advanced $149 → $60/mo, Ultra $374 → $150/mo) | Nov 10, 2026 - Dec 11, 2026 |
+| [Wovo](https://wovo.one/?ref=twf2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers | 💸 **50% OFF** Pro and Max yearly · auto-applied (no code) · Pro $144 → $72/yr ($6/mo); Max $348 → $174/yr ($14.50/mo). Price locked for the subscription. New and existing users | through Dec 15, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
