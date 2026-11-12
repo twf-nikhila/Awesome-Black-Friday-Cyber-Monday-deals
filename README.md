@@ -126,6 +126,7 @@ Add it to your website, README, or launch post:
 ## 🎬 Video, Audio & Podcasting
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [Sip](https://sipapp.io/blackfriday/) | Native color picker for macOS that helps collect, organize, edit and share colors and palettes | **50% OFF** · `BLACKFRIDAY26` Nov 27–29; `CYBERMONDAY26` Nov 30–Dec 2, 2026 | Nov 27, 2026 - Dec 2, 2026 |
 | [Seedeo](https://seedeo.ai/black-friday) | All-in-one AI creative platform for video, image, music & voice (Kling 3.0, Seedance 2, Veo, GPT Image, Nano Banana Pro) on one shared credit balance | 💸 ♾️ **62% OFF** 20,000 never-expiring credits for $99 · **64% OFF** Pro annual ($129 first year) · auto-applied | Oct 27, 2026 - Nov 30, 2026 |
 | [Kensa](https://www.kensa.cc/deals/black-friday?utm_source=twf-nikhila&utm_campaign=bf2026) | Multi-model AI video generator: Veo 3.1, Seedance 2.5, MiniMax H3 and more on one credit balance · turn text, images or a product link into videos | **25% OFF** first year of yearly plans · code shown on the deal page | Nov 20, 2026 - Dec 1, 2026 |
 | [inReels](https://www.inreels.ai/pricing?utm_source=twf-bf26) | AI creative platform built for ads: UGC video ads, static ads, product & marketing videos, AI images, plus faceless & brainrot videos | 💸 **50% OFF** all yearly plans · code `BLACKFRIDAY2026` (auto-applied at yearly checkout) | Oct 31, 2026 - Dec 1, 2026 |
