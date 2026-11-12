@@ -250,6 +250,7 @@ Add it to your website, README, or launch post:
 | [Static.run](https://static.run/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Static site hosting with analytics and one-click deploy | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [POSH](https://poshtui.com/black-friday?utm_source=twf-bfcm&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** for as long as you stay subscribed · code `BLACKFRIDAY2026` · €7 → €4.90/month, €60 → €42/year · new subscriptions only | Nov 11, 2026 - Dec 2, 2026 |
 | [Perch](https://perch.run/black-friday?ref=twf-nikhila&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac menu bar app that shows every Claude Code, Codex, Cursor and other AI coding agent session, with approvals from your iPhone and Apple Watch | ♾️ **40% OFF** one-time licence ($29 → $17.40), solo or per team seat · code `BLACKFRIDAY2026` · first 500 orders | Nov 2, 2026 - Dec 1, 2026 |
+| [DevWorkspace Pro](https://devworkspacepro.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Desktop workspace that keeps each project's files, Git, terminals, services and logs together, and sends failed CI runs and GitHub issues to Claude Code, Codex or OpenCode. macOS, Windows and Linux | **40% OFF** all plans (new purchases; first month on the monthly plan) · code `BLACKFRIDAY40OFF` | Nov 10, 2026 - Dec 10, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -374,6 +375,7 @@ Add it to your website, README, or launch post:
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb) | Free VS Code extension that shows your database records inside VS Code, Cursor and Windsurf, zero config | Free forever, no account needed · Pro features in [DevDb Pro](https://devdbpro.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 10, 2026 - Dec 10, 2026 |
 
 # 📅 Previous years
 
