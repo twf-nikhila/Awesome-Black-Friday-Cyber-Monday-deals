@@ -379,7 +379,7 @@ Add it to your website, README, or launch post:
 
 # 🔖 Other places to list Black Friday Deals:
 
-[Shortlisted.tools](http://shortlisted.tools/) - Paid listings from $29: a written profile page, a permanent backlink, placement on "alternatives to" pages, a Markdown twin and llms.txt for AI. A strong investment for your product's SEO & AEO.
+[Shortlisted.tools](https://shortlisted.tools/) - Paid listings from $29: a written profile page, a permanent backlink, placement on "alternatives to" pages, a Markdown twin and llms.txt for AI. A strong investment for your product's SEO & AEO.
 
 [BlackFridayDeals.dev](https://blackfridaydeals.dev) 
 
