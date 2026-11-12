@@ -146,6 +146,7 @@ Add it to your website, README, or launch post:
 | [ClipUGC](https://clipugc.com/black-friday?utm_source=twf-nikhila) | Make UGC style videos for your app with AI influencers: paste your App Store or Play link, add a screen recording, get vertical videos with hooks and captions | 💸 **50% OFF** any plan for your first 2 months · code `BLACKFRIDAY` · Professional $14.99 → $7.50/mo · first videos free, no card | Nov 11, 2026 - Dec 6, 2026 |
 | [Kveeky](https://kveeky.com/blog/best-black-friday-ai-voiceover-deals) | AI voiceover for video and audio | **35% OFF** · code `BF2026` · Basic $9.00/mo → $5.85/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [BlitzReels](https://blitzreels.com/black-friday?utm_source=twf-nikhila) | Turns long videos into captioned vertical clips for TikTok, Reels and Shorts, then schedules them to your accounts | **Up to 34% OFF** the first year on yearly plans · auto-applied, no code · Starter $204 → $139, Growth $564 → $379, Agency $1,428 → $949 · +90 bonus credits | Nov 10, 2026 - Dec 1, 2026 |
+| [Roomtape](https://extensions.loopspec.com/roomtape) | Record Google Meet and Microsoft Teams calls to a local MP4. No bot, no account, and nothing uploaded. | 💸 ♾️ **69% OFF** one-time license ($29 → $9), including 3 years of updates · no code needed | Nov 5, 2026 - Dec 2, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -323,6 +324,7 @@ Add it to your website, README, or launch post:
 | [Overcal](https://indiegoodies.com/overcal) | Your calendar in the Mac menu bar: month view, agenda, world clocks, and a countdown with one-click join for your next meeting. | 💸 ♾️ **50% OFF** lifetime ($7.99 → $3.99) · code `INDIEGOODIESBF26` | Nov 20, 2026 - Nov 30, 2026 |
 | [Pretty Progress – Countdown](https://prettyprogress.app/download) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines | 💸 ♾️ **50% OFF** Lifetime · $59.99 → $29.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [KTool](https://ktool.io/pricing?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone | ♾️ **17% OFF** Lifetime ($179 → $149) · no code needed | Nov 2, 2026 - Dec 1, 2026 |
+| [Gramcheck](https://extensions.loopspec.com/gramcheck) | Grammar and spell checker for Chrome that runs on your device. Your writing is never uploaded. No account or subscription. | 💸 ♾️ **51% OFF** one-time license ($39 → $19), including 5 years of updates · no code needed | Nov 5, 2026 - Dec 2, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
