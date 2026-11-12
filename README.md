@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **171 deals** listed · Updated Nov 11, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **180 deals** listed · Updated Nov 12, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -64,19 +64,19 @@ Add it to your website, README, or launch post:
 
 # Table of Contents
 
-* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (20) - Video editing, AI video & music, screen recording, captions, transcription
+* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (21) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (14) - Image editing & compression, AI images, screenshots, color tools
-* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (8) - AI chat apps, writing & rewriting, knowledge assistants, resumes
-* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (5) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (14) - Social media, lead finding & outreach, email marketing, launch directories
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (9) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (6) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (15) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (10) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (20) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
-* 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (7) - Code templates & components to ship a SaaS or app faster
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (21) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (8) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (18) - Tailwind/React components, Figma kits, icons, themes, animations
-* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (6) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
+* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (7) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (20) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
-* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (11) - Notes, tasks, time tracking, focus & blocking, journaling, email
-* 🔐 [Security & Privacy](#-security--privacy) (7) - Pentesting, threat monitoring, encrypted email & files, privacy tools
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (12) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* 🔐 [Security & Privacy](#-security--privacy) (8) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (5) - Fitness, nutrition, travel, home & personal apps
 * 📚 [Courses & Books](#-courses--books) (6) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) - Paid newsletters, communities, curated databases & lists
