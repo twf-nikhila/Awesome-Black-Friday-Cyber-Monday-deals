@@ -241,6 +241,7 @@ Add it to your website, README, or launch post:
 | [FormBold](https://formbold.com/pricing) | Form backend and API that sends submissions to email, Slack and Notion | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [Static.run](https://static.run/pricing) | Static site hosting with analytics and one-click deploy | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [POSH](https://poshtui.com/black-friday?utm_source=twf-bfcm&utm_campaign=bf2026) | Version-matched Ruby and Rails docs for your coding agent, via CLI and MCP. Free terminal browser. macOS & Linux. | **30% OFF** for as long as you stay subscribed · code `BLACKFRIDAY2026` · €7 → €4.90/month, €60 → €42/year · new subscriptions only | Nov 11, 2026 - Dec 2, 2026 |
+| [Perch](https://perch.run/black-friday?ref=twf-nikhila) | Mac menu bar app that shows every Claude Code, Codex, Cursor and other AI coding agent session, with approvals from your iPhone and Apple Watch | ♾️ **40% OFF** one-time licence ($29 → $17.40), solo or per team seat · code `BLACKFRIDAY2026` · first 500 orders | Nov 2, 2026 - Dec 1, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
