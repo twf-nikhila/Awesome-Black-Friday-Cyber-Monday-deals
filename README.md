@@ -204,6 +204,7 @@ Add it to your website, README, or launch post:
 | [LeadMerlin](https://leadmerlin.com/black-friday/?utm_source=twf-github) | Local business leads for AI agents and automations · owner names, checked emails, phone line types and site tech via API or dashboard | **40% OFF** your first payment, the whole first year on yearly plans · code `BF2026` (Starter $348 → $208.80/yr, Pro $468 → $280.80/yr, Agency $948 → $568.80/yr) | Nov 10, 2026 - Dec 2, 2026 |
 | [Social9](https://social9.com/) | Social media scheduling | **30% OFF** · code `BF2026` · Individual $12/mo → $8.40/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [Mailazy](https://mailazy.com/blog/black-friday-deals) | Email sending and marketing | **30% OFF** · code `THANKS30` · Pro $49/mo → $34.30/mo | Nov 5, 2026 - Feb 5, 2027 |
+| [AppTrack Ninja](https://apptrack.ninja/pricing?utm_source=twf-github&utm_medium=deal-list&utm_campaign=bfcm-2026) | App Store intelligence and ASO · keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server | ♾️ **Lifetime Pro $89**, one payment (normally $69.99/year) · auto-applied on the pricing page | Nov 12, 2026 - Nov 30, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
