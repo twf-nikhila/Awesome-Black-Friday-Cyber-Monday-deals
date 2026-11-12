@@ -362,6 +362,7 @@ Add it to your website, README, or launch post:
 | [FindExams](https://findexams.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Exam simulators for PMP, CBAP, ITIL 4 and more. | 💸 **Up to 50% OFF** · auto-applied, no coupon needed | Nov 16, 2026 - Nov 30, 2026 |
 | [Nihongo](https://nihongo-app.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | 💸 ♾️ **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
 | [Nihongo Lessons](https://lessons.nihongo-app.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Learn Japanese vocabulary and grammar with sentence-based flashcards. | 💸 ♾️ **50% OFF** All Access lifetime ($299.99 → $149.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
+| [Vantagepoint](https://vantagepoint.enciphers.com/) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more | 💸 **70% OFF** all hacking labs and certifications · auto-applied, no code needed | Nov 2, 2026 - Dec 15, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
