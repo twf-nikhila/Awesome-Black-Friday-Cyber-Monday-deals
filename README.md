@@ -187,6 +187,7 @@ Add it to your website, README, or launch post:
 | [Outpublished](https://outpublished.com/black-friday) | Shows content and SEO teams every page their competitors have that they don't, and each new one they publish | **40% OFF** for as long as you stay subscribed, first 150 accounts · auto-applied | Nov 20, 2026 - Dec 4, 2026 |
 | [LinkBunny](https://getlinkbunny.com/pricing#black-friday-2026) | Build and exchange nofollow backlinks through your coding agent | **30% OFF** first annual payment ($210 → $147), then $210/year · code `BLACKFRIDAY2026` | Nov 5, 2026 - Nov 30, 2026 |
 | [GrackerAI](https://gracker.ai/blog/black-friday-deals) | AI search visibility (AEO and GEO) for cybersecurity and B2B SaaS | **20% OFF** · code `BF2026` · Individual $99/mo → $79.20/mo | Nov 11, 2026 - Dec 15, 2026 |
+| [OutlierKit](https://outlierkit.com/app/pricing?utm_source=twf-github&utm_campaign=bfcm26) | YouTube research: find videos that beat a channel's usual views, research keywords and study competitors · MCP server and API on Pro and Max | **40% OFF** any plan, including lifetime · code `BFCM40` (Pro annual $599 → $359.40) | Nov 12, 2026 - Dec 5, 2026 |
 
 ## 📣 Marketing, Social & Lead Gen
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
