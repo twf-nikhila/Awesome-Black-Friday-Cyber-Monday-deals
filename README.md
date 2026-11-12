@@ -335,6 +335,7 @@ Add it to your website, README, or launch post:
 | [Vibe App Scanner](https://vibeappscanner.com/black-friday) | Live-app and source-code security checks with evidence, fix guidance and coverage limits. | 💸 **60% OFF** the first month of Go or Pro (Go $29 → $11.60, Pro $49 → $19.60 USD) · auto-applied, no code · new subscriptions only | Nov 10, 2026 - Nov 30, 2026 |
 | [SSOJet](https://ssojet.com/blog/black-friday-deals) | Single sign-on for B2B apps | **20% OFF** · code `BF2026` · Business $79/connection/mo → $63.20 | Nov 11, 2026 - Dec 15, 2026 |
 | [MojoAuth](https://mojoauth.com/) | Passwordless login for apps | **20% OFF** · code `BF2026` · Business Pro (2,500 MAU) $150/mo → $120/mo | Nov 11, 2026 - Dec 15, 2026 |
+| [SmartUsername Pro](https://smartusername.com/black-friday/?code=AWESOMEBF10) | WordPress plugin that renames any user, including admin, and stops WordPress showing login names in author URLs, the REST API and oEmbed. Free version on wordpress.org | 💸 ♾️ **60% OFF** every yearly plan, no code needed · Personal $29 → $12, Pro $79 → $32, Agency $179 → $72 first year · Agency lifetime $299 → $149 · extra 10% with code `AWESOMEBF10` | Nov 11, 2026 - Dec 1, 2026 |
 
 ## 📱 Lifestyle, Health & Travel
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
