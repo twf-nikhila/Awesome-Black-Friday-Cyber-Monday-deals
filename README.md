@@ -379,6 +379,8 @@ Add it to your website, README, or launch post:
 
 # 🔖 Other places to list Black Friday Deals:
 
+[Shortlisted.tools](http://shortlisted.tools/) - Paid listings from $29: a written profile page, a permanent backlink, placement on "alternatives to" pages, a Markdown twin and llms.txt for AI. A strong investment for your product's SEO & AEO.
+
 [BlackFridayDeals.dev](https://blackfridaydeals.dev) 
 
 [SaaS Black Friday](https://saasblackfriday.online/) - Tracker of 240 SaaS & AI tools for BF/CM 2026; past deals labelled by year, 2026 deals verified as they go live.
