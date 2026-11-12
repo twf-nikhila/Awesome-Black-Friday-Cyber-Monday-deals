@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **180 deals** listed · Updated Nov 12, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **191 deals** listed · Updated Nov 12, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -66,21 +66,21 @@ Add it to your website, README, or launch post:
 
 * 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (21) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (14) - Image editing & compression, AI images, screenshots, color tools
-* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (9) - AI chat apps, writing & rewriting, knowledge assistants, resumes
-* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (6) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (15) - Social media, lead finding & outreach, email marketing, launch directories
-* 💼 [Business, Finance & Operations](#-business-finance--operations) (10) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (21) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (11) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (7) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (16) - Social media, lead finding & outreach, email marketing, launch directories
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (13) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (22) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (8) - Code templates & components to ship a SaaS or app faster
-* 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (18) - Tailwind/React components, Figma kits, icons, themes, animations
+* 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (19) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (7) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (20) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (12) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (8) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (5) - Fitness, nutrition, travel, home & personal apps
-* 📚 [Courses & Books](#-courses--books) (6) - Courses, books, certifications & guides
+* 📚 [Courses & Books](#-courses--books) (7) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) - Paid newsletters, communities, curated databases & lists
-* 🎁 [Free Stuff](#-free-stuff) - Free credits, free plans, giveaways
+* 🎁 [Free Stuff](#-free-stuff) (1) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
 
 **Legend:** 💸 50% OFF or more · ♾️ Lifetime / buy-once deal
@@ -178,7 +178,7 @@ Add it to your website, README, or launch post:
 | [Aymo AI](https://aymo.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | All-in-one multi-AI chat platform for developers and teams | **30% OFF** Premium yearly · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [LogicBalls](https://logicballs.com/blog/black-friday-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI workspace for writing, SEO and content | 💸 **50% OFF** · code `BF2026` · Pro $9.99/mo → $5.00/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [MindPal](https://mindpal.io/pricing?utm_source=github-twf-nikhila&utm_campaign=bf2026) | Turn your expertise into AI agents and multi-agent workflows that your team, clients and audience use around the clock · no code | 💸 **60% OFF** your first year on any annual plan · code `BLACKFRIDAY2026` (billed yearly: Pro $39 → $16/mo, Advanced $149 → $60/mo, Ultra $374 → $150/mo) | Nov 10, 2026 - Dec 11, 2026 |
-| [Wovo](https://wovo.one/?ref=twf2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers | 💸 **50% OFF** Pro and Max yearly · auto-applied, no code · Pro $144 → $72/yr, Max $348 → $174/yr · price locked for the subscription | Nov 12, 2026 - Dec 15, 2026 |
+| [Wovo](https://wovo.one/?ref=twf2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers | 💸 **50% OFF** Pro and Max yearly · auto-applied, no code · Pro $144 → $72/yr, Max $348 → $174/yr · price locked for the subscription | Nov 12, 2026 - Dec 15, 2026 |
 | [Orwellix](https://orwellix.com/lifetime-deal?utm_source=twf-awesome-bfcm&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026) | AI writing editor where an agent edits your whole document in place and you accept or reject every change | ♾️ **Lifetime plan $249 once** (Premium is normally $468/year) · auto-applied · only 300 deals | Nov 12, 2026 - Dec 31, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
@@ -210,7 +210,7 @@ Add it to your website, README, or launch post:
 | [Social9](https://social9.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Social media scheduling | **30% OFF** · code `BF2026` · Individual $12/mo → $8.40/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [Mailazy](https://mailazy.com/blog/black-friday-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Email sending and marketing | **30% OFF** · code `THANKS30` · Pro $49/mo → $34.30/mo | Nov 5, 2026 - Feb 5, 2027 |
 | [AppTrack Ninja](https://apptrack.ninja/pricing?utm_source=twf-github&utm_medium=deal-list&utm_campaign=bfcm-2026) | App Store intelligence and ASO · keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server | ♾️ **Lifetime Pro $89**, one payment (normally $69.99/year) · auto-applied on the pricing page | Nov 12, 2026 - Nov 30, 2026 |
-| [FomoToast](https://fomotoast.com) | Social-proof popups built from real customer activity, for any site including WooCommerce and Shopify | ♾️ **40% OFF** lifetime plans · code `BF26` · one-time payment, from $39 | Nov 13, 2026 - Dec 2, 2026 |
+| [FomoToast](https://fomotoast.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Social-proof popups built from real customer activity, for any site including WooCommerce and Shopify | ♾️ **40% OFF** lifetime plans · code `BF26` · one-time payment, from $39 | Nov 13, 2026 - Dec 2, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -226,8 +226,8 @@ Add it to your website, README, or launch post:
 | [Fidiora](https://fidiora.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI customer support that resolves customer questions, captures leads and routes the rest to your team | **25% OFF** · code `FID25OFF` · off the per-resolution rates (list price Starter $0.69, Growth $0.45) | Nov 5, 2026 - Dec 31, 2026 |
 | [Voksha](https://voksha.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI receptionist that answers business calls | **30% OFF** · code `FESTIVE30` · Starter $14/mo → $9.80/mo | Nov 5, 2026 - Feb 5, 2027 |
 | [MotionOps](https://www.motionops.com/black-friday?utm_source=awesome-bf-cm-deals-shortliste&utm_medium=deal_listing&utm_campaign=bfcm_2026) | Field service management for growing contractor teams: jobs, crew schedules, proposals, invoices and payments in one app | 💸 **50% OFF** any plan for 6 months · Solo $59/mo → $29.50/mo · no code, claim by booking a short onboarding call | Nov 10, 2026 - Nov 30, 2026 |
-| [Opskeet](https://opskeet.com) | AI agent, live chat, shared inbox, tickets and a help center for customer support, in your brand | **40% OFF** all plans · code `BF26` | Nov 13, 2026 - Dec 2, 2026 |
-| [Larderly full menu costing](https://bardachtechnologies.gumroad.com/l/larderly-full-menu-costing) | Done-for-you restaurant menu costing: send your menu and supplier invoices, get every dish costed in the Larderly workbook (Excel / Google Sheets) within 3 business days | **38% OFF** ($79 → $49) one-time · code `BLACKFRIDAY49` | Nov 24, 2026 - Dec 1, 2026 |
+| [Opskeet](https://opskeet.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI agent, live chat, shared inbox, tickets and a help center for customer support, in your brand | **40% OFF** all plans · code `BF26` | Nov 13, 2026 - Dec 2, 2026 |
+| [Larderly full menu costing](https://bardachtechnologies.gumroad.com/l/larderly-full-menu-costing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Done-for-you restaurant menu costing: send your menu and supplier invoices, get every dish costed in the Larderly workbook (Excel / Google Sheets) within 3 business days | **38% OFF** ($79 → $49) one-time · code `BLACKFRIDAY49` | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -288,7 +288,7 @@ Add it to your website, README, or launch post:
 | [TailTemplates](https://tailtemplates.com/all-access?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Premium Tailwind CSS templates for startups, SaaS and landing pages | 💸 **80% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [UIdeck](https://uideck.com/all-access?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 100+ Tailwind CSS and Bootstrap templates and landing pages | 💸 **60% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [NextAdmin](https://nextadmin.co/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 200+ Next.js dashboard templates and UI components | **30% OFF** Business plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
-| [Artnap Pro](https://artnap.com/pro) | Archive of about 540,000 public domain artworks from museum open access collections; Pro adds museum master files up to about 13,000 px and print-ready paper sizes | **38% OFF** the first year of the yearly plan ($95.88 → $59) · no code needed | Nov 23, 2026 - Nov 30, 2026 |
+| [Artnap Pro](https://artnap.com/pro?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Archive of about 540,000 public domain artworks from museum open access collections; Pro adds museum master files up to about 13,000 px and print-ready paper sizes | **38% OFF** the first year of the yearly plan ($95.88 → $59) · no code needed | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -371,7 +371,7 @@ Add it to your website, README, or launch post:
 | [FindExams](https://findexams.com/?ref=Awesome-Black-Friday-Cyber-Monday-deals&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Exam simulators for PMP, CBAP, ITIL 4 and more. | 💸 **Up to 50% OFF** · auto-applied, no coupon needed | Nov 16, 2026 - Nov 30, 2026 |
 | [Nihongo](https://nihongo-app.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | 💸 ♾️ **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
 | [Nihongo Lessons](https://lessons.nihongo-app.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Learn Japanese vocabulary and grammar with sentence-based flashcards. | 💸 ♾️ **50% OFF** All Access lifetime ($299.99 → $149.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
-| [Vantagepoint](https://vantagepoint.enciphers.com/) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more | 💸 **70% OFF** all hacking labs and certifications · auto-applied, no code needed | Nov 2, 2026 - Dec 15, 2026 |
+| [Vantagepoint](https://vantagepoint.enciphers.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more | 💸 **70% OFF** all hacking labs and certifications · auto-applied, no code needed | Nov 2, 2026 - Dec 15, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -380,7 +380,7 @@ Add it to your website, README, or launch post:
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
-| [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb) | Free VS Code extension that shows your database records inside VS Code, Cursor and Windsurf, zero config | Free forever, no account needed · Pro features in [DevDb Pro](https://devdbpro.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 10, 2026 - Dec 10, 2026 |
+| [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Free VS Code extension that shows your database records inside VS Code, Cursor and Windsurf, zero config | Free forever, no account needed · Pro features in [DevDb Pro](https://devdbpro.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 10, 2026 - Dec 10, 2026 |
 
 # 📅 Previous years
 
