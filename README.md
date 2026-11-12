@@ -207,6 +207,7 @@ Add it to your website, README, or launch post:
 | [Social9](https://social9.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Social media scheduling | **30% OFF** · code `BF2026` · Individual $12/mo → $8.40/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [Mailazy](https://mailazy.com/blog/black-friday-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Email sending and marketing | **30% OFF** · code `THANKS30` · Pro $49/mo → $34.30/mo | Nov 5, 2026 - Feb 5, 2027 |
 | [AppTrack Ninja](https://apptrack.ninja/pricing?utm_source=twf-github&utm_medium=deal-list&utm_campaign=bfcm-2026) | App Store intelligence and ASO · keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server | ♾️ **Lifetime Pro $89**, one payment (normally $69.99/year) · auto-applied on the pricing page | Nov 12, 2026 - Nov 30, 2026 |
+| [FomoToast](https://fomotoast.com) | Social-proof popups built from real customer activity, for any site including WooCommerce and Shopify | ♾️ **40% OFF** lifetime plans · code `BF26` · one-time payment, from $39 | Nov 13, 2026 - Dec 2, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
