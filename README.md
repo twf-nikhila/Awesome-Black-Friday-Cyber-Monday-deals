@@ -352,6 +352,7 @@ Add it to your website, README, or launch post:
 | [KTool](https://ktool.io/pricing?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone | ♾️ **17% OFF** Lifetime ($179 → $149) · no code needed | Nov 2, 2026 - Dec 1, 2026 |
 | [Gramcheck](https://extensions.loopspec.com/gramcheck?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Grammar and spell checker for Chrome that runs on your device. Your writing is never uploaded. No account or subscription. | 💸 ♾️ **51% OFF** one-time license ($39 → $19), including 5 years of updates · no code needed | Nov 5, 2026 - Dec 2, 2026 |
 | [Snippety](https://snippety.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The most powerful text expander for Mac and iPhone | ♾️ **40% OFF** lifetime ($49.99 → $29.99) · on the App Store | Nov 13, 2026 - Nov 30, 2026 |
+| [SimpleFill](https://simplefill.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Text expansion, AI actions, and one-click form filling in your browser (Chrome, Firefox, Edge, and Safari) | ♾️ **25% OFF** one-time purchase (Standard $29 → $21.75, Pro $59 → $44.25) · code `LAUNCH` · Chrome, Firefox, and Edge checkout | Nov 10, 2026 - Dec 7, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
