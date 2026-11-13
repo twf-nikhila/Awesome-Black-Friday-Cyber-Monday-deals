@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **210 deals** listed · Updated Nov 13, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **217 deals** listed · Updated Nov 13, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -64,20 +64,20 @@ Add it to your website, README, or launch post:
 
 # Table of Contents
 
-* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (24) - Video editing, AI video & music, screen recording, captions, transcription
+* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (25) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (16) - Image editing & compression, AI images, screenshots, color tools
-* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (12) - AI chat apps, writing & rewriting, knowledge assistants, resumes
-* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (9) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (17) - Social media, lead finding & outreach, email marketing, launch directories
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (13) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (10) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (19) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (14) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (23) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (8) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (19) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (7) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (20) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
-* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (13) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (14) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (14) - Pentesting, threat monitoring, encrypted email & files, privacy tools
-* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (6) - Fitness, nutrition, travel, home & personal apps
+* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (7) - Fitness, nutrition, travel, home & personal apps
 * 📚 [Courses & Books](#-courses--books) (7) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (1) - Free credits, free plans, giveaways
@@ -150,7 +150,7 @@ Add it to your website, README, or launch post:
 | [TranscribeX](https://www.transcribex.io/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local, private AI transcription: turn audio and video into accurate transcripts fully on your device, no cloud | ♾️ **30% OFF** Lifetime ($39 → $27.30) · code `BLACKFRIDAY2026` | Nov 23, 2026 - Dec 6, 2026 |
 | [PugSoda](https://pugsoda.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn a single photo into trending AI meme, dance and photo-studio videos in your browser | **30% OFF** first month on monthly plans (Starter $14 → $9.80, Creator $34 → $23.80, Studio $96 → $67.20) · code `BF2026` · plus **+25%–30% bonus** on never-expiring credit packs | Nov 13, 2026 - Dec 1, 2026 |
 | [RapStar Studio](https://rapstarstudio.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn names and inside jokes into a custom AI rap song in two versions with two 720p lyric videos (no account needed) | ♾️ **30% OFF** one-time custom song ($9.90 → $6.93) · code `BF2026` | Nov 13, 2026 - Dec 1, 2026 |
-| [Crisp](https://crispvideo.app/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor · free version available | ♾️ **31% OFF** · Black Friday sale: $9.99 once, 31% off our November price of $14.50, through December 2. Then $19. · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
+| [Crisp](https://crispvideo.app/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor · free version available | ♾️ **31% OFF** one-time ($14.50 → $9.99, then $19) · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -187,7 +187,7 @@ Add it to your website, README, or launch post:
 | [Wovo](https://wovo.one/?ref=twf2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | One MCP that turns any AI into a multi-device agent across all your computers | 💸 **50% OFF** Pro and Max yearly · auto-applied, no code · Pro $144 → $72/yr, Max $348 → $174/yr · price locked for the subscription | Nov 12, 2026 - Dec 15, 2026 |
 | [Orwellix](https://orwellix.com/lifetime-deal?utm_source=twf-awesome-bfcm&utm_medium=deal-directory&utm_campaign=lifetime-deal-2026) | AI writing editor where an agent edits your whole document in place and you accept or reject every change | ♾️ **Lifetime plan $249 once** (Premium is normally $468/year) · auto-applied · only 300 deals | Nov 12, 2026 - Dec 31, 2026 |
 | [Wordfully](https://www.wordfully.ai/c/BLACKFRIDAY2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI grammar checker and rephraser for everyday writing. | 💸 **50% OFF** the first monthly or annual Pro payment · code `BLACKFRIDAY2026` · monthly $20 → $10, annual $108 → $54 · first-time paying customers | Nov 12, 2026 - Dec 4, 2026 |
-| [Outlier](https://outlier.host/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase · free to start | ♾️ **31% OFF** · Black Friday sale: $16.99 once, 31% off our November price of $24.50, through December 2. Then $29. · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
+| [Outlier](https://outlier.host/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Runs open AI models on your own Mac, so your chats and code stay on it, even offline: chat plus a coding agent for your own codebase · free to start | ♾️ **31% OFF** one-time ($24.50 → $16.99, then $29) · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -201,7 +201,7 @@ Add it to your website, README, or launch post:
 | [Citation Rocket](https://www.citationrocket.com/pricing?utm_source=twf-nikhila&utm_medium=bf_list&utm_campaign=bf2026) | Checks if GPT, Claude, Gemini, Perplexity and Grok name your brand, then ranks the fixes to get cited | ♾️ **40% OFF** lifetime licence, $99 → $59 (Agency $149 → $89) · auto-applied | Nov 12, 2026 - Dec 2, 2026 |
 | [ZeroRank](https://zerorank.ai?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI search visibility and GEO software for SEO teams and agencies to track brand mentions, citations and competitors across AI answer engines. | **28% OFF** the first 3 monthly payments · discounted first year on annual plans · [terms](https://zerorank.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 2, 2026 - Nov 30, 2026 |
 | [Ascope](https://ascope.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | ASO tool for Mac and Windows: tracks App Store and Google Play keyword ranks daily in 50+ countries, with popularity and difficulty · MCP server for Cursor and Claude | 💸 ♾️ **63% OFF** lifetime licence, $189 → $69 one-time · auto-applied | Nov 1, 2026 - Nov 30, 2026 |
-| [Check Engine SEO](https://checkengineseo.com/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan · free version available | ♾️ **32% OFF** · Black Friday sale: $19.99 once, 32% off our November price of $29.50, through December 2. Then $39. · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
+| [Check Engine SEO](https://checkengineseo.com/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan · free version available | ♾️ **32% OFF** one-time ($29.50 → $19.99, then $39) · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
 
 ## 📣 Marketing, Social & Lead Gen
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -223,7 +223,7 @@ Add it to your website, README, or launch post:
 | [AppTrack Ninja](https://apptrack.ninja/pricing?utm_source=twf-github&utm_medium=deal-list&utm_campaign=bfcm-2026) | App Store intelligence and ASO · keyword ranks, trending apps, publisher portfolios, app transfers and competitors' Apple Search Ads, plus an MCP server | ♾️ **Lifetime Pro $89**, one payment (normally $69.99/year) · auto-applied on the pricing page | Nov 12, 2026 - Nov 30, 2026 |
 | [FomoToast](https://fomotoast.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Social-proof popups built from real customer activity, for any site including WooCommerce and Shopify | ♾️ **40% OFF** lifetime plans · code `BF26` · one-time payment, from $39 | Nov 13, 2026 - Dec 2, 2026 |
 | [Fourth Feed](https://fourthfeed.com/write?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Publish side-by-side sponsored video benchmark comparisons on an AI video tools directory | ♾️ **30% OFF** non-expiring maker post packs (1 post $19 → $13.30, 3 posts $39 → $27.30, 9 posts $99 → $69.30) · code `BF2026` | Nov 13, 2026 - Dec 1, 2026 |
-| [Powers4GA](https://powers4ga.com/#pricing) | A simple Google Analytics 4 dashboard that shows which traffic sources bring in revenue | ♾️ **$39 lifetime** for the first 4 purchases, then **$49** for the next 10 · unlimited websites · auto-applied, no code needed | Nov 13, 2026 - Dec 31, 2026 |
+| [Powers4GA](https://powers4ga.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | A simple Google Analytics 4 dashboard that shows which traffic sources bring in revenue | ♾️ **$39 lifetime** for the first 4 purchases, then **$49** for the next 10 · unlimited websites · auto-applied, no code needed | Nov 13, 2026 - Dec 31, 2026 |
 | [Surfolks](https://surfolks.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Relationship tool for LinkedIn and X: watch up to 50 people and read all their public posts in one focused feed, with ICP goals, people discovery and engagement insights | ♾️ **$99 lifetime, paid once** (regularly $49/month) · 50 people and every feature included · first 100 deals only · no code needed · ends 1 Dec 2026 | Nov 12, 2026 - Dec 1, 2026 |
 
 ## 💼 Business, Finance & Operations
