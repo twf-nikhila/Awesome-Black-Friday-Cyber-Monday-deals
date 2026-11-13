@@ -16,6 +16,8 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
+from utm import add_utm
+
 ROOT = Path(__file__).resolve().parent.parent
 REPO = "https://github.com/twf-nikhila/Awesome-Black-Friday-Cyber-Monday-deals"
 OUT = ROOT / "_site"
@@ -29,6 +31,11 @@ def safe_url(url):
     return url if re.match(r"^https?://", url, re.I) else None
 
 
+def deal_url(url):
+    url = safe_url(url)
+    return add_utm(url, "website") if url else None
+
+
 def inline_md(text):
     """Escape a table cell, then allow links, **bold**, `code` and a few tags."""
     s = html.escape(text.strip(), quote=True)
@@ -39,7 +46,7 @@ def inline_md(text):
     s = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", s)
 
     def link(m):
-        url = safe_url(html.unescape(m.group(2)))
+        url = deal_url(html.unescape(m.group(2)))
         if not url:
             return m.group(1)
         return f'<a href="{html.escape(url, quote=True)}" target="_blank" rel="noopener nofollow">{m.group(1)}</a>'
@@ -69,7 +76,7 @@ def parse_deal_row(line):
         return None
     m = LINK_RE.search(cells[0])
     name = strip_tags(m.group(1) if m else cells[0])
-    url = safe_url(m.group(2)) if m else None
+    url = deal_url(m.group(2)) if m else None
     deal = cells[2] if len(cells) > 2 else ""
     return {
         "name": name,
@@ -111,6 +118,20 @@ def section_links(text, heading_prefix):
     return links
 
 
+def other_places(text):
+    """Each line of the "Other places" section: [Name](url) - optional description."""
+    m = re.search(r"^# 🔖 Other places.*?$(.*?)(?=^# |\Z)", text, re.M | re.S)
+    places = []
+    for line in (m.group(1) if m else "").split("\n"):
+        link = LINK_RE.match(line.strip())
+        url = deal_url(link.group(2)) if link else None
+        if not url:
+            continue
+        rest = line.strip()[link.end():].strip().lstrip("-–—:").strip()
+        places.append({"label": strip_tags(link.group(1)), "url": url, "description": strip_tags(inline_md(rest))})
+    return places
+
+
 def parse(readme):
     text = readme.read_text()
     lines = text.split("\n")
@@ -145,7 +166,7 @@ def parse(readme):
         "categories": categories,
         "sponsors": parse_sponsors(text),
         "archives": section_links(text, "📅 Previous years"),
-        "others": section_links(text, "🔖 Other places"),
+        "others": other_places(text),
     }
 
 

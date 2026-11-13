@@ -46,12 +46,22 @@
   .controls { position:sticky; top:0; z-index:5; background:rgba(0,0,0,.88); backdrop-filter:blur(10px); padding:14px 0; border-bottom:1px solid var(--line) }
   .search { width:100%; padding:13px 16px; border-radius:10px; border:1.5px solid #2a2a2a; background:#0a0a0a; color:var(--text); font-size:16px; outline:none }
   .search:focus { border-color:var(--y) }
-  .chips { display:flex; gap:8px; overflow-x:auto; padding-top:12px; scrollbar-width:none }
-  .chip { flex:none; padding:7px 13px; border-radius:999px; border:1.5px solid #2a2a2a; background:none; color:var(--text); font-size:14px; cursor:pointer; white-space:nowrap }
+  .chips { display:flex; flex-wrap:wrap; gap:8px; padding-top:16px }
+  .chip { padding:7px 13px; border-radius:999px; border:1.5px solid #2a2a2a; background:none; color:var(--text); font-size:14px; cursor:pointer; white-space:nowrap }
   .chip:hover { border-color:#555 }
   .chip.on { background:var(--text); color:#000; border-color:var(--text) }
   .chip.toggle.on { background:var(--y); border-color:var(--y) }
   .chip .n { opacity:.55; margin-left:4px }
+
+  .places { padding-top:10px; padding-bottom:60px }
+  .places h2 { font-size:26px; margin:0 0 6px }
+  .places > p { color:var(--muted); margin:0 0 18px }
+  .places .list { display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr)); gap:14px }
+  .place { display:block; padding:18px 20px; border:1px solid var(--line); border-radius:14px; background:var(--card); text-decoration:none }
+  .place:hover { border-color:#3a3a3a }
+  .place b { display:block; font-size:17px; margin-bottom:4px }
+  .place:hover b { color:var(--y) }
+  .place small { color:#cfcfcf; font-size:14px; line-height:1.45; display:block }
 
   .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px; padding:24px 0 60px }
   .deal { display:flex; flex-direction:column; gap:10px; padding:20px; border:1px solid var(--line); border-radius:14px; background:var(--card) }
@@ -93,19 +103,24 @@
 <div class="controls" id="controls">
   <div class="wrap">
     <input class="search" id="q" type="search" placeholder="Search deals, e.g. “mac”, “lifetime”, “AI”…" autocomplete="off">
-    <div class="chips" id="chips"></div>
   </div>
 </div>
 
 <main class="wrap">
+  <div class="chips" id="chips"></div>
   <div class="grid" id="grid"></div>
   <div class="empty" id="empty" hidden></div>
 </main>
 
+<section class="wrap places" id="places-wrap">
+  <h2 class="display">🔖 Other places to list your deal</h2>
+  <p>Running a Black Friday deal? Submit it to these lists too.</p>
+  <div class="list" id="places"></div>
+</section>
+
 <footer class="wrap">
   <div class="cols">
     <div><p class="label">Previous years</p><div id="archives"></div></div>
-    <div><p class="label">More deal lists</p><div id="others"></div></div>
     <div><p class="label">Source</p><a id="repo">Edit on GitHub ↗</a></div>
   </div>
 </footer>
@@ -182,12 +197,14 @@ function render() {
     ? [el('div', { class: 'display' }, 'No matches'), 'Try another search or clear the filters.']
     : [el('div', { class: 'display' }, 'Deals drop soon'), el('p', {}, 'Be the first to list your Black Friday deal. It’s free.'),
        el('a', { class: 'btn primary', href: D.addDeal, ...ext }, '✍️ Add your deal')]));
-  $('controls').hidden = !deals.length;
+  $('controls').hidden = $('chips').hidden = !deals.length;
 }
 $('q').oninput = e => { state.q = e.target.value; render(); };
 
 for (const a of D.archives) $('archives').append(el('a', { href: a.url, ...ext }, a.label));
-for (const o of D.others) $('others').append(el('a', { href: o.url, ...ext }, o.label + ' ↗'));
+for (const o of D.others) $('places').append(el('a', { class: 'place', href: o.url, ...ext },
+  el('b', {}, o.label + ' ↗'), o.description ? el('small', {}, o.description) : ''));
+$('places-wrap').hidden = !D.others.length;
 $('repo').href = D.repo;
 render();
 </script>

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Update deal counts in the README's Table of Contents and the stats line.
+"""Update deal counts in the README's Table of Contents and the stats line,
+and tag outbound deal links with UTM params.
 
 Run from the repo root: python3 scripts/update_stats.py
 Also runs in .github/workflows/update-stats.yml on every push to main.
@@ -8,10 +9,13 @@ import re
 from datetime import datetime, timezone
 from pathlib import Path
 
+from utm import add_utm
+
 README = Path(__file__).resolve().parent.parent / "README.md"
 STATS_RE = re.compile(r"<!-- stats:start -->.*?<!-- stats:end -->", re.S)
 TOC_RE = re.compile(r"^(\* \S+ \[([^\]]+)\]\([^)]+\))(?: \(\d+\))?(.*)$")
 DEAL_ROW_RE = re.compile(r"^\|\s*\[")
+LINK_RE = re.compile(r"\]\((https?://[^)\s]+)\)")
 
 
 def count_deals(lines):
@@ -28,8 +32,21 @@ def count_deals(lines):
     return counts
 
 
+def tag_links(lines):
+    """Add our UTM params to deal-row and "Other places" links."""
+    in_deals = in_places = False
+    for i, line in enumerate(lines):
+        if line.startswith("## "):
+            in_deals = True  # the deal tables; skips the example row in "Add Your Deal"
+        elif line.startswith("# "):
+            in_deals, in_places = False, line.startswith("# 🔖 Other places")
+        if (in_deals and DEAL_ROW_RE.match(line)) or (in_places and line.startswith("[")):
+            lines[i] = LINK_RE.sub(lambda m: "](" + add_utm(m.group(1), "github") + ")", line)
+
+
 def main():
     lines = README.read_text().split("\n")
+    tag_links(lines)
     counts = count_deals(lines)
 
     in_toc = False
