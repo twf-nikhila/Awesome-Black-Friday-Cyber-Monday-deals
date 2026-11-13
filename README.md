@@ -147,6 +147,7 @@ Add it to your website, README, or launch post:
 | [Kveeky](https://kveeky.com/blog/best-black-friday-ai-voiceover-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI voiceover for video and audio | **35% OFF** · code `BF2026` · Basic $9.00/mo → $5.85/mo | Nov 11, 2026 - Dec 15, 2026 |
 | [BlitzReels](https://blitzreels.com/black-friday?utm_source=twf-nikhila) | Turns long videos into captioned vertical clips for TikTok, Reels and Shorts, then schedules them to your accounts | **Up to 34% OFF** the first year on yearly plans · auto-applied, no code · Starter $204 → $139, Growth $564 → $379, Agency $1,428 → $949 · +90 bonus credits | Nov 10, 2026 - Dec 1, 2026 |
 | [Roomtape](https://extensions.loopspec.com/roomtape?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Record Google Meet and Microsoft Teams calls to a local MP4. No bot, no account, and nothing uploaded. | 💸 ♾️ **69% OFF** one-time license ($29 → $9), including 3 years of updates · no code needed | Nov 5, 2026 - Dec 2, 2026 |
+| [TranscribeX](https://www.transcribex.io/) | Local AI Transcription, Built for Privacy. No Cloud. Convert your audio and video into accurate transcripts — lightning-fast, fully local, and completely private. | 70% OFF with code **BLACKFRIDAY2026** ($39 → $27.3) | Nov 23, 2026 - Dec 6, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
