@@ -344,6 +344,7 @@ Add it to your website, README, or launch post:
 | [Pretty Progress – Countdown](https://prettyprogress.app/download?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Beautiful countdown and progress bar widgets to visualise and track your events and deadlines | 💸 ♾️ **50% OFF** Lifetime · $59.99 → $29.99 USD · auto-applied in the app, no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [KTool](https://ktool.io/pricing?utm_source=twfdeals&utm_medium=partner&utm_campaign=bf2026) | Send articles, newsletters and RSS feeds to your Kindle, from your browser or your phone | ♾️ **17% OFF** Lifetime ($179 → $149) · no code needed | Nov 2, 2026 - Dec 1, 2026 |
 | [Gramcheck](https://extensions.loopspec.com/gramcheck?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Grammar and spell checker for Chrome that runs on your device. Your writing is never uploaded. No account or subscription. | 💸 ♾️ **51% OFF** one-time license ($39 → $19), including 5 years of updates · no code needed | Nov 5, 2026 - Dec 2, 2026 |
+| [Snippety](https://snippety.app) | The most powerful text expander for Mac and iPhone | ♾️ **40% OFF** lifetime ($49.99 → $29.99) · on the App Store | Nov 13, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
