@@ -282,6 +282,7 @@ Add it to your website, README, or launch post:
 | [NextMerce](https://nextmerce.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Next.js eCommerce boilerplate | **30% OFF** all plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [Dirstarter](https://dirstarter.com/?discountCode=BF2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Next.js directory template with built-in payments, SEO and an MCP server for AI agents | 💸 ♾️ **50% OFF** lifetime license: Basic $150 → $75, Pro $200 → $100 · code `BF2026` | Nov 10, 2026 - Dec 1, 2026 |
 | [Agentwright](https://agentwright.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Next.js starter kit for Claude-powered agent SaaS: agent loop with tools and MCP, per-user cost metering, plan caps, auth and billing | ♾️ **$50 OFF** one-time license ($149 → $99), all future versions included · code `LAUNCH` (auto-applied), first 50 licenses | Nov 10, 2026 - Dec 1, 2026 |
+| [Aikeedo](https://aikeedo.com/black-friday/?utm_source=twf-nikhila&utm_medium=deal-listing&utm_campaign=bfcm2026) | Launch your own AI SaaS, branded and self-hosted. AI chat, images, video and voice in one white-label platform. | 💸 ♾️ **50% OFF** Core for 12 months, the one-time Commercial License ($749.50) and every add-on · $100 off All-Access first year · auto-applied | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🎨 UI Kits, Icons & Design Assets
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
