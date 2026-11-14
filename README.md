@@ -67,7 +67,7 @@ Add it to your website, README, or launch post:
 * 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (27) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (16) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (14) - AI chat apps, writing & rewriting, knowledge assistants, resumes
-* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (10) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
+* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (11) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (19) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (14) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (23) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
@@ -205,6 +205,7 @@ Add it to your website, README, or launch post:
 | [ZeroRank](https://zerorank.ai?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI search visibility and GEO software for SEO teams and agencies to track brand mentions, citations and competitors across AI answer engines. | **28% OFF** the first 3 monthly payments · discounted first year on annual plans · [terms](https://zerorank.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 2, 2026 - Nov 30, 2026 |
 | [Ascope](https://ascope.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | ASO tool for Mac and Windows: tracks App Store and Google Play keyword ranks daily in 50+ countries, with popularity and difficulty · MCP server for Cursor and Claude | 💸 ♾️ **63% OFF** lifetime licence, $189 → $69 one-time · auto-applied | Nov 1, 2026 - Nov 30, 2026 |
 | [Check Engine SEO](https://checkengineseo.com/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Desktop SEO audit for Mac and Windows: 99 checks, including whether AI crawlers like GPTBot can read your site, ranked into a fix plan · free version available | ♾️ **32% OFF** one-time ($29.50 → $19.99, then $39) · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
+| [Keyword Race](https://keywordrace.com/?utm_source=twf-github&utm_medium=deal-list&utm_campaign=bfcm-2026) | App Store keyword research for indie iOS developers · competing apps, your position and estimated demand, paid once | ♾️ **40% OFF** lifetime access ($59 → $35) · no code needed | Nov 14, 2026 - Dec 2, 2026 |
 
 ## 📣 Marketing, Social & Lead Gen
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
