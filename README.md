@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **223 deals** listed · Updated Nov 14, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **230 deals** listed · Updated Nov 14, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -64,9 +64,9 @@ Add it to your website, README, or launch post:
 
 # Table of Contents
 
-* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (26) - Video editing, AI video & music, screen recording, captions, transcription
+* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (27) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (16) - Image editing & compression, AI images, screenshots, color tools
-* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (13) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (14) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (10) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (19) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (14) - Invoicing, expenses, customer feedback & support, e-signature, team admin
@@ -74,11 +74,11 @@ Add it to your website, README, or launch post:
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (9) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (19) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (7) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (20) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (23) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (14) - Notes, tasks, time tracking, focus & blocking, journaling, email
-* 🔐 [Security & Privacy](#-security--privacy) (14) - Pentesting, threat monitoring, encrypted email & files, privacy tools
+* 🔐 [Security & Privacy](#-security--privacy) (15) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (8) - Fitness, nutrition, travel, home & personal apps
-* 📚 [Courses & Books](#-courses--books) (9) - Courses, books, certifications & guides
+* 📚 [Courses & Books](#-courses--books) (10) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (1) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (1) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
@@ -152,7 +152,7 @@ Add it to your website, README, or launch post:
 | [RapStar Studio](https://rapstarstudio.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn names and inside jokes into a custom AI rap song in two versions with two 720p lyric videos (no account needed) | ♾️ **30% OFF** one-time custom song ($9.90 → $6.93) · code `BF2026` | Nov 13, 2026 - Dec 1, 2026 |
 | [Crisp](https://crispvideo.app/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor · free version available | ♾️ **31% OFF** one-time ($14.50 → $9.99, then $19) · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
 | [MusicMV](https://musicmv.ai/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | ♾️ **Up to 40% OFF** one-time credit packs · credits never expire · no code needed | Nov 13, 2026 - Dec 1, 2026 |
-| [palmscreen](https://www.palmscreen.app/black-friday/) | Mac screen recorder that turns every click into a smooth zoom, with an editor and annotated screenshots | ♾️ **34% OFF** one-time license for one Mac ($29 → $19) · code `BLACKWEEK` (active from Nov 23) | Nov 23, 2026 - Nov 30, 2026 |
+| [palmscreen](https://www.palmscreen.app/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac screen recorder that turns every click into a smooth zoom, with an editor and annotated screenshots | ♾️ **34% OFF** one-time license for one Mac ($29 → $19) · code `BLACKWEEK` (active from Nov 23) | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -344,8 +344,8 @@ Add it to your website, README, or launch post:
 | [ActionClip](https://actionclip.app/black-friday-deal?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | iPhone-style text action menu for Mac; describe a workflow to create a reusable custom action (Apple Silicon, macOS 15+). | ♾️ **25% OFF** Individual ($12 → $9) · lifetime plans for 1/3/10 Macs: $9/$15/$29 · auto-applied, no code needed | Nov 5, 2026 - Nov 29, 2026 |
 | [CleanClip](https://pricing.cleanclip.cc/src?ref=twf-nikhila-bf2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Minimalist native clipboard manager for Mac, with searchable history, smart lists, quick paste and Paste Stack | ♾️ **30% OFF** one-time licenses · Standard $13.99 (was $19.99), Pro $20.99 (was $29.99) · code `BF2026` | Nov 4, 2026 - Dec 15, 2026 |
 | [Fileside](https://www.fileside.app/?ref=abfcmd&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | A slick file manager for Mac & Windows with unlimited panes. Create workspaces for your projects. Build layouts of your folders. | 💸 ♾️ **50% OFF** ($33 → $16.50) · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
-| [FlexiBackup](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026) | Mac app to back up your iPhone and iPad straight to an external drive, freeing up Mac storage and relying less on iCloud. | 💸 ♾️ **50% OFF** ($5.99 → $2.99) · code `BLACK2026` | Nov 8, 2026 - Dec 6, 2026 |
-| [BetterStage](https://betterstage.app/pricing?utm_source=twf-bf&utm_campaign=bf2026) | Window and workspace manager for Mac: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces. Native macOS app (macOS 14+). | ♾️ **20% OFF** lifetime Pro, one-time purchase · 1/3/5 Macs: $15.99/$31.99/$39.99 (was $19.99/$39.99/$49.99) · code `BLACKFRIDAY20` at checkout | Nov 23, 2026 - Nov 30, 2026 |
+| [FlexiBackup](https://kahsenglee.gumroad.com/l/FlexiBackup/BLACK2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac app to back up your iPhone and iPad straight to an external drive, freeing up Mac storage and relying less on iCloud. | 💸 ♾️ **50% OFF** ($5.99 → $2.99) · code `BLACK2026` | Nov 8, 2026 - Dec 6, 2026 |
+| [BetterStage](https://betterstage.app/pricing?utm_source=twf-bf&utm_campaign=bf2026) | Window and workspace manager for Mac: named Stages that span all your monitors, automatic tiling with tabs, a Stage-aware ⌘Tab switcher and Saved Workspaces | ♾️ **20% OFF** lifetime Pro, one-time purchase · 1/3/5 Macs: $15.99/$31.99/$39.99 (was $19.99/$39.99/$49.99) · code `BLACKFRIDAY20` at checkout | Nov 23, 2026 - Nov 30, 2026 |
 | [FileMinutes](https://www.fileminutes.com/pricing/?utm_source=twf-nikhila) | Everyday file search for Mac · search inside a folder, browse with your keyboard, filter by file type and more | 💸 ♾️ **Up to 60% OFF** lifetime · 1/3/5 Macs: $6/$9/$12 (was $10/$21/$30) · auto-applied, no code | Nov 14, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
@@ -409,7 +409,7 @@ Add it to your website, README, or launch post:
 | [Vantagepoint](https://vantagepoint.enciphers.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more | 💸 **70% OFF** all hacking labs and certifications · auto-applied, no code needed | Nov 2, 2026 - Dec 15, 2026 |
 | [AppSec.training](https://appsec.training?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Application security, DevSecOps and secure SDLC training on the web. | 💸 **50% OFF** · code `blackfriday` | Nov 13, 2026 - Dec 31, 2026 |
 | [OnlySecurity](https://onlysecurity.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on security training from KSEC and independent trainers: web and Active Directory attacks, RFID, lock picking and OSINT | **15% OFF** every course not already on sale, the first payment of Plus or Max membership and the KSEC All Access pass · auto-applied, no code | Nov 23, 2026 - Nov 30, 2026 |
-| [Wireless Operator](https://training.thexero.co.uk/blackfriday) | Hands-on Wi-Fi pentesting training from award-winning wireless researcher Toby Reynolds: WPA3, enterprise Wi-Fi, rogue APs, pivots and fuzzing, with a simulated lab and live coaching | 💸 **67% OFF**, $197 instead of $599 · no code needed | Nov 10 - 1 Dec 2026|
+| [Wireless Operator](https://training.thexero.co.uk/blackfriday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on Wi-Fi pentesting training from award-winning wireless researcher Toby Reynolds: WPA3, enterprise Wi-Fi, rogue APs, pivots and fuzzing, with a simulated lab and live coaching | 💸 **67% OFF** ($599 → $197) · no code needed | Nov 10, 2026 - Dec 1, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
