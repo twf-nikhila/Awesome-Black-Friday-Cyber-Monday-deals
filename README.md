@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **217 deals** listed · Updated Nov 13, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **223 deals** listed · Updated Nov 14, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -64,22 +64,22 @@ Add it to your website, README, or launch post:
 
 # Table of Contents
 
-* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (25) - Video editing, AI video & music, screen recording, captions, transcription
+* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (26) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (16) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (13) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (10) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (19) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (14) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (23) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
-* 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (8) - Code templates & components to ship a SaaS or app faster
+* 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (9) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (19) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (7) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (20) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (14) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (14) - Pentesting, threat monitoring, encrypted email & files, privacy tools
-* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (7) - Fitness, nutrition, travel, home & personal apps
-* 📚 [Courses & Books](#-courses--books) (7) - Courses, books, certifications & guides
-* 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) - Paid newsletters, communities, curated databases & lists
+* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (8) - Fitness, nutrition, travel, home & personal apps
+* 📚 [Courses & Books](#-courses--books) (9) - Courses, books, certifications & guides
+* 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (1) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (1) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
 
@@ -151,7 +151,7 @@ Add it to your website, README, or launch post:
 | [PugSoda](https://pugsoda.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn a single photo into trending AI meme, dance and photo-studio videos in your browser | **30% OFF** first month on monthly plans (Starter $14 → $9.80, Creator $34 → $23.80, Studio $96 → $67.20) · code `BF2026` · plus **+25%–30% bonus** on never-expiring credit packs | Nov 13, 2026 - Dec 1, 2026 |
 | [RapStar Studio](https://rapstarstudio.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn names and inside jokes into a custom AI rap song in two versions with two 720p lyric videos (no account needed) | ♾️ **30% OFF** one-time custom song ($9.90 → $6.93) · code `BF2026` | Nov 13, 2026 - Dec 1, 2026 |
 | [Crisp](https://crispvideo.app/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor · free version available | ♾️ **31% OFF** one-time ($14.50 → $9.99, then $19) · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
-| [MusicMV](https://musicmv.ai/black-friday) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | ♾️ **Up to 40% OFF** one-time credit packs · credits never expire · no code needed | Nov 13, 2026 - Dec 1, 2026 |
+| [MusicMV](https://musicmv.ai/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | ♾️ **Up to 40% OFF** one-time credit packs · credits never expire · no code needed | Nov 13, 2026 - Dec 1, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -389,7 +389,7 @@ Add it to your website, README, or launch post:
 | [Comic Weather](https://apps.apple.com/app/apple-store/id6816097524?pt=129027920&ct=bf26-awesome-twf&mt=8&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Weather app for iPhone that turns your forecast into a comic book page, painted in four comic skins | 💸 ♾️ **67% OFF** one-time purchase ($2.99 → $0.99 USD) · App Store price drop, no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [Let's Trip](https://letstrip.ai/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | 💸 **50% OFF** Premium ($10 → $5/month, $100 → $50/year) | Nov 11, 2026 - Dec 1, 2026 |
 | [Vitra Health](https://vitrahealth.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Desktop companion for the Oura Ring on Mac and Windows: your ring's data read against your own baseline, on your own computer (needs an Oura Membership) | ♾️ **20% OFF** both one-time licences, applied automatically at checkout · Solo ~~€19~~ €15.20, Pro ~~€29~~ €23.20 | Nov 13, 2026 - Nov 30, 2026 |
-| [Steps & Beasts](https://stepsandbeasts.app) | Step-tracking game for iPhone and Android: walk to your daily goal to hatch an egg and collect Beasts | ♾️ **33% OFF** Pro Lifetime · US iOS $39.99 → $26.99 USD · auto-applied in the app, no code needed · Android and local prices vary | Nov 13, 2026 - Nov 30, 2026 |
+| [Steps & Beasts](https://stepsandbeasts.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Step-tracking game for iPhone and Android: walk to your daily goal to hatch an egg and collect Beasts | ♾️ **33% OFF** Pro Lifetime · US iOS $39.99 → $26.99 USD · auto-applied in the app, no code needed · Android and local prices vary | Nov 13, 2026 - Nov 30, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -401,13 +401,13 @@ Add it to your website, README, or launch post:
 | [Nihongo](https://nihongo-app.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Japanese dictionary for iPhone and iPad with camera lookup and flashcards automatically created from the words you look up. | 💸 ♾️ **50% OFF** Nihongo Pro lifetime ($179.99 → $89.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
 | [Nihongo Lessons](https://lessons.nihongo-app.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Learn Japanese vocabulary and grammar with sentence-based flashcards. | 💸 ♾️ **50% OFF** All Access lifetime ($299.99 → $149.99 USD) · auto-applied in-app; no code needed | Nov 16, 2026 - Dec 2, 2026 |
 | [Vantagepoint](https://vantagepoint.enciphers.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on cybersecurity learning platform with real-world pentesting labs across Web, Mobile, Cloud, Red Teaming, CVEs, and more | 💸 **70% OFF** all hacking labs and certifications · auto-applied, no code needed | Nov 2, 2026 - Dec 15, 2026 |
-| [AppSec.training](https://appsec.training) | Application security, DevSecOps and secure SDLC training on the web. | 💸 **50% OFF** · code `blackfriday` | Nov 13, 2026 - Dec 31, 2026 |
+| [AppSec.training](https://appsec.training?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Application security, DevSecOps and secure SDLC training on the web. | 💸 **50% OFF** · code `blackfriday` | Nov 13, 2026 - Dec 31, 2026 |
 | [OnlySecurity](https://onlysecurity.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on security training from KSEC and independent trainers: web and Active Directory attacks, RFID, lock picking and OSINT | **15% OFF** every course not already on sale, the first payment of Plus or Max membership and the KSEC All Access pass · auto-applied, no code | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
-| [DailyRemote](https://dailyremote.com/get-started) | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts | **39% OFF** Premium monthly, quarterly and yearly plans · code `BFBNRTZSY` | Nov 12, 2026 - Dec 1, 2026 |
+| [DailyRemote](https://dailyremote.com/get-started?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts | **39% OFF** Premium monthly, quarterly and yearly plans · code `BFBNRTZSY` | Nov 12, 2026 - Dec 1, 2026 |
 
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
