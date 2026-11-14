@@ -151,6 +151,7 @@ Add it to your website, README, or launch post:
 | [PugSoda](https://pugsoda.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn a single photo into trending AI meme, dance and photo-studio videos in your browser | **30% OFF** first month on monthly plans (Starter $14 → $9.80, Creator $34 → $23.80, Studio $96 → $67.20) · code `BF2026` · plus **+25%–30% bonus** on never-expiring credit packs | Nov 13, 2026 - Dec 1, 2026 |
 | [RapStar Studio](https://rapstarstudio.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn names and inside jokes into a custom AI rap song in two versions with two 720p lyric videos (no account needed) | ♾️ **30% OFF** one-time custom song ($9.90 → $6.93) · code `BF2026` | Nov 13, 2026 - Dec 1, 2026 |
 | [Crisp](https://crispvideo.app/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor · free version available | ♾️ **31% OFF** one-time ($14.50 → $9.99, then $19) · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
+| [MusicMV](https://musicmv.ai/black-friday) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | ♾️ **Up to 40% OFF** one-time credit packs · credits never expire · no code needed | Nov 13, 2026 - Dec 1, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
