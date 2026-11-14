@@ -402,6 +402,7 @@ Add it to your website, README, or launch post:
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
+| [DailyRemote](https://dailyremote.com/get-started) | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts | **39% OFF** Premium monthly, quarterly and yearly plans · code `BFBNRTZSY` | Nov 12, 2026 - Dec 1, 2026 |
 
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
