@@ -152,6 +152,7 @@ Add it to your website, README, or launch post:
 | [RapStar Studio](https://rapstarstudio.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn names and inside jokes into a custom AI rap song in two versions with two 720p lyric videos (no account needed) | ♾️ **30% OFF** one-time custom song ($9.90 → $6.93) · code `BF2026` | Nov 13, 2026 - Dec 1, 2026 |
 | [Crisp](https://crispvideo.app/pricing/?utm_source=twf-nikhila&utm_medium=deals) | Restores, denoises and upscales old video to 4K on your own Mac or Windows PC, offline, with a timeline editor · free version available | ♾️ **31% OFF** one-time ($14.50 → $9.99, then $19) · auto-applied, no code | Nov 13, 2026 - Dec 2, 2026 |
 | [MusicMV](https://musicmv.ai/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn a song and a photo into a beat-synced music video with lip-sync and a reviewable storyboard. | ♾️ **Up to 40% OFF** one-time credit packs · credits never expire · no code needed | Nov 13, 2026 - Dec 1, 2026 |
+| [palmscreen](https://www.palmscreen.app/black-friday/) | Mac screen recorder that turns every click into a smooth zoom, with an editor and annotated screenshots | ♾️ **34% OFF** one-time license for one Mac ($29 → $19) · code `BLACKWEEK` (active from Nov 23) | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
