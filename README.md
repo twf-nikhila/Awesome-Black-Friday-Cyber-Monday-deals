@@ -36,7 +36,7 @@ Listing is free, and the 10 best deals get featured in our newsletter.
 <summary><b>Row format</b></summary>
 
 ```
-| [Product Name](https://product.com) | One-line description of what it does | 💸 ♾️ **60% OFF** lifetime · code `BF26` | Nov 24, 2026 - Dec 1, 2026 |
+| [Product Name](https://product.com) | One-line description of what it does | 💸 ♾️ **60% OFF** lifetime · code `BF26` | Nov 20, 2026 - Dec 1, 2026 |
 ```
 
 Start the deal details with 💸 if the discount is 50% or more, and ♾️ if it's a lifetime or buy-once deal.
