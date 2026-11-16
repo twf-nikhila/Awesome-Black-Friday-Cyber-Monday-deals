@@ -425,7 +425,7 @@ Add it to your website, README, or launch post:
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Free VS Code extension that shows your database records inside VS Code, Cursor and Windsurf, zero config | Free forever, no account needed · Pro features in [DevDb Pro](https://devdbpro.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 10, 2026 - Dec 10, 2026 |
-| [QRat](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=500BF2026) | macOS & iOS app. Make QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | 500 licenses for FREE through this [redeem link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026) | Nov 16, 2026 - Dec 1, 2026 |
+| [QRat](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=500BF2026) | macOS & iOS app. Make QR codes in BlackFriday / Christmas templates to boost your scan ratio. Hundreds of templates included, highly customizable. | 500 lifetime licenses for ♾️ FREE through this [redeem link](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026) | Nov 16, 2026 - Dec 1, 2026 |
 
 # 📅 Previous years
 
