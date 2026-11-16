@@ -319,6 +319,7 @@ Add it to your website, README, or launch post:
 | [Meku](https://meku.dev/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI builder for websites and web apps | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [Kinsta](https://kinsta.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare | 💸 **3 months FREE** on annual plans or **50% OFF** the first 3 months on monthly plans · new customers · auto-applied | Nov 11, 2026 - Dec 1, 2026 |
 | [own.page](https://own.page/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Not another link in bio: a personal website built in minutes from live widgets. Sell products, take bookings, collect leads, play your music, on your own domain | **40% OFF** the first year of Pro (yearly), **30% OFF** Business · no code needed, applied at checkout | Nov 20, 2026 - Nov 30, 2026 |
+| [Sitely 8](https://sitely.app) | Sitely AI+Visual Website Builder for Mac & iPad · Build the website you always wanted, visually or using AI with MCP | 50% OFF (automatically applied) | Nov 17, 2026 - Dec 08, 2026 |
 
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
