@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **265 deals** listed · Updated Nov 16, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **272 deals** listed · Updated Nov 16, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -364,6 +364,13 @@ Add it to your website, README, or launch post:
 | [DeskRest](https://deskrest.com/offers?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac menu bar app that reminds you to take regular breaks, rest your eyes and stay healthy while you work | 💸 ♾️ **80% OFF** lifetime licenses · code `BLACKFRIDAY80` | Nov 9, 2026 - Dec 10, 2026 |
 | [DuoBar](https://www.teekamsuthar.com/duobar?utm_source=twf-bf&utm_medium=referral&utm_campaign=black-friday-2026) | Merges your Mac's native menu bar icons (battery, Wi-Fi, memory and more) into one glanceable icon; hover to see them separately | ♾️ **29% OFF** Pro one-time upgrade ($6.99 → $4.99) · auto-applied on the Mac App Store | Nov 24, 2026 - Dec 1, 2026 |
 | [Wishbar](https://wishbar.app/black-friday?ref=twf-bf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar (a free ChatGPT account is enough) | ♾️ **Up to 48% OFF** one-time licences · auto-applied, no code · 1 Mac $39 → $20, 2 Macs $49 → $27, 5 Macs $69 → $41 | Nov 27, 2026 - Dec 1, 2026 |
+| [AirCalendar](https://apps.apple.com/app/id6761035745) | Check the date, see what's coming up and keep your tasks close at hand. | 💸 ♾️ **50% OFF** Lifetime Unlock · No code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [PasteNook](https://apps.apple.com/app/id6762595649) | PasteNook is a beautiful and smart clipboard history tool designed for macOS. | 💸 ♾️ **50% OFF** Lifetime Unlock · No code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [Clipture](https://apps.apple.com/app/id6787685075) | Clipture is a lightweight screenshot tool built for macOS. | 💸 ♾️ **50% OFF** Lifetime Unlock · No code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [TeachingInk](https://apps.apple.com/app/id6761326660) | Screen annotation & whiteboard for Mac | 💸 ♾️ **50% OFF** Lifetime Unlock · No code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [LociMark](https://apps.apple.com/app/id6808972699) | LociMark is a local-first bookmark manager for Mac. | 💸 ♾️ **50% OFF** Lifetime Unlock · No code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [Tagnivo](https://apps.apple.com/app/id6804351905) | Manage assets, employee assignments, supplies and inventory audits in one Mac app. | 💸 ♾️ **50% OFF** Lifetime Unlock · No code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [EchoKeys](https://apps.apple.com/app/id6764276614) | Make every shortcut visible | 💸 ♾️ **50% OFF** Lifetime Unlock · No code needed | Nov 27, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
