@@ -319,6 +319,8 @@ Add it to your website, README, or launch post:
 | [Meku](https://meku.dev/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI builder for websites and web apps | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [Kinsta](https://kinsta.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare | 💸 **3 months FREE** on annual plans or **50% OFF** the first 3 months on monthly plans · new customers · auto-applied | Nov 11, 2026 - Dec 1, 2026 |
 | [own.page](https://own.page/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Not another link in bio: a personal website built in minutes from live widgets. Sell products, take bookings, collect leads, play your music, on your own domain | **40% OFF** the first year of Pro (yearly), **30% OFF** Business · no code needed, applied at checkout | Nov 20, 2026 - Nov 30, 2026 |
+| [Page Builder Framework Premium](https://wp-pagebuilderframework.com/pricing/) | Fast, minimal WordPress theme for page builders. Premium adds sticky headers, mega menus & more. | **Up to 25% OFF** · no code needed | Nov 23, 2026 - Nov 30, 2026 |
+| [Ultimate Dashboard PRO](https://ultimatedashboard.io/pricing/) | Customize the WordPress dashboard & admin area: custom widgets, login customizer, admin menu editor. | **Up to 25% OFF** · no code needed | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
