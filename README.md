@@ -407,7 +407,7 @@ Add it to your website, README, or launch post:
 ## 🎓 Education
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
-| [Bilang](https://bilang.org?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Language learning app. Turn real-life situations into speaking and writing practice. Prep for job interviews, snap photos of real documents to capture vocab, follow podcasts with live transcripts, and build fluency with a grammar-checked daily diary and fact-checked podcast retells. Just the language you actually use for work and daily life. | 💸 **20% OFF** all plans · code `BF26` | Nov 15, 2026 - Dec 1, 2026 |
+| [Bilang](https://bilang.org?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Language learning app. Turn real-life situations into speaking and writing practice. Prep for job interviews, snap photos of real documents to capture vocab, follow podcasts with live transcripts, and build fluency with a grammar-checked daily diary and fact-checked podcast retells. Just the language you actually use for work and daily life. | **20% OFF** all plans · code `BF26` | Nov 15, 2026 - Dec 1, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
