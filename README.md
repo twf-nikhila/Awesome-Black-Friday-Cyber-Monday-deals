@@ -326,6 +326,7 @@ Add it to your website, README, or launch post:
 | [own.page](https://own.page/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Not another link in bio: a personal website built in minutes from live widgets. Sell products, take bookings, collect leads, play your music, on your own domain | **40% OFF** the first year of Pro (yearly), **30% OFF** Business · no code needed, applied at checkout | Nov 20, 2026 - Nov 30, 2026 |
 | [Page Builder Framework Premium](https://wp-pagebuilderframework.com/pricing/) | Fast, minimal WordPress theme for page builders. Premium adds sticky headers, mega menus & more. | **Up to 25% OFF** · no code needed | Nov 23, 2026 - Nov 30, 2026 |
 | [Ultimate Dashboard PRO](https://ultimatedashboard.io/pricing/) | Customize the WordPress dashboard & admin area: custom widgets, login customizer, admin menu editor. | **Up to 25% OFF** · no code needed | Nov 23, 2026 - Nov 30, 2026 |
+| [Sitely 8](https://sitely.app) | AI + visual website builder for Mac and iPad, with an MCP server for building with AI | 💸 **50% OFF** · auto-applied | Nov 17, 2026 - Dec 8, 2026 |
 
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
