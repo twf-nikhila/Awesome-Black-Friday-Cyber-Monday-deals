@@ -93,23 +93,13 @@ Add it to your website, README, or launch post:
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <a href="https://formnx.com"><img src="assets/sponsors/formnx.svg" width="72" height="72" alt="FormNX"></a><br>
       <a href="https://formnx.com"><b>FormNX</b></a><br>
       The most affordable no-code drag-n-drop form builder<br>
       🔥 <b>50% OFF</b> all plans · code <code>BFCM26</code>
     </td>
-    <td align="center" width="25%">
-      <a href="Sponsorship.md"><b>Your logo here</b></a><br>
-      Reach developers, indie hackers and founders hunting for deals this Black Friday<br><br>
-      <a href="Sponsorship.md"><b>Become a sponsor →</b></a>
-    </td>
-    <td align="center" width="25%">
-      <a href="Sponsorship.md"><b>Your logo here</b></a><br>
-      Reach developers, indie hackers and founders hunting for deals this Black Friday<br><br>
-      <a href="Sponsorship.md"><b>Become a sponsor →</b></a>
-    </td>
-    <td align="center" width="25%">
+    <td align="center" width="50%">
       <a href="Sponsorship.md"><b>Your logo here</b></a><br>
       Reach developers, indie hackers and founders hunting for deals this Black Friday<br><br>
       <a href="Sponsorship.md"><b>Become a sponsor →</b></a>
