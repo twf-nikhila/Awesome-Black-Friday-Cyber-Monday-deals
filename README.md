@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **260 deals** listed · Updated Nov 16, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **265 deals** listed · Updated Nov 16, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -64,18 +64,18 @@ Add it to your website, README, or launch post:
 
 # Table of Contents
 
-* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (29) - Video editing, AI video & music, screen recording, captions, transcription
-* 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (16) - Image editing & compression, AI images, screenshots, color tools
-* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (17) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (30) - Video editing, AI video & music, screen recording, captions, transcription
+* 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (17) - Image editing & compression, AI images, screenshots, color tools
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (18) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (11) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (21) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (15) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (27) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (28) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (10) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (19) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (11) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (28) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
-* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (15) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (16) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (17) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (8) - Fitness, nutrition, travel, home & personal apps
 * 📚 [Courses & Books](#-courses--books) (13) - Courses, books, certifications & guides
@@ -383,7 +383,7 @@ Add it to your website, README, or launch post:
 | [Snippety](https://snippety.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The most powerful text expander for Mac and iPhone | ♾️ **40% OFF** lifetime ($49.99 → $29.99) · on the App Store | Nov 13, 2026 - Nov 30, 2026 |
 | [SimpleFill](https://simplefill.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Text expansion, AI actions, and one-click form filling in your browser (Chrome, Firefox, Edge, and Safari) | ♾️ **25% OFF** one-time purchase (Standard $29 → $21.75, Pro $59 → $44.25) · code `LAUNCH` · Chrome, Firefox, and Edge checkout | Nov 10, 2026 - Dec 7, 2026 |
 | [Forma](https://useforma.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Free-form canvas for Mac with markdown cards, checklists and a marker for daily tasks and project planning | ♾️ **47% OFF** Lifetime Pro ($14.99 → $7.99) · code `BLACKFRIDAY50` (redeem in the Mac App Store app) | Nov 20, 2026 - Dec 1, 2026 |
-| [TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-twf-nikhila&mt=12) | Lightweight, minimalist timer for Mac with a countdown HUD and combinable timer groups | 💸 ♾️ **50% OFF** paid app ($3.99 → $1.99) · no code needed | Nov 20, 2026 - Dec 6, 2026 |
+| [TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-twf-nikhila&mt=12&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Lightweight, minimalist timer for Mac with a countdown HUD and combinable timer groups | 💸 ♾️ **50% OFF** paid app ($3.99 → $1.99) · no code needed | Nov 20, 2026 - Dec 6, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
