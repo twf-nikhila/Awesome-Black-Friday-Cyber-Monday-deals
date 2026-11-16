@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **236 deals** listed · Updated Nov 15, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **237 deals** listed · Updated Nov 15, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -78,6 +78,7 @@ Add it to your website, README, or launch post:
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (14) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (15) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (8) - Fitness, nutrition, travel, home & personal apps
+* 🎓 [Education](#-education) (1) - Language learning apps
 * 📚 [Courses & Books](#-courses--books) (10) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (1) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (1) - Free credits, free plans, giveaways
@@ -402,6 +403,11 @@ Add it to your website, README, or launch post:
 | [Let's Trip](https://letstrip.ai/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI travel planner with personalized itineraries, hotel and flight price tracking, and price-drop alerts. | 💸 **50% OFF** Premium ($10 → $5/month, $100 → $50/year) | Nov 11, 2026 - Dec 1, 2026 |
 | [Vitra Health](https://vitrahealth.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Desktop companion for the Oura Ring on Mac and Windows: your ring's data read against your own baseline, on your own computer (needs an Oura Membership) | ♾️ **20% OFF** both one-time licences, applied automatically at checkout · Solo ~~€19~~ €15.20, Pro ~~€29~~ €23.20 | Nov 13, 2026 - Nov 30, 2026 |
 | [Steps & Beasts](https://stepsandbeasts.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Step-tracking game for iPhone and Android: walk to your daily goal to hatch an egg and collect Beasts | ♾️ **33% OFF** Pro Lifetime · US iOS $39.99 → $26.99 USD · auto-applied in the app, no code needed · Android and local prices vary | Nov 13, 2026 - Nov 30, 2026 |
+
+## 🎓 Education
+| **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
+|:-:|:-:|:-:|:-:|
+| [Bilang](https://bilang.org?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Language learning app. Turn real-life situations into speaking and writing practice. Prep for job interviews, snap photos of real documents to capture vocab, follow podcasts with live transcripts, and build fluency with a grammar-checked daily diary and fact-checked podcast retells. Just the language you actually use for work and daily life. | 💸 **20% OFF** all plans · code `BF26` | Nov 15, 2026 - Dec 1, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
