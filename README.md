@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **245 deals** listed · Updated Nov 16, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **246 deals** listed · Updated Nov 16, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -73,7 +73,7 @@ Add it to your website, README, or launch post:
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (26) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (10) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (19) - Tailwind/React components, Figma kits, icons, themes, animations
-* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (8) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
+* 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (9) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (25) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (15) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (16) - Pentesting, threat monitoring, encrypted email & files, privacy tools
@@ -319,7 +319,7 @@ Add it to your website, README, or launch post:
 | [Meku](https://meku.dev/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI builder for websites and web apps | **30% OFF** all yearly plans · code `BLFCM2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [Kinsta](https://kinsta.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Fast, secure, feature-rich managed hosting for WordPress on next-generation cloud infrastructure, secured by Cloudflare | 💸 **3 months FREE** on annual plans or **50% OFF** the first 3 months on monthly plans · new customers · auto-applied | Nov 11, 2026 - Dec 1, 2026 |
 | [own.page](https://own.page/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Not another link in bio: a personal website built in minutes from live widgets. Sell products, take bookings, collect leads, play your music, on your own domain | **40% OFF** the first year of Pro (yearly), **30% OFF** Business · no code needed, applied at checkout | Nov 20, 2026 - Nov 30, 2026 |
-| [Sitely 8](https://sitely.app) | Sitely AI+Visual Website Builder for Mac & iPad · Build the website you always wanted, visually or using AI with MCP | 50% OFF (automatically applied) | Nov 17, 2026 - Dec 08, 2026 |
+| [Sitely 8](https://sitely.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Sitely AI+Visual Website Builder for Mac & iPad · Build the website you always wanted, visually or using AI with MCP | 50% OFF (automatically applied) | Nov 17, 2026 - Dec 08, 2026 |
 
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
