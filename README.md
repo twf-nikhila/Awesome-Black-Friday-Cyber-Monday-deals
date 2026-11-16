@@ -348,6 +348,7 @@ Add it to your website, README, or launch post:
 | [FileMinutes](https://www.fileminutes.com/pricing/?utm_source=twf-nikhila) | Everyday file search for Mac · search inside a folder, browse with your keyboard, filter by file type and more | 💸 ♾️ **Up to 60% OFF** lifetime · 1/3/5 Macs: $6/$9/$12 (was $10/$21/$30) · auto-applied, no code | Nov 14, 2026 - Nov 30, 2026 |
 | [CopyPasta](https://usecopypasta.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private-by-default clipboard manager for macOS that opens from the notch, with encrypted history and a Paste Stack | 💸 ♾️ **50% OFF** all one-time licenses (Personal $14.99 → $7.50, Plus $29.99 → $15, Studio $39.99 → $20) · auto-applied or code `BLACKFRIDAY26` | Nov 14, 2026 - Dec 6, 2026 |
 | [Tangrid](https://tangrid.app/pricing?code=BLACK5D&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS window manager that automatically tiles windows and organizes them into tabbed groups. | ♾️ **20% OFF** lifetime licenses (1 Mac $22.99 → $18.39 USD) · code `BLACK5D` · lifetime updates | Nov 16, 2026 - Dec 31, 2026 |
+| [DeskRest](https://deskrest.com/offers) | Mac menu bar app that reminds you to take regular breaks, rest your eyes and stay healthy while you work | 💸 ♾️  **80% OFF** lifetime licenses · code `BLACKFRIDAY80` | Nov 9, 2026 - Dec 10, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
