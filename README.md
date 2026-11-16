@@ -146,6 +146,7 @@ Add it to your website, README, or launch post:
 | [LiveReacting](https://www.livereacting.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Stream pre-recorded videos and 24/7 live channels to YouTube, Facebook, Twitch and more from the cloud. No computer needs to stay on. | 💸 **50% OFF** your first year of annual plans (Small, Medium, Large, 24/7 Streaming) · code `BF2026` · new customers only | Nov 20, 2026 - Dec 4, 2026 |
 | [Recut](https://getrecut.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Removes silence from videos and podcasts automatically and exports to Premiere, Resolve and Final Cut Pro (Mac, Windows, Linux) | ♾️ **$50 OFF**, one-time purchase ($149 → $99) · auto-applied | Nov 12, 2026 - Dec 4, 2026 |
 | [LottieGo](https://lottiego.com/black-friday?utm_source=gh-twf-nikhila&utm_medium=github&utm_campaign=bf2026) | Shrinks Lottie JSON files and exports them as MP4, transparent MOV or GIF on your Mac | 💸 ♾️ **50% OFF** Pro Lifetime ($4.99 → $2.49) · no code needed | Nov 20, 2026 - Dec 6, 2026 |
+| [Cuddler Studio](https://cuddler.ai/black-friday) | Seedance, Kling, Veo, Runway and more video, image and voice models in one creator tool · 18+ | 💸 **50% OFF** first period of Lite, Pro, Ultra (from $4.95) and credit packs · no code needed | Nov 15, 2026 - Dec 1, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
