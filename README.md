@@ -146,6 +146,7 @@ Add it to your website, README, or launch post:
 | [LiveReacting](https://www.livereacting.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Stream pre-recorded videos and 24/7 live channels to YouTube, Facebook, Twitch and more from the cloud. No computer needs to stay on. | 💸 **50% OFF** your first year of annual plans (Small, Medium, Large, 24/7 Streaming) · code `BF2026` · new customers only | Nov 20, 2026 - Dec 4, 2026 |
 | [Recut](https://getrecut.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Removes silence from videos and podcasts automatically and exports to Premiere, Resolve and Final Cut Pro (Mac, Windows, Linux) | ♾️ **$50 OFF**, one-time purchase ($149 → $99) · auto-applied | Nov 12, 2026 - Dec 4, 2026 |
 | [LottieGo](https://lottiego.com/black-friday?utm_source=gh-twf-nikhila&utm_medium=github&utm_campaign=bf2026) | Shrinks Lottie JSON files and exports them as MP4, transparent MOV or GIF on your Mac | 💸 ♾️ **50% OFF** Pro Lifetime ($4.99 → $2.49) · no code needed | Nov 20, 2026 - Dec 6, 2026 |
+| [Blumify](https://blumify.io/pro?utm_source=twf-bfcm&utm_medium=github&utm_campaign=bfcm2026) | Turn YouTube videos and podcast episodes into transcripts with summaries you can ask questions about | 💸 **50% OFF** the first year of Unlimited ($29.99, was $59.99) · auto-applied, no code needed | Nov 11, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
