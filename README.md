@@ -168,6 +168,7 @@ Add it to your website, README, or launch post:
 | [Unmerge](https://unmerge.app/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Split flat images, illustrations and anime art into movable transparent PSD and PNG layers (web, API & MCP) | ♾️ **+33%–35% bonus credits** (~26% OFF per layer) on non-expiring packs (Starter $3.90: 45 → 60 credits, Basic $10: 130 → 175 credits) · auto-applied | Nov 13, 2026 - Dec 1, 2026 |
 | [Zipic](https://zipic.app/black-friday?utm_source=gh-twf-nikhila&utm_medium=github&utm_campaign=bf2026) | Image compression for Mac and Windows · compress, convert and resize whole folders locally, including AVIF, WebP and JPEG XL | ♾️ **33% OFF** one-time licenses · code `BF2026` · Solo $13.39 (was $19.99), Personal $20.09 (was $29.99), Team $87.09 (was $129.99) | Nov 20, 2026 - Dec 6, 2026 |
 | [Clipture](https://apps.apple.com/app/id6787685075?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Lightweight screenshot tool for macOS | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [AntShot](https://antshot.com/?ref=awesome-black-friday-deals) | Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page, saved on your device | ♾ **35% OFF** Pro Lifetime ($39 → $25.35) · code `BLACKFRIDAY26` | Nov 12, 2026 - Dec 2, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
