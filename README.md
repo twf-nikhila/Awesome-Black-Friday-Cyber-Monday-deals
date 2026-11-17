@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>300 deals listed</b> · Updated Nov 17, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>305 deals listed</b> · Updated Nov 17, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -69,16 +69,16 @@ Add it to your website, README, or launch post:
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (21) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (12) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (24) - Social media, lead finding & outreach, email marketing, launch directories
-* 💼 [Business, Finance & Operations](#-business-finance--operations) (18) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (32) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (19) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (34) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (10) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (20) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (13) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (35) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (19) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (19) - Pentesting, threat monitoring, encrypted email & files, privacy tools
-* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (9) - Fitness, nutrition, travel, home & personal apps
-* 📚 [Courses & Books](#-courses--books) (15) - Courses, books, certifications & guides
+* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (10) - Fitness, nutrition, travel, home & personal apps
+* 📚 [Courses & Books](#-courses--books) (16) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (1) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (2) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
@@ -453,7 +453,7 @@ Add it to your website, README, or launch post:
 | [Vitra Health](https://vitrahealth.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Desktop companion for the Oura Ring on Mac and Windows: your ring's data read against your own baseline, on your own computer (needs an Oura Membership) | ♾️ **20% OFF** both one-time licences, applied automatically at checkout · Solo ~~€19~~ €15.20, Pro ~~€29~~ €23.20 | Nov 13, 2026 - Nov 30, 2026 |
 | [Steps & Beasts](https://stepsandbeasts.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Step-tracking game for iPhone and Android: walk to your daily goal to hatch an egg and collect Beasts | ♾️ **33% OFF** Pro Lifetime · US iOS $39.99 → $26.99 USD · auto-applied in the app, no code needed · Android and local prices vary | Nov 13, 2026 - Nov 30, 2026 |
 | [mhm](https://apps.apple.com/app/mhm-you-too/id6826873538?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | iPhone app for two people who are close: each sets private emoji signals for the other, and only a match is ever shown | 💸 ♾️ **50% OFF** mhm+ Lifetime ($49.99 → $24.99) · auto-applied · or **60% OFF** first year of Yearly with code `BFCM26` | Nov 19, 2026 - Dec 2, 2026 |
-| [The NerveWindow Library](https://nervewindow.com/library/) | Every app and card deck by Alex Zah in one account: 25 apps and card decks on phone and computer for hard moments, like a tense evening or a difficult talk with a partner | 💸 ♾️ **80% OFF** lifetime · $477 → $97, no code needed | Nov 16, 2026 - Dec 1, 2026 |
+| [The NerveWindow Library](https://nervewindow.com/library/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Every app and card deck by Alex Zah in one account: 25 apps and card decks on phone and computer for hard moments, like a tense evening or a difficult talk with a partner | 💸 ♾️ **80% OFF** lifetime · $477 → $97, no code needed | Nov 16, 2026 - Dec 1, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -473,7 +473,7 @@ Add it to your website, README, or launch post:
 | [CyberWarFare Labs](https://cyberwarfare.live/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on cybersecurity training with labs and certifications across Red Team, Blue Team, cloud and AI security ([all offers](https://github.com/RedTeamOperations/black-friday-cyber-sale-2026)) | 💸 **Up to 90% OFF** course bundles · certifications from $5 · Infinity Yearly $49 with 2 free certifications · code `INFINITY49` (yearly) / `INFINITY5` (monthly) | Nov 12, 2026 - Dec 1, 2026 |
 | [Practical TLS](https://classes.pracnet.net/courses/practical-tls?coupon=BF2026TLS&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on SSL/TLS deep dive for engineers, from the fundamentals through the depths of TLS 1.3 | 💸 ♾️ **83% OFF** lifetime access · code `BF2026TLS` · $297 → $50 | Nov 15, 2026 - Dec 6, 2026 |
 | [Networking: The Internet, the Cloud, and Everything in Between](https://classes.pracnet.net/courses/networking?coupon=BF2026NET&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Vendor-neutral networking course built from first principles, with all future modules included | 💸 ♾️ **51% OFF** lifetime access · code `BF2026NET` · $59 → $29 | Nov 15, 2026 - Dec 6, 2026 |
-| [Wireshark Labs](https://wiresharklabs.org) | Hands-on Wireshark labs with real packet captures: certification exam prep and real-world troubleshooting cases. | 💸 ♾️ **50% OFF** WCA Labs ($199.99 → $99.99) · Ranger Lab $249.99 → $179.99 · code `PACKETFRIDAY` | Nov 23, 2026 - Nov 30, 2026 |
+| [Wireshark Labs](https://wiresharklabs.org?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on Wireshark labs with real packet captures: certification exam prep and real-world troubleshooting cases. | 💸 ♾️ **50% OFF** WCA Labs ($199.99 → $99.99) · Ranger Lab $249.99 → $179.99 · code `PACKETFRIDAY` | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
