@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 **285 deals** listed · Updated Nov 17, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 **284 deals** listed · Updated Nov 17, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -74,7 +74,7 @@ Add it to your website, README, or launch post:
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (10) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (20) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (11) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (34) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (33) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (18) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (19) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (9) - Fitness, nutrition, travel, home & personal apps
@@ -374,7 +374,6 @@ Add it to your website, README, or launch post:
 | [PasteNook](https://apps.apple.com/app/id6762595649?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Clipboard history manager for macOS | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [TeachingInk](https://apps.apple.com/app/id6761326660?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Screen annotation and whiteboard for Mac | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [EchoKeys](https://apps.apple.com/app/id6764276614?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Shows your keyboard shortcuts on screen as you press them | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
-| [Wishbar](https://wishbar.app/black-friday?ref=twf-bf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar (a free ChatGPT account is enough) | ♾️ **Up to 48% OFF** one-time licences · auto-applied, no code · 1 Mac $39 → $20, 2 Macs $49 → $27, 5 Macs $69 → $41 | Nov 27, 2026 - Dec 1, 2026 |
 | [Scrubs](https://getscrubs.app/black-friday?ref=twfbf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Disk space analyzer for Mac: a map of your whole drive that shows what fills it, with deletes that go to the Trash first and undo | ♾️ **40% OFF** ($14.99 → $8.99) one-time license for 3 Macs · code `BLACKFRIDAY26` | Nov 27, 2026 - Dec 1, 2026 |
 | [Notchet](https://aqibjaved.dev/apps/notchet/?ref=bf-gh-twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Clipboard manager in the MacBook notch: press Option Command V, pick what you copied, and it pastes where you were. Also on iPhone and iPad | 💸 ♾️ **50% OFF** lifetime ($9.99 → $4.99) · code `NOTCHET50` | Nov 17, 2026 - Dec 2, 2026 |
 
