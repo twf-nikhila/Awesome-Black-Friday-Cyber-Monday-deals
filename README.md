@@ -167,6 +167,7 @@ Add it to your website, README, or launch post:
 | [MakeItSay](https://makeitsay.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Edit or translate text inside photos, screenshots and badges while preserving the original font and background (web, API & MCP) | ♾️ **30% OFF** non-expiring credit packs (6 edits $3 → $2.10, 40 edits $10 → $7) · code `BF2026` | Nov 13, 2026 - Dec 1, 2026 |
 | [Unmerge](https://unmerge.app/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Split flat images, illustrations and anime art into movable transparent PSD and PNG layers (web, API & MCP) | ♾️ **+33%–35% bonus credits** (~26% OFF per layer) on non-expiring packs (Starter $3.90: 45 → 60 credits, Basic $10: 130 → 175 credits) · auto-applied | Nov 13, 2026 - Dec 1, 2026 |
 | [Zipic](https://zipic.app/black-friday?utm_source=gh-twf-nikhila&utm_medium=github&utm_campaign=bf2026) | Image compression for Mac and Windows · compress, convert and resize whole folders locally, including AVIF, WebP and JPEG XL | ♾️ **33% OFF** one-time licenses · code `BF2026` · Solo $13.39 (was $19.99), Personal $20.09 (was $29.99), Team $87.09 (was $129.99) | Nov 20, 2026 - Dec 6, 2026 |
+| [Clipture](https://apps.apple.com/app/id6787685075) | Lightweight screenshot tool for macOS | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -249,6 +250,7 @@ Add it to your website, README, or launch post:
 | [Larderly full menu costing](https://bardachtechnologies.gumroad.com/l/larderly-full-menu-costing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Done-for-you restaurant menu costing: send your menu and supplier invoices, get every dish costed in the Larderly workbook (Excel / Google Sheets) within 3 business days | **38% OFF** ($79 → $49) one-time · code `BLACKFRIDAY49` | Nov 24, 2026 - Dec 1, 2026 |
 | [Invoice Factory](https://apps.apple.com/us/app/id6744819252?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Invoice maker and bookkeeping app for freelancers and small businesses on iPhone: invoices, payments and bills | 💸 **50% OFF** the first year of Premium annual ($179.99 → $89.99 USD) · auto-applied in the app, no code | Nov 5, 2026 - Dec 6, 2026 |
 | [DigiCard Pro](https://digicard.pro/?ref=twf-nikhila&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Digital business card for Apple Wallet and Google Wallet: share your contact details with a QR code, no app needed for the recipient | 💸 ♾️ **50% OFF** Pro, one-time ($49.99 → $24.99) · code `DIGI50` | Nov 23, 2026 - Nov 30, 2026 |
+| [Tagnivo](https://apps.apple.com/app/id6804351905) | Manage assets, employee assignments, supplies and inventory audits in one Mac app | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -366,6 +368,9 @@ Add it to your website, README, or launch post:
 | [DeskRest](https://deskrest.com/offers?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac menu bar app that reminds you to take regular breaks, rest your eyes and stay healthy while you work | 💸 ♾️ **80% OFF** lifetime licenses · code `BLACKFRIDAY80` | Nov 9, 2026 - Dec 10, 2026 |
 | [DuoBar](https://www.teekamsuthar.com/duobar?utm_source=twf-bf&utm_medium=referral&utm_campaign=black-friday-2026) | Merges your Mac's native menu bar icons (battery, Wi-Fi, memory and more) into one glanceable icon; hover to see them separately | ♾️ **29% OFF** Pro one-time upgrade ($6.99 → $4.99) · auto-applied on the Mac App Store | Nov 24, 2026 - Dec 1, 2026 |
 | [Wishbar](https://wishbar.app/black-friday?ref=twf-bf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar (a free ChatGPT account is enough) | 💸 ♾️ **50% OFF** one-time licences · auto-applied, no code · 1 Mac $39 → $19, 2 Macs $49 → $24, 5 Macs $69 → $34 | Nov 16, 2026 - Dec 7, 2026 |
+| [PasteNook](https://apps.apple.com/app/id6762595649) | Clipboard history manager for macOS | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [TeachingInk](https://apps.apple.com/app/id6761326660) | Screen annotation and whiteboard for Mac | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [EchoKeys](https://apps.apple.com/app/id6764276614) | Shows your keyboard shortcuts on screen as you press them | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -386,6 +391,8 @@ Add it to your website, README, or launch post:
 | [SimpleFill](https://simplefill.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Text expansion, AI actions, and one-click form filling in your browser (Chrome, Firefox, Edge, and Safari) | ♾️ **25% OFF** one-time purchase (Standard $29 → $21.75, Pro $59 → $44.25) · code `LAUNCH` · Chrome, Firefox, and Edge checkout | Nov 10, 2026 - Dec 7, 2026 |
 | [Forma](https://useforma.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Free-form canvas for Mac with markdown cards, checklists and a marker for daily tasks and project planning | ♾️ **47% OFF** Lifetime Pro ($14.99 → $7.99) · code `BLACKFRIDAY50` (redeem in the Mac App Store app) | Nov 20, 2026 - Dec 1, 2026 |
 | [TimeGo Clock](https://apps.apple.com/app/apple-store/id6448658165?pt=126247175&ct=bf2026-gh-twf-nikhila&mt=12&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Lightweight, minimalist timer for Mac with a countdown HUD and combinable timer groups | 💸 ♾️ **50% OFF** paid app ($3.99 → $1.99) · no code needed | Nov 20, 2026 - Dec 6, 2026 |
+| [AirCalendar](https://apps.apple.com/app/id6761035745) | Menu bar calendar for Mac: check the date, see what is coming up and keep your tasks close | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [LociMark](https://apps.apple.com/app/id6808972699) | Local-first bookmark manager for Mac | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
