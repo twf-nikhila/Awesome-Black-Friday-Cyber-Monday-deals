@@ -258,6 +258,7 @@ Add it to your website, README, or launch post:
 | [DigiCard Pro](https://digicard.pro/?ref=twf-nikhila&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Digital business card for Apple Wallet and Google Wallet: share your contact details with a QR code, no app needed for the recipient | 💸 ♾️ **50% OFF** Pro, one-time ($49.99 → $24.99) · code `DIGI50` | Nov 23, 2026 - Nov 30, 2026 |
 | [Tagnivo](https://apps.apple.com/app/id6804351905?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Manage assets, employee assignments, supplies and inventory audits in one Mac app | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [Inkfree](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | eSignature for teams with signing order, templates, bulk send and a sealed audit trail | 💸 **70% OFF** first year (annual) · **60% OFF** first 3 months (monthly) · auto-applied | Nov 16, 2026 - Dec 14, 2026 |
+| [InterviewFlowAI](https://interviewflowai.com/black-friday?utm_source=twf&utm_medium=deal_listing&utm_campaign=bfcm2026) | AI phone and video interviews that screen candidates for you | **40% OFF** the first year of yearly Growth & Scale · code `BFCM40` | Nov 17, 2026 - Dec 4, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
