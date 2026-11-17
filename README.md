@@ -238,6 +238,7 @@ Add it to your website, README, or launch post:
 | [Radar Lab](https://partnershipintel.com/?utm_source=awesome-black-friday-deals#pricing) | Find newsletters to sponsor that reach your buyers, with proof of who already sponsors each one | 💸 **67% OFF** Pro yearly: ~~$299~~ $99/year, locked for as long as you stay · no code needed | Nov 16, 2026 - Nov 30, 2026 |
 | [Mailzzy](https://mailzzy.com/emails-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | Email marketing for small businesses with templates, AI-drafted campaigns, A/B testing and automations | 💸 **70% OFF** first year (annual) · **60% OFF** first 3 months (monthly) · auto-applied | Nov 16, 2026 - Dec 14, 2026 |
 | [Unspam.email](https://unspam.email/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Email spam checker: 0-100 spam score, SPF/DKIM/DMARC and blacklist checks, inbox placement, previews on 60+ clients | **35% OFF** first invoice of the Custom plan, code `BLACKFRIDAY35` · first year ~~$709.98~~ $461.49 · 40% via the deal-page game | Nov 16, 2026 - Dec 1, 2026 |
+| [TelemetryDeck](https://telemetrydeck.com/?utm_source=twf-github&utm_medium=deal-list&utm_campaign=black-week-2026) | Privacy-first app analytics for iOS, Android, Flutter, React Native and web apps, hosted in Europe | **30% OFF** for 12 months · code `WEEK26` · no minimum order | Nov 23, 2026 - Dec 1, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
