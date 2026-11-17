@@ -372,6 +372,8 @@ Add it to your website, README, or launch post:
 | [PasteNook](https://apps.apple.com/app/id6762595649) | Clipboard history manager for macOS | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [TeachingInk](https://apps.apple.com/app/id6761326660) | Screen annotation and whiteboard for Mac | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [EchoKeys](https://apps.apple.com/app/id6764276614) | Shows your keyboard shortcuts on screen as you press them | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [Wishbar](https://wishbar.app/black-friday?ref=twf-bf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Type what you want in plain English and your own AI builds a live widget in your Mac's menu bar (a free ChatGPT account is enough) | ♾️ **Up to 48% OFF** one-time licences · auto-applied, no code · 1 Mac $39 → $20, 2 Macs $49 → $27, 5 Macs $69 → $41 | Nov 27, 2026 - Dec 1, 2026 |
+| [Scrubs](https://getscrubs.app/black-friday?ref=twfbf) | Disk space analyzer for Mac: a map of your whole drive that shows what fills it, with deletes that go to the Trash first and undo | ♾️ **40% OFF** ($14.99 → $8.99) one-time license for 3 Macs · code `BLACKFRIDAY26` | Nov 27, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
