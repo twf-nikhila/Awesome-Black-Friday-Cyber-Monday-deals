@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>295 deals listed</b> · Updated Nov 17, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>300 deals listed</b> · Updated Nov 17, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -66,15 +66,15 @@ Add it to your website, README, or launch post:
 
 * 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (31) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (19) - Image editing & compression, AI images, screenshots, color tools
-* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (20) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (21) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (12) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (23) - Social media, lead finding & outreach, email marketing, launch directories
-* 💼 [Business, Finance & Operations](#-business-finance--operations) (17) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (24) - Social media, lead finding & outreach, email marketing, launch directories
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (18) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (32) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (10) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (20) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (13) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (33) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (35) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (19) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (19) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (9) - Fitness, nutrition, travel, home & personal apps
@@ -389,8 +389,8 @@ Add it to your website, README, or launch post:
 | [EchoKeys](https://apps.apple.com/app/id6764276614?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Shows your keyboard shortcuts on screen as you press them | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [Scrubs](https://getscrubs.app/black-friday?ref=twfbf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Disk space analyzer for Mac: a map of your whole drive that shows what fills it, with deletes that go to the Trash first and undo | ♾️ **40% OFF** ($14.99 → $8.99) one-time license for 3 Macs · code `BLACKFRIDAY26` | Nov 27, 2026 - Dec 1, 2026 |
 | [Notchet](https://aqibjaved.dev/apps/notchet/?ref=bf-gh-twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Clipboard manager in the MacBook notch: press Option Command V, pick what you copied, and it pastes where you were. Also on iPhone and iPad | 💸 ♾️ **50% OFF** lifetime ($9.99 → $4.99) · code `NOTCHET50` | Nov 17, 2026 - Dec 2, 2026 |
-| [Storage Menu Bar](https://storagemenu.app/) | Mac menu bar app that shows used and free space on every internal and external drive, warns you per volume, and maps the folders that fill each disk | 💸 ♾️ **50% OFF** ($1.99 → $0.99) one-time purchase on the Mac App Store · no code needed | Nov 17, 2026 - Nov 30, 2026 |
-| [Lidnight](https://lidnight.app/en/buy/) | Mac menu bar app that keeps a MacBook awake with the lid closed while AI coding agents (Claude Code, Codex) run, and lets it sleep when they finish | 💸 ♾️ **50% OFF** one-time license (1 Mac $9.99 → $4.99, 3 Macs $14.99 → $7.50) · code `BF50` | Nov 23, 2026 - Dec 1, 2026 |
+| [Storage Menu Bar](https://storagemenu.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac menu bar app that shows used and free space on every internal and external drive, warns you per volume, and maps the folders that fill each disk | 💸 ♾️ **50% OFF** ($1.99 → $0.99) one-time purchase on the Mac App Store · no code needed | Nov 17, 2026 - Nov 30, 2026 |
+| [Lidnight](https://lidnight.app/en/buy/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac menu bar app that keeps a MacBook awake with the lid closed while AI coding agents (Claude Code, Codex) run, and lets it sleep when they finish | 💸 ♾️ **50% OFF** one-time license (1 Mac $9.99 → $4.99, 3 Macs $14.99 → $7.50) · code `BF50` | Nov 23, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
