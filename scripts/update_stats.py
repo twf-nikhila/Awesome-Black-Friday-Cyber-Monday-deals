@@ -63,7 +63,7 @@ def main():
     now = datetime.now(timezone.utc)
     updated = f"{now:%b} {now.day}, {now.year}"
     # Stay blank until the first deal is added
-    stats = f"🔥 **{total} deals** listed · Updated {updated}" if total else ""
+    stats = f"🔥 <b>{total} deals listed</b> · Updated {updated}" if total else ""
 
     text = STATS_RE.sub(
         f"<!-- stats:start -->{stats}<!-- stats:end -->", "\n".join(lines)
