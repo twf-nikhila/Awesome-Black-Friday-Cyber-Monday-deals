@@ -286,6 +286,7 @@ Add it to your website, README, or launch post:
 | [SupaYatta](https://supayatta.com?ref=twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Know when your AI agents need you, right from your Mac's notch. Alerts for Claude, Cursor, Cowork and more. | 💸 ♾️ **65% OFF** Lifetime ($19.99 → $6.99) · code `YATTADEAL` | Nov 9, 2026 - Dec 7, 2026 |
 | [KeygenGo](https://keygengo.5km.tech/black-friday?utm_source=gh-twf-nikhila&utm_medium=github&utm_campaign=bf2026) | Native Mac client for Keygen.sh · manage licenses, users, products and machines for cloud or self-hosted accounts | 💸 ♾️ **50% OFF** Lifetime ($39.99 → $19.99, no code needed) · Annual first year $9.99 (was $19.99) · code `BF2026YEAR` | Nov 20, 2026 - Dec 6, 2026 |
 | [Wasmer Pro](https://wasmer.io/black-friday-2026?utm_source=github_twf&utm_medium=community&utm_campaign=black_friday_2026) | Deploy websites and apps on Wasmer Edge | 💸 **50% OFF** Pro for 12 months · code `BLACKFRIDAY26` · $10 → $5/month or $100 → $50 for the first year · first-time Pro customers | Nov 16, 2026 - Nov 30, 2026 |
+| [Talking Avatar](https://talking-avatar.dev/black-friday?utm_source=twf&utm_medium=deal_listing&utm_campaign=bfcm2026) | Real-time photorealistic AI avatars and no-code AI voice agents, from $0.02/min | **2x credits**: your next top-up is matched up to $100 (pay $100, get $200 of credits) · code `LAUNCH2X` | Nov 17, 2026 - Dec 4, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
