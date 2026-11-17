@@ -262,6 +262,7 @@ Add it to your website, README, or launch post:
 | [Inkfree](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | eSignature for teams with signing order, templates, bulk send and a sealed audit trail | 💸 **70% OFF** first year (annual) · **60% OFF** first 3 months (monthly) · auto-applied | Nov 16, 2026 - Dec 14, 2026 |
 | [InterviewFlowAI](https://interviewflowai.com/black-friday?utm_source=twf&utm_medium=deal_listing&utm_campaign=bfcm2026) | AI phone and video interviews that screen candidates for you | **40% OFF** the first year of yearly Growth & Scale · code `BFCM40` | Nov 17, 2026 - Dec 4, 2026 |
 | [Faivelo](https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=twf) | Email hosting for your own domain with unlimited mailboxes, aliases and domains | 💸 **80% OFF** · $12 for the year instead of $60, renews at $12 · no code needed · new customers, first 500 accounts | Nov 17, 2026 - Dec 1, 2026 |
+| [IvaBoard](https://ivaboard.com/lifetime/) | Customer feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain | ♾️ **30% OFF** lifetime plans · code `BF30` · Hosted Solo: Stage 1 €55 → €38.50 while Stage 1 licenses last; Stage 2 €66 → €46.20; Stage 3 €109 → €76.30 | Nov 17, 2026 - Nov 30, 2026 (11:59 p.m. Pacific Time) |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
