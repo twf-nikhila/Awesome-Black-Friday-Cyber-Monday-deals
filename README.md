@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>305 deals listed</b> · Updated Nov 17, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>307 deals listed</b> · Updated Nov 18, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -69,8 +69,8 @@ Add it to your website, README, or launch post:
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (21) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (12) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (24) - Social media, lead finding & outreach, email marketing, launch directories
-* 💼 [Business, Finance & Operations](#-business-finance--operations) (19) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (34) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (20) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (35) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (10) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (20) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (13) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
@@ -262,7 +262,7 @@ Add it to your website, README, or launch post:
 | [Inkfree](https://inkfree.app/signature-savings-sale/?utm_source=github&utm_medium=deals&utm_campaign=bf2026) | eSignature for teams with signing order, templates, bulk send and a sealed audit trail | 💸 **70% OFF** first year (annual) · **60% OFF** first 3 months (monthly) · auto-applied | Nov 16, 2026 - Dec 14, 2026 |
 | [InterviewFlowAI](https://interviewflowai.com/black-friday?utm_source=twf&utm_medium=deal_listing&utm_campaign=bfcm2026) | AI phone and video interviews that screen candidates for you | **40% OFF** the first year of yearly Growth & Scale · code `BFCM40` | Nov 17, 2026 - Dec 4, 2026 |
 | [Faivelo](https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=twf) | Email hosting for your own domain with unlimited mailboxes, aliases and domains | 💸 **80% OFF** · $12 for the year instead of $60, renews at $12 · no code needed · new customers, first 500 accounts | Nov 17, 2026 - Dec 1, 2026 |
-| [IvaBoard](https://ivaboard.com/lifetime/) | Customer feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain | ♾️ **30% OFF** lifetime plans · code `BF30` · Hosted Solo: Stage 1 €55 → €38.50 while Stage 1 licenses last; Stage 2 €66 → €46.20; Stage 3 €109 → €76.30 | Nov 17, 2026 - Nov 30, 2026 (11:59 p.m. Pacific Time) |
+| [IvaBoard](https://ivaboard.com/lifetime/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Customer feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain | ♾️ **30% OFF** lifetime plans · code `BF30` · Hosted Solo from €55 → €38.50 (price rises in stages) | Nov 17, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -301,7 +301,7 @@ Add it to your website, README, or launch post:
 | [Pulsetic](https://pulsetic.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Uptime monitoring for sites, APIs, SSL, DNS and cron jobs from 15 regions, with alerts and status pages | **35% OFF** first payment, code `BLACKFRIDAY35` · Solo ~~$90~~ $58.50/yr · 40% if you keep 99%+ uptime in the deal-page game | Nov 16, 2026 - Dec 3, 2026 |
 | [KittyTrace](https://kittytrace.com/?utm_source=twf-bfcm&utm_campaign=bf2026) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker | ♾️ **34% OFF** one-time license, $29 → $19 · code `BF2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [RenewRoster](https://renewroster.com/pricing?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Track every client's domain and SSL expiry in one list, with alerts and white-label client reminders. | 💸 **50% OFF** annual plans, Agency $390 → $195/yr · auto-applied | Nov 17, 2026 - Dec 4, 2026 |
-| [Tower](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows | 💸 **Up to 50% OFF** first year, Pro $129 → $64.50/yr, Basic $69 → $48.30/yr · auto-applied | Nov 23, 2026 - Dec 6, 2026 |
+| [Tower](https://www.git-tower.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The most powerful Git client for Mac and Windows | 💸 **Up to 50% OFF** first year, Pro $129 → $64.50/yr, Basic $69 → $48.30/yr · auto-applied | Nov 23, 2026 - Dec 6, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
