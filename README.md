@@ -425,6 +425,7 @@ Add it to your website, README, or launch post:
 | [AirCalendar](https://apps.apple.com/app/id6761035745?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Menu bar calendar for Mac: check the date, see what is coming up and keep your tasks close | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [LociMark](https://apps.apple.com/app/id6808972699?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local-first bookmark manager for Mac | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [Timesheet](https://timesheet.io/en/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Time tracking for freelancers and teams on iPhone, iPad, Android and the web, with invoices, reports and an MCP server | 💸 **50% OFF** the first year of every annual plan · auto-applied, no code · Pro $99.99 → $49.99, Business $179.99 → $89.99 per user · new customers | Nov 23, 2026 - Nov 30, 2026 |
+| [Superlist](https://www.superlist.com/blackfriday2026) | Tasks, notes and AI meeting notes in one app for work and home, with shared lists you edit together in real time (Mac, iPhone, Android and web) | 💸 **50% OFF** the first year of yearly plans · code `SUPERFRIDAY2026` · Basic $59 → $29.50, Super $199 → $99.50 | Nov 23, 2026 - Nov 29, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
