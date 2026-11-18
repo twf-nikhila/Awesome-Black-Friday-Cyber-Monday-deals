@@ -265,6 +265,7 @@ Add it to your website, README, or launch post:
 | [IvaBoard](https://ivaboard.com/lifetime/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Customer feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain | ♾️ **30% OFF** lifetime plans · code `BF30` · Hosted Solo from €55 → €38.50 (price rises in stages) | Nov 17, 2026 - Nov 30, 2026 |
 | [Reopen](https://apps.microsoft.com/detail/9PJB82W27F50?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Converts digital PDFs to Excel and Word on your own PC and checks every column against the totals the PDF printed | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [LeaseRail](https://apps.apple.com/app/id6807973930?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns a folder of tenancy-contract PDFs into spreadsheet data on your own Mac, each field checked against its page | 💸 ♾️ **50% OFF** one-time purchase on the Mac App Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime: $4.99, down from $9.99 · no code needed | Nov 18, 2026 - Dec 4, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -402,6 +403,7 @@ Add it to your website, README, or launch post:
 | [Dictiq](https://apps.microsoft.com/detail/9P5ZNQSFS0VC?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Dictation for Windows: press a hotkey, speak, and your words are typed into the app you are in, on your own PC | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [CopyShelf](https://apps.microsoft.com/detail/9NZJBHT8MQ5T?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Clipboard manager for Windows that files text, images, links and files into four separate tabs | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [Sortbook](https://apps.microsoft.com/detail/9N67DRVK5QWH?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | File organizer for the folders you choose: switch on a recipe and it files what arrives by type, month or year | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac | 💸 ♾️ **50% OFF** lifetime: $9.99, down from $19.99 · no code needed | Nov 18, 2026 - Dec 4, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -425,6 +427,7 @@ Add it to your website, README, or launch post:
 | [AirCalendar](https://apps.apple.com/app/id6761035745?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Menu bar calendar for Mac: check the date, see what is coming up and keep your tasks close | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [LociMark](https://apps.apple.com/app/id6808972699?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local-first bookmark manager for Mac | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [Timesheet](https://timesheet.io/en/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Time tracking for freelancers and teams on iPhone, iPad, Android and the web, with invoices, reports and an MCP server | 💸 **50% OFF** the first year of every annual plan · auto-applied, no code · Pro $99.99 → $49.99, Business $179.99 → $89.99 per user · new customers | Nov 23, 2026 - Nov 30, 2026 |
+| [Itemlist](https://www.getitemlist.app/black-friday/) | Home inventory for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime PRO: $29.99, down from $59.99 · no code needed | Nov 18, 2026 - Dec 4, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
