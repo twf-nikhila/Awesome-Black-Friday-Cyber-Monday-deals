@@ -300,6 +300,7 @@ Add it to your website, README, or launch post:
 | [Pulsetic](https://pulsetic.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Uptime monitoring for sites, APIs, SSL, DNS and cron jobs from 15 regions, with alerts and status pages | **35% OFF** first payment, code `BLACKFRIDAY35` · Solo ~~$90~~ $58.50/yr · 40% if you keep 99%+ uptime in the deal-page game | Nov 16, 2026 - Dec 3, 2026 |
 | [KittyTrace](https://kittytrace.com/?utm_source=twf-bfcm&utm_campaign=bf2026) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker | ♾️ **34% OFF** one-time license, $29 → $19 · code `BF2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [RenewRoster](https://renewroster.com/pricing?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Track every client's domain and SSL expiry in one list, with alerts and white-label client reminders. | 💸 **50% OFF** annual plans, Agency $390 → $195/yr · auto-applied | Nov 17, 2026 - Dec 4, 2026 |
+| [Tower](https://www.git-tower.com/) | The most powerful Git client for Mac and Windows | 💸 **Up to 50% OFF** first year, Pro $129 → $64.50/yr, Basic $69 → $48.30/yr · auto-applied | Nov 23, 2026 - Dec 6, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
