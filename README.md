@@ -303,8 +303,7 @@ Add it to your website, README, or launch post:
 | [RenewRoster](https://renewroster.com/pricing?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Track every client's domain and SSL expiry in one list, with alerts and white-label client reminders. | 💸 **50% OFF** annual plans, Agency $390 → $195/yr · auto-applied | Nov 17, 2026 - Dec 4, 2026 |
 | [Tower](https://www.git-tower.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The most powerful Git client for Mac and Windows | 💸 **Up to 50% OFF** first year, Pro $129 → $64.50/yr, Basic $69 → $48.30/yr · auto-applied | Nov 23, 2026 - Dec 6, 2026 |
 
-| [Relaybrook n8n Workflow Packs](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts | **10% OFF** all packs · code `CRYPTO10` | Nov 17, 2026 - Nov 30, 2026 |
-## 🧱 Boilerplates & Starter Kits
+| [Relaybrook n8n Workflow Packs](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts | **40% OFF** all packs · code `BLACKFRIDAY40` | Nov 18, 2026 - Dec 1, 2026 |
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [ShipAhead](https://shipahe.ad?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Ship your SaaS in a weekend with Nuxt Starter Kit | 💸 ♾️ **50% OFF** · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
