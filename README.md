@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>307 deals listed</b> · Updated Nov 18, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>313 deals listed</b> · Updated Nov 18, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -69,12 +69,12 @@ Add it to your website, README, or launch post:
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (21) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (12) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (24) - Social media, lead finding & outreach, email marketing, launch directories
-* 💼 [Business, Finance & Operations](#-business-finance--operations) (20) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (35) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (22) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (36) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (10) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (20) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (13) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (35) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (38) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (19) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (19) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (10) - Fitness, nutrition, travel, home & personal apps
@@ -263,8 +263,8 @@ Add it to your website, README, or launch post:
 | [InterviewFlowAI](https://interviewflowai.com/black-friday?utm_source=twf&utm_medium=deal_listing&utm_campaign=bfcm2026) | AI phone and video interviews that screen candidates for you | **40% OFF** the first year of yearly Growth & Scale · code `BFCM40` | Nov 17, 2026 - Dec 4, 2026 |
 | [Faivelo](https://faivelo.com/black-friday?utm_source=github&utm_medium=deal_listing&utm_campaign=twf) | Email hosting for your own domain with unlimited mailboxes, aliases and domains | 💸 **80% OFF** · $12 for the year instead of $60, renews at $12 · no code needed · new customers, first 500 accounts | Nov 17, 2026 - Dec 1, 2026 |
 | [IvaBoard](https://ivaboard.com/lifetime/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Customer feedback boards, votes, roadmaps, changelogs and waitlists for SaaS teams and agencies, with white-label portals on your own domain | ♾️ **30% OFF** lifetime plans · code `BF30` · Hosted Solo from €55 → €38.50 (price rises in stages) | Nov 17, 2026 - Nov 30, 2026 |
-| [Reopen](https://apps.microsoft.com/detail/9PJB82W27F50) | Converts digital PDFs to Excel and Word on your own PC and checks every column against the totals the PDF printed | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
-| [LeaseRail](https://apps.apple.com/app/id6807973930) | Turns a folder of tenancy-contract PDFs into spreadsheet data on your own Mac, each field checked against its page | 💸 ♾️ **50% OFF** one-time purchase on the Mac App Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [Reopen](https://apps.microsoft.com/detail/9PJB82W27F50?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Converts digital PDFs to Excel and Word on your own PC and checks every column against the totals the PDF printed | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [LeaseRail](https://apps.apple.com/app/id6807973930?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns a folder of tenancy-contract PDFs into spreadsheet data on your own Mac, each field checked against its page | 💸 ♾️ **50% OFF** one-time purchase on the Mac App Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -304,7 +304,7 @@ Add it to your website, README, or launch post:
 | [KittyTrace](https://kittytrace.com/?utm_source=twf-bfcm&utm_campaign=bf2026) | Self-hosted, Sentry-compatible error tracking that runs free on your own Cloudflare account or on your server with Docker | ♾️ **34% OFF** one-time license, $29 → $19 · code `BF2026` | Nov 17, 2026 - Dec 1, 2026 |
 | [RenewRoster](https://renewroster.com/pricing?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Track every client's domain and SSL expiry in one list, with alerts and white-label client reminders. | 💸 **50% OFF** annual plans, Agency $390 → $195/yr · auto-applied | Nov 17, 2026 - Dec 4, 2026 |
 | [Tower](https://www.git-tower.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The most powerful Git client for Mac and Windows | 💸 **Up to 50% OFF** first year, Pro $129 → $64.50/yr, Basic $69 → $48.30/yr · auto-applied | Nov 23, 2026 - Dec 6, 2026 |
-| [Social Fetch](https://socialfetch.dev/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | REST API and hosted MCP server for public social data as JSON from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more | **Double credits on every plan**, applied automatically, no code. Monthly: double credits in month one. Annual: double credits for the first 3 months. Growth pack ($59): 25,000 credits plus 25,000 free. New plans only | 19 Nov 2026 to 1 Dec 2026 |
+| [Social Fetch](https://socialfetch.dev/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | REST API and hosted MCP server for public social data as JSON from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more | **Double credits** on every plan (first month on monthly, first 3 months on annual) · auto-applied, no code · new plans only | Nov 19, 2026 - Dec 1, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -399,9 +399,9 @@ Add it to your website, README, or launch post:
 | [Notchet](https://aqibjaved.dev/apps/notchet/?ref=bf-gh-twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Clipboard manager in the MacBook notch: press Option Command V, pick what you copied, and it pastes where you were. Also on iPhone and iPad | 💸 ♾️ **50% OFF** lifetime ($9.99 → $4.99) · code `NOTCHET50` | Nov 17, 2026 - Dec 2, 2026 |
 | [Storage Menu Bar](https://storagemenu.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac menu bar app that shows used and free space on every internal and external drive, warns you per volume, and maps the folders that fill each disk | 💸 ♾️ **50% OFF** ($1.99 → $0.99) one-time purchase on the Mac App Store · no code needed | Nov 17, 2026 - Nov 30, 2026 |
 | [Lidnight](https://lidnight.app/en/buy/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac menu bar app that keeps a MacBook awake with the lid closed while AI coding agents (Claude Code, Codex) run, and lets it sleep when they finish | 💸 ♾️ **50% OFF** one-time license (1 Mac $9.99 → $4.99, 3 Macs $14.99 → $7.50) · code `BF50` | Nov 23, 2026 - Dec 1, 2026 |
-| [Dictiq](https://apps.microsoft.com/detail/9P5ZNQSFS0VC) | Dictation for Windows: press a hotkey, speak, and your words are typed into the app you are in, on your own PC | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
-| [CopyShelf](https://apps.microsoft.com/detail/9NZJBHT8MQ5T) | Clipboard manager for Windows that files text, images, links and files into four separate tabs | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
-| [Sortbook](https://apps.microsoft.com/detail/9N67DRVK5QWH) | File organizer for the folders you choose: switch on a recipe and it files what arrives by type, month or year | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [Dictiq](https://apps.microsoft.com/detail/9P5ZNQSFS0VC?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Dictation for Windows: press a hotkey, speak, and your words are typed into the app you are in, on your own PC | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [CopyShelf](https://apps.microsoft.com/detail/9NZJBHT8MQ5T?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Clipboard manager for Windows that files text, images, links and files into four separate tabs | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [Sortbook](https://apps.microsoft.com/detail/9N67DRVK5QWH?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | File organizer for the folders you choose: switch on a recipe and it files what arrives by type, month or year | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
