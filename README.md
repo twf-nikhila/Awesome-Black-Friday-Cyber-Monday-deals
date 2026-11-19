@@ -178,6 +178,7 @@ Add it to your website, README, or launch post:
 | [Clipture](https://apps.apple.com/app/id6787685075?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Lightweight screenshot tool for macOS | 💸 ♾️ **50% OFF** Lifetime Unlock · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [AntShot](https://antshot.com/?ref=awesome-black-friday-deals&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page, saved on your device | ♾️ **35% OFF** Pro Lifetime ($39 → $25.35) · code `BLACKFRIDAY26` | Nov 12, 2026 - Dec 2, 2026 |
 | [Textmock](https://textmock.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Make iMessage-style conversation mockups on the web or Mac and save them as images or videos | 💸 **50% OFF** Pro for your first 12 months · code `TEXTMOCKBF26` · new subscribers | Nov 18, 2026 - Dec 2, 2026 |
+| [InPlaceText](https://inplacetext.com/) | In-place AI image text editor to change words in JPGs, posters, menus, product photos, AI renders, and screenshots while keeping the same font | 💸 ♾️ Up to +50% bonus credits on one-time credit packs (no subscription, auto-applied) | Nov 19, 2026 - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
