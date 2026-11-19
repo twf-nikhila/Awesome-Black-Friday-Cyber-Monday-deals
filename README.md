@@ -155,6 +155,7 @@ Add it to your website, README, or launch post:
 | [Blumify](https://blumify.io/pro?utm_source=twf-bfcm&utm_medium=github&utm_campaign=bfcm2026) | Turn YouTube videos and podcast episodes into transcripts with summaries you can ask questions about | 💸 **50% OFF** the first year of Unlimited ($29.99, was $59.99) · auto-applied, no code needed | Nov 11, 2026 - Nov 30, 2026 |
 | [Yaptake](https://yaptake.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Video editor for Mac that works like a document: cut the video by editing its transcript | 💸 **50% OFF** your first year · code `YAPTAKEBF26` · new subscribers | Nov 18, 2026 - Dec 2, 2026 |
 | [PureScribe](https://appsthere.com/apps/purescribe) | On-device speech to text for Mac and iPhone: audio never leaves the device, no account, no subscription | 💸 ♾️ **50% OFF** Pro one-time purchase ($9.99 → $4.99) · auto-applied in the App Store | Nov 27, 2026 - Dec 1, 2026 |
+| [Transcribee](https://transcribee.io/black-friday/) | AI transcription for audio and video in 90+ languages, with a meeting recorder and AI summaries | **40% OFF** Unlimited (monthly $25.99 → $15.59 first month, yearly $199.99 → $119.99 first year) · code `BF2026` | Nov 19, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
