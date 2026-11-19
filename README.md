@@ -441,6 +441,7 @@ Add it to your website, README, or launch post:
 | [Parlo](https://parlohub.com/black-friday) | Dictation in any app, meeting notes without a bot, and voice commands for Mac, with speech recognition on your Mac | ♾️ **26% OFF** lifetime ($80 → $59) · or 💸 **50% OFF** monthly for the first 3 months ($8 → $4) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [Float](https://float.gilla.fun/#pricing) | Floating Markdown scratchpad for Mac on a global hotkey that stays over full-screen apps | ♾️ **40% OFF** Pro lifetime ($4.99 → $2.99) · code `BF26FLOAT` | Nov 26, 2026 - Dec 1, 2026 |
 | [Sponge](https://sponge.computer/pricing) | Local-first read-later library for Mac and Linux, with sync to the web and iPhone | 💸 **50% OFF** Sponge Plus for your first 12 months · code `SPONGEBF26` · new subscribers | Nov 18, 2026 - Dec 2, 2026 |
+| [Craft](https://www.craft.do/pricing?ref=awesome-black-friday-deals) | Notes, docs and tasks in one native app for Mac, iPhone and iPad, built around a daily note | **40% OFF** yearly Plus & Family, on every renewal · code `BLACKFRIDAY26-A` · **20% OFF** monthly · code `BLACKFRIDAY26-M` | Nov 16, 2026 - Dec 9, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
