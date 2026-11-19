@@ -323,6 +323,7 @@ Add it to your website, README, or launch post:
 | [data-peek](https://www.datapeek.dev/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux | **40% OFF** Pro yearly ($29 → $17.40) · auto-applied | Nov 26, 2026 - Dec 1, 2026 |
 | [Plomer](https://plomer.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Website uptime and domain monitoring on Mac, iPhone, iPad and Apple Watch, plus custom events from your apps | **33% OFF** yearly plan ($59.99 → $41.99) · code `BLACKFRIDAY2026` | Nov 19, 2026 - Dec 7, 2026 |
 | [Skillry](https://skillry.dev/pricing) | Curated creative Agent Skills for Claude Code, Codex and Cursor: slides, websites, images and launch videos from one prompt | 💸 **50% OFF** Pro ($9.99 first month / $79 first year) · ♾️ Founding Lifetime $169 (was $249) · auto-applied | Nov 19, 2026 - Nov 30, 2026 |
+| [Fixa](https://fixa.dev/black-friday?utm_source=twf&utm_medium=deal-list&utm_campaign=bf2026) | AI software engineer with its own cloud machine: hand it a GitHub issue, get a tested pull request | 💸 **50% OFF** first year of yearly plans (Starter $96 → $48, Pro $240 → $120) · code `BLACKFRIDAY` | Nov 19, 2026 - Dec 1, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
