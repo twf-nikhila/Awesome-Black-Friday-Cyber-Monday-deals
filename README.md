@@ -521,3 +521,5 @@ Add it to your website, README, or launch post:
 [SaaS Black Friday](https://saasblackfriday.online/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) - Tracker of 240 SaaS & AI tools for BF/CM 2026; past deals labelled by year, 2026 deals verified as they go live.
 
 [IndieMarkdowns](https://indiemarkdowns.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) - Free Black Friday 2026 tracker for indie Mac apps, iOS apps and dev tools; makers list their deal free, and deals go live only once the maker publishes them.
+
+[Micro SaaS Examples](https://www.microsaasexamples.com/black-friday-saas-deals) - Curated Black Friday & Cyber Monday 2026 deals for SaaS, AI tools, Mac apps and developer tools; makers can list a deal from $3.
