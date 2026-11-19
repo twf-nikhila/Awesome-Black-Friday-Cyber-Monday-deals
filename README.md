@@ -405,6 +405,7 @@ Add it to your website, README, or launch post:
 | [Sortbook](https://apps.microsoft.com/detail/9N67DRVK5QWH?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | File organizer for the folders you choose: switch on a recipe and it files what arrives by type, month or year | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [Lingon Pro](https://www.peterborgapps.com/lingon) | Run scripts, apps and commands automatically on a schedule or on events on your Mac | **20% OFF** · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
 | [Smultron](https://www.peterborgapps.com/smultron) | Simple, powerful text editor for Mac | **20% OFF** · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
+| [Ricly](https://usericly.com/?utm_source=github&utm_campaign=felix) | Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs | ♾️ **40% OFF** Founding lifetime license ($99 → $59) · code `FOUNDERBF26` | Nov 27, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
