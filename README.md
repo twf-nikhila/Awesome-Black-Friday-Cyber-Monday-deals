@@ -269,6 +269,7 @@ Add it to your website, README, or launch post:
 | [LeaseRail](https://apps.apple.com/app/id6807973930?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns a folder of tenancy-contract PDFs into spreadsheet data on your own Mac, each field checked against its page | 💸 ♾️ **50% OFF** one-time purchase on the Mac App Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [App14](https://app14.appetite.studio/black-friday) | A custom iOS and Android app for your business, designed, built and submitted to both app stores in 14 days by a UK studio | 💸 **75% OFF** · Starter app £3,999 → £999, Advanced £6,999 → £1,999 · no code needed | Nov 18, 2026 - Nov 30, 2026 |
 | [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime ($9.99 → $4.99) · no code needed | Nov 18, 2026 - Dec 4, 2026 |
+| [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | Bundle of 11 business software products: restaurant system, e-commerce, billing, AI lead gen, finance tools and more | 💸 ♾️ **87% OFF** all 11 products for $129 one-time (regular $1,029) · code `BUNDLE129` | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
