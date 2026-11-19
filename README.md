@@ -266,6 +266,7 @@ Add it to your website, README, or launch post:
 | [Reopen](https://apps.microsoft.com/detail/9PJB82W27F50?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Converts digital PDFs to Excel and Word on your own PC and checks every column against the totals the PDF printed | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [LeaseRail](https://apps.apple.com/app/id6807973930?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns a folder of tenancy-contract PDFs into spreadsheet data on your own Mac, each field checked against its page | 💸 ♾️ **50% OFF** one-time purchase on the Mac App Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [App14](https://app14.appetite.studio/black-friday) | A custom iOS and Android app for your business, designed, built and submitted to both app stores in 14 days by a UK studio | 💸 **75% OFF** · Starter app £3,999 → £999, Advanced £6,999 → £1,999 · no code needed | Nov 18, 2026 - Nov 30, 2026 |
+| [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime ($9.99 → $4.99) · no code needed | Nov 18, 2026 - Dec 4, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -408,6 +409,7 @@ Add it to your website, README, or launch post:
 | [Lingon Pro](https://www.peterborgapps.com/lingon) | Run scripts, apps and commands automatically on a schedule or on events on your Mac | **20% OFF** · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
 | [Smultron](https://www.peterborgapps.com/smultron) | Simple, powerful text editor for Mac | **20% OFF** · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
 | [Ricly](https://usericly.com/?utm_source=github&utm_campaign=felix) | Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs | ♾️ **40% OFF** Founding lifetime license ($99 → $59) · code `FOUNDERBF26` | Nov 27, 2026 - Nov 30, 2026 |
+| [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac | 💸 ♾️ **50% OFF** lifetime ($19.99 → $9.99) · no code needed | Nov 18, 2026 - Dec 4, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -471,6 +473,7 @@ Add it to your website, README, or launch post:
 | [Steps & Beasts](https://stepsandbeasts.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Step-tracking game for iPhone and Android: walk to your daily goal to hatch an egg and collect Beasts | ♾️ **33% OFF** Pro Lifetime · US iOS $39.99 → $26.99 USD · auto-applied in the app, no code needed · Android and local prices vary | Nov 13, 2026 - Nov 30, 2026 |
 | [mhm](https://apps.apple.com/app/mhm-you-too/id6826873538?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | iPhone app for two people who are close: each sets private emoji signals for the other, and only a match is ever shown | 💸 ♾️ **50% OFF** mhm+ Lifetime ($49.99 → $24.99) · auto-applied · or **60% OFF** first year of Yearly with code `BFCM26` | Nov 19, 2026 - Dec 2, 2026 |
 | [The NerveWindow Library](https://nervewindow.com/library/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Every app and card deck by Alex Zah in one account: 25 apps and card decks on phone and computer for hard moments, like a tense evening or a difficult talk with a partner | 💸 ♾️ **80% OFF** lifetime · $477 → $97, no code needed | Nov 16, 2026 - Dec 1, 2026 |
+| [Itemlist](https://www.getitemlist.app/black-friday/) | Home inventory app for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime PRO ($59.99 → $29.99) · no code needed | Nov 18, 2026 - Dec 4, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
