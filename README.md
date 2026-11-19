@@ -443,6 +443,7 @@ Add it to your website, README, or launch post:
 | [Float](https://float.gilla.fun/#pricing) | Floating Markdown scratchpad for Mac on a global hotkey that stays over full-screen apps | ♾️ **40% OFF** Pro lifetime ($4.99 → $2.99) · code `BF26FLOAT` | Nov 26, 2026 - Dec 1, 2026 |
 | [Sponge](https://sponge.computer/pricing) | Local-first read-later library for Mac and Linux, with sync to the web and iPhone | 💸 **50% OFF** Sponge Plus for your first 12 months · code `SPONGEBF26` · new subscribers | Nov 18, 2026 - Dec 2, 2026 |
 | [Craft](https://www.craft.do/pricing?ref=awesome-black-friday-deals) | Notes, docs and tasks in one native app for Mac, iPhone and iPad, built around a daily note | **40% OFF** yearly Plus & Family, on every renewal · code `BLACKFRIDAY26-A` · **20% OFF** monthly · code `BLACKFRIDAY26-M` | Nov 16, 2026 - Dec 9, 2026 |
+| [Superlist](https://www.superlist.com/blackfriday2026) | Tasks, notes and AI meeting notes in one app, with shared lists you edit together in real time | 💸 **50% OFF** the first year of yearly plans · code `SUPERFRIDAY2026` | Nov 23, 2026 - Nov 29, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
