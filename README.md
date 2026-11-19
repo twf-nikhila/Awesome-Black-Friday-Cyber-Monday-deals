@@ -100,9 +100,10 @@ Add it to your website, README, or launch post:
       🔥 <b>50% OFF</b> all plans · code <code>BFCM26</code>
     </td>
     <td align="center" width="50%">
-      <a href="Sponsorship.md"><b>Your logo here</b></a><br>
-      Reach developers, indie hackers and founders hunting for deals this Black Friday<br><br>
-      <a href="Sponsorship.md"><b>Become a sponsor →</b></a>
+      <a href="https://lifemathmoney.gumroad.com/"><img src="assets/sponsors/strongland.png" width="72" height="72" alt="STRONGLAND Publishing"></a><br>
+      <a href="https://lifemathmoney.gumroad.com/"><b>STRONGLAND Publishing</b></a><br>
+      Learn from people with real life experience with what they teach<br>
+      🔥 <b>Black Friday deal</b> · code <code>BFCM26</code>
     </td>
   </tr>
 </table>
