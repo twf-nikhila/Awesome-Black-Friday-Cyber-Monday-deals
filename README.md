@@ -448,6 +448,7 @@ Add it to your website, README, or launch post:
 | [Craft](https://www.craft.do/pricing?ref=awesome-black-friday-deals&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Notes, docs and tasks in one native app for Mac, iPhone and iPad, built around a daily note | **40% OFF** yearly Plus & Family, on every renewal · code `BLACKFRIDAY26-A` · **20% OFF** monthly · code `BLACKFRIDAY26-M` | Nov 16, 2026 - Dec 9, 2026 |
 | [Superlist](https://www.superlist.com/blackfriday2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tasks, notes and AI meeting notes in one app, with shared lists you edit together in real time | 💸 **50% OFF** the first year of yearly plans · code `SUPERFRIDAY2026` | Nov 23, 2026 - Nov 29, 2026 |
 | [TabHold](https://studiobluegrove.com/tabhold/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tab saver for Chrome and Edge that restores windows with tab groups intact and keeps a local backup file | ♾️ **40% OFF** Pro one-time ($12.99 → $7.79) · code `BF2026` | Nov 24, 2026 - Dec 1, 2026 |
+| [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps | 💸 ♾️ **50% OFF** Lifetime ($19.99 → $9.99 USD) · no code needed | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
