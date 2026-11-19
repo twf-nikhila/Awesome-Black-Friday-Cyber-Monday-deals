@@ -313,6 +313,7 @@ Add it to your website, README, or launch post:
 | [Social Fetch](https://socialfetch.dev/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | REST API and hosted MCP server for public social data as JSON from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more | **Double credits** on every plan (first month on monthly, first 3 months on annual) · auto-applied, no code · new plans only | Nov 19, 2026 - Dec 1, 2026 |
 | [MailScope](https://mailscope.app/blackfriday/) | Native Mac app to catch, preview and check development emails locally before they reach your users | ♾️ **34% OFF** one-time licence ($29 → $19) · code `bf2026` (prefilled at checkout) | Nov 18, 2026 - Nov 30, 2026 |
 | [data-peek](https://www.datapeek.dev/pricing) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux | **40% OFF** Pro yearly ($29 → $17.40) · auto-applied | Nov 26, 2026 - Dec 1, 2026 |
+| [Plomer](https://plomer.app) | Website uptime and domain monitoring on Mac, iPhone, iPad and Apple Watch, plus custom events from your apps | **33% OFF** yearly plan ($59.99 → $41.99) · code `BLACKFRIDAY2026` | Nov 19, 2026 - Dec 7, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
