@@ -492,6 +492,7 @@ Add it to your website, README, or launch post:
 | [Exploit Pack](https://www.exploitpack.com/products/exploit-pack?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI-assisted exploit-development framework for pentesters with 46,000+ exploits and debugger integration | ♾️ **20% OFF** lifetime licence (€1,200 → €960) · code `LIFETIME` | Nov 19, 2026 - Nov 30, 2026 |
 | [Control Pack](https://www.exploitpack.com/products/control-pack?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Cross-platform C2 framework for post-exploitation and AI-assisted red-team operations | ♾️ **20% OFF** lifetime licence (€1,200 → €960) · code `LIFETIME` | Nov 19, 2026 - Nov 30, 2026 |
 | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Kernel exploitation toolkit for red teams with 100+ local privilege escalation exploits | ♾️ **20% OFF** lifetime licence (€1,200 → €960) · code `LIFETIME` | Nov 19, 2026 - Nov 30, 2026 |
+| [ExposureDrift](https://exposuredrift.com) | Continuous attack surface management: JS secret scanning, outside-in API inventory and exposure monitoring | 💸 **50% OFF** a full year + 15-day risk-free trial · early-user pre-launch offer, launches Dec 14 · no code needed | Nov 20, 2026 - Dec 14, 2026 |
 
 ## 📱 Lifestyle, Health & Travel
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
