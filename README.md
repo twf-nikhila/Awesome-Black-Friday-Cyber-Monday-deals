@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>313 deals listed</b> · Updated Nov 19, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>314 deals listed</b> · Updated Nov 19, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -74,7 +74,7 @@ Add it to your website, README, or launch post:
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (10) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (20) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (13) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (38) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (39) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (19) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (19) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (10) - Fitness, nutrition, travel, home & personal apps
@@ -402,7 +402,7 @@ Add it to your website, README, or launch post:
 | [Dictiq](https://apps.microsoft.com/detail/9P5ZNQSFS0VC?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Dictation for Windows: press a hotkey, speak, and your words are typed into the app you are in, on your own PC | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [CopyShelf](https://apps.microsoft.com/detail/9NZJBHT8MQ5T?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Clipboard manager for Windows that files text, images, links and files into four separate tabs | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 | [Sortbook](https://apps.microsoft.com/detail/9N67DRVK5QWH?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | File organizer for the folders you choose: switch on a recipe and it files what arrives by type, month or year | 💸 ♾️ **50% OFF** one-time purchase on the Microsoft Store · no code needed | Nov 27, 2026 - Nov 30, 2026 |
-| [Plomer](https://plomer.app) | Website uptime and domain monitoring from your Mac, iPhone, Apple Watch and iPad. Track and monitor your websites, web services and domains. Send <custom/> events from your apps, receive them in Plomer. | **33% OFF** yearly plan with code `BLACKFRIDAY2026`. ~~$59.99~~ **$41.99**,. Same plan works on Mac, iOS, IPadOS and WatchOS. | Nov 19 - Dec 7, 2026 |
+| [Plomer](https://plomer.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Website uptime and domain monitoring from your Mac, iPhone, Apple Watch and iPad. Track and monitor your websites, web services and domains. Send <custom/> events from your apps, receive them in Plomer. | **33% OFF** yearly plan with code `BLACKFRIDAY2026`. ~~$59.99~~ **$41.99**,. Same plan works on Mac, iOS, IPadOS and WatchOS. | Nov 19 - Dec 7, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
