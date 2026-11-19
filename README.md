@@ -455,6 +455,7 @@ Add it to your website, README, or launch post:
 | [Superlist](https://www.superlist.com/blackfriday2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tasks, notes and AI meeting notes in one app, with shared lists you edit together in real time | 💸 **50% OFF** the first year of yearly plans · code `SUPERFRIDAY2026` | Nov 23, 2026 - Nov 29, 2026 |
 | [TabHold](https://studiobluegrove.com/tabhold/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tab saver for Chrome and Edge that restores windows with tab groups intact and keeps a local backup file | ♾️ **40% OFF** Pro one-time ($12.99 → $7.79) · code `BF2026` | Nov 24, 2026 - Dec 1, 2026 |
 | [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web | **33% OFF** the first year of Pro Yearly ($59.99 → $39.99) · no code needed | Nov 18, 2026 - Dec 31, 2026 |
+| [Halopen](https://halopen.com/pricing/) | Native Mac dictation: hold fn, talk, and your words are typed at the cursor in any app | ♾️ **30% OFF** your first payment on any Pro plan · Lifetime $499 → $349.30, Annual $179 → $125.30 first year · code `HOLIDAY` | Nov 19, 2026 - Dec 31, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
