@@ -508,6 +508,7 @@ Add it to your website, README, or launch post:
 | [The NerveWindow Library](https://nervewindow.com/library/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Every app and card deck by Alex Zah in one account: 25 apps and card decks on phone and computer for hard moments, like a tense evening or a difficult talk with a partner | 💸 ♾️ **80% OFF** lifetime · $477 → $97, no code needed | Nov 16, 2026 - Dec 1, 2026 |
 | [Itemlist](https://www.getitemlist.app/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Home inventory app for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime PRO ($59.99 → $29.99) · no code needed | Nov 18, 2026 - Dec 4, 2026 |
 | [Liftonic](https://liftonic.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI lifting coach and workout tracker for iPhone and Apple Watch | **33% OFF** the first year of Yearly ($59.99 → $39.99) · no code needed | Nov 18, 2026 - Dec 31, 2026 |
+| [Treader](https://www.treader.ca/pricing?utm_source=twf-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | Trip planner where friends vote on dates and plan together on one live map, with a built-in AI trip assistant | **30% OFF** the first year of Pro annual: $34.99 CAD, then renews at $49.99 CAD a year · code `BFRIDAY30` | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
