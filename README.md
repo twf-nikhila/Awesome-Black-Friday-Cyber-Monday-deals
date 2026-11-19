@@ -307,6 +307,7 @@ Add it to your website, README, or launch post:
 | [Tower](https://www.git-tower.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The most powerful Git client for Mac and Windows | 💸 **Up to 50% OFF** first year, Pro $129 → $64.50/yr, Basic $69 → $48.30/yr · auto-applied | Nov 23, 2026 - Dec 6, 2026 |
 | [Social Fetch](https://socialfetch.dev/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | REST API and hosted MCP server for public social data as JSON from TikTok, Instagram, YouTube, X, Reddit, LinkedIn and more | **Double credits** on every plan (first month on monthly, first 3 months on annual) · auto-applied, no code · new plans only | Nov 19, 2026 - Dec 1, 2026 |
 | [MailScope](https://mailscope.app/blackfriday/) | Native Mac app to catch, preview and check development emails locally before they reach your users | ♾️ **34% OFF** one-time licence ($29 → $19) · code `bf2026` (prefilled at checkout) | Nov 18, 2026 - Nov 30, 2026 |
+| [data-peek](https://www.datapeek.dev/pricing) | Fast, keyboard-first SQL client for PostgreSQL, MySQL, SQL Server, SQLite and ClickHouse on Mac, Windows and Linux | **40% OFF** Pro yearly ($29 → $17.40) · auto-applied | Nov 26, 2026 - Dec 1, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -432,6 +433,7 @@ Add it to your website, README, or launch post:
 | [Timesheet](https://timesheet.io/en/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Time tracking for freelancers and teams on iPhone, iPad, Android and the web, with invoices, reports and an MCP server | 💸 **50% OFF** the first year of every annual plan · auto-applied, no code · Pro $99.99 → $49.99, Business $179.99 → $89.99 per user · new customers | Nov 23, 2026 - Nov 30, 2026 |
 | [VoiceInk](https://tryvoiceink.com/black-friday) | Open-source Mac dictation with on-device speech recognition and app-specific modes | ♾️ **40% OFF** Mac lifetime licenses ($25 → $15 for 1 Mac) · code `BFVI2640` | Nov 11, 2026 - Dec 5, 2026 |
 | [Parlo](https://parlohub.com/black-friday) | Dictation in any app, meeting notes without a bot, and voice commands for Mac, with speech recognition on your Mac | ♾️ **26% OFF** lifetime ($80 → $59) · or 💸 **50% OFF** monthly for the first 3 months ($8 → $4) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
+| [Float](https://float.gilla.fun/#pricing) | Floating Markdown scratchpad for Mac on a global hotkey that stays over full-screen apps | ♾️ **40% OFF** Pro lifetime ($4.99 → $2.99) · code `BF26FLOAT` | Nov 26, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
