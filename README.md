@@ -270,6 +270,7 @@ Add it to your website, README, or launch post:
 | [App14](https://app14.appetite.studio/black-friday) | A custom iOS and Android app for your business, designed, built and submitted to both app stores in 14 days by a UK studio | 💸 **75% OFF** · Starter app £3,999 → £999, Advanced £6,999 → £1,999 · no code needed | Nov 18, 2026 - Nov 30, 2026 |
 | [BarcodeCraft](https://www.barcodecraft.com/black-friday) | Barcode generator for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime ($9.99 → $4.99) · no code needed | Nov 18, 2026 - Dec 4, 2026 |
 | [BundleWP](https://bundlewp.com/complete-business-software-bundle/) | Bundle of 11 business software products: restaurant system, e-commerce, billing, AI lead gen, finance tools and more | 💸 ♾️ **87% OFF** all 11 products for $129 one-time (regular $1,029) · code `BUNDLE129` | Nov 24, 2026 - Dec 1, 2026 |
+| [Dar Templates](https://darjob.myshopify.com/collections/all) | Ready-made Excel systems for 36 professions: property management, rentals, contractors, restaurants, salons, bookkeeping | 💸 ♾️ **50% OFF** one-time purchase · code `BF50` | Nov 19, 2026 - Dec 1, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
