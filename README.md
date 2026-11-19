@@ -410,6 +410,7 @@ Add it to your website, README, or launch post:
 | [Smultron](https://www.peterborgapps.com/smultron) | Simple, powerful text editor for Mac | **20% OFF** · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
 | [Ricly](https://usericly.com/?utm_source=github&utm_campaign=felix) | Finder right-click tools for Mac: remove backgrounds, convert images and audio, compress and merge PDFs | ♾️ **40% OFF** Founding lifetime license ($99 → $59) · code `FOUNDERBF26` | Nov 27, 2026 - Nov 30, 2026 |
 | [QRGenie](https://qrgenie.app/black-friday) | QR code generator for iPhone, iPad and Mac | 💸 ♾️ **50% OFF** lifetime ($19.99 → $9.99) · no code needed | Nov 18, 2026 - Dec 4, 2026 |
+| [Findy](https://getfindy.xyz/) | Finds files on your Mac from plain words like "pdfs from gmail last week", even by the text inside images and PDFs | 💸 ♾️ **50% OFF** one-time license (1 Mac $11 → $5.50, 2 Macs $19 → $9.50) · code `GITFRIDAY50` | Nov 18, 2026 - Dec 7, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
