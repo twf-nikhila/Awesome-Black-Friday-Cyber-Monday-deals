@@ -454,6 +454,7 @@ Add it to your website, README, or launch post:
 | [Craft](https://www.craft.do/pricing?ref=awesome-black-friday-deals&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Notes, docs and tasks in one native app for Mac, iPhone and iPad, built around a daily note | **40% OFF** yearly Plus & Family, on every renewal · code `BLACKFRIDAY26-A` · **20% OFF** monthly · code `BLACKFRIDAY26-M` | Nov 16, 2026 - Dec 9, 2026 |
 | [Superlist](https://www.superlist.com/blackfriday2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tasks, notes and AI meeting notes in one app, with shared lists you edit together in real time | 💸 **50% OFF** the first year of yearly plans · code `SUPERFRIDAY2026` | Nov 23, 2026 - Nov 29, 2026 |
 | [TabHold](https://studiobluegrove.com/tabhold/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tab saver for Chrome and Edge that restores windows with tab groups intact and keeps a local backup file | ♾️ **40% OFF** Pro one-time ($12.99 → $7.79) · code `BF2026` | Nov 24, 2026 - Dec 1, 2026 |
+| [Thinkdown](https://thinkdown.app) | AI voice journal and voice notes for iPhone, iPad, Mac, Apple Watch and web | **33% OFF** the first year of Pro Yearly ($59.99 → $39.99) · no code needed | Nov 18, 2026 - Dec 31, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -492,6 +493,7 @@ Add it to your website, README, or launch post:
 | [mhm](https://apps.apple.com/app/mhm-you-too/id6826873538?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | iPhone app for two people who are close: each sets private emoji signals for the other, and only a match is ever shown | 💸 ♾️ **50% OFF** mhm+ Lifetime ($49.99 → $24.99) · auto-applied · or **60% OFF** first year of Yearly with code `BFCM26` | Nov 19, 2026 - Dec 2, 2026 |
 | [The NerveWindow Library](https://nervewindow.com/library/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Every app and card deck by Alex Zah in one account: 25 apps and card decks on phone and computer for hard moments, like a tense evening or a difficult talk with a partner | 💸 ♾️ **80% OFF** lifetime · $477 → $97, no code needed | Nov 16, 2026 - Dec 1, 2026 |
 | [Itemlist](https://www.getitemlist.app/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Home inventory app for iPhone and iPad | 💸 ♾️ **50% OFF** lifetime PRO ($59.99 → $29.99) · no code needed | Nov 18, 2026 - Dec 4, 2026 |
+| [Liftonic](https://liftonic.app) | AI lifting coach and workout tracker for iPhone and Apple Watch | **33% OFF** the first year of Yearly ($59.99 → $39.99) · no code needed | Nov 18, 2026 - Dec 31, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
