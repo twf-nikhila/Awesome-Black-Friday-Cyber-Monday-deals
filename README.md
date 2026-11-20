@@ -265,6 +265,7 @@ Add it to your website, README, or launch post:
 | [Unspam.email](https://unspam.email/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Email spam checker: 0-100 spam score, SPF/DKIM/DMARC and blacklist checks, inbox placement, previews on 60+ clients | **35% OFF** first invoice of the Custom plan, code `BLACKFRIDAY35` · first year ~~$709.98~~ $461.49 · 40% via the deal-page game | Nov 16, 2026 - Dec 1, 2026 |
 | [TelemetryDeck](https://telemetrydeck.com/?utm_source=twf-github&utm_medium=deal-list&utm_campaign=black-week-2026) | Privacy-first app analytics for iOS, Android, Flutter, React Native and web apps, hosted in Europe | **30% OFF** for 12 months · code `WEEK26` · no minimum order | Nov 23, 2026 - Dec 1, 2026 |
 | [1MarketingTool](https://1marketingtool.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local-first marketing desktop app for AI campaigns, publishing to 17 networks and SEO audits | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
+| [Krumzi](https://www.krumzi.com/pricing) | Designs editable flyers, social posts, carousels and video in your brand from a one-line description | 💸 **60% OFF** first year of yearly plans (Starter $76, Pro $156, Studio $356) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
