@@ -523,6 +523,7 @@ Add it to your website, README, or launch post:
 | [Tim – Visual Timer for Kids](https://apps.apple.com/us/app/visual-timer-for-kids-tim/id6771034858) | Visual timers and first-then routines for children on iPhone and iPad | 💸 ♾️ **50% OFF** lifetime (US$4.99 → US$2.49) · auto-applied in-app, local prices vary | Nov 23, 2026 - Nov 30, 2026 |
 | [Ease – Poop Tracker & Log](https://apps.apple.com/us/app/poop-tracker-log-ease/id6661017261) | Track bowel movements, symptoms and food, spot trends and export reports on iPhone | 💸 ♾️ **50% OFF** lifetime (US$14.99 → US$7.49) · auto-applied in-app, local prices vary | Nov 23, 2026 - Nov 30, 2026 |
 | [Duo – Relationship Tracker](https://apps.apple.com/us/app/relationship-tracker-duo/id6759326768) | A private space for couples to save memories and milestones and track time together on iPhone | 💸 ♾️ **50% OFF** lifetime (US$14.99 → US$7.49) · auto-applied in-app, local prices vary | Nov 23, 2026 - Nov 30, 2026 |
+| [Treader](https://www.treader.ca/pricing?utm_source=twf-bfcm&utm_medium=deal-list&utm_campaign=bfcm2026) | Trip planner where friends vote on dates and plan together on one live map, with an AI trip assistant | **30% OFF** first year of Pro annual (CA$49.99 → CA$34.99) · code `BFRIDAY30` | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
