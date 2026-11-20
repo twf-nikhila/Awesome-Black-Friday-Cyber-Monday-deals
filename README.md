@@ -187,6 +187,7 @@ Add it to your website, README, or launch post:
 | [InPlaceText](https://inplacetext.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI editor that changes the text inside images (posters, menus, product photos, screenshots) while keeping the same font | **Up to 50% bonus credits** on one-time credit packs · auto-applied | Nov 19, 2026 - Dec 1, 2026 |
 | [Deletti](https://deletti.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#black-friday) | Free up space on your iPhone: start with your biggest videos and photos, then swipe to keep or trash them | ♾️ **Lifetime launch price $8.99** · code `BFCM26` · US App Store price | Nov 20, 2026 - Dec 1, 2026 |
 | [Krea3 AI](https://krea3.org/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn prompts and photos into portraits, product shots and posters | **40% OFF** first year of annual plans (Starter $149 → $89.40) · auto-applied | Nov 1, 2026 - Nov 30, 2026 |
+| [Krumzi](https://www.krumzi.com/pricing) | Web app that designs editable flyers, social posts, carousels and video from a one-line description, in your brand | 💸 **60% OFF** first year of yearly plans: Starter $76, Pro $156, Studio $356 · no code needed · new customers and monthly users switching | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
