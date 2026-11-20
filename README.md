@@ -168,6 +168,7 @@ Add it to your website, README, or launch post:
 | [SunoMV](https://suno.bi/en/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026) | AI music video generator: turn a Suno or Udio song into a lyric-synced 9:16 music video | 💸 **50% OFF** first month of Pro and Studio (Pro $39.90 → $19.95) · **30% OFF** credit packs · auto-applied | Nov 19, 2026 - Dec 1, 2026 |
 | [XGetter](https://xgetter.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Desktop video and audio downloader for Windows, macOS and Linux: save from 70+ platforms in up to 8K | **30% OFF** all plans (Pro $10 → $7, Extended $15 → $10.50) · code `BF2026` | Nov 20, 2026 - Dec 2, 2026 |
 | [Sum](https://sumtranscribe.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns audio and video into transcripts and AI summaries in your browser | 💸 **50% OFF** first billing period of Pro Monthly or Annual · code `SUMBF50` | Nov 20, 2026 - Nov 30, 2026 |
+| [ViralReel](https://www.viralreel.app/pricing) | Turns your photos into AI short videos using templates inspired by social media trends | **Up to 30% OFF** one-time credit packs (180 credits $19.90 → $16, 480 credits $39.90 → $28) · auto-applied · subscriptions excluded | Nov 20, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
