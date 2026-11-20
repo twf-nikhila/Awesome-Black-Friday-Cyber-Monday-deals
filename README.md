@@ -469,6 +469,7 @@ Add it to your website, README, or launch post:
 | [LaunchOS](https://launchosapp.com/?utm_source=twf-black-friday-deals&utm_medium=referral&utm_campaign=bf2026) | Launchpad alternative for macOS 26 Tahoe that feels instantly familiar | 💸 **55–62.5% OFF** · plus an extra 8% off with code `BLACKFRIDAY2026` | Nov 23, 2026 - Dec 2, 2026 |
 | [1FileTool](https://1filetool.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nearly 300 offline file tools for compressing, converting and cleaning files on Mac, Windows and Linux | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [1MachineTool](https://1machinetool.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Finds out why your computer is slow, hot, full or draining and fixes it | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
+| [Tutti](https://tutti.barrybarrywu.com/#pricing) | Play audio on multiple outputs and control each app's volume from the Mac menu bar | ♾️ **31% OFF** Pro one-time for one Mac ($12.99 → $8.99) · auto-applied | Nov 20, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
