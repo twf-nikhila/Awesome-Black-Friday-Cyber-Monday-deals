@@ -531,6 +531,7 @@ Add it to your website, README, or launch post:
 | [Nutrify](https://nutrifytracker.com/api/go?store=auto&campaign=holiday_sale&source=twf_nikhila_bfdeals&medium=deal_list) | AI calorie tracker: snap a photo of a meal to log its calories and macros, on iPhone and Android | 💸 **60% OFF** first year of Yearly ($49.99 → $19.99) · ♾️ Lifetime $99 → $79 · auto-applied, new subscribers | Nov 20, 2026 - Dec 30, 2026 |
 | [Nomu](https://www.tappect.com/get/nomu) | Intermittent fasting timer for iPhone, Apple Watch and Android: pick a fast like 16:8 or OMAD and start it in one tap | 💸 **57% OFF** first year of Yearly ($29.99 → $12.99) · ♾️ Lifetime $49.99 → $29.99 · auto-applied, new subscribers | Nov 20, 2026 - Dec 30, 2026 |
 | [Meanwhile](https://www.tappect.com/get/meanwhile) | Share a photo each hour that lands on your partner's or best friend's home screen widget, on iPhone and Android | **Early-supporter launch price**: first year of Pro from $7.99 (regular $49.99) · tap "Want to be an early supporter?" on the plans screen | Nov 20, 2026 - Dec 31, 2026 |
+| [3DRoomDesign.ai](https://3droomdesign.ai/pricing) | AI home and interior design web app: draw floor plans, turn them into 3D and visualize rooms | **50% bonus credits** on one-time packs · up to 300 extra credits in the first month for new subscribers · auto-applied | Nov 17, 2026 - Nov 27, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
