@@ -281,6 +281,7 @@ Add it to your website, README, or launch post:
 | [BundleWP](https://bundlewp.com/complete-business-software-bundle/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Bundle of 11 business software products: restaurant system, e-commerce, billing, AI lead gen, finance tools and more | 💸 ♾️ **87% OFF** all 11 products for $129 one-time (regular $1,029) · code `BUNDLE129` | Nov 24, 2026 - Dec 1, 2026 |
 | [Dar Templates](https://darjob.myshopify.com/collections/all?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Ready-made Excel systems for 36 professions: property management, rentals, contractors, restaurants, salons, bookkeeping | 💸 ♾️ **50% OFF** one-time purchase · code `BF50` | Nov 19, 2026 - Dec 1, 2026 |
 | [BooksRail](https://apps.microsoft.com/detail/9PL6X2RTW7T9?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Double-entry accounting for the property you own, kept in one encrypted file on your own Windows PC | 💸 ♾️ **50% OFF** one-time unlock in the app (Microsoft Store) · no code needed | Nov 27, 2026 - Nov 30, 2026 |
+| [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday) | Options strategy visualizer, scanners and trade journal for retail options traders. | 💸 **50% OFF** every plan: first year on annual, first 3 months on monthly · auto-applied, no code needed | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
