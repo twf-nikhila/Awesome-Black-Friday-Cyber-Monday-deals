@@ -157,7 +157,6 @@ Add it to your website, README, or launch post:
 | [PureScribe](https://appsthere.com/apps/purescribe?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | On-device speech to text for Mac and iPhone: audio never leaves the device, no account, no subscription | 💸 ♾️ **50% OFF** Pro one-time purchase ($9.99 → $4.99) · auto-applied in the App Store | Nov 27, 2026 - Dec 1, 2026 |
 | [Transcribee](https://transcribee.io/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI transcription for audio and video in 90+ languages, with a meeting recorder and AI summaries | **40% OFF** Unlimited (monthly $25.99 → $15.59 first month, yearly $199.99 → $119.99 first year) · code `BF2026` | Nov 19, 2026 - Nov 30, 2026 |
 | [VocalRemover.one](https://vocalremover.one/black-friday) | Separate songs into vocal and instrumental tracks. | 💸 ♾️ 55% less per minute than the regular Large Pack: 1,000 minutes for $59.99 once, valid for two years. No code needed. | Nov 15, 2026 - Nov 30, 2026 |
-| [Molens AI](https://molensai.com/black-friday) | Generate videos from prompts or photos and create images with the same credits. | 💸 50% off the first year of any annual plan for accounts without an active subscription. Starter is $64.50 (regularly $129). No code needed. | Nov 1, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -183,7 +182,6 @@ Add it to your website, README, or launch post:
 | [AntShot](https://antshot.com/?ref=awesome-black-friday-deals&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page, saved on your device | ♾️ **35% OFF** Pro Lifetime ($39 → $25.35) · code `BLACKFRIDAY26` | Nov 12, 2026 - Dec 2, 2026 |
 | [Textmock](https://textmock.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Make iMessage-style conversation mockups on the web or Mac and save them as images or videos | 💸 **50% OFF** Pro for your first 12 months · code `TEXTMOCKBF26` · new subscribers | Nov 18, 2026 - Dec 2, 2026 |
 | [InPlaceText](https://inplacetext.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI editor that changes the text inside images (posters, menus, product photos, screenshots) while keeping the same font | **Up to 50% bonus credits** on one-time credit packs · auto-applied | Nov 19, 2026 - Dec 1, 2026 |
-| [Krea3 AI](https://krea3.org/black-friday) | Turn prompts and photos into portraits, product shots and posters. | 40% off the first year of Starter, Creator and Pro Credits annual plans. Starter is $89.40 (regularly $149). Auto-applied on the deal page. | Nov 1, 2026 - Nov 30, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
