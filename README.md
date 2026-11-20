@@ -381,6 +381,7 @@ Add it to your website, README, or launch post:
 | [SaaSykit](https://saasykit.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Production-ready Laravel SaaS boilerplate with billing (Stripe, Paddle, Lemon Squeezy), auth, admin panel and multi-tenancy | 💸 ♾️ **50% OFF** all versions (SaaSykit $239 → $119.50, Tenancy $269 → $134.50, Complete $299 → $149.50) · auto-applied or code `BLACKFRIDAY26` | Nov 14, 2026 - Dec 6, 2026 |
 | [SoarStarter](https://soarstarter.com/?utm_source=awesome-bfcm&utm_campaign=bf2026#pricing) | Starter kits for web, mobile and desktop (Next.js, Nuxt, TanStack Start, SwiftUI, Kotlin, Expo, Electron, Tauri) with auth and payments built in | ♾️ **20% OFF** All-Access Bundle: all 8 kits for $199 instead of $249 · code `BF2026` | Nov 24, 2026 - Dec 1, 2026 |
 | [Liftoff](https://nandohusni.gumroad.com/l/hnxqmi?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Next.js 16 and Tailwind CSS landing page kit for SaaS products, with a guide to ship it in a day | ♾️ **40% OFF** ($29 → $17.40) · code `BF40` | Nov 20, 2026 - Dec 1, 2026 |
+| [ZeroDirs](https://zerodirs.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The SEO-first & AI-agent ready directory boilerplate with $0/mo hosting bill | 💸 ♾️ **73% OFF** ($179 → $49) | Nov 20, 2026 - Dec 20, 2026 |
 
 ## 🎨 UI Kits, Icons & Design Assets
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
