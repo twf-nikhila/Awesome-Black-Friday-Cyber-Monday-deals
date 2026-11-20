@@ -365,6 +365,7 @@ Add it to your website, README, or launch post:
 | [APIKO](https://apiko.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models | **10% extra API credits** on every paid top-up (pay $100, get $110) · auto-applied | Nov 12, 2026 - Nov 27, 2026 |
 | [Warplet](https://warplet.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS app that connects ChatGPT, Claude, Perplexity and Grok to your local MCP servers | **40% OFF** first year of Annual ($14.99 → $8.99) · code `BLACKFRIDAY2026` | Nov 20, 2026 - Dec 1, 2026 |
 | [Toplify](https://toplify.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tracks App Store chart positions in 175 countries for iOS and Mac developers | ♾️ **45% OFF** Lifetime ($89.99 → $49.99) · code [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 15, 2026 - Dec 1, 2026 |
+| [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | **30% OFF** · code `BLACKFRIDAY2026` | Nov. 20 - Dec. 2 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
