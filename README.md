@@ -479,6 +479,7 @@ Add it to your website, README, or launch post:
 | [Tutti](https://tutti.barrybarrywu.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Play audio on multiple outputs and control each app's volume from the Mac menu bar | ♾️ **31% OFF** Pro one-time for one Mac ($12.99 → $8.99) · auto-applied | Nov 20, 2026 - Nov 30, 2026 |
 | [Synclet](https://synclet.dev/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | End-to-end encrypted dotfile and Mac app config sync across macOS and Linux, via Synclet Cloud or your own Dropbox | 💸 ♾️ **50% OFF** one-time license ($14.99 → $7.49) · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
 | [Advanced AI Actions](https://apps.apple.com/us/app/advanced-ai-actions/id6743052292?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Use OpenAI, Claude, Gemini, GitHub Copilot and custom AI providers inside Apple Shortcuts on Mac, iPhone and iPad | 💸 ♾️ **50% OFF** one-time App Store purchase ($2.99 → $1.49) · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
+| [AppGrid](https://appgridmac.com/pricing/) | A native Mac launcher for organizing apps into folders and pages. | 💸 ♾️ **50% OFF** lifetime Direct Pro for up to five Macs ($25 → $12.50 USD before tax) · code `BF2026` | Nov 20, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
