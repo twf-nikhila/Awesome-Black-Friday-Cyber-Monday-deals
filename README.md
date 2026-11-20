@@ -503,6 +503,7 @@ Add it to your website, README, or launch post:
 | [Stoic Browser](https://stoicbrowser.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | A browser for founders with a workspace per product and coding agents working inside it | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [CheckCam](https://checkcam.zorrinapps.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#black-friday) | Quick photo reminders that auto-delete unless you pin them, so your camera roll stays clean | 💸 ♾️ **50% OFF** Lifetime ($14.99 → $7.49) · code `BFCM26` · US App Store price | Nov 20, 2026 - Dec 1, 2026 |
 | [graph](https://mygraph.id/) | AI resume building and interview preparation for a stronger career presence | 💸 **50% OFF** Full Access: 3 months unlimited for $9.99 instead of $19.99 · one-time payment, no code needed | Nov 20, 2026 - Nov 30, 2026 |
+| [Whisper Memos](https://whispermemos.com/changelog/2026-11-black-friday) | Record voice memos on iPhone and Apple Watch, get accurate transcripts and summaries | **29% OFF** yearly ($69.99 → $49.99/year, locked in while subscribed) · auto-applied | Nov 16, 2026 - Dec 6, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
