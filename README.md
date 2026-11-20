@@ -505,6 +505,7 @@ Add it to your website, README, or launch post:
 | [Control Pack](https://www.exploitpack.com/products/control-pack?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Cross-platform C2 framework for post-exploitation and AI-assisted red-team operations | ♾️ **20% OFF** lifetime licence (€1,200 → €960) · code `LIFETIME` | Nov 19, 2026 - Nov 30, 2026 |
 | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Kernel exploitation toolkit for red teams with 100+ local privilege escalation exploits | ♾️ **20% OFF** lifetime licence (€1,200 → €960) · code `LIFETIME` | Nov 19, 2026 - Nov 30, 2026 |
 | [Kipzy](https://kipzy.app/) | Fast, private web browser for iPhone with a built-in ad, tracker and popup blocker and offline video saving | 💸 ♾️ **50% OFF** Pro Lifetime ($49.99 → $24.99) · auto-applied in the App Store | Nov 13, 2026 - Nov 30, 2026 |
+| [ExposureDrift](https://exposuredrift.com) | Continuous attack surface management: JS secret scanning, outside-in API inventory and exposure monitoring | 💸 **50% OFF** a full year for early users (launches Dec 14) + 15-day risk-free trial · no code needed | Nov 20, 2026 - Dec 14, 2026 |
 
 ## 📱 Lifestyle, Health & Travel
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
