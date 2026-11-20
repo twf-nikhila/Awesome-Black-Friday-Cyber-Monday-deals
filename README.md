@@ -161,6 +161,7 @@ Add it to your website, README, or launch post:
 | [VocalRemover.one](https://vocalremover.one/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Separate songs into vocal and instrumental tracks | 💸 **55% OFF** per minute vs the regular Large Pack: 1,000 minutes for $59.99 one-time, valid 2 years · no code needed | Nov 15, 2026 - Nov 30, 2026 |
 | [Molens AI](https://molensai.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Generate videos from prompts or photos and create images with the same credits | 💸 **50% OFF** first year of any annual plan (Starter $129 → $64.50) · new subscribers · no code needed | Nov 1, 2026 - Nov 30, 2026 |
 | [Oil Studio](https://studio.oiloil.org/en/) | Native Apple Silicon screen recorder and video editor with click auto-zoom, on-device transcript cutting and a CLI + Agent Skill for Claude Code / Codex | ♾️ **20% OFF** one-time purchase for 2 Macs ($39 → $31.20) · code `BFCM2026` | Nov 20, 2026 - Dec 2, 2026 |
+| [BibiGPT](https://bibigpt.co/en/shop?ref=BLACKFRIDAY&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026) | AI summaries, transcripts, mind maps and Q&A for YouTube videos, podcasts and articles | 💸 **50% OFF** first payment of Plus and Pro (Plus yearly $142.56 → $71.28) · code `BLACKFRIDAY` (auto-applied) | Nov 12, 2026 - Dec 1, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
