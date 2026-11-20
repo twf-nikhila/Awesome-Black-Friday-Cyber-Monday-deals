@@ -169,6 +169,7 @@ Add it to your website, README, or launch post:
 | [XGetter](https://xgetter.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Desktop video and audio downloader for Windows, macOS and Linux: save from 70+ platforms in up to 8K | **30% OFF** all plans (Pro $10 → $7, Extended $15 → $10.50) · code `BF2026` | Nov 20, 2026 - Dec 2, 2026 |
 | [Sum](https://sumtranscribe.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns audio and video into transcripts and AI summaries in your browser | 💸 **50% OFF** first billing period of Pro Monthly or Annual · code `SUMBF50` | Nov 20, 2026 - Nov 30, 2026 |
 | [ViralReel](https://www.viralreel.app/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns your photos into AI short videos using templates inspired by social media trends | **Up to 30% OFF** one-time credit packs (180 credits $19.90 → $16, 480 credits $39.90 → $28) · auto-applied · subscriptions excluded | Nov 20, 2026 - Nov 30, 2026 |
+| [YIX](https://yix.ai/pricing) | Create and edit AI images and generate short videos from text or photos in your browser | 💸 **50% OFF** first month of all monthly plans (Starter $19.90 → $9.95, Pro $49.90 → $24.95) · auto-applied | Nov 20, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
