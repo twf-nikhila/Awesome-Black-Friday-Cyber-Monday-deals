@@ -342,6 +342,7 @@ Add it to your website, README, or launch post:
 | [1DevTool](https://1devtool.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Desktop workbench that runs Claude Code, Codex and other coding agents side by side, with a browser, database client and git | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [Server Compass](https://servercompass.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Deploy any repo to your own VPS without the terminal: zero-downtime deploys, SSL and rollbacks | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [Next.js Launch Skills](https://nandohusni.gumroad.com/l/nextjs-launch-skills?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Agent skills for Claude Code, Cursor and Codex that take a Next.js site from build to launch | ♾️ **40% OFF** ($9.99 → $5.99) · code `BF40` | Nov 19, 2026 - Dec 1, 2026 |
+| [APIKO](https://apiko.app/) | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models. | **10% extra API credits** on every paid top-up: pay $100, get $110 in API credits. Automatically applied, no code. Ends Nov 27 at 11:59 p.m. Pacific Time. | Nov 12, 2026 - Nov 27, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
