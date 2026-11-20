@@ -163,6 +163,7 @@ Add it to your website, README, or launch post:
 | [Oil Studio](https://studio.oiloil.org/en/) | Native Apple Silicon screen recorder and video editor with click auto-zoom, on-device transcript cutting and a CLI + Agent Skill for Claude Code / Codex | ♾️ **20% OFF** one-time purchase for 2 Macs ($39 → $31.20) · code `BFCM2026` | Nov 20, 2026 - Dec 2, 2026 |
 | [BibiGPT](https://bibigpt.co/en/shop?ref=BLACKFRIDAY&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026) | AI summaries, transcripts, mind maps and Q&A for YouTube videos, podcasts and articles | 💸 **50% OFF** first payment of Plus and Pro (Plus yearly $142.56 → $71.28) · code `BLACKFRIDAY` (auto-applied) | Nov 12, 2026 - Dec 1, 2026 |
 | [DramaSo](https://drama.so/en/pricing?promo=DRAMABF2026&billing=yearly&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026) | AI short drama generator: beat sheet, dialogue audio preview, then 9:16 vertical video for TikTok and Reels | 💸 **50% OFF** first year of Pro yearly ($280.80 → $140.40) · code `DRAMABF2026` (auto-applied) | Nov 13, 2026 - Dec 1, 2026 |
+| [Effect Video](https://effect.video/black-friday) | Turn photos into cinematic AI video effects (Hotel Lobby, Snow Globe, Santa Hug) and get a shareable MP4 | **+50% bonus credits** on every credit pack and annual plan · auto-applied · credits never expire | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
