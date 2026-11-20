@@ -349,6 +349,7 @@ Add it to your website, README, or launch post:
 | [Server Compass](https://servercompass.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Deploy any repo to your own VPS without the terminal: zero-downtime deploys, SSL and rollbacks | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [Next.js Launch Skills](https://nandohusni.gumroad.com/l/nextjs-launch-skills?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Agent skills for Claude Code, Cursor and Codex that take a Next.js site from build to launch | ♾️ **40% OFF** ($9.99 → $5.99) · code `BF40` | Nov 19, 2026 - Dec 1, 2026 |
 | [Devkito](https://devkito.com/pricing) | 122 offline developer tools in one desktop app for Mac, Windows and Linux: JSON, JWT, regex, Base64, hashes, HTTP client and more | 💸 ♾️ **50% OFF** one-time licence ($10 → $5, 2 computers $15 → $7.50, 5 computers $30 → $15) · code `BF2026` | Nov 20, 2026 - Dec 2, 2026 |
+| [APIKO](https://apiko.app/) | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models | **10% extra API credits** on every paid top-up (pay $100, get $110) · auto-applied | Nov 12, 2026 - Nov 27, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
