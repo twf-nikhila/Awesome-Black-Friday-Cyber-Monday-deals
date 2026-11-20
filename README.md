@@ -479,6 +479,7 @@ Add it to your website, README, or launch post:
 | [Tutti](https://tutti.barrybarrywu.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Play audio on multiple outputs and control each app's volume from the Mac menu bar | ♾️ **31% OFF** Pro one-time for one Mac ($12.99 → $8.99) · auto-applied | Nov 20, 2026 - Nov 30, 2026 |
 | [Synclet](https://synclet.dev/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | End-to-end encrypted dotfile and Mac app config sync across macOS and Linux, via Synclet Cloud or your own Dropbox | 💸 ♾️ **50% OFF** one-time license ($14.99 → $7.49) · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
 | [Advanced AI Actions](https://apps.apple.com/us/app/advanced-ai-actions/id6743052292?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Use OpenAI, Claude, Gemini, GitHub Copilot and custom AI providers inside Apple Shortcuts on Mac, iPhone and iPad | 💸 ♾️ **50% OFF** one-time App Store purchase ($2.99 → $1.49) · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
+| [Linger](https://withlinger.com/black-friday/) | Linger is a local-first native Mac app for saving design references, notes, and sources on your own computer. | ♾️ **38% OFF** Lifetime ($79→$49), Personal $39→$25 (36% off), Studio Duo (two Lifetime codes) $158→$79 (50% off), no code needed | Nov 19, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
