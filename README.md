@@ -159,6 +159,7 @@ Add it to your website, README, or launch post:
 | [1VideoTool](https://1videotool.com) | Describe a video, preview a free draft, then render the finished MP4 on your own machine | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [1ShowcaseTool](https://1showcasetool.com) | Record a product flow once and turn it into a guide, a film, a 3D mockup or a click-through demo | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [VocalRemover.one](https://vocalremover.one/black-friday) | Separate songs into vocal and instrumental tracks | 💸 **55% OFF** per minute vs the regular Large Pack: 1,000 minutes for $59.99 one-time, valid 2 years · no code needed | Nov 15, 2026 - Nov 30, 2026 |
+| [Molens AI](https://molensai.com/black-friday) | Generate videos from prompts or photos and create images with the same credits | 💸 **50% OFF** first year of any annual plan (Starter $129 → $64.50) · new subscribers · no code needed | Nov 1, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
