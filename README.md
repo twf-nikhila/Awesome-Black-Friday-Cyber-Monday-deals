@@ -195,6 +195,7 @@ Add it to your website, README, or launch post:
 | [Deletti](https://deletti.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#black-friday) | Free up space on your iPhone: start with your biggest videos and photos, then swipe to keep or trash them | ♾️ **Lifetime launch price $8.99** · code `BFCM26` · US App Store price | Nov 20, 2026 - Dec 1, 2026 |
 | [Krea3 AI](https://krea3.org/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn prompts and photos into portraits, product shots and posters | **40% OFF** first year of annual plans (Starter $149 → $89.40) · auto-applied | Nov 1, 2026 - Nov 30, 2026 |
 | [TranslateManga](https://translatemanga.net/?pricing_mode=annual#pricing) | AI translates raw manga, manhwa and webtoons right inside the original speech bubbles, in 50+ languages (web + Chrome extension) | **40% OFF** first year of yearly Standard & Pro (from $10 → $6/mo) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
+| [Clarpex AI](https://clarpex.ai/pricing?utm_source=github-twf&utm_medium=bf_directory&utm_campaign=bf2026) | Unblur, upscale to 4K/8K, restore and colorize old photos, remove watermarks and change backgrounds | 💸 **50% OFF** first month of monthly plans (Starter $9.90 → $4.95) · **30% OFF** first year of yearly plans · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
