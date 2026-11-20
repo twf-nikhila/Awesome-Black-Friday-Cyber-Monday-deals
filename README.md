@@ -183,6 +183,7 @@ Add it to your website, README, or launch post:
 | [AntShot](https://antshot.com/?ref=awesome-black-friday-deals&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Full-page screenshots for Chrome and Edge, including tables and lists that scroll inside a page, saved on your device | ♾️ **35% OFF** Pro Lifetime ($39 → $25.35) · code `BLACKFRIDAY26` | Nov 12, 2026 - Dec 2, 2026 |
 | [Textmock](https://textmock.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Make iMessage-style conversation mockups on the web or Mac and save them as images or videos | 💸 **50% OFF** Pro for your first 12 months · code `TEXTMOCKBF26` · new subscribers | Nov 18, 2026 - Dec 2, 2026 |
 | [InPlaceText](https://inplacetext.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI editor that changes the text inside images (posters, menus, product photos, screenshots) while keeping the same font | **Up to 50% bonus credits** on one-time credit packs · auto-applied | Nov 19, 2026 - Dec 1, 2026 |
+| [Deletti](https://deletti.app/#black-friday) | Free up space on your iPhone: start with your biggest videos and photos, then swipe to keep or trash them | ♾️ **Lifetime launch price $8.99** · code `BFCM26` · US App Store price | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -483,6 +484,7 @@ Add it to your website, README, or launch post:
 | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Capture thoughts and ideas in one tap on iPhone, iPad and Mac, then send them to your favourite apps | 💸 ♾️ **50% OFF** Lifetime ($19.99 → $9.99) · no code needed | Nov 23, 2026 - Nov 30, 2026 |
 | [1AudioTool](https://1audiotool.com) | Local dictation for macOS and Windows that learns your own words and never uploads audio | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [Stoic Browser](https://stoicbrowser.com) | A browser for founders with a workspace per product and coding agents working inside it | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
+| [CheckCam](https://checkcam.zorrinapps.com/#black-friday) | Quick photo reminders that auto-delete unless you pin them, so your camera roll stays clean | 💸 ♾️ **50% OFF** Lifetime ($14.99 → $7.49) · code `BFCM26` · US App Store price | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -511,6 +513,7 @@ Add it to your website, README, or launch post:
 | [Kernel Pack](https://www.exploitpack.com/products/kernel-pack?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Kernel exploitation toolkit for red teams with 100+ local privilege escalation exploits | ♾️ **20% OFF** lifetime licence (€1,200 → €960) · code `LIFETIME` | Nov 19, 2026 - Nov 30, 2026 |
 | [Kipzy](https://kipzy.app/) | Fast, private web browser for iPhone with a built-in ad, tracker and popup blocker and offline video saving | 💸 ♾️ **50% OFF** Pro Lifetime ($49.99 → $24.99) · auto-applied in the App Store | Nov 13, 2026 - Nov 30, 2026 |
 | [ExposureDrift](https://exposuredrift.com) | Continuous attack surface management: JS secret scanning, outside-in API inventory and exposure monitoring | 💸 **50% OFF** a full year for early users (launches Dec 14) + 15-day risk-free trial · no code needed | Nov 20, 2026 - Dec 14, 2026 |
+| [SecretShot](https://secretshot.zorrinapps.com/#black-friday) | PIN-protected vault for private photos and videos, disguised as a working calculator, currency converter or puzzle | ♾️ **Pro Lifetime launch price $14.99** · code `BFCM26` · US App Store price | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📱 Lifestyle, Health & Travel
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
