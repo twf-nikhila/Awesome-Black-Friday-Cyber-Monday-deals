@@ -307,6 +307,7 @@ Add it to your website, README, or launch post:
 | [MoneyWiz](https://www.wiz.money/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Personal finance for Mac, iPhone and iPad: budgets, bill forecasts, reports, investments and optional bank sync | **20% OFF** first year of Standard ($29.99 → $23.99) and Premium ($59.99 → $47.99) · code `BFCM26` · website purchases only | Nov 13, 2026 - Dec 1, 2026 |
 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Options strategy visualizer, scanners and trade journal for retail options traders | 💸 **50% OFF** every plan: first year on annual, first 3 months on monthly · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
 | [ChartScout](https://chartscout.io/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Chart-pattern detection and alerts for crypto traders across multiple timeframes | **40% OFF** ChartScout Pro for 3 months · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
+| [SubsDay](https://subsday.appps.od.ua) | Subscription calendar for iOS and Mac with automatic import from the App Store and other sources. | ♾️ **40% OFF** Lifetime: Single $19.99 → $11.99 with [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026); Family $26.99 → $15.99 with [BLKFR2026FAMILY](https://apps.apple.com/redeem?ctx=offercodes&id=6743316600&code=BLKFR2026FAMILY) | Nov 15, 2026 - Dec 1, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -357,6 +358,7 @@ Add it to your website, README, or launch post:
 | [Next.js Launch Skills](https://nandohusni.gumroad.com/l/nextjs-launch-skills?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Agent skills for Claude Code, Cursor and Codex that take a Next.js site from build to launch | ♾️ **40% OFF** ($9.99 → $5.99) · code `BF40` | Nov 19, 2026 - Dec 1, 2026 |
 | [Devkito](https://devkito.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 122 offline developer tools in one desktop app for Mac, Windows and Linux: JSON, JWT, regex, Base64, hashes, HTTP client and more | 💸 ♾️ **50% OFF** one-time licence ($10 → $5, 2 computers $15 → $7.50, 5 computers $30 → $15) · code `BF2026` | Nov 20, 2026 - Dec 2, 2026 |
 | [APIKO](https://apiko.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Pay-as-you-go, OpenAI-compatible API gateway for text, image and video models | **10% extra API credits** on every paid top-up (pay $100, get $110) · auto-applied | Nov 12, 2026 - Nov 27, 2026 |
+| [Toplify](https://toplify.app) | Tracks App Store chart positions in 175 countries for iOS and Mac developers. | ♾️ **45% OFF** Lifetime: $89.99 → $49.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026) | Nov 15, 2026 - Dec 1, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -507,6 +509,7 @@ Add it to your website, README, or launch post:
 | [CheckCam](https://checkcam.zorrinapps.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#black-friday) | Quick photo reminders that auto-delete unless you pin them, so your camera roll stays clean | 💸 ♾️ **50% OFF** Lifetime ($14.99 → $7.49) · code `BFCM26` · US App Store price | Nov 20, 2026 - Dec 1, 2026 |
 | [graph](https://mygraph.id/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI resume building and interview preparation for a stronger career presence | 💸 **50% OFF** Full Access: 3 months unlimited for $9.99 instead of $19.99 · one-time payment, no code needed | Nov 20, 2026 - Nov 30, 2026 |
 | [Whisper Memos](https://whispermemos.com/changelog/2026-11-black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Record voice memos on iPhone and Apple Watch, get accurate transcripts and summaries | **29% OFF** yearly ($69.99 → $49.99/year, locked in while subscribed) · auto-applied | Nov 16, 2026 - Dec 6, 2026 |
+| [DeskMinder](https://deskminder.appps.od.ua) | Create quick reminders and start tasks on your Mac desktop. | ♾️ **43% OFF** Lifetime: $6.99 → $3.99 · redeem [BLKFR2026](https://apps.apple.com/redeem?ctx=offercodes&id=6740942938&code=BLKFR2026) | Nov 15, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
