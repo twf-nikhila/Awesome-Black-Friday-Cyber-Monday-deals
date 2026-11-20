@@ -295,6 +295,7 @@ Add it to your website, README, or launch post:
 | [Toffee: Debt Payoff Planner](https://apps.apple.com/us/app/toffee-debt-payoff-snowball/id6743946913?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Debt payoff planner for iPhone and Android: snowball or avalanche plans, a debt-free date and bill reminders | 💸 ♾️ **50% OFF** Pro Lifetime ($59.99 → $29.99) · auto-applied in the app | Nov 19, 2026 - Dec 1, 2026 |
 | [MoneyWiz](https://www.wiz.money/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Personal finance for Mac, iPhone and iPad: budgets, bill forecasts, reports, investments and optional bank sync | **20% OFF** first year of Standard ($29.99 → $23.99) and Premium ($59.99 → $47.99) · code `BFCM26` · website purchases only | Nov 13, 2026 - Dec 1, 2026 |
 | [Options Matrix Pro](https://www.optionsmatrixpro.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Options strategy visualizer, scanners and trade journal for retail options traders | 💸 **50% OFF** every plan: first year on annual, first 3 months on monthly · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
+| [ChartScout](https://chartscout.io/black-friday) | Chart-pattern detection and alerts for crypto traders across multiple timeframes | **40% OFF** ChartScout Pro for 3 months · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
