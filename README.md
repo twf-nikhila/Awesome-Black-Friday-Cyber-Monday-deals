@@ -211,6 +211,7 @@ Add it to your website, README, or launch post:
 | [Perisclaw](https://perisclaw.com/pricing?utm_source=github-twf-bfcm&utm_medium=deal-listing&utm_campaign=cyber-monday-2026) | AI assistant that automates your work on WhatsApp: follow-ups, reminders and tasks, with full chat context | **40% OFF** the annual plan ($200 → $120/yr) · no code needed, auto-applied at checkout · annual plan only | Nov 27, 2026 - Dec 1, 2026 |
 | [1AIVault](https://1aivault.com) | One local memory vault for all your AI tools, served back to them over MCP | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [1LocalAITool](https://1localaitool.com) | Private AI chat, PDF summaries, transcription and image generation that run offline on your computer | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
+| [Sabi](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=twf) | AI employee you text like a person: answers your email, runs your calendar, follows up with leads and posts to social media | 💸 **50% OFF** 6 months of Sabi Pro ($995 → $495) · auto-applied | Nov 20, 2026 - Nov 30, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
