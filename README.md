@@ -158,6 +158,7 @@ Add it to your website, README, or launch post:
 | [Transcribee](https://transcribee.io/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI transcription for audio and video in 90+ languages, with a meeting recorder and AI summaries | **40% OFF** Unlimited (monthly $25.99 → $15.59 first month, yearly $199.99 → $119.99 first year) · code `BF2026` | Nov 19, 2026 - Nov 30, 2026 |
 | [1VideoTool](https://1videotool.com) | Describe a video, preview a free draft, then render the finished MP4 on your own machine | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [1ShowcaseTool](https://1showcasetool.com) | Record a product flow once and turn it into a guide, a film, a 3D mockup or a click-through demo | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
+| [VocalRemover.one](https://vocalremover.one/black-friday) | Separate songs into vocal and instrumental tracks | 💸 **55% OFF** per minute vs the regular Large Pack: 1,000 minutes for $59.99 one-time, valid 2 years · no code needed | Nov 15, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
