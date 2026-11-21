@@ -290,6 +290,7 @@ Add it to your website, README, or launch post:
 | [Wavegrain](https://wavegrain.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI maker for TikTok slideshows and Instagram carousels in your brand style, with a content calendar, scheduled posting and an MCP server | **20% OFF** your first payment on any plan · new customers · code `BLACKFRIDAY20` | Nov 20, 2026 - Dec 1, 2026 |
 | [Appfigures](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=awesome) | ASO and app intelligence for the App Store and Google Play: competitor keywords, custom product pages, download and revenue estimates | 💸 **50% OFF** monthly or annual plans for 12 months · code `BF2650` | Nov 23, 2026 - Nov 30, 2026 |
 | [OpenFree](https://openfree.tools/advertise) | Banner, listing-grid and detail-page ads on an AI tool directory for indie makers | 💸 **50% OFF** daily ad reservations ($10 → $5/day) · auto-applied · reserve by Nov 30 | Nov 21, 2026 - Nov 30, 2026 |
+| [JitSuites](https://jitsuites.com/black-friday-deal/?utm_source=deallist&utm_medium=listing&utm_campaign=twf-github) | All-in-one marketing app for small businesses: funnels, landing pages, email and SMS campaigns, social auto-posting and AI clips | ♾️ **Lifetime deal from $69** · pay once, no monthly fees · no code needed | Nov 21, 2026 - Dec 2, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
