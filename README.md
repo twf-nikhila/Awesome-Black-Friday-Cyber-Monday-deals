@@ -375,6 +375,7 @@ Add it to your website, README, or launch post:
 | [Warplet](https://warplet.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS app that connects ChatGPT, Claude, Perplexity and Grok to your local MCP servers | **40% OFF** first year of Annual ($14.99 → $8.99) · code `BLACKFRIDAY2026` | Nov 20, 2026 - Dec 1, 2026 |
 | [Toplify](https://toplify.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tracks App Store chart positions in 175 countries for iOS and Mac developers | ♾️ **45% OFF** Lifetime ($89.99 → $49.99) · code [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 15, 2026 - Dec 1, 2026 |
 | [RunJS](https://runjs.app) | JavaScript and TypeScript playground with zero config and instant feedback | **30% OFF** · code `BLACKFRIDAY2026` | Nov 20, 2026 - Dec 2, 2026 |
+| [LurkAPI](https://lurkapi.com/pricing) | Social media data API and MCP server that returns public posts, ads and profiles from 16 platforms as JSON | **30% OFF** any credit pack (Pro $39 → $27.30) · code `BLACKFRIDAY30` | Nov 20, 2026 - Nov 30, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
