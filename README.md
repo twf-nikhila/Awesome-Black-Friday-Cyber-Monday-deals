@@ -173,6 +173,7 @@ Add it to your website, README, or launch post:
 | [ScribeToAny](https://scribetoany.com/pricing) | Turns audio, video and links into timestamped transcripts with speaker labels and SRT/VTT subtitles in about 98 languages | **30% OFF** first month (Plus $10 → $7) · code `FIRST_30_OFF` · or $20 off the first year · code `FIRST_20_OFF` | Nov 17, 2026 - Nov 30, 2026 |
 | [CutFast](https://cutfa.st/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026#pricing) | AI video editor: highlight subtitle lines to keep, cut filler and silence, export clips (web + Mac / Windows app) | ♾️ **30% OFF** Lifetime ($399 → $279.30) and 60-minute packs ($30 → $21) · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
 | [quso.ai](https://quso.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=referral&utm_campaign=bf26_deal_lists) | Turn long videos and podcasts into captioned vertical clips with AI, then schedule and auto-post them to TikTok, Shorts, Instagram, LinkedIn and X | 💸 **50% OFF** yearly plans, kept on every renewal (Lite $348 → $174/yr) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
+| [Lumière](https://lumiere.artsvit.com/) | Play your personal media from Jellyfin, Plex or Lumière Server on Mac, iPhone, iPad and Apple TV | ♾️ **20% OFF** lifetime unlock ($59.99 → $47.99) · code `ARTSVITBF20` · first 500 redemptions | Nov 20, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -206,6 +207,7 @@ Add it to your website, README, or launch post:
 | [Sightline](https://sightlinemac.com/black-friday/) | Mac screenshot and screen-recording app with an image and video editor, design diffs, and an MCP server and CLI for Claude Code and Codex | ♾️ **23% OFF** lifetime ($29.99 → $22.99) · code `SIGHTLINELIFEDISCOUNT26` · or first 3 months free on yearly · code `SIGHTLINEEARLY` | Nov 20, 2026 - Jan 7, 2027 |
 | [ChatImg](https://chatimg.ai/en/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026) | AI image generator and editor: upload a photo, describe the change, export | 💸 **50% OFF** first payment of Plus / Pro (Pro yearly $215.28 → $107.64) · credit packs 30% off · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
 | [Snapperon](https://snapperon.com/#pricing) | Annotate screenshots, redact private details and copy text from images on your Mac | 💸 ♾️ **50% OFF** Pro: lifetime $38.99 → $19.50, annual $19.99 → $10 first year · code `BLACKFRIDAY26` | Nov 20, 2026 - Dec 1, 2026 |
+| [Paletteo](https://paletteo.artsvit.com/) | Capture colors from images and build reusable palettes and gradients on iPhone and iPad | ♾️ **20% OFF** lifetime unlock ($4.99 → $3.99) · code `ARTSVITBF20` · first 500 redemptions | Nov 20, 2026 - Nov 30, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -376,6 +378,8 @@ Add it to your website, README, or launch post:
 | [Toplify](https://toplify.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tracks App Store chart positions in 175 countries for iOS and Mac developers | ♾️ **45% OFF** Lifetime ($89.99 → $49.99) · code [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 15, 2026 - Dec 1, 2026 |
 | [RunJS](https://runjs.app) | JavaScript and TypeScript playground with zero config and instant feedback | **30% OFF** · code `BLACKFRIDAY2026` | Nov 20, 2026 - Dec 2, 2026 |
 | [LurkAPI](https://lurkapi.com/pricing) | Social media data API and MCP server that returns public posts, ads and profiles from 16 platforms as JSON | **30% OFF** any credit pack (Pro $39 → $27.30) · code `BLACKFRIDAY30` | Nov 20, 2026 - Nov 30, 2026 |
+| [Open Pi](https://openpi.uk/) | Monitor Raspberry Pi health, manage Docker containers and run SSH commands from iPhone, iPad or Mac | ♾️ **20% OFF** lifetime unlock ($5.99 → $4.79) · code `ARTSVITBF20` · first 500 redemptions | Nov 20, 2026 - Nov 30, 2026 |
+| [TeaGo for Gitea](https://apps.apple.com/us/app/teago-for-gitea/id6805488091) | Browse repositories, pull requests and issues from your Gitea instance on iPhone, iPad and Mac | ♾️ **20% OFF** lifetime unlock ($4.99 → $3.99) · code `ARTSVITBF20` · first 500 redemptions | Nov 20, 2026 - Nov 30, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
