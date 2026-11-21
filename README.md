@@ -229,6 +229,7 @@ Add it to your website, README, or launch post:
 | [1LocalAITool](https://1localaitool.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private AI chat, PDF summaries, transcription and image generation that run offline on your computer | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | Nov 19, 2026 - Nov 29, 2026 |
 | [Sabi](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=twf) | AI employee you text like a person: answers your email, runs your calendar, follows up with leads and posts to social media | 💸 **50% OFF** 6 months of Sabi Pro ($995 → $495) · auto-applied | Nov 20, 2026 - Nov 30, 2026 |
 | [Fix My Japanese](https://fixmyjapanese.com/upgrade?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Japanese grammar, particle and keigo checker for iOS and web that corrects your writing and explains every change | **40% OFF** Pro Annual ($29.99 → $17.99/yr) · auto-applied (or code `BLACKFRIDAY2026` on iOS) | Nov 20, 2026 - Dec 1, 2026 |
+| [Transync AI](https://www.transyncai.com/black-friday/) | Real-time AI translation for meetings, with bilingual subtitles and voice in 60 languages | **22% OFF** Personal Premium annual ($89.90 → $69.90) · auto-applied | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
