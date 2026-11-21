@@ -381,6 +381,7 @@ Add it to your website, README, or launch post:
 | [LurkAPI](https://lurkapi.com/pricing) | Social media data API and MCP server that returns public posts, ads and profiles from 16 platforms as JSON | **30% OFF** any credit pack (Pro $39 → $27.30) · code `BLACKFRIDAY30` | Nov 20, 2026 - Nov 30, 2026 |
 | [Open Pi](https://openpi.uk/) | Monitor Raspberry Pi health, manage Docker containers and run SSH commands from iPhone, iPad or Mac | ♾️ **20% OFF** lifetime unlock ($5.99 → $4.79) · code `ARTSVITBF20` · first 500 redemptions | Nov 20, 2026 - Nov 30, 2026 |
 | [TeaGo for Gitea](https://apps.apple.com/us/app/teago-for-gitea/id6805488091) | Browse repositories, pull requests and issues from your Gitea instance on iPhone, iPad and Mac | ♾️ **20% OFF** lifetime unlock ($4.99 → $3.99) · code `ARTSVITBF20` · first 500 redemptions | Nov 20, 2026 - Nov 30, 2026 |
+| [Doubles](https://doubles.dev/pricing) | Remote pair programming app for Mac: screen sharing sharp enough to read code, and your pair can drive when you allow it | 💸 ♾️ **50% OFF** one-time purchase ($169 → $84.50) · code `DOUBLES50` | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
