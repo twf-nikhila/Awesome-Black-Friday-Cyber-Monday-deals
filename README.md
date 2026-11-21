@@ -288,6 +288,7 @@ Add it to your website, README, or launch post:
 | [Krumzi](https://www.krumzi.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Designs editable flyers, social posts, carousels and video in your brand from a one-line description | 💸 **60% OFF** first year of yearly plans (Starter $76, Pro $156, Studio $356) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [Wavegrain](https://wavegrain.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI maker for TikTok slideshows and Instagram carousels in your brand style, with a content calendar, scheduled posting and an MCP server | **20% OFF** your first payment on any plan · new customers · code `BLACKFRIDAY20` | Nov 20, 2026 - Dec 1, 2026 |
 | [Appfigures](https://appfigures.com/platform/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf26&utm_content=awesome) | ASO and app intelligence for the App Store and Google Play: competitor keywords, custom product pages, download and revenue estimates | 💸 **50% OFF** monthly or annual plans for 12 months · code `BF2650` | Nov 23, 2026 - Nov 30, 2026 |
+| [OpenFree](https://openfree.tools/advertise) | Banner, listing-grid and detail-page ads on an AI tool directory for indie makers | 💸 **50% OFF** daily ad reservations ($10 → $5/day) · auto-applied · reserve by Nov 30 | Nov 21, 2026 - Nov 30, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
