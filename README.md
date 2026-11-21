@@ -341,6 +341,7 @@ Add it to your website, README, or launch post:
 | [WHMSPro](https://whmspro.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | QR-powered warehouse management for inventory, orders, storage and fulfillment, no special hardware needed | **1 month FREE** for up to 5 users · code `BLACKFRIDAY26` | Nov 21, 2026 - Dec 1, 2026 |
 | [LiquidationRoute](https://liquidationroute.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Warehouse software for liquidation auction operators: reconcile manifests, grade returns, build lots and schedule pickups | **1 month FREE** for up to 5 users · code `BLACKFRIDAY26` | Nov 21, 2026 - Dec 1, 2026 |
 | [EquipRoute](https://equiproute.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Consignment software for used equipment dealers: intake, QR-tagged storage, listings and delivery with a free driver app | **1 month FREE** for up to 5 users · code `BLACKFRIDAY26` | Nov 21, 2026 - Dec 1, 2026 |
+| [Legalnaut](https://legalnaut.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI case workspace for litigation teams: chronology, contradictions between documents, proof chart and deadlines, with every fact linked to its source page | **30% OFF** any plan for the first 12 months · code `BF2026` | Nov 21, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
