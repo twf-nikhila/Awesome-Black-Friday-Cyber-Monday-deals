@@ -565,6 +565,7 @@ Add it to your website, README, or launch post:
 | [FiveNotes](https://www.apptorium.com/fivenotes?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes and iCloud sync | 💸 ♾️ **50% OFF** one-time purchase ($7.99 → $3.99) | Nov 20, 2026 - Dec 6, 2026 |
 | [Timemator](https://timemator.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Automatic time tracking for Mac that records work from project files, apps and websites and turns it into timesheets | 💸 ♾️ **50% OFF** Lifetime ($39 → $19.50) · code `TM-BLACKFRIDAY26` (auto-applied) | Nov 21, 2026 - Dec 5, 2026 |
 | [Roost](https://roostmail.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native Mac mail app for many inboxes: several Gmails, Outlook, iCloud, Zoho, Yandex and any IMAP in one keyboard-first window, with mail kept on your Mac | ♾️ **14% OFF** Lifetime ($29 → $25, 3 Macs, every future update) · auto-applied, no code | Nov 27, 2026 - Dec 1, 2026 |
+| [Timeless](https://timeless-app.github.io/#pricing) | Stage timer for Windows: big countdown on the TV or projector, run-of-show schedules, speaker messages and a phone remote; works offline | ♾️ **30% OFF** one-time license (Individual $29 → $20.30, Team $79 → $55.30) · code `BLACKFRIDAY26` | Nov 19, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
