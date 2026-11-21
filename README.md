@@ -629,6 +629,7 @@ Add it to your website, README, or launch post:
 | [Read My Dream](https://readmydream.com/plus?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Dream journal with AI readings that connect each new dream to your past ones | **10% OFF** first year or first month of Plus ($39.99 → $35.99/year) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [FortuneTellerOnline](https://www.fortunetelleronline.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | AI fortune teller for tarot, love, career and yes-or-no readings from a full 78-card Rider-Waite deck | 💸 **90% OFF** all plans + 10x bonus credits · auto-applied | Nov 20, 2026 - Dec 31, 2026 |
 | [Brain Root](https://getbrainroot.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 50+ quick offline brain games for iPhone, iPad and Android | 💸 ♾️ **75% OFF** Premium Lifetime ($39.99 → $9.99) · auto-applied | Nov 21, 2026 - Dec 1, 2026 |
+| [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098) | Turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements | ♾️ **40% OFF** Lifetime ($49.99 → $29.99) · auto-applied | Nov 21, 2026 - Nov 30, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
