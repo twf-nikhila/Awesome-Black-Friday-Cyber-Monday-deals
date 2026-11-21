@@ -618,6 +618,7 @@ Add it to your website, README, or launch post:
 | [SecurityPaths Academy](https://academy.securitypaths.com/courses?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on security courses with labs, exam and certification: Wi-Fi pentesting (CWP) and recon (CRP) | **25% OFF** CWP and CRP · code `blackfriday26` (auto-applied) | Nov 21, 2026 - Nov 30, 2026 |
 | [Practical DevSecOps](https://www.practical-devsecops.com/black-friday-sale-2026/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI security, DevSecOps, MCP, API and cloud-native security certifications (CAISP, CAASE, CMCPSE and more) with 50+ hands-on labs | **15% OFF** all certifications · save up to $600 on bundles · auto-applied | Nov 1, 2026 - Dec 5, 2026 |
 | [GenAI Security Lab](https://genaisecuritylab.com/pricing) | Hands-on AI security labs against deliberately vulnerable LLM chat, RAG, agent and MCP apps, mapped to the OWASP LLM Top 10 | **40% OFF** the 4-Month Pass and first year of yearly Individual · code `BLACKFRIDAY40` (auto-applied) | Nov 17, 2026 - Nov 30, 2026 |
+| [WinkLingo](https://winklingo.com/en/black-friday) | Learn languages from 1.8M synced movie clips and 485K+ YouTube videos, searchable by quote or meaning | **40% OFF** Annual ($49.99 → $29.99/yr) · **38% OFF** Monthly ($7.99 → $4.99) · locked in · auto-applied | Nov 20, 2026 - Dec 3, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
