@@ -634,6 +634,7 @@ Add it to your website, README, or launch post:
 |:-:|:-:|:-:|:-:|
 | [DevDb](https://marketplace.visualstudio.com/items?itemName=damms005.devdb&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Free VS Code extension that shows your database records inside VS Code, Cursor and Windsurf, zero config | Free forever, no account needed · Pro features in [DevDb Pro](https://devdbpro.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 10, 2026 - Dec 10, 2026 |
 | [QRat](https://apps.apple.com/app/id1497158638?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | QR code generator for Mac and iPhone with hundreds of customizable Black Friday and Christmas templates | ♾️ **FREE** lifetime license, first 500 · [redeem on the App Store](https://apps.apple.com/redeem?ctx=offercodes&id=1497158638&code=BLACKFRIDAY2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 16, 2026 - Dec 1, 2026 |
+| [Satori](https://satoribrowser.com) | Free native browser for Mac with ad and tracker blocking, Spaces, Arc import and on-device AI summaries | **FREE** · no account, no telemetry | Nov 20, 2026 - Nov 30, 2026 |
 
 # 📅 Previous years
 
