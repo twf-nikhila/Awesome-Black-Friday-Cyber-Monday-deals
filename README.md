@@ -366,7 +366,7 @@ Add it to your website, README, or launch post:
 | [Warplet](https://warplet.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS app that connects ChatGPT, Claude, Perplexity and Grok to your local MCP servers | **40% OFF** first year of Annual ($14.99 → $8.99) · code `BLACKFRIDAY2026` | Nov 20, 2026 - Dec 1, 2026 |
 | [Toplify](https://toplify.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tracks App Store chart positions in 175 countries for iOS and Mac developers | ♾️ **45% OFF** Lifetime ($89.99 → $49.99) · code [`BLKFR2026`](https://apps.apple.com/redeem?ctx=offercodes&id=6782706682&code=BLKFR2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nov 15, 2026 - Dec 1, 2026 |
 
-## 🧱 Boilerplates & Starter Kits
+| [Relaybrook n8n Workflow Packs](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts | **40% OFF** all packs · code `BLACKFRIDAY40` | Nov 18, 2026 - Dec 1, 2026 |
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [ShipAhead](https://shipahe.ad?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Ship your SaaS in a weekend with Nuxt Starter Kit | 💸 ♾️ **50% OFF** · auto-applied | Nov 1, 2026 - Dec 31, 2026 |
