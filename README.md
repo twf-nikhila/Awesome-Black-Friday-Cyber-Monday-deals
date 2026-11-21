@@ -492,6 +492,7 @@ Add it to your website, README, or launch post:
 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Move the pointer instantly between displays or saved positions with keyboard shortcuts or mouse buttons | 💸 ♾️ **50% OFF** one-time purchase ($7.99 → $3.99) | Nov 20, 2026 - Dec 6, 2026 |
 | [Workspaces](https://www.apptorium.com/workspaces) | Project-based Mac launcher that opens grouped files, folders, apps, websites and Shortcuts in one click | 💸 ♾️ **50% OFF** one-time purchase ($19.99 → $9.99) | Nov 20, 2026 - Dec 6, 2026 |
 | [AppBrisk](https://appbrisk.candyyue.com/en/pricing/) | Launch, switch to or toggle Windows 10/11 apps with dedicated keyboard shortcuts | 💸 ♾️ **50% OFF** Pro lifetime ($5.99 → $2.99, up to 3 devices) · auto-applied | Nov 19, 2026 - Nov 30, 2026 |
+| [AppGrid](https://appgridmac.com/pricing/) | Native Mac launcher for organizing apps into folders and pages | 💸 ♾️ **50% OFF** lifetime Direct Pro for up to 5 Macs ($25 → $12.50) · code `BF2026` | Nov 20, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
