@@ -575,6 +575,7 @@ Add it to your website, README, or launch post:
 | [3DRoomDesign.ai](https://3droomdesign.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI home and interior design web app: draw floor plans, turn them into 3D and visualize rooms | **50% bonus credits** on one-time packs · up to 300 extra credits in the first month for new subscribers · auto-applied | Nov 17, 2026 - Nov 27, 2026 |
 | [PermWatch](https://permwatch.com/alerts/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Green card tracker: PERM decision estimates, live PERM status and alerts when the Visa Bulletin moves | **10% OFF** first year of Pro yearly ($49 → $44.10) and Until green card ($79 → $71.10) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [Read My Dream](https://readmydream.com/plus?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Dream journal with AI readings that connect each new dream to your past ones | **10% OFF** first year or first month of Plus ($39.99 → $35.99/year) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
+| [Brain Root](https://getbrainroot.com/) | 50+ quick brain games for iPhone, iPad and Android, in short rounds that play offline | 💸 ♾️ **75% OFF** Premium Lifetime on iOS and Android: $39.99 → $9.99 · no code needed | Nov 21, 2026 - Dec 1, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
