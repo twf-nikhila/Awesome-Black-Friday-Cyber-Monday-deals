@@ -205,6 +205,7 @@ Add it to your website, README, or launch post:
 | [SciFig](https://scifig.ai/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Create editable scientific figures and diagrams for papers and presentations | **20% OFF** first billing period of new subscriptions and credit packs (Starter annual $100 → $80) · auto-applied | Oct 22, 2026 - Dec 1, 2026 |
 | [Sightline](https://sightlinemac.com/black-friday/) | Mac screenshot and screen-recording app with an image and video editor, design diffs, and an MCP server and CLI for Claude Code and Codex | ♾️ **23% OFF** lifetime ($29.99 → $22.99) · code `SIGHTLINELIFEDISCOUNT26` · or first 3 months free on yearly · code `SIGHTLINEEARLY` | Nov 20, 2026 - Jan 7, 2027 |
 | [ChatImg](https://chatimg.ai/en/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026) | AI image generator and editor: upload a photo, describe the change, export | 💸 **50% OFF** first payment of Plus / Pro (Pro yearly $215.28 → $107.64) · credit packs 30% off · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
+| [Snapperon](https://snapperon.com/#pricing) | Annotate screenshots, redact private details and copy text from images on your Mac | 💸 ♾️ **50% OFF** Pro: lifetime $38.99 → $19.50, annual $19.99 → $10 first year · code `BLACKFRIDAY26` | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
