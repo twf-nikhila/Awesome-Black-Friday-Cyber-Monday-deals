@@ -175,6 +175,7 @@ Add it to your website, README, or launch post:
 | [quso.ai](https://quso.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf26_deal_lists) | Turn long videos and podcasts into captioned vertical clips with AI, then schedule and auto-post them to TikTok, Shorts, Instagram, LinkedIn and X | 💸 **50% OFF** yearly plans, kept on every renewal (Lite $348 → $174/yr) · no code needed | Nov 20, 2026 - Dec 1, 2026 |
 | [Lumière](https://lumiere.artsvit.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Play your personal media from Jellyfin, Plex or Lumière Server on Mac, iPhone, iPad and Apple TV | ♾️ **20% OFF** lifetime unlock ($59.99 → $47.99) · code `ARTSVITBF20` · first 500 redemptions | Nov 20, 2026 - Nov 30, 2026 |
 | [Seedance AI Video Generator](https://www.seeddance.io/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI video and image generator with Seedance 2.5, Kling, Veo, Hailuo, Seedream and GPT Image in one workspace | 💸 **50% OFF** Pro on annual billing ($29 → $14.50/mo) · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
+| [Motionflare](https://motionflare.ai/pricing) | Paste your URL and get an on-brand marketing video built from your real screenshots, logo, colors and copy | 💸 **50% OFF** the first month of Pro or Max ($29 → $14.50, $99 → $49.50) · auto-applied, no code needed | Nov 21, 2026 - Dec 1, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
