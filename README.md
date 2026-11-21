@@ -210,6 +210,7 @@ Add it to your website, README, or launch post:
 | [Snapperon](https://snapperon.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Annotate screenshots, redact private details and copy text from images on your Mac | 💸 ♾️ **50% OFF** Pro: lifetime $38.99 → $19.50, annual $19.99 → $10 first year · code `BLACKFRIDAY26` | Nov 20, 2026 - Dec 1, 2026 |
 | [Paletteo](https://paletteo.artsvit.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Capture colors from images and build reusable palettes and gradients on iPhone and iPad | ♾️ **20% OFF** lifetime unlock ($4.99 → $3.99) · code `ARTSVITBF20` · first 500 redemptions | Nov 20, 2026 - Nov 30, 2026 |
 | [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Batch watermark up to 100 photos at once, plus art frames and photo stories, all on-device | 💸 ♾️ **50% OFF** Lifetime ($79.99 → $39.99) · first year of Yearly $19.99 · auto-applied | Nov 15, 2026 - Dec 25, 2026 |
+| [Unraster](https://unraster.ai/pricing) | Turn slide, chart and diagram screenshots into editable PowerPoint (real text boxes and shapes) or SVG, in your browser | **45% OFF** the 150-credit pack · $79.90 → $43.95 · code `BLACKFRIDAY45` | Now - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
