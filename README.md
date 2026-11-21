@@ -509,6 +509,9 @@ Add it to your website, README, or launch post:
 | [AppBrisk](https://appbrisk.candyyue.com/en/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Launch, switch to or toggle Windows 10/11 apps with dedicated keyboard shortcuts | 💸 ♾️ **50% OFF** Pro lifetime ($5.99 → $2.99, up to 3 devices) · auto-applied | Nov 19, 2026 - Nov 30, 2026 |
 | [AppGrid](https://appgridmac.com/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native Mac launcher for organizing apps into folders and pages | 💸 ♾️ **50% OFF** lifetime Direct Pro for up to 5 Macs ($25 → $12.50) · code `BF2026` | Nov 20, 2026 - Nov 30, 2026 |
 | [Linger](https://withlinger.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local-first native Mac app for saving design references, notes and sources on your own computer | ♾️ **38% OFF** Lifetime ($79 → $49) · Studio Duo (two licences) $158 → $79 · no code needed | Nov 19, 2026 - Dec 1, 2026 |
+| [ByteSweep](https://bytesweep.app/) | Disk cleaner for Mac, Windows and Linux: shows what fills your disk, removes only what you pick, undo for 7 days | 💸 ♾️ **50% OFF** one-time purchase ($29.99 → $15) · auto-applied at checkout | Nov 17, 2026 - Dec 31, 2026 |
+| [Earmix](https://earmix.app/) | Volume mixer for the Mac menu bar: per-app and per-tab volume, an output per app, EQ | 💸 ♾️ **50% OFF** one-time purchase ($12.99 → $6.50) · code `BLACKFRIDAY50` | Until Dec 1, 2026 |
+| [Findow](https://findowmac.com/) | Scrolling window manager for Mac with tiling, a window switcher and saved workspaces | 💸 ♾️ **75% OFF** one-time purchase ($19.99 → $5) · auto-applied at checkout | Until Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
