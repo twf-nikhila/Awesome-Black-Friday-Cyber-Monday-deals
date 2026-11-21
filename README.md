@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>475 deals listed</b> · Updated Nov 21, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>477 deals listed</b> · Updated Nov 21, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -65,7 +65,7 @@ Add it to your website, README, or launch post:
 # Table of Contents
 
 * 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (53) - Video editing, AI video & music, screen recording, captions, transcription
-* 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (33) - Image editing & compression, AI images, screenshots, color tools
+* 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (34) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (27) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (13) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (30) - Social media, lead finding & outreach, email marketing, launch directories
@@ -75,7 +75,7 @@ Add it to your website, README, or launch post:
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (21) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (14) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (61) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
-* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (39) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (40) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (26) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (24) - Fitness, nutrition, travel, home & personal apps
 * 📚 [Courses & Books](#-courses--books) (23) - Courses, books, certifications & guides
@@ -212,7 +212,7 @@ Add it to your website, README, or launch post:
 | [BatchMark](https://batchmark.dispatchcat.com/holiday-sale/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Batch watermark up to 100 photos at once, plus art frames and photo stories, all on-device | 💸 ♾️ **50% OFF** Lifetime ($79.99 → $39.99) · first year of Yearly $19.99 · auto-applied | Nov 15, 2026 - Dec 25, 2026 |
 | [ConceptViz](https://conceptviz.app/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI scientific figures and diagrams for researchers: turn text or papers into editable, publication-ready diagrams and concept maps | ♾️ **$299 lifetime deal** · 1,500 non-expiring credits and Ultra features for life · no code needed | Nov 21, 2026 - Dec 1, 2026 |
 | [Unraster](https://unraster.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn slide, chart and diagram screenshots into editable PowerPoint or SVG in your browser | **45% OFF** the 150-credit pack ($79.90 → $43.95) · code `BLACKFRIDAY45` | Nov 21, 2026 - Dec 1, 2026 |
-| [SpriteCanvas](https://spritecanvas.com/pricing/) | AI sprite sheet generator for 2D games: describe or upload a character, animate it, export PNG sheets with JSON atlases | **30% OFF** the first month of Starter or Pro monthly (Starter $12 → $8.40, Pro $29 → $20.30), then regular price · no code, applied at checkout · first subscription only | Nov 21, 2026 - Dec 1, 2026 |
+| [SpriteCanvas](https://spritecanvas.com/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI sprite sheet generator for 2D games: describe or upload a character, animate it, export PNG sheets with JSON atlases | **30% OFF** the first month of Starter or Pro monthly (Starter $12 → $8.40, Pro $29 → $20.30), then regular price · no code, applied at checkout · first subscription only | Nov 21, 2026 - Dec 1, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -564,7 +564,7 @@ Add it to your website, README, or launch post:
 | [SideNotes](https://www.apptorium.com/sidenotes?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Quick-access Mac notes that slide in from the screen edge, with folders, Markdown and iCloud sync | ♾️ **35% OFF** one-time purchase ($19.99 → $12.99) | Nov 20, 2026 - Dec 6, 2026 |
 | [FiveNotes](https://www.apptorium.com/fivenotes?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Focused Mac menu bar app for exactly five quick notes, with Markdown, themes and iCloud sync | 💸 ♾️ **50% OFF** one-time purchase ($7.99 → $3.99) | Nov 20, 2026 - Dec 6, 2026 |
 | [Timemator](https://timemator.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Automatic time tracking for Mac that records work from project files, apps and websites and turns it into timesheets | 💸 ♾️ **50% OFF** Lifetime ($39 → $19.50) · code `TM-BLACKFRIDAY26` (auto-applied) | Nov 21, 2026 - Dec 5, 2026 |
-| [Roost](https://roostmail.app/black-friday) | Native Mac mail app for many inboxes: several Gmails, Outlook, iCloud, Zoho, Yandex and any IMAP in one keyboard-first window, with mail kept on your Mac | ♾️ **14% OFF** Lifetime ($29 → $25, 3 Macs, every future update) · auto-applied, no code | Nov 27, 2026 - Dec 1, 2026 |
+| [Roost](https://roostmail.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native Mac mail app for many inboxes: several Gmails, Outlook, iCloud, Zoho, Yandex and any IMAP in one keyboard-first window, with mail kept on your Mac | ♾️ **14% OFF** Lifetime ($29 → $25, 3 Macs, every future update) · auto-applied, no code | Nov 27, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
