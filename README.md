@@ -526,6 +526,7 @@ Add it to your website, README, or launch post:
 | [ByteSweep](https://bytesweep.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Disk cleaner for Mac, Windows and Linux: shows what fills your disk, removes only what you pick, undo for 7 days | 💸 ♾️ **50% OFF** one-time purchase ($29.99 → $15) · auto-applied | Nov 17, 2026 - Dec 31, 2026 |
 | [Earmix](https://earmix.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Volume mixer for the Mac menu bar: per-app and per-tab volume, an output per app, EQ | 💸 ♾️ **50% OFF** one-time purchase ($12.99 → $6.50) · code `BLACKFRIDAY50` | Nov 21, 2026 - Dec 1, 2026 |
 | [Findow](https://findowmac.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Scrolling window manager for Mac with tiling, a window switcher and saved workspaces | 💸 ♾️ **75% OFF** one-time purchase ($19.99 → $5) · auto-applied | Nov 21, 2026 - Dec 1, 2026 |
+| [SpatialTap](https://spatialtap.com) | Menu bar app that turns on Apple's own spatial audio, with head tracking, for Spotify, Chrome and other Mac apps on AirPods and Beats | ♾️ **30% OFF** one-time purchase ($9.99 → $6.99) · code `BLACKFRIDAY26` | Nov 27, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
