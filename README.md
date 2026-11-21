@@ -238,6 +238,7 @@ Add it to your website, README, or launch post:
 | [Sabi](https://meetsabi.com/pages/blackfriday?utm_source=github&utm_medium=deal-list&utm_campaign=blackfriday2026&utm_content=twf) | AI employee you text like a person: answers your email, runs your calendar, follows up with leads and posts to social media | 💸 **50% OFF** 6 months of Sabi Pro ($995 → $495) · auto-applied | Nov 20, 2026 - Nov 30, 2026 |
 | [Fix My Japanese](https://fixmyjapanese.com/upgrade?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Japanese grammar, particle and keigo checker for iOS and web that corrects your writing and explains every change | **40% OFF** Pro Annual ($29.99 → $17.99/yr) · auto-applied (or code `BLACKFRIDAY2026` on iOS) | Nov 20, 2026 - Dec 1, 2026 |
 | [Transync AI](https://www.transyncai.com/black-friday/) | Real-time AI translation for meetings, with bilingual subtitles and voice in 60 languages | **22% OFF** Personal Premium annual ($89.90 → $69.90) · auto-applied | Nov 24, 2026 - Dec 1, 2026 |
+| [Enconvo](https://enconvo.com/?utm_source=github-twf-nikhila&utm_medium=deal-list&utm_campaign=black-friday-2026) | Native AI assistant and agent for Mac: automates tasks across apps, dictates, searches your documents, runs cloud or local models | ♾️ **30% OFF** every Lifetime licence (Standard $59 → $41.30) and the first Enconvo Cloud payment · auto-applied | Nov 20, 2026 - Dec 7, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
