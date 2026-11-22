@@ -535,6 +535,7 @@ Add it to your website, README, or launch post:
 | [Earmix](https://earmix.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Volume mixer for the Mac menu bar: per-app and per-tab volume, an output per app, EQ | 💸 ♾️ **50% OFF** one-time purchase ($12.99 → $6.50) · code `BLACKFRIDAY50` | Nov 21, 2026 - Dec 1, 2026 |
 | [Findow](https://findowmac.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Scrolling window manager for Mac with tiling, a window switcher and saved workspaces | 💸 ♾️ **75% OFF** one-time purchase ($19.99 → $5) · auto-applied | Nov 21, 2026 - Dec 1, 2026 |
 | [Lasso](https://www.trylasso.online/?utm_source=twfnikhila&utm_medium=deals&utm_campaign=bf2026) | Draw arrows, circles and highlights over any app on your Mac screen while you present, teach or share your screen: press a shortcut, draw, press Esc (macOS 14+, Apple silicon and Intel) | 💸 ♾️ **50% OFF** one-time purchase ($9.99 → $4.99) · code `LASSOBF50` | Nov 21, 2026 - Dec 31, 2026 |
+| [SpatialTap](https://spatialtap.com) | Menu bar app that turns on Apple's own spatial audio, with head tracking, for Spotify, Chrome and other Mac apps on AirPods and Beats | ♾️ **30% OFF** one-time purchase ($9.99 → $6.99) · code `BLACKFRIDAY26` | Nov 27, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
