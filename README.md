@@ -405,6 +405,7 @@ Add it to your website, README, or launch post:
 | [Doubles](https://doubles.dev/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Remote pair programming app for Mac: screen sharing sharp enough to read code, and your pair can drive when you allow it | 💸 ♾️ **50% OFF** one-time purchase ($169 → $84.50) · code `DOUBLES50` | Nov 20, 2026 - Dec 1, 2026 |
 | [Termalin](https://termal.in/pricing/?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bf2026) | SSH, SFTP and RDP client for Windows, macOS, Linux and iOS that also lets ChatGPT and Claude run commands on your servers without SSH keys | **16 months for the price of 12** on yearly Pro ($96, $8 → $6/mo) + 100 GB cloud storage · auto-applied | Nov 23, 2026 - Dec 1, 2026 |
 | [SerpWrap](https://serpwrap.com) | SERP API returning structured JSON from live search results. Pay-once credit packs, no subscription, credits valid 12 months | **40% OFF** every credit pack · code `BLACKF40` | Nov 21, 2026 - Nov 30, 2026 |
+| [Layerbase](https://layerbase.com/pricing) | Serverless databases with flat monthly pricing: Postgres, MySQL, Redis, Valkey, ClickHouse, Qdrant, Meilisearch and more across 19 cloud engines, no egress or usage metering | 💸 **50% OFF** your first month: Solo $2.50 (then $5/mo) with code `BFSOLO26`, Pro $7.50 (then $15/mo) with code `BFPRO26`. First 50 redemptions per code | Nov 20, 2026 - Nov 30, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
