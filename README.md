@@ -302,6 +302,7 @@ Add it to your website, README, or launch post:
 | [JitSuites](https://jitsuites.com/black-friday-deal/?utm_source=deallist&utm_medium=listing&utm_campaign=twf-github) | All-in-one marketing app for small businesses: funnels, landing pages, email and SMS campaigns, social auto-posting and AI clips | ♾️ **Lifetime deal from $69** · pay once, no monthly fees · no code needed | Nov 21, 2026 - Dec 2, 2026 |
 | [Pitchlist](https://pitchlist.serpwrap.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local business leads by city and business type with phone, address, rating and website, as CSV, XLSX or JSON. Claude Code integration support via a hosted MCP server. Pay once, no subscription | 💸 **60% OFF** every lead pack · code `BLACKFRIDAY60` | Nov 21, 2026 - Nov 30, 2026 |
 | [Mailtea](https://mailtea.app/pricing?utm_source=awesome-bfcm&utm_medium=deal_list&utm_campaign=black_friday_2026#black-friday) | Transactional and marketing email for people and AI agents, in one product | **3 months free** on Pro 25K (25,000 emails a month) · code `BLACKFRIDAY26` · new customers, first 100 redemptions · card required, monthly billing, then $16 or $21 a month | Nov 23, 2026 - Nov 30, 2026 |
+| [Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/) | Notion-importable launch workspace + 50-community directory + 2x PNG Graphics Studio | 💸 ♾️ **64% OFF** one-time ($39 → $14) · no code needed | Nov 22, 2026 - Dec 1, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -427,6 +428,7 @@ Add it to your website, README, or launch post:
 | [TanStarter](https://tanstarter.dev/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | SaaS boilerplate for Cloudflare Workers with TanStack Start | 💸 ♾️ **50% OFF** lifetime ($199 → $99) · code `2026-BLACKFRIDAY` (auto-applied) | Nov 21, 2026 - Nov 30, 2026 |
 | [SaaScaffold](https://saascaffold.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment & 4 AI providers | 💸 ♾️ **50% OFF** one-time license ($99 → $49) · auto-applied | Nov 21, 2026 - Dec 6, 2026 |
 | [Star Foundry](https://kosmorph.gumroad.com/l/talent-agency?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Next.js website template for talent, creator and influencer agencies in English and Arabic (RTL): 4 designs, 72 pages, admin panel, static export | 💸 ♾️ **64% OFF** Extended license (up to 10 sites) $279 → $99 · code `CYBER26` · first 25 buyers | Nov 24, 2026 - Dec 2, 2026 |
+| [ShipReady 2026](https://sprintcraft-studio.netlify.app/shipready/) | 5 single-file HTML/Tailwind SaaS landing page templates + 25-pt CRO Playbook | 💸 ♾️ **61% OFF** one-time ($49 → $19) · no code needed | Nov 22, 2026 - Dec 1, 2026 |
 
 ## 🎨 UI Kits, Icons & Design Assets
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
