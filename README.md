@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>507 deals listed</b> · Updated Nov 22, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>508 deals listed</b> · Updated Nov 22, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -68,7 +68,7 @@ Add it to your website, README, or launch post:
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (35) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (29) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (15) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (33) - Social media, lead finding & outreach, email marketing, launch directories
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (34) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (42) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (56) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (17) - Code templates & components to ship a SaaS or app faster
@@ -306,7 +306,7 @@ Add it to your website, README, or launch post:
 | [Pitchlist](https://pitchlist.serpwrap.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local business leads by city and business type with phone, address, rating and website, as CSV, XLSX or JSON. Claude Code integration support via a hosted MCP server. Pay once, no subscription | 💸 **60% OFF** every lead pack · code `BLACKFRIDAY60` | Nov 21, 2026 - Nov 30, 2026 |
 | [Mailtea](https://mailtea.app/pricing?utm_source=awesome-bfcm&utm_medium=deal_list&utm_campaign=black_friday_2026#black-friday) | Transactional and marketing email for people and AI agents, in one product | **3 months free** on Pro 25K (25,000 emails a month) · code `BLACKFRIDAY26` · new customers, first 100 redemptions · card required, monthly billing, then $16 or $21 a month | Nov 23, 2026 - Nov 30, 2026 |
 | [Founder Launch OS 2026](https://sprintcraft-studio.netlify.app/founder-os/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Notion-importable launch workspace + 50-community directory + 2x PNG Graphics Studio | 💸 ♾️ **64% OFF** one-time ($39 → $14) · no code needed | Nov 22, 2026 - Dec 1, 2026 |
-| [Waitlyze](https://waitlyze.com/pricing) | Waitlist platform for founders and creators: build branded waitlists, grow through referrals, automate launch emails and track signup sources | **40% OFF** Pro Annual for the first year ($119 → $71.40) · code `BFCM2026` · renews at $119/year | Nov 22, 2026 - Dec 3, 2026 |
+| [Waitlyze](https://waitlyze.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Waitlist platform for founders and creators: build branded waitlists, grow through referrals, automate launch emails and track signup sources | **40% OFF** Pro Annual for the first year ($119 → $71.40) · code `BFCM2026` · renews at $119/year | Nov 22, 2026 - Dec 3, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
