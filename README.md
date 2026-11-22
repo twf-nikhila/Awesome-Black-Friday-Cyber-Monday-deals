@@ -425,6 +425,7 @@ Add it to your website, README, or launch post:
 | [ZeroDirs](https://zerodirs.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | SEO-first, AI-agent-ready directory boilerplate with a $0/mo hosting bill | 💸 ♾️ **73% OFF** ($179 → $49) | Nov 20, 2026 - Dec 20, 2026 |
 | [TanStarter](https://tanstarter.dev/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | SaaS boilerplate for Cloudflare Workers with TanStack Start | 💸 ♾️ **50% OFF** lifetime ($199 → $99) · code `2026-BLACKFRIDAY` (auto-applied) | Nov 21, 2026 - Nov 30, 2026 |
 | [SaaScaffold](https://saascaffold.com/pricing) | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment & 4 AI providers | 💸 ♾️ **50% OFF** one-time license ($99 → $49) · auto-applied | Nov 21, 2026 - Dec 6, 2026 |
+| [Star Foundry](https://kosmorph.gumroad.com/l/talent-agency?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Next.js website template for talent, creator and influencer agencies in English and Arabic (RTL): 4 designs, 72 pages, admin panel, static export | 💸 ♾️ **64% OFF** Extended license (up to 10 sites) $279 → $99 · code `CYBER26` · first 25 buyers | Nov 24, 2026 - Dec 2, 2026 |
 
 ## 🎨 UI Kits, Icons & Design Assets
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
