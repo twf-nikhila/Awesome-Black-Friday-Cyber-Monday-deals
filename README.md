@@ -20,7 +20,7 @@ Maintained by Nikhil · 👋 Let's connect: **[X](https://x.com/HeyNikhila)** ·
 
 - 🏆 **Top 10 deals get featured in our newsletter**: the best deals submitted here are sent to all our subscribers.
 - 💸 ♾️ **Spot the best deals faster**: 💸 marks 50% OFF or more, ♾️ marks lifetime / buy-once deals.
-- 🟢 **See what is live right now**: 🟢 marks deals you can grab today, ⏳ marks deals that have not started yet, and ended deals have their dates ~~struck through~~. Updated automatically every day.
+- 🟢 **Live status on every deal**, updated automatically every day.
 - 🔢 **Live deal counts** in the Table of Contents, updated automatically.
 
 # ✍️ Add Your Deal
@@ -81,7 +81,7 @@ Add it to your website, README, or launch post:
 * 🎁 [Free Stuff](#-free-stuff) (5) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
 
-**Legend:** 💸 50% OFF or more · ♾️ Lifetime / buy-once deal
+**Legend:** 💸 50% OFF or more · ♾️ Lifetime / buy-once deal · 🟢 Live now · ⏳ Not started yet · ~~Dates~~ Ended
 
 **Special Request 👉** ⭐ Star this repository so it becomes trending on Black Friday!
 
