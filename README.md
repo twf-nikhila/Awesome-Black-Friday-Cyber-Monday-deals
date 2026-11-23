@@ -617,6 +617,7 @@ Add it to your website, README, or launch post:
 | [Yoohoo](https://yoohoo.buzz/?ref=bf-twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Gathers alerts from the apps and services you use (iPhone, Android and web) | **40% OFF** the first year of Plus yearly ($14.99 → $8.99) · auto-applied, no code · new subscribers only · web until Nov 30 | Nov 27, 2026 - Dec 1, 2026 |
 | [DataCheck](https://datacheck.cc/en/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Research table verification: rule-driven duplicate and anomaly checks across 56 versioned rules, with source-cell evidence (web and Windows) | ♾️ **30% OFF** one-time packs and perpetual Windows licences · auto-applied | Nov 23, 2026 - Dec 5, 2026 |
 | [Obsidian Starter Kit](https://www.store.dsebastien.net/product/obsidian-starter-kit/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Ready-to-use Obsidian vault: note templates, goals to tasks on boards, journaling and an AI layer that knows your notes, every update included | ♾️ **20% OFF** (€279.99 → €223.99) · code `BLACKFRIDAY2026` | Nov 23, 2026 - Dec 1, 2026 |
+| [Voibe](https://www.getvoibe.com/pricing/) | Private AI dictation and bot-free meeting notes for Mac and Windows | ♾️ **25% OFF** every plan, including lifetime (Dictation $199 → $149.25, Work $399 → $299.25) · code `BFCM26` | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
