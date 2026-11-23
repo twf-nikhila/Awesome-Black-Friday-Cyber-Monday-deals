@@ -20,10 +20,7 @@ Maintained by Nikhil · 👋 Let's connect: **[X](https://x.com/HeyNikhila)** ·
 
 - 🏆 **Top 10 deals get featured in our newsletter**: the best deals submitted here are sent to all our subscribers.
 - 💸 ♾️ **Spot the best deals faster**: 💸 marks 50% OFF or more, ♾️ marks lifetime / buy-once deals.
-- 🗂️ **Categories by what the product does**: find video tools, SEO tools, Mac utilities and more in one place, instead of digging through "Apps", "SaaS" or "AI".
-- 🎁 **New [Free Stuff](#-free-stuff) section** for free credits, free plans and giveaways.
 - 🔢 **Live deal counts** in the Table of Contents, updated automatically.
-- 🏅 **"Featured on" badge** for every listed product.
 
 # ✍️ Add Your Deal
 
