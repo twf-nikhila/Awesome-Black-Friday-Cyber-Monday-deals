@@ -75,6 +75,7 @@
   .deal .offer a { color:var(--y) }
   .deal code { background:#000; border:1px dashed var(--y); color:var(--y); padding:1px 6px; border-radius:6px; font-size:13px }
   .deal .dates { font-size:13px; color:var(--muted) }
+  .deal.ended { opacity:.55 }
   .badges span { margin-left:4px }
 
   .empty { text-align:center; padding:70px 20px 90px; color:var(--muted) }
@@ -141,7 +142,12 @@ const ext = { target: '_blank', rel: 'noopener' };
 const words = D.title.split(' ');
 $('title').append(words.slice(0, -1).join(' ') + ' ', el('span', { class: 'y' }, words.at(-1)));
 
-const deals = D.categories.flatMap(c => c.deals.map(d => ({ ...d, cat: c })));
+// Status from the dates, worked out in the browser so it is always current.
+// A deal starts with the UTC day and ends once its last day is over everywhere (UTC-12).
+const day = ms => new Date(ms).toISOString().slice(0, 10);
+const today = day(Date.now()), todayAoE = day(Date.now() - 12 * 3600e3);
+const statusOf = d => !d.start || !d.end ? null : today < d.start ? 'soon' : todayAoE > d.end ? 'ended' : 'live';
+const deals = D.categories.flatMap(c => c.deals.map(d => ({ ...d, cat: c, status: statusOf(d) })));
 $('stats').append(deals.length
   ? el('span', { html: `<b>${deals.length}</b> deals · <b>${D.categories.filter(c => c.deals.length).length}</b> categories · Updated ${D.updated}` })
   : 'Submissions are open. Deals go live here as they are added.');
@@ -160,7 +166,7 @@ if (D.sponsors.length) {
 } else $('sponsors-wrap').hidden = true;
 
 // Filters
-const state = { cat: null, big: false, life: false, q: '' };
+const state = { cat: null, big: false, life: false, live: false, q: '' };
 const chips = $('chips');
 function chip(label, count, on, onClick, extraClass = '') {
   const b = el('button', { class: `chip ${extraClass}${on ? ' on' : ''}`, type: 'button' }, label);
@@ -173,6 +179,7 @@ function renderChips() {
     chip('All', deals.length, !state.cat, () => { state.cat = null; render(); }),
     ...D.categories.filter(c => c.deals.length).map(c =>
       chip(`${c.emoji} ${c.name}`, c.deals.length, state.cat === c, () => { state.cat = state.cat === c ? null : c; render(); })),
+    chip('🟢 Live now', deals.filter(d => d.status === 'live').length, state.live, () => { state.live = !state.live; render(); }, 'toggle'),
     chip('💸 50%+ off', null, state.big, () => { state.big = !state.big; render(); }, 'toggle'),
     chip('♾️ Lifetime', null, state.life, () => { state.life = !state.life; render(); }, 'toggle'),
   );
@@ -182,15 +189,17 @@ const text = d => (d.name + ' ' + d.description + ' ' + d.deal + ' ' + d.cat.nam
 function render() {
   renderChips();
   const q = state.q.trim().toLowerCase();
-  const shown = deals.filter(d => (!state.cat || d.cat === state.cat) && (!state.big || d.big) && (!state.life || d.lifetime)
+  const shown = deals.filter(d => (!state.cat || d.cat === state.cat) && (!state.big || d.big) && (!state.life || d.lifetime) && (!state.live || d.status === 'live')
     && (!q || q.split(/\s+/).every(w => text(d).includes(w))));
-  $('grid').replaceChildren(...shown.map(d => el('article', { class: 'deal' },
+  $('grid').replaceChildren(...shown.map(d => el('article', { class: 'deal' + (d.status === 'ended' ? ' ended' : '') },
     el('div', { class: 'top' }, el('span', {}, `${d.cat.emoji} ${d.cat.name}`),
       el('span', { class: 'badges' }, d.big ? el('span', { title: '50% OFF or more' }, '💸') : '', d.lifetime ? el('span', { title: 'Lifetime deal' }, '♾️') : '')),
     el('h3', {}, d.url ? el('a', { href: d.url, ...ext, rel: 'noopener nofollow' }, d.name + ' ↗') : d.name),
     el('p', { html: d.description }),
     el('div', { class: 'offer', html: d.deal }),
-    d.dates ? el('div', { class: 'dates' }, '🗓 ' + d.dates) : '')));
+    d.dates ? el('div', { class: 'dates' },
+      d.status === 'live' ? '🟢 Live · ' + d.dates : d.status === 'soon' ? '⏳ Starts soon · ' + d.dates
+        : d.status === 'ended' ? el('span', {}, 'Ended · ', el('s', {}, d.dates)) : '🗓 ' + d.dates) : '')));
   const empty = $('empty');
   empty.hidden = shown.length > 0;
   if (!shown.length) empty.replaceChildren(...(deals.length
