@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>536 deals listed</b> · Updated Nov 23, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>539 deals listed</b> · Updated Nov 23, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -74,11 +74,11 @@ Add it to your website, README, or launch post:
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (17) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (23) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (15) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (68) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
-* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (46) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (69) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (47) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (28) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (25) - Fitness, nutrition, travel, home & personal apps
-* 📚 [Courses & Books](#-courses--books) (26) - Courses, books, certifications & guides
+* 📚 [Courses & Books](#-courses--books) (27) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (2) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (5) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
@@ -617,7 +617,7 @@ Add it to your website, README, or launch post:
 | [Yoohoo](https://yoohoo.buzz/?ref=bf-twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Gathers alerts from the apps and services you use (iPhone, Android and web) | **40% OFF** the first year of Plus yearly ($14.99 → $8.99) · auto-applied, no code · new subscribers only · web until Nov 30 | Nov 27, 2026 - Dec 1, 2026 |
 | [DataCheck](https://datacheck.cc/en/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Research table verification: rule-driven duplicate and anomaly checks across 56 versioned rules, with source-cell evidence (web and Windows) | ♾️ **30% OFF** one-time packs and perpetual Windows licences · auto-applied | Nov 23, 2026 - Dec 5, 2026 |
 | [Obsidian Starter Kit](https://www.store.dsebastien.net/product/obsidian-starter-kit/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Ready-to-use Obsidian vault: note templates, goals to tasks on boards, journaling and an AI layer that knows your notes, every update included | ♾️ **20% OFF** (€279.99 → €223.99) · code `BLACKFRIDAY2026` | Nov 23, 2026 - Dec 1, 2026 |
-| [Voibe](https://www.getvoibe.com/pricing/) | Private AI dictation and bot-free meeting notes for Mac and Windows | ♾️ **25% OFF** every plan, including lifetime (Dictation $199 → $149.25, Work $399 → $299.25) · code `BFCM26` | Nov 23, 2026 - Nov 30, 2026 |
+| [Voibe](https://www.getvoibe.com/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private AI dictation and bot-free meeting notes for Mac and Windows | ♾️ **25% OFF** every plan, including lifetime (Dictation $199 → $149.25, Work $399 → $299.25) · code `BFCM26` | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -709,7 +709,7 @@ Add it to your website, README, or launch post:
 | [The Obsidian Search Handbook](https://www.store.dsebastien.net/product/obsidian-search-handbook/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Ebook (PDF and EPUB) on finding any note in Obsidian, from links and search operators to the terminal and AI search | ♾️ **20% OFF** (€29 → €23.20) · code `BLACKFRIDAY2026` | Nov 23, 2026 - Dec 1, 2026 |
 | [TheoryScore](https://theoryscore.com/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | UK driving theory test practice on the web: 240 questions across 14 DVSA topics, timed mock tests and topic scoring | **40% OFF** first month ($5.40) or first year ($15) · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
 | [AppSecEngineer](https://www.appsecengineer.com/individuals/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on AI security training: labs to secure AI agents and LLM apps, plus AppSec, cloud security and threat modeling | **40% OFF** Pro Plus annual plans and Bootcamps · code `LEVELUP40` | Nov 23, 2026 - Nov 30, 2026 |
-| [Android App Hacking Mastery](https://training.byteblind.com/products/courses/android-app-hacking) | Hands-on Android app pentesting course for pentesters and bug bounty hunters: 55 lessons, vulnerable APKs, lifetime access, 7-day refund guarantee | **40% OFF** ($149 → $89.40) · code `BYTENOV40` | Nov 23, 2026 - Nov 30, 2026 |
+| [Android App Hacking Mastery](https://training.byteblind.com/products/courses/android-app-hacking?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on Android app pentesting course for pentesters and bug bounty hunters: 55 lessons, vulnerable APKs, lifetime access, 7-day refund guarantee | **40% OFF** ($149 → $89.40) · code `BYTENOV40` | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
