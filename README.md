@@ -700,6 +700,7 @@ Add it to your website, README, or launch post:
 | [8kSec Academy](https://academy.8ksec.io/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | On-demand mobile and AI security training with five certification tracks and hands-on labs | **15% OFF** all on-demand courses · code `8KSECBLACKFRIDAY` | Nov 20, 2026 - Dec 4, 2026 |
 | [Erla](https://erla.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Learn a language through short stories, videos and an AI teacher at your level, 22 languages on iPhone and iPad | 💸 **70% OFF** first year of Erla PRO ($59.99 → $18) · code `BLACKFRIDAY` · new subscribers | Nov 12, 2026 - Nov 30, 2026 |
 | [The Obsidian Search Handbook](https://www.store.dsebastien.net/product/obsidian-search-handbook/) | Ebook (PDF and EPUB) on finding any note in Obsidian, from links and search operators to the terminal and AI search | ♾️ **20% OFF** (€29 → €23.20) · code `BLACKFRIDAY2026` | Nov 23, 2026 - Dec 1, 2026 |
+| [TheoryScore](https://theoryscore.com/black-friday/) | UK driving theory test practice on the web: 240 questions across 14 DVSA topics, timed mock tests and topic scoring | **40% OFF** first month ($5.40) or first year ($15) · auto-applied | Nov 20, 2026 - Dec 1, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
