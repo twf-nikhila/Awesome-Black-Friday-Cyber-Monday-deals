@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>536 deals listed</b> · Updated Nov 23, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>537 deals listed</b> · Updated Nov 23, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -74,7 +74,7 @@ Add it to your website, README, or launch post:
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (17) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (23) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (15) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (68) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (69) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (46) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (28) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (25) - Fitness, nutrition, travel, home & personal apps
@@ -566,6 +566,7 @@ Add it to your website, README, or launch post:
 | [Clipboard AI](https://clipboardai.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Remember everything you copy on your iPhone and Mac, forever: search your clipboard history and paste it anywhere from the iPhone keyboard or ⌘⇧V on Mac | ♾️ **30% OFF** Lifetime Pro, pay once ($34.99 → $24.99) · code `BLACKFRIDAY`, applied automatically from the link | Nov 23, 2026 - Dec 1, 2026 |
 | [SiftMac](https://siftmac.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac disk cleaner that tells you whether each item comes back on its own if deleted, with a 7-day Undo Shelf; free to scan and clean the first 2 GB | ♾️ **37% OFF** one-time purchase for 2 Macs ($19 → $12) · first 100 buyers, no code | Nov 23, 2026 - Dec 1, 2026 |
 | [Wallper](https://www.wallper.app/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Moving 4K wallpapers for your Mac desktop and Lock Screen, with 3,200+ scenes or your own videos, synced to the music you play | 💸 ♾️ **50% OFF** one-time licence (Pro $14.99 → $7.49, Pro+ $24.99 → $12.49) · no code needed | Nov 23, 2026 - Nov 30, 2026 |
+| [DiskMate](https://diskmate.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS disk space analyzer and cleaner to see what's eating your disk and clean it safely: treemaps, duplicates, quick wins & app leftovers | 💸 ♾️ **50% OFF** Lifetime ($10 → $5) · no code needed | Nov 20, 2026 - Dec 2, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
