@@ -448,6 +448,7 @@ Add it to your website, README, or launch post:
 | [SaaScaffold](https://saascaffold.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Agent-first TypeScript SaaS starter for Cloudflare Workers with 40 coding-agent runbooks, 4 payment & 4 AI providers | 💸 ♾️ **50% OFF** one-time license ($99 → $49) · auto-applied | Nov 21, 2026 - Dec 6, 2026 |
 | [Star Foundry](https://kosmorph.gumroad.com/l/talent-agency?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Next.js website template for talent, creator and influencer agencies in English and Arabic (RTL): 4 designs, 72 pages, admin panel, static export | 💸 ♾️ **64% OFF** Extended license (up to 10 sites) $279 → $99 · code `CYBER26` · first 25 buyers | Nov 24, 2026 - Dec 2, 2026 |
 | [ShipReady 2026](https://sprintcraft-studio.netlify.app/shipready/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 5 single-file HTML/Tailwind SaaS landing page templates + 25-pt CRO Playbook | 💸 ♾️ **61% OFF** one-time ($49 → $19) · no code needed | Nov 22, 2026 - Dec 1, 2026 |
+| [**ShadcnSpace**](https://shadcnspace.com) | 1,400+ ready-to-use shadcn/ui components, blocks, templates, Figma UI kits, MCP and CLI tools for React and Next.js developers. | **40% OFF** ($129 → $77) (Coupon: `BFCM`) | Until Dec 3, 2026 |
 
 ## 🎨 UI Kits, Icons & Design Assets
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
