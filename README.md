@@ -330,6 +330,7 @@ Add it to your website, README, or launch post:
 | [HeyNews](https://app.heynews.co/register?coupon_code=BLACKFRIDAY50&trial_mode=card&utm_source=github-twf-nikhila&utm_medium=referral&utm_campaign=bf2026) | AI that drafts your newsletter in your voice from the blogs, RSS feeds and news sites you follow | 💸 **50% OFF** any plan for 12 months (Hobbyist $39 → $19.50/mo, Starter $99 → $49.50/mo) · code `BLACKFRIDAY50` · new subscriptions | Nov 24, 2026 - Nov 30, 2026 |
 | [PostSyncer](https://postsyncer.com/pricing?utm_source=twf&utm_campaign=black-friday-2026) | Social media scheduler for 12 networks, run from a calendar or from ChatGPT and Claude | **40% OFF** first year of any yearly plan · auto-applied | Nov 24, 2026 - Dec 1, 2026 |
 | [Gojiberry.ai](https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026) | AI sales agent that finds high-intent prospects and contacts them for you, 24/7 | **40% OFF** yearly plan · no code needed | Nov 24, 2026 - Dec 2, 2026 |
+| [Expandi](https://expandi.io/bfcm-promo/?utm_source=github-twf-nikhila&utm_medium=referral&utm_campaign=bfcm-2026) | LinkedIn and email outreach in one campaign, with a dedicated IP for each LinkedIn account | **33% OFF** for 12 months ($79 → $53 per LinkedIn account/mo, billed yearly) · volume pricing down to $23 · auto-applied | Nov 20, 2026 - Dec 4, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
