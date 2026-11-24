@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>588 deals listed</b> · Updated Nov 24, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>589 deals listed</b> · Updated Nov 24, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -74,7 +74,7 @@ Add it to your website, README, or launch post:
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (18) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (71) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (53) - Notes, tasks, time tracking, focus & blocking, journaling, email
-* 🔐 [Security & Privacy](#-security--privacy) (28) - Pentesting, threat monitoring, encrypted email & files, privacy tools
+* 🔐 [Security & Privacy](#-security--privacy) (29) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (29) - Fitness, nutrition, travel, home & personal apps
 * 📚 [Courses & Books](#-courses--books) (30) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (3) - Paid newsletters, communities, curated databases & lists
@@ -689,7 +689,7 @@ Add it to your website, README, or launch post:
 | [Masked Email Manager](https://maskedmail.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Create, manage and toggle Fastmail masked email addresses from iPhone, iPad and Mac, with Apple Shortcuts support | 💸 ♾️ **50% OFF** Full Version one-time unlock ($2.99 → $1.49) · auto-applied | 🟢 Nov 20, 2026 - Dec 1, 2026 |
 | [VibeShield](https://vibe-checker.appwrite.network/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Passive pre-launch security scanner (116 checks) for Next.js, Vercel, Lovable, Bolt, Cursor and Supabase apps: leaked secrets in JS bundles, headers, CSP and sensitive paths, no signup | 💸 ♾️ **78% OFF** one-time Fix Pass ($9 → $2) · **83% OFF** 3-App Suite ($29 → $5) · auto-applied | 🟢 Nov 22, 2026 - Dec 2, 2026 |
 | [EasyGuard VPN](https://easyguard.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#deal) | No-logs WireGuard VPN for Windows, iPhone, iPad, Android and Apple TV that gets round ISP blocks and throttling | 💸 ♾️ **Up to 75% OFF** every plan · one-time payment, 10 devices · auto-applied | 🟢 Nov 23, 2026 - Nov 30, 2026 |
-| [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html) | A cyber threat and digital intelligence platform that provides security analysts with tools to investigate threats, monitor SaaS uptime, and track malicious infrastructure and actors. | 💸 ♾️ **100% off Basic Plan for 5 Months** · auto-applied | 🟢 Nov 24, 2026 - Jan 30, 2027 |
+| [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | A cyber threat and digital intelligence platform that provides security analysts with tools to investigate threats, monitor SaaS uptime, and track malicious infrastructure and actors. | 💸 ♾️ **100% off Basic Plan for 5 Months** · auto-applied | 🟢 Nov 24, 2026 - Jan 30, 2027 |
 
 ## 📱 Lifestyle, Health & Travel
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
