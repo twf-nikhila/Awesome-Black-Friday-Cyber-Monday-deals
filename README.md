@@ -518,6 +518,7 @@ Add it to your website, README, or launch post:
 | [Clappia](https://www.clappia.com/black-friday-offer?utm_source=github-twf&utm_medium=deal-listing&utm_campaign=bf26) | AI no-code platform to build web, Android and iOS apps for field teams, inspections, attendance, inventory and approvals, with offline sync | 💸 **50% OFF** all annual plans · code `BLACKFRD` · new customers | 🟢 Nov 1, 2026 - Dec 31, 2026 |
 | [Reviso](https://getreviso.io/pricing/) | Client feedback for WordPress: clients pin comments on the live page with no login, and you resolve them inside Bricks, Elementor or Gutenberg | **25% OFF** first year of Pro or Agency (Pro $89 → $66.75/yr, Agency $279 → $209.25/yr) · code `BLACKFRIDAY25` | Nov 24, 2026 - Nov 30, 2026 |
 | [WP Import Export](https://wpimportexport.com/#pricing) | WordPress plugin that syncs content and media between sites, imports and exports CSV, Excel, XML and JSON (including WooCommerce), and runs jobs from AI agents through MCP | 💸 **100% OFF** the first monthly or yearly PRO payment · code `FSBFCM2026` · once per customer, then regular price | Nov 27, 2026 - Nov 30, 2026 |
+| [GitCMS](https://gitcms.dev/#pricing) | CMS for agencies moving client sites off WordPress, Webflow or Framer to AI-built code that stays in your repo | ♾️ **25% OFF** lifetime site licences for agencies (5+ sites, $89 → $66.75 each) · code `BF26` | Nov 24, 2026 - Nov 30, 2026 |
 
 ## 💻 Mac & Desktop Utilities
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
