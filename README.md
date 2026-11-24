@@ -641,6 +641,7 @@ Add it to your website, README, or launch post:
 | [ScreenCommand](https://screencommand.app/?ref=bf26-awesome-twf) | A full web browser on your TV or monitor, with your iPad or iPhone as its trackpad and keyboard | ♾️ **25% OFF** one-time purchase ($4.99 → $3.69) · auto-applied | Nov 27, 2026 - Nov 30, 2026 |
 | [Band·je](https://band.je/) | Records calls in any app on your Mac without a bot and transcribes them on device in 25 languages, plus fast dictation; also on iPhone, iPad and Apple Watch | 💸 ♾️ **50% OFF** Band·je Unlimited, one-time purchase (€19.99 → €9.99) · auto-applied on the App Store, code `BLACKFRIDAY` on band.je | Nov 27, 2026 - Dec 1, 2026 |
 | [Note](https://apps.apple.com/app/note/id1602765272) | Mini notes app and widget for iPhone and iPad that keeps what you care about in focus, like a pinned note in its own app | ♾️ **40% OFF** one-time purchase · auto-applied | Nov 19, 2026 - Dec 1, 2026 |
+| [FlowSpeak](https://smolkapps.com/flowspeak/#pricing) | Local push-to-talk dictation for Mac and Linux: hold Ctrl and talk, filler words are cleaned and your clipboard is preserved · 25 free dictations | ♾️ **34% OFF** Lifetime Pro ($29 → $19, up to 3 computers) · no code needed | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
