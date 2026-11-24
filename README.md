@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>585 deals listed</b> · Updated Nov 24, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>588 deals listed</b> · Updated Nov 24, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -62,15 +62,15 @@ Add it to your website, README, or launch post:
 
 # Table of Contents
 
-* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (63) - Video editing, AI video & music, screen recording, captions, transcription
+* 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (64) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (38) - Image editing & compression, AI images, screenshots, color tools
-* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (32) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (33) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (19) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (43) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (49) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (61) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (18) - Code templates & components to ship a SaaS or app faster
-* 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (24) - Tailwind/React components, Figma kits, icons, themes, animations
+* 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (25) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (18) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (71) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (53) - Notes, tasks, time tracking, focus & blocking, journaling, email
@@ -184,7 +184,7 @@ Add it to your website, README, or launch post:
 | [Narva](https://narva.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Turn a topic, script or voiceover into a finished faceless YouTube video | **30% OFF** first month of any plan ($29 → $20.30, $79 → $55.30, $199 → $139.30) · code `NARVA30` | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [Shorvo](https://shorvostudio.com/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Windows app that turns a script into a finished vertical YouTube Short with real footage, AI voiceover and captions, rendered on your PC | ♾️ **40% OFF** Pro Lifetime ($129 → $77.40) · code `BF40` | 🟢 Nov 20, 2026 - Dec 10, 2026 |
 | [Beamly](https://beamly.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Podcast platform: hosting and analytics, podcast websites, private podcasts and memberships | **30% OFF** new annual plans | 🟢 Nov 23, 2026 - Dec 1, 2026 |
-| [ABContents](https://abcontents.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns a PDF, slide deck or website into a narrated explainer or marketing video with AI voice, captions and music, in more than 100 styles | **30% OFF** every video and API pack · code `BLACKFRIDAY` · videos from $2.10 (was $3), 10-video API pack $14.70 (was $21) | Nov 27, 2026 - Dec 1, 2026 |
+| [ABContents](https://abcontents.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns a PDF, slide deck or website into a narrated explainer or marketing video with AI voice, captions and music, in more than 100 styles | **30% OFF** every video and API pack · code `BLACKFRIDAY` · videos from $2.10 (was $3), 10-video API pack $14.70 (was $21) | ⏳ Nov 27, 2026 - Dec 1, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -263,7 +263,7 @@ Add it to your website, README, or launch post:
 | [Morse](https://trymorse.ai/?src=gh-bf-twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private AI chat: GPT, Claude, Gemini, DeepSeek and more in one app, encrypted so even Morse can't read your chats | **40% OFF** first payment on Pro or Max, monthly or yearly · code `BLACKFRIDAY` | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [BookForge CLI](https://kineticsprint-studio.vercel.app/bookforge.html?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Book typesetting and PDF publishing engine for technical authors and indie publishers: 6 editorial styles, auto table of contents and print-ready PDFs | 💸 ♾️ **50% OFF** lifetime licence ($119 → $59) · auto-applied | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [ClaudeKit](https://claudekit.app/pricing?utm_source=twf-bfcm&utm_medium=directory&utm_campaign=bf-2026) | Chrome extension for claude.ai that shows your usage and the exact limit reset time, with a heads-up at 90% | **29% OFF** first year of Pro annual ($28 → $20) · auto-applied | 🟢 Nov 19, 2026 - Dec 2, 2026 |
-| [Grai](https://grai.page) | Offline cadence gate that flags AI-writing tells before clients do: 8 deterministic rules run offline, cadence scoring, plus a live cryptographic verification link for client work | **30% OFF** first billing cycle on Solo Offline ($79/yr → $55.30) & Agency Protocol ($99/mo → $69.30, $790/yr → $553) · code `BF2026` | 🟢 Nov 24, 2026 - Nov 30, 2026 |
+| [Grai](https://grai.page?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Offline cadence gate that flags AI-writing tells before clients do: 8 deterministic rules run offline, cadence scoring, plus a live cryptographic verification link for client work | **30% OFF** first billing cycle on Solo Offline ($79/yr → $55.30) & Agency Protocol ($99/mo → $69.30, $790/yr → $553) · code `BF2026` | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -502,7 +502,7 @@ Add it to your website, README, or launch post:
 | [TailThemes](https://tailthemes.com/?utm_source=twf-awesome-black-friday&utm_medium=listing&utm_campaign=black-friday-2026#all-access) | 26 Tailwind CSS site themes for Next.js and plain HTML, with light and dark modes | ♾️ **39% OFF** all-access, every theme for $79 (regular $129), one payment · no code needed | 🟢 Nov 21, 2026 - Dec 1, 2026 |
 | [NateUI](https://nateui.com/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf30&utm_content=ui-kits-table) | Themeable React and Tailwind CSS UI kit: free MIT components, Pro blocks and 4 Next.js app templates, with a hosted MCP for coding agents | ♾️ **30% OFF** Basic and All-Access one-time (Basic from $55.30) · code `BF30` | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [ShadcnSpace](https://shadcnspace.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 1,400+ ready-to-use shadcn/ui components, blocks, templates and Figma UI kits, with MCP and CLI tools for React and Next.js | **40% OFF** ($129 → $77) · code `BFCM` | 🟢 Nov 24, 2026 - Dec 3, 2026 |
-| [ShadcnStore](https://shadcnstore.com/pricing?utm_source=twf&utm_medium=deal-list&utm_campaign=cyber-week-2026) | Production-ready shadcn/ui blocks, pages and templates on Base UI, installed with the shadcn CLI, plus a Figma kit | ♾️ **40% OFF** every plan and template · no code needed · Pro ~~$149~~ $89 | Nov 21, 2026 - Dec 1, 2026 |
+| [ShadcnStore](https://shadcnstore.com/pricing?utm_source=twf&utm_medium=deal-list&utm_campaign=cyber-week-2026) | Production-ready shadcn/ui blocks, pages and templates on Base UI, installed with the shadcn CLI, plus a Figma kit | ♾️ **40% OFF** every plan and template · no code needed · Pro $149 → $89 | 🟢 Nov 21, 2026 - Dec 1, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
