@@ -259,6 +259,7 @@ Add it to your website, README, or launch post:
 | [Stashkin](https://stashkin.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Chrome extension that exports ChatGPT conversations to editable Word (.docx), PDF, Markdown, PNG and JSON with tables, LaTeX equations and images intact | 💸 **50% OFF** first year of Pro Annual ($46.56 → $23.28, $1.94/mo) · code `BF2026` · annual plan only | 🟢 Nov 22, 2026 - Dec 1, 2026 |
 | [Morse](https://trymorse.ai/?src=gh-bf-twf) | Private AI chat: GPT, Claude, Gemini, DeepSeek and more in one app, encrypted so even Morse can't read your chats | **40% OFF** first payment on Pro or Max, monthly or yearly · code `BLACKFRIDAY` | Nov 23, 2026 - Dec 1, 2026 |
 | [BookForge CLI](https://kineticsprint-studio.vercel.app/bookforge.html) | Book typesetting and PDF publishing engine for technical authors and indie publishers: 6 editorial styles, auto table of contents and print-ready PDFs | 💸 ♾️ **50% OFF** lifetime licence ($119 → $59) · auto-applied | Nov 24, 2026 - Nov 30, 2026 |
+| [ClaudeKit](https://claudekit.app/pricing?utm_source=twf-bfcm&utm_medium=directory&utm_campaign=bf-2026) | Chrome extension for claude.ai that shows your usage and the exact limit reset time, with a heads-up at 90% | **29% OFF** first year of Pro annual ($28 → $20) · auto-applied | Nov 19, 2026 - Dec 2, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
