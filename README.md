@@ -714,6 +714,7 @@ Add it to your website, README, or launch post:
 |:-:|:-:|:-:|:-:|
 | [DailyRemote](https://dailyremote.com/get-started?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts | **39% OFF** Premium monthly, quarterly and yearly plans · code `BFBNRTZSY` | 🟢 Nov 12, 2026 - Dec 1, 2026 |
 | [BizPeel](https://bizpeel.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Verified revenue, traffic sources, SEO and ad breakdowns for 700+ real startups, on the web or via MCP in Claude Code and Cursor | 💸 **50% OFF** first month on all plans · **20% OFF** first year · auto-applied | 🟢 Nov 19, 2026 - Nov 30, 2026 |
+| [EarlyLore](https://earlylore.com/pricing) | AI product discovery & competitive intelligence across 540K+ products, traffic, Design DNA & 14 MCP tools | 💸 **Up to 53% OFF** Annual (extra 25% off Pro $144 → $108/yr, Max $384 → $288/yr; renews at $144/$384) · auto-applied or code `BF2026` | Nov 24, 2026 - Nov 30, 2026 |
 
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
