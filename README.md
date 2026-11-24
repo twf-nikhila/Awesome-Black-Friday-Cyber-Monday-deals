@@ -634,6 +634,7 @@ Add it to your website, README, or launch post:
 | [Voibe](https://www.getvoibe.com/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private AI dictation and bot-free meeting notes for Mac and Windows | ♾️ **25% OFF** every plan, including lifetime (Dictation $199 → $149.25, Work $399 → $299.25) · code `BFCM26` | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [ScreenCommand](https://screencommand.app/?ref=bf26-awesome-twf) | A full web browser on your TV or monitor, with your iPad or iPhone as its trackpad and keyboard | ♾️ **25% OFF** one-time purchase ($4.99 → $3.69) · auto-applied | Nov 27, 2026 - Nov 30, 2026 |
 | [Band·je](https://band.je/) | Records calls in any app on your Mac without a bot and transcribes them on device in 25 languages, plus fast dictation; also on iPhone, iPad and Apple Watch | 💸 ♾️ **50% OFF** Band·je Unlimited, one-time purchase (€19.99 → €9.99) · auto-applied on the App Store, code `BLACKFRIDAY` on band.je | Nov 27, 2026 - Dec 1, 2026 |
+| [Note](https://apps.apple.com/app/note/id1602765272) | Mini notes app and widget for iPhone and iPad that keeps what you care about in focus, like a pinned note in its own app | ♾️ **40% OFF** one-time purchase · auto-applied | Nov 19, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -743,6 +744,7 @@ Add it to your website, README, or launch post:
 | [Satori](https://satoribrowser.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Free native browser for Mac with ad and tracker blocking, Spaces, Arc import and on-device AI summaries | **FREE** · no account, no telemetry | 🟢 Nov 20, 2026 - Nov 30, 2026 |
 | [truediscount](https://emirmrkaljevic.github.io/truediscount/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Free, open-source Firefox add-on and userscript that checks if a Black Friday discount in an EU shop is real by comparing it with the shop's lowest price of the last 30 days | **FREE** · open source (MIT), no account, prices stay in your browser | 🟢 Nov 22, 2026 - Dec 1, 2026 |
 | [Oasis: Sleep & Nature Sounds](https://apps.apple.com/app/apple-store/id6759493932?pt=124024007&ct=bf_lists&mt=8&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nature sound mixer for iPhone with 120 field recordings from 43 countries, binaural beats and a sleep timer | ♾️ **FREE** lifetime unlock (Oasis Infinite, normally $24.99 USD) · in-app purchase priced at $0 on the App Store, no code needed | 🟢 Nov 19, 2026 - Dec 1, 2026 |
+| [Heart: Locket & Couple Widget](https://apps.apple.com/app/heart-locket-couple-widget/id6452191888) | iPhone widget for one special person: shows their photo and opens your conversation in your messaging app with one tap | ♾️ **FREE** for iPhone | Oct 26, 2026 - Dec 31, 2026 |
 
 # 📅 Previous years
 
