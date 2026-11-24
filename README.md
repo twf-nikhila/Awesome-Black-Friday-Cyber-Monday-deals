@@ -644,6 +644,7 @@ Add it to your website, README, or launch post:
 | [Note](https://apps.apple.com/app/note/id1602765272) | Mini notes app and widget for iPhone and iPad that keeps what you care about in focus, like a pinned note in its own app | ♾️ **40% OFF** one-time purchase · auto-applied | Nov 19, 2026 - Dec 1, 2026 |
 | [FlowSpeak](https://smolkapps.com/flowspeak/#pricing) | Local push-to-talk dictation for Mac and Linux: hold Ctrl and talk, filler words are cleaned and your clipboard is preserved · 25 free dictations | ♾️ **34% OFF** Lifetime Pro ($29 → $19, up to 3 computers) · no code needed | Nov 24, 2026 - Dec 1, 2026 |
 | [PeekTheDay](https://peektheday.com?ref=twf) | A thin line under your Mac's menu bar shows your whole day: peek to see what's next, drag on it to block time | 💸 ♾️ **67% OFF** one-time ($15 → $5) · no code needed | Nov 24, 2026 - Nov 30, 2026 |
+| [Screen Fasting](https://tryscreenfasting.com/#pricing) | Locks your iPhone or iPad into Assistive Access and keeps the passcode until your fast ends, so you can't undo it on impulse (Mac app included) | 💸 **60% OFF** Pro yearly ($45 → $18) · code `BLACKCYBER60` | Nov 24, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
