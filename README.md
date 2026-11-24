@@ -327,6 +327,7 @@ Add it to your website, README, or launch post:
 | [Mixpost](https://mixpost.app/pricing?utm_source=awesome-black-friday-deals&utm_medium=referral&utm_campaign=black-friday-2026) | Social media scheduler with one calendar for every channel, built-in analytics and MCP support for AI agents, cloud or self-hosted | **25% OFF** all Cloud plans for 12 months (Spark $29 → $21.75/mo) and the self-hosted licence ($299 → $224) · auto-applied | Nov 23, 2026 - Dec 1, 2026 |
 | [HeyNews](https://app.heynews.co/register?coupon_code=BLACKFRIDAY50&trial_mode=card&utm_source=github-twf-nikhila&utm_medium=referral&utm_campaign=bf2026) | AI that drafts your newsletter in your voice from the blogs, RSS feeds and news sites you follow | 💸 **50% OFF** any plan for 12 months (Hobbyist $39 → $19.50/mo, Starter $99 → $49.50/mo) · code `BLACKFRIDAY50` · new subscriptions | Nov 24, 2026 - Nov 30, 2026 |
 | [PostSyncer](https://postsyncer.com/pricing?utm_source=twf&utm_campaign=black-friday-2026) | Social media scheduler for 12 networks, run from a calendar or from ChatGPT and Claude | **40% OFF** first year of any yearly plan · auto-applied | Nov 24, 2026 - Dec 1, 2026 |
+| [Gojiberry.ai](https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026) | AI sales agent that finds high-intent prospects and contacts them for you, 24/7 | **40% OFF** yearly plan · no code needed | Nov 24, 2026 - Dec 2, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
