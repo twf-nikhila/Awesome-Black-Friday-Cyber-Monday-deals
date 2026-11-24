@@ -479,6 +479,7 @@ Add it to your website, README, or launch post:
 | [1DesignTool](https://1designtool.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local design studio your coding agents drive to make slides, app screens and brand kits as real files | 💸 ♾️ **50% OFF** Pro one-time licence ($29 → $14.50) · code `BFDEALS50` · first 100 redemptions | 🟢 Nov 19, 2026 - Nov 29, 2026 |
 | [TailThemes](https://tailthemes.com/?utm_source=twf-awesome-black-friday&utm_medium=listing&utm_campaign=black-friday-2026#all-access) | 26 Tailwind CSS site themes for Next.js and plain HTML, with light and dark modes | ♾️ **39% OFF** all-access, every theme for $79 (regular $129), one payment · no code needed | 🟢 Nov 21, 2026 - Dec 1, 2026 |
 | [NateUI](https://nateui.com/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf30&utm_content=ui-kits-table) | Themeable React and Tailwind CSS UI kit: free MIT components, Pro blocks and 4 Next.js app templates, with a hosted MCP for coding agents | ♾️ **30% OFF** Basic and All-Access one-time (Basic from $55.30) · code `BF30` | 🟢 Nov 23, 2026 - Dec 1, 2026 |
+| [ShadcnSpace](https://shadcnspace.com) | 1,400+ ready-to-use shadcn/ui components, blocks, templates and Figma UI kits, with MCP and CLI tools for React and Next.js | **40% OFF** ($129 → $77) · code `BFCM` | Nov 24, 2026 - Dec 3, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
