@@ -104,9 +104,10 @@ Add it to your website, README, or launch post:
       🔥 <b>Black Friday deal</b> · code <code>BFCM26</code>
     </td>
     <td align="center" width="33%">
-      <a href="Sponsorship.md"><b>Your logo here</b></a><br>
-      Reach developers, indie hackers and founders hunting for deals this Black Friday<br><br>
-      <a href="Sponsorship.md"><b>Become a sponsor →</b></a>
+      <a href="https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026featured"><img src="assets/sponsors/gojiberry.png" width="72" height="72" alt="Gojiberry.ai"></a><br>
+      <a href="https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026featured"><b>Gojiberry.ai</b></a><br>
+      AI sales agent that finds high-intent prospects and contacts them for you, 24/7<br>
+      🔥 <b>40% OFF</b> yearly plan · no code needed
     </td>
   </tr>
 </table>
