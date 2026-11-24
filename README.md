@@ -380,6 +380,7 @@ Add it to your website, README, or launch post:
 | [QSPro](https://qspro.neocities.org/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Quantity surveying for construction: BoQ, take-off, rebar schedules, S-curves and payment claims in one system | ♾️ **48% OFF** founding price, one-time (Starter $382 → $199, Professional $1,164 → $599) · first 10 customers | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [Checkout Page](https://checkoutpage.com/black-friday) | Checkout pages, events and forms for tickets, memberships and donations, paid to your own Stripe account | **30% OFF** every paid plan for the first 6 months (monthly) or first year (yearly) · auto-applied · new paid plans | Nov 23, 2026 - Nov 30, 2026 |
 | [BoxAudit](https://getboxaudit.com) | Shipping box optimizer for Shopify, Etsy, ShipStation and Pirate Ship sellers (USPS Cubic and UPS/FedEx dimensional pricing) | **41% OFF** one-time 90-day box audit ($49 → $29) · auto-applied · pay $0 if savings are under $29 | Nov 23, 2026 - Nov 30, 2026 |
+| [Clino](https://clino.ch/en) | Employ your cleaner, nanny or carer legally in Switzerland: employment contract, monthly payslips and social-insurance paperwork for every canton | **20% OFF** the annual plan (CHF 238.80 → CHF 191) · no code needed | Nov 23, 2026 - Nov 29, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
