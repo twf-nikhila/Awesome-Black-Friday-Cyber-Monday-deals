@@ -282,6 +282,7 @@ Add it to your website, README, or launch post:
 | [CiteReady](https://citeready-checker.appwrite.network/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI search visibility and GEO auditor: checks 10 AI crawlers, Schema.org entity graphs and /llms.txt, with 50-URL batch exports | 💸 ♾️ **83% OFF** Web Pro one-time ($12 → $2) · 3-App Suite $29 → $5 · auto-applied | 🟢 Nov 22, 2026 - Dec 2, 2026 |
 | [CrawlRaven](https://crawlraven.com/pricing) | Joins Google Search Console, GA4 and a site crawl into one prioritized SEO plan, readable by your coding agent over MCP | 💸 ♾️ **50% OFF** every lifetime plan (Starter $190 → $95, Pro $390 → $195, Agency $1,990 → $995) · code `CRBFCM50` | Nov 9, 2026 - Nov 30, 2026 |
 | [AITroveX](https://aitrovex.com/pricing?utm_source=twf-github&utm_medium=deal-list&utm_campaign=bfcm2026) | Hand-checked AI tools directory: priority listings need no backlink, are reviewed in 2 business days and include a dofollow link | 💸 **71% OFF** bulk pack: 20 listing credits for $29 (was $100) · credits never expire · auto-applied | Nov 23, 2026 - Dec 1, 2026 |
+| [Vaneform](https://vaneform.com/pricing) | Website traffic checker for any domain: monthly visits, traffic sources, countries, ranking keywords and backlinks, with an API and MCP server | **20% OFF** first year of Pro Annual ($99 → $79) · code `VFBF2026` (auto-applied) | Nov 24, 2026 - Nov 30, 2026 |
 
 ## 📣 Marketing, Social & Lead Gen
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
