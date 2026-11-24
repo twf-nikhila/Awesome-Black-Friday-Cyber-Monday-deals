@@ -698,6 +698,8 @@ Add it to your website, README, or launch post:
 | [Mic to Speaker: Microphone](https://apps.apple.com/us/app/mic-to-speaker-microphone/id6751250098?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns your phone into a live microphone for any Bluetooth speaker, for karaoke and announcements | ♾️ **40% OFF** Lifetime ($49.99 → $29.99) · auto-applied | 🟢 Nov 21, 2026 - Nov 30, 2026 |
 | [Sorapuff](https://sorapuff.app/holiday-sale?ref=bf26-awesome-twf) | Fear-of-flying help for iPhone and iPad: likely bumps on your route before you board, then calm help in the air, offline | ♾️ **$9.99 one-time** for Sorapuff Pro until Jan 4, 2027 (then $14.99) · auto-applied | Nov 27, 2026 - Jan 4, 2027 |
 | [Jireh](https://getjireh.com/?ref=bf26-awesome-twf) | Bible app for iPhone and iPad: today's verse, passage and prayer, with the whole Bible offline in eleven translations | 💸 **50% OFF** first year of Jireh Plus Yearly ($29.99 → $14.99) · code `JIREHBF26` · new subscribers | Nov 27, 2026 - Nov 30, 2026 |
+| [Knitting Chart](https://knittingchart.com/pricing) | Browser knitting chart maker for colorwork, lace and cable patterns, with photo-to-chart conversion and PDF export | ♾️ **32% OFF** Lifetime Pro ($59 → $40.12) · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
+| [The Cross Stitch Pattern Maker](https://thecrossstitchpatternmaker.com/pricing) | Browser photo-to-cross-stitch pattern maker with stitch editing, a DMC floss list and PDF export | ♾️ **32% OFF** Lifetime Pro ($59 → $40.12) · auto-applied | Nov 23, 2026 - Nov 30, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
