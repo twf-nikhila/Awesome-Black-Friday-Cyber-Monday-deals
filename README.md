@@ -430,6 +430,7 @@ Add it to your website, README, or launch post:
 | [Storewire](https://plugins.hackerman.ge?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Laravel package that lets an online store answer shoppers inside AI assistants, built on the official laravel/mcp (free MIT version: hackerman/storewire-lite) | **40% OFF** single store ($149 → $89) and unlimited ($349 → $209) · auto-applied, no code needed | ⏳ Nov 27, 2026 - Dec 2, 2026 |
 | [pline.ai](https://www.pline.ai/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Web scraping API for LLMs and AI agents | **30% OFF** first 3 months on monthly or first year on yearly plans · auto-applied | ⏳ Nov 25, 2026 - Nov 30, 2026 |
 | [12happy](https://www.12hpy.com/deals/black-friday?utm_source=github&utm_medium=deal-list&utm_campaign=black-friday-2026) | Uptime monitoring and status pages for websites, APIs and cron jobs · free plan available | **3 months of Pro free** (normally $15/mo) · code `BLACKFRIDAY` · no card · first 100 accounts | 🟢 Nov 22, 2026 - Dec 1, 2026 |
+| [CtrlOps](https://ctrlops.io/pricing) | Deploy, debug, manage and audit Linux servers with AI, from one local-first desktop app for Mac, Windows and Linux | ♾️ **31% OFF** all Yearly and Lifetime plans (Personal $90 → $62.10/yr, Lifetime $349 → $240.81) · code `BFCM31` | Nov 21, 2026 - Dec 2, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
