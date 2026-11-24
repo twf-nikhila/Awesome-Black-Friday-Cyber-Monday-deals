@@ -632,6 +632,7 @@ Add it to your website, README, or launch post:
 | [Obsidian Starter Kit](https://www.store.dsebastien.net/product/obsidian-starter-kit/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Ready-to-use Obsidian vault: note templates, goals to tasks on boards, journaling and an AI layer that knows your notes, every update included | ♾️ **20% OFF** (€279.99 → €223.99) · code `BLACKFRIDAY2026` | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [Voibe](https://www.getvoibe.com/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private AI dictation and bot-free meeting notes for Mac and Windows | ♾️ **25% OFF** every plan, including lifetime (Dictation $199 → $149.25, Work $399 → $299.25) · code `BFCM26` | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [ScreenCommand](https://screencommand.app/?ref=bf26-awesome-twf) | A full web browser on your TV or monitor, with your iPad or iPhone as its trackpad and keyboard | ♾️ **25% OFF** one-time purchase ($4.99 → $3.69) · auto-applied | Nov 27, 2026 - Nov 30, 2026 |
+| [Band·je](https://band.je/) | Records calls in any app on your Mac without a bot and transcribes them on device in 25 languages, plus fast dictation; also on iPhone, iPad and Apple Watch | 💸 ♾️ **50% OFF** Band·je Unlimited, one-time purchase (€19.99 → €9.99) · auto-applied on the App Store, code `BLACKFRIDAY` on band.je | Nov 27, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
