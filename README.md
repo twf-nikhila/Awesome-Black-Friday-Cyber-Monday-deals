@@ -593,6 +593,7 @@ Add it to your website, README, or launch post:
 | [Wallper](https://www.wallper.app/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Moving 4K wallpapers for your Mac desktop and Lock Screen, with 3,200+ scenes or your own videos, synced to the music you play | 💸 ♾️ **50% OFF** one-time licence (Pro $14.99 → $7.49, Pro+ $24.99 → $12.49) · no code needed | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [DiskMate](https://diskmate.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS disk space analyzer and cleaner: treemaps, duplicates, quick wins and app leftovers | 💸 ♾️ **50% OFF** Lifetime ($10 → $5) · no code needed | 🟢 Nov 20, 2026 - Dec 2, 2026 |
 | [Hardcopy](https://gethardcopy.app) | Mac app that backs up your iCloud Photos library to your own drive, verifies every file, then optionally removes older photos from iCloud | ♾️ **Launch price $8.99** one-time (planned price $24.99) · rises as each batch sells out · 3 Macs per licence | Nov 21, 2026 - Jan 20, 2027 |
+| [BetterDisplay](https://betterdisplay.pro/) | Fine-tune scaling and brightness on your Mac's displays | ♾️ **33% OFF** Pro, one-time purchase with at least 2 years of free updates · code `BFCM2026` | Nov 26, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
