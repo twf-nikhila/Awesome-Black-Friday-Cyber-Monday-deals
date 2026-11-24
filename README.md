@@ -600,7 +600,7 @@ Add it to your website, README, or launch post:
 | [DiskMate](https://diskmate.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS disk space analyzer and cleaner: treemaps, duplicates, quick wins and app leftovers | 💸 ♾️ **50% OFF** Lifetime ($10 → $5) · no code needed | 🟢 Nov 20, 2026 - Dec 2, 2026 |
 | [Hardcopy](https://gethardcopy.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac app that backs up your iCloud Photos library to your own drive, verifies every file, then optionally removes older photos from iCloud | ♾️ **Launch price $8.99** one-time (planned price $24.99) · rises as each batch sells out · 3 Macs per licence | 🟢 Nov 21, 2026 - Jan 20, 2027 |
 | [BetterDisplay](https://betterdisplay.pro/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Fine-tune scaling and brightness on your Mac's displays | ♾️ **33% OFF** Pro, one-time purchase with at least 2 years of free updates · code `BFCM2026` | ⏳ Nov 26, 2026 - Dec 1, 2026 |
-
+| [Dockspace](https://getdock.space/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Native Swift macOS Dock replacement and Liquid Glass widget bar with 174 live widgets (10 free forever), live Claude Code/Codex/Antigravity quotas, Disk Doctor cache cleaner, and a notch clipboard shelf | 💸 ♾️ **50% OFF** all Pro plans (Lifetime $19.99 → $9.99, Forever $49.99 → $24.99, Yearly $11.99 → $5.99) · code `BLACKFRIDAY2026` (auto-applied) | 🟢 Nov 18, 2026 - Dec 1, 2026 |
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
