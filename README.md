@@ -387,7 +387,7 @@ Add it to your website, README, or launch post:
 | [Checkout Page](https://checkoutpage.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Checkout pages, events and forms for tickets, memberships and donations, paid to your own Stripe account | **30% OFF** every paid plan for the first 6 months (monthly) or first year (yearly) · auto-applied · new paid plans | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [BoxAudit](https://getboxaudit.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Shipping box optimizer for Shopify, Etsy, ShipStation and Pirate Ship sellers (USPS Cubic and UPS/FedEx dimensional pricing) | **41% OFF** one-time 90-day box audit ($49 → $29) · auto-applied · pay $0 if savings are under $29 | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [Clino](https://clino.ch/en?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Employ your cleaner, nanny or carer legally in Switzerland: employment contract, monthly payslips and social-insurance paperwork for every canton | **20% OFF** the annual plan (CHF 238.80 → CHF 191) · no code needed | 🟢 Nov 23, 2026 - Nov 29, 2026 |
-
+| [Rouliva](https://appsumo.com/products/rouliva/) | Track business mileage, scan receipts, and export a separate expense report for each company you run. | ♾️ Rouliva Complete for one user: $41.40 lifetime (normally $46). | Nov 23, 2026 - Dec 1, 2026 at noon CT |
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
