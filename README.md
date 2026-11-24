@@ -334,6 +334,7 @@ Add it to your website, README, or launch post:
 | [PostSyncer](https://postsyncer.com/pricing?utm_source=twf&utm_campaign=black-friday-2026) | Social media scheduler for 12 networks, run from a calendar or from ChatGPT and Claude | **40% OFF** first year of any yearly plan · auto-applied | 🟢 Nov 24, 2026 - Dec 1, 2026 |
 | [Gojiberry.ai](https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026) | AI sales agent that finds high-intent prospects and contacts them for you, 24/7 | **40% OFF** yearly plan · no code needed | 🟢 Nov 24, 2026 - Dec 2, 2026 |
 | [Expandi](https://expandi.io/bfcm-promo/?utm_source=github-twf-nikhila&utm_medium=referral&utm_campaign=bfcm-2026) | LinkedIn and email outreach in one campaign, with a dedicated IP for each LinkedIn account | **33% OFF** for 12 months ($79 → $53 per LinkedIn account/mo, billed yearly) · volume pricing down to $23 · auto-applied | 🟢 Nov 20, 2026 - Dec 4, 2026 |
+| [Clothsy AI](https://clothsyai.fabricvton.com/pricing) | Virtual try-on for Shopify and WooCommerce fashion stores · a Try It On button shows shoppers the garment on their own photo | 💸 **50% OFF** the first month of any monthly plan (Starter ~~$19.99~~ **$9.99**, Growth ~~$49.99~~ **$24.99**, Pro ~~$99.99~~ **$49.99**, Scale ~~$199~~ **$99.50**) · first paid plan only · yearly plans not included · no code needed | 🟢 Nov 23, 2026 - Nov 27, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
