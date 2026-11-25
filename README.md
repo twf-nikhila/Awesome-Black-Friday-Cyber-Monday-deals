@@ -388,6 +388,7 @@ Add it to your website, README, or launch post:
 | [Checkout Page](https://checkoutpage.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Checkout pages, events and forms for tickets, memberships and donations, paid to your own Stripe account | **30% OFF** every paid plan for the first 6 months (monthly) or first year (yearly) · auto-applied · new paid plans | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [BoxAudit](https://getboxaudit.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Shipping box optimizer for Shopify, Etsy, ShipStation and Pirate Ship sellers (USPS Cubic and UPS/FedEx dimensional pricing) | **41% OFF** one-time 90-day box audit ($49 → $29) · auto-applied · pay $0 if savings are under $29 | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [Clino](https://clino.ch/en?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Employ your cleaner, nanny or carer legally in Switzerland: employment contract, monthly payslips and social-insurance paperwork for every canton | **20% OFF** the annual plan (CHF 238.80 → CHF 191) · no code needed | 🟢 Nov 23, 2026 - Nov 29, 2026 |
+| [ShiftApp](https://shiftapp.com/black-friday) | Employee scheduling software: plan shifts, handle time-off requests and keep staff informed on their phones | 💸 **88% OFF** for 8 months · code `BLACKFRIDAY2026` | Nov 23, 2026 - Dec 12, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
