@@ -274,6 +274,7 @@ Add it to your website, README, or launch post:
 | [Meboki](https://meboki.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Open-source offline grammar checker for Mac: underlines English mistakes as you type in any app and fixes them in place | ♾️ **26% OFF** one-time licence ($39 → $29 for 1 Mac) · auto-applied | 🟢 Nov 21, 2026 - Dec 1, 2026 |
 | [Whizi](https://whizi.io/pricing/?utm_medium=deal-list&utm_campaign=bf2026&utm_source=twf-nikhila) | One subscription for Claude, ChatGPT, Gemini and other AI models, with image, video and music in the same chat (web, iPhone and Android) | **30% OFF** first year of any annual plan (Pro $239.99 → $167.99/yr) · auto-applied | 🟢 Nov 24, 2026 - Dec 24, 2026 |
 | [AxiomAI](https://axiom.stream/join?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private AI for chat, code and images, decrypted only inside a GPU enclave | **30% OFF** · no code needed | 🟢 Nov 25, 2026 - Dec 2, 2026 |
+| [Screenpipe](https://screenpipe.com/black-friday?utm_content=twf-nikhila) | Local screen and audio capture turned into searchable memory and reusable workflows for Claude, Codex and Cursor, on macOS, Windows and Linux | **20% OFF** first year of annual plans (Basic $250 → $200, Business $500 → $400/seat) · no code needed | Nov 25, 2026 - Nov 30, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
