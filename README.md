@@ -68,7 +68,7 @@ Add it to your website, README, or launch post:
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (22) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (45) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (51) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (63) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (64) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (19) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (27) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (18) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
@@ -467,6 +467,7 @@ Add it to your website, README, or launch post:
 | [SocialAPIs](https://socialapis.io/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bf2026&utm_content=twf) | REST API for public Facebook and Instagram data: pages, posts, Marketplace, Meta Ad Library ads and Instagram profiles · free plan available | **30% OFF** first 3 months of monthly plans (Pro $4.99 → $3.49/mo) · 17% off first year of yearly plans · code `BLACKDATA30` · new customers | 🟢 Nov 24, 2026 - Dec 1, 2026 |
 | [DASH](https://dashcanvas.dev/?utm_source=github&utm_medium=deal-list&utm_campaign=bf&utm_content=twf) | Run Claude Code, Codex, Cursor and Gemini CLI agents side by side on one desktop canvas (Windows and Mac), on your own subscriptions | ♾️ **40% OFF** buy-once licence ($49.99 → $29.99) · code `BLACKFRIDAY` | ⏳ Nov 27, 2026 - Nov 30, 2026 |
 | [Synap402](https://synap402.com/?utm_source=github&utm_medium=awesome-bfcm&utm_campaign=black-friday-2026) | One OpenAI-compatible API key for open models (DeepSeek, Qwen, GLM, Gemma, gpt-oss), with zero data retention | **$1 for your first 7 days** on the Start plan (then $20/mo) · **25% extra credit** on every card purchase · no code needed | 🟢 Nov 1, 2026 - Nov 30, 2026 |
+| [ReUI](https://reui.io/pricing?utm_source=twf-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | The agent-ready layer for shadcn/ui | **30% OFF** every license · no code needed | 🟢 Until Nov 30, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
