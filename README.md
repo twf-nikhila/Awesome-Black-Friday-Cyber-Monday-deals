@@ -412,6 +412,7 @@ Add it to your website, README, or launch post:
 | [Rouliva](https://appsumo.com/products/rouliva/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Track business mileage, scan receipts and export a separate expense report for each company you run | ♾️ **10% OFF** lifetime for one user ($46 → $41.40) on AppSumo | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [Faxio](https://faxio.app/pricing?utm_source=awesome_bfcm_twf&utm_medium=deal_listing&utm_campaign=black_friday_2026) | Send a fax online from your browser or Android phone, pay per fax with no subscription | **10% OFF** every web purchase ($2.99 → $2.69 per fax, $9.99 → $8.99 for 5) · auto-applied · web only | 🟢 Nov 24, 2026 - Dec 1, 2026 |
 | [BugSmash](https://bugsmash.io/pricing) | Visual feedback on live websites, videos, PDFs and images; clients comment from a link with no account | 💸 **50% OFF** first year on yearly plans (Starter $228 → $114/yr) · auto-applied | Nov 25, 2026 - Dec 1, 2026 |
+| [Autentique](https://www.autentique.com.br/en) | E-signature platform with unlimited documents, users and signers, plus an API | **30% OFF** annual Professional plan ($179 → $119/year) · auto-applied · extra 20% off with code `BFF61H8` | Nov 25, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
