@@ -338,6 +338,7 @@ Add it to your website, README, or launch post:
 | [Gojiberry.ai](https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026) | AI sales agent that finds high-intent prospects and contacts them for you, 24/7 | **40% OFF** yearly plan · no code needed | 🟢 Nov 24, 2026 - Dec 2, 2026 |
 | [Expandi](https://expandi.io/bfcm-promo/?utm_source=github-twf-nikhila&utm_medium=referral&utm_campaign=bfcm-2026) | LinkedIn and email outreach in one campaign, with a dedicated IP for each LinkedIn account | **33% OFF** for 12 months ($79 → $53 per LinkedIn account/mo, billed yearly) · volume pricing down to $23 · auto-applied | 🟢 Nov 20, 2026 - Dec 4, 2026 |
 | [Narrareach](https://www.narrareach.com/pricing?utm_source=shortlisted&utm_medium=directory&utm_campaign=bfcm_2026) | Draft in your own voice and schedule articles and short posts across Substack, Medium, LinkedIn, X, WordPress, Ghost and more | **30% OFF** the first year of annual plans (Audience Builder $199 → $139.30, Revenue Writer $390 → $273) · auto-applied · new customers | Nov 23, 2026 - Nov 25, 2026 |
+| [Clothsy AI](https://clothsyai.fabricvton.com/pricing) | Virtual try-on for Shopify and WooCommerce fashion stores: a Try It On button shows shoppers the garment on their own photo | 💸 **50% OFF** the first month of any monthly plan (Starter $19.99 → $9.99, Growth $49.99 → $24.99) · no code needed | Nov 23, 2026 - Nov 27, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
