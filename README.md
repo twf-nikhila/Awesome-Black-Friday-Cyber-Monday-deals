@@ -409,6 +409,7 @@ Add it to your website, README, or launch post:
 | [ShiftApp](https://shiftapp.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Employee scheduling software: plan shifts, handle time-off requests and keep staff informed on their phones | 💸 **88% OFF** for 8 months · code `BLACKFRIDAY2026` | 🟢 Nov 23, 2026 - Dec 12, 2026 |
 | [Rouliva](https://appsumo.com/products/rouliva/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Track business mileage, scan receipts and export a separate expense report for each company you run | ♾️ **10% OFF** lifetime for one user ($46 → $41.40) on AppSumo | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [Faxio](https://faxio.app/pricing?utm_source=awesome_bfcm_twf&utm_medium=deal_listing&utm_campaign=black_friday_2026) | Send a fax online from your browser or Android phone, pay per fax with no subscription | **10% OFF** every web purchase ($2.99 → $2.69 per fax, $9.99 → $8.99 for 5) · auto-applied · web only | 🟢 Nov 24, 2026 - Dec 1, 2026 |
+| [Autentique](https://www.autentique.com.br/en) | E-signature platform with unlimited documents, users and signers, plus an API | **30% OFF** annual Professional plan ($179 → $119/year) · auto-applied · extra **20% OFF** with code `BFF61H8`, which stacks with the annual discount | Nov 25, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
