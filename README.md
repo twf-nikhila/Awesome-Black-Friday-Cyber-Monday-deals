@@ -270,6 +270,7 @@ Add it to your website, README, or launch post:
 | [ClaudeKit](https://claudekit.app/pricing?utm_source=twf-bfcm&utm_medium=directory&utm_campaign=bf-2026) | Chrome extension for claude.ai that shows your usage and the exact limit reset time, with a heads-up at 90% | **29% OFF** first year of Pro annual ($28 → $20) · auto-applied | 🟢 Nov 19, 2026 - Dec 2, 2026 |
 | [Grai](https://grai.page?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Offline cadence gate that flags AI-writing tells before clients do: 8 deterministic rules run offline, cadence scoring, plus a live cryptographic verification link for client work | **30% OFF** first billing cycle on Solo Offline ($79/yr → $55.30) & Agency Protocol ($99/mo → $69.30, $790/yr → $553) · code `BF2026` | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [Meboki](https://meboki.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Open-source offline grammar checker for Mac: underlines English mistakes as you type in any app and fixes them in place | ♾️ **26% OFF** one-time licence ($39 → $29 for 1 Mac) · auto-applied | 🟢 Nov 21, 2026 - Dec 1, 2026 |
+| [AxiomAI](https://axiom.stream/join) | Private, unrestricted AI for chat, code and images, decrypted only inside a GPU enclave | **30% OFF** · no code needed | Nov 25, 2026 - Dec 2, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
