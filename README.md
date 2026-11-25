@@ -510,6 +510,7 @@ Add it to your website, README, or launch post:
 | [ShipReady 2026](https://sprintcraft-studio.netlify.app/shipready/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 5 single-file HTML/Tailwind SaaS landing page templates + 25-pt CRO Playbook | 💸 ♾️ **61% OFF** one-time ($49 → $19) · no code needed | 🟢 Nov 22, 2026 - Dec 1, 2026 |
 | [VibeFather](https://vibefather.ai/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 300+ original website templates for vibe coding, each with a live demo, the exact AI prompt and a DESIGN.md | ♾️ **35% OFF** lifetime ($199 → $129) · first year of yearly $69 → $49 · auto-applied | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [getpylaunch](https://getpylaunch.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | FastAPI SaaS starter kit with Stripe subscriptions, EU VAT and an HTMX frontend | 💸 ♾️ **60% OFF** one-time licence (Single $55 → $22, Unlimited $104 → $41.60) · auto-applied | 🟢 Nov 24, 2026 - Dec 1, 2026 |
+| [AgentCartridge](https://agentcartridge.com/all-access) | Cursor/Claude rules packs and starter kits | **30% OFF** All-Access, $79 → $55.30 before tax · code `BFCM30` | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🎨 UI Kits, Icons & Design Assets
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
