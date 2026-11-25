@@ -643,6 +643,7 @@ Add it to your website, README, or launch post:
 | [Paste Formatter](https://paste-formatter.app/?utm_source=bf2026-shortlisted) | Removes unwanted fonts and colors from pasted text while keeping links and lists | ♾️ **40% OFF** one-time purchase (€4.99 → €2.99) · code `BLACKFRIDAY` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [Backup Status](https://backupstatus.app/?utm_source=bf2026-shortlisted) | Shows when Time Machine last backed up your Mac, right on your desktop | ♾️ **40% OFF** one-time purchase (€4.99 → €2.99) · code `BLACKFRIDAY` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [FileBo](https://apps.apple.com/us/app/filebo-recent-files-items/id6785596150?ct=bf26_twf&mt=12) | Pop-up window with the files and folders you recently used, saved or downloaded on your Mac, ready to open or drag into any app | 💸 ♾️ **50% OFF** one-time unlock ($9.99 → $4.99) · Mac App Store price, no code | Nov 26, 2026 - Dec 1, 2026 |
+| [Stepfinch](https://stepfinch.app/?utm_source=twf-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide with a screenshot of every click, with private info blurred | ♾️ **26% OFF** lifetime ($39 → $29, 3 Macs) · auto-applied | Nov 23, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
