@@ -506,6 +506,7 @@ Add it to your website, README, or launch post:
 | [NateUI](https://nateui.com/pricing?utm_source=awesome-bfcm&utm_medium=deal-list&utm_campaign=bf30&utm_content=ui-kits-table) | Themeable React and Tailwind CSS UI kit: free MIT components, Pro blocks and 4 Next.js app templates, with a hosted MCP for coding agents | ♾️ **30% OFF** Basic and All-Access one-time (Basic from $55.30) · code `BF30` | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [ShadcnSpace](https://shadcnspace.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 1,400+ ready-to-use shadcn/ui components, blocks, templates and Figma UI kits, with MCP and CLI tools for React and Next.js | **40% OFF** ($129 → $77) · code `BFCM` | 🟢 Nov 24, 2026 - Dec 3, 2026 |
 | [ShadcnStore](https://shadcnstore.com/pricing?utm_source=twf&utm_medium=deal-list&utm_campaign=cyber-week-2026) | Production-ready shadcn/ui blocks, pages and templates on Base UI, installed with the shadcn CLI, plus a Figma kit | ♾️ **40% OFF** every plan and template · no code needed · Pro $149 → $89 | 🟢 Nov 21, 2026 - Dec 1, 2026 |
+| [ThreeDee](https://www.threedee.design/) | Stylized rigged 3D characters, standalone models and modular packs | ♾️ **30% OFF** single 3D models, packs, both lifetime libraries and Nova credits · code `BLACK30` | Nov 24, 2026 - Dec 2, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
