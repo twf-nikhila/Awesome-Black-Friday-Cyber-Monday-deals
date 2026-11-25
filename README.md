@@ -694,6 +694,7 @@ Add it to your website, README, or launch post:
 | [PeekTheDay](https://peektheday.com?ref=twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | A thin line under your Mac's menu bar shows your whole day: peek to see what's next, drag on it to block time | 💸 ♾️ **67% OFF** one-time ($15 → $5) · no code needed | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [Screen Fasting](https://tryscreenfasting.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Locks your iPhone or iPad into Assistive Access and keeps the passcode until your fast ends, so you can't undo it on impulse (Mac app included) | 💸 **60% OFF** Pro yearly ($45 → $18) · code `BLACKCYBER60` | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [shepetal](https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=twf-awesome-bf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Dictation and meeting notes for Mac that run on your Mac, with offline speech recognition | 💸 ♾️ **80% OFF** lifetime licence (€24 → €4.80) · code `BLACKFRIDAY` | 🟢 Nov 24, 2026 - Nov 30, 2026 |
+| [Kiri](https://project-kiri.com/pricing?utm_source=twf-nikhila&utm_medium=list&utm_campaign=bf2026) | Focus timer for your laptop in one browser tab, with a task list and background sounds such as rain and brown noise | 💸 ♾️ **50% OFF** lifetime (€39 → €19.50) · code `BF2026` | Nov 25, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
