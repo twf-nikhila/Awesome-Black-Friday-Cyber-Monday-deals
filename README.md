@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>624 deals listed</b> · Updated Nov 25, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>629 deals listed</b> · Updated Nov 25, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -76,7 +76,7 @@ Add it to your website, README, or launch post:
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (54) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (29) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (31) - Fitness, nutrition, travel, home & personal apps
-* 📚 [Courses & Books](#-courses--books) (30) - Courses, books, certifications & guides
+* 📚 [Courses & Books](#-courses--books) (35) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (3) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (6) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
@@ -792,6 +792,11 @@ Add it to your website, README, or launch post:
 | [Certificates.dev](https://certificates.dev/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Proctored developer certifications for Vue.js, Nuxt, React, Angular, JavaScript, TypeScript, Laravel and AI-native development | 💸 **Up to 60% OFF** certification bundles (certification with training for $199) · All Access Pass $999 instead of $5,000 | 🟢 Nov 19, 2026 - Dec 2, 2026 |
 | [Unlearn](https://unlearn.dev/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Courses, workflows and agent skills that teach developers to spec, build, review and ship with AI agents | 💸 ♾️ **56% OFF** Unlearn Plus Lifetime ($899 → $399) · or one pass with certifications and a live AI bootcamp for $999 | 🟢 Nov 19, 2026 - Dec 2, 2026 |
 | [Udemie](https://www.udemie.study/pricing?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=blackfriday2026) | Offline study app for Windows and Linux: download the Udemy, Coursera and LinkedIn Learning courses you already have access to and study with a player, notes and AI tools | ♾️ **20% OFF** lifetime ($175 → $140) · code `BLACKFRIDAY20` · **30% OFF** annual ($80 → $56) · code `BLACKFRIDAY30` | 🟢 Nov 24, 2026 - Dec 1, 2026 |
+| [The Art of X](https://lifemathmoney.gumroad.com/l/TwitterGuide/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Guide to growing an X account and turning it into a business, with The Art of Product Launch included | 💸 ♾️ **70% OFF** ($297 → $89.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
+| [The AI-First Publishing Course](https://lifemathmoney.gumroad.com/l/publishingcourse/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Course on publishing Kindle books and audiobooks with AI, with three 1-on-1 calls and lifetime updates | 💸 ♾️ **50% OFF** ($497 → $247) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
+| [The Art of Copywriting](https://lifemathmoney.gumroad.com/l/copy/BFCM2026?a=737795859&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Guide to writing copy that sells and landing copywriting clients, with 3 bonuses | 💸 ♾️ **50% OFF** ($89.99 → $44.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
+| [Live Intentionally](https://lifemathmoney.gumroad.com/l/tough/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 90-day program to fix your discipline, fitness and habits, with a workbook and 5-hour audiobook | 💸 ♾️ **50% OFF** ($29.99 → $14.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
+| [No-BS Resume Guide](https://lifemathmoney.gumroad.com/l/resume/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Short, practical guide to writing a resume that gets interviews | 💸 ♾️ **50% OFF** ($9.99 → $4.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
