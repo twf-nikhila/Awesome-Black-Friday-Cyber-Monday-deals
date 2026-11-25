@@ -636,6 +636,7 @@ Add it to your website, README, or launch post:
 | [Ejectify 2](https://ejectify.app/?utm_source=bf2026-shortlisted) | Unmounts external drives before your Mac sleeps and remounts them when it wakes | ♾️ **29% OFF** one-time purchase (€6.99 → €4.99) · code `BLACKFRIDAY` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [Paste Formatter](https://paste-formatter.app/?utm_source=bf2026-shortlisted) | Removes unwanted fonts and colors from pasted text while keeping links and lists | ♾️ **40% OFF** one-time purchase (€4.99 → €2.99) · code `BLACKFRIDAY` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [Backup Status](https://backupstatus.app/?utm_source=bf2026-shortlisted) | Shows when Time Machine last backed up your Mac, right on your desktop | ♾️ **40% OFF** one-time purchase (€4.99 → €2.99) · code `BLACKFRIDAY` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
+| [Stepfinch](https://stepfinch.app/?utm_source=twf-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide with a screenshot of every click, with private info blurred | ♾️ **26% OFF** lifetime ($39 → $29, 3 Macs, every update) · auto-applied, no code | Nov 23, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
