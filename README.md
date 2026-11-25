@@ -533,6 +533,7 @@ Add it to your website, README, or launch post:
 | [ThreeDee](https://www.threedee.design/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Stylized rigged 3D characters, standalone models and modular packs | ♾️ **30% OFF** single 3D models, packs, both lifetime libraries and Nova credits · code `BLACK30` | 🟢 Nov 24, 2026 - Dec 2, 2026 |
 | [A1](https://www.a1.gallery/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026) | Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours | **33% OFF** Pro yearly ($72 → $48 a year, kept while subscribed) · no code needed | 🟢 Nov 19, 2026 - Nov 30, 2026 |
 | [ReUI](https://reui.io/pricing?utm_source=twf-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | The agent-ready layer for shadcn/ui | **30% OFF** every licence · no code needed | 🟢 Nov 25, 2026 - Nov 30, 2026 |
+| [Jiggicons](https://jiggicons.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | 24,040 animated SVG icons (6,010 unique in 4 styles) with spring physics and spatial audio for React, React Native, Vue, JS, Flutter, SwiftUI and Jetpack Compose, plus CLI, shadcn registry and MCP server | ♾️ **Up to 40% OFF** one-time lifetime licences (Personal $79 → $49, Team $199 → $129, Business $499 → $299) · no code needed | 🟢 Nov 23, 2026 - Dec 7, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
