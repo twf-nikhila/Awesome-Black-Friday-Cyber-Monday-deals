@@ -186,6 +186,7 @@ Add it to your website, README, or launch post:
 | [Beamly](https://beamly.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Podcast platform: hosting and analytics, podcast websites, private podcasts and memberships | **30% OFF** new annual plans | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [ABContents](https://abcontents.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turns a PDF, slide deck or website into a narrated explainer or marketing video with AI voice, captions and music, in more than 100 styles | **30% OFF** every video and API pack · code `BLACKFRIDAY` · videos from $2.10 (was $3), 10-video API pack $14.70 (was $21) | ⏳ Nov 27, 2026 - Dec 1, 2026 |
 | [FrameGloss](https://framegloss.app/?deal=blackfriday) | Browser-based product demo polisher: add smooth zooms, device frames, backdrops and callouts, then export MP4 or GIF locally | 💸 ♾️ **50% OFF** Pro Lifetime ($15 → $7.50) · code `BLACKFRIDAY` | Nov 24, 2026 - Nov 30, 2026 |
+| [FluidCast: Podcast Player](https://fluidcastapp.com/event) | Cross-platform podcast player with cloud sync and AI content detection, on iPhone, iPad, Mac, Android, Windows and Linux | 💸 ♾️ **50% OFF** Lifetime (£89.99 → £44.99) and the first year of Annual · code `BLACKFRIDAY2026` (`BLACKFRIDAY2026LT` for iOS Lifetime) | Nov 5, 2026 - Nov 30, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
