@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>622 deals listed</b> · Updated Nov 25, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>624 deals listed</b> · Updated Nov 25, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -65,8 +65,8 @@ Add it to your website, README, or launch post:
 * 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (69) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (39) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (36) - AI chat apps, writing & rewriting, knowledge assistants, resumes
-* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (23) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (46) - Social media, lead finding & outreach, email marketing, launch directories
+* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (24) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (47) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (52) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (65) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (19) - Code templates & components to ship a SaaS or app faster
@@ -300,7 +300,7 @@ Add it to your website, README, or launch post:
 | [RankSimply](https://www.ranksimply.io/pricing?utm_source=shortlisted&utm_medium=directory&utm_campaign=bfcm_2026) | Managed local SEO and AI visibility for local businesses: listings, website improvements, articles and monitoring, with human review | **30% OFF** the first month of monthly plans (Get Found $699 → $489.30, Get Recommended $1,799 → $1,259.30) · auto-applied · new customers | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [AI Tool Trek](https://aitooltrek.com/submit?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI tools directory with 5,000+ tools where makers list their AI tool for discovery, traffic and dofollow backlinks | 💸 **50% OFF** Fast Track listing ($24.90 → $12.45) · code `BLACKFRIDAY50` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [SiteData](https://sitedata.dev/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Analyze website traffic, SEO keywords and competitor ads, and discover sites linked by shared AdSense publisher IDs | 💸 **50% OFF** annual plans · **30% OFF** monthly plans · kept on renewals while subscribed · auto-applied | 🟢 Nov 24, 2026 - Nov 30, 2026 |
-| [Glocavo](https://gbpseotools.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local SEO for businesses and agencies: Google Maps grid rank tracking, AI visibility checks, SERP tracking and Google Business Profile management | **30% OFF** first 3 months on any monthly plan · code `BF26MONTH` (applied at checkout) · Starter $21.99 → $15.39/mo · yearly plans **15% OFF** the first year · code `BF26YEAR` | Nov 24, 2026 - Dec 1, 2026 |
+| [Glocavo](https://gbpseotools.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local SEO for businesses and agencies: Google Maps grid rank tracking, AI visibility checks, SERP tracking and Google Business Profile management | **30% OFF** first 3 months on any monthly plan · code `BF26MONTH` (applied at checkout) · Starter $21.99 → $15.39/mo · yearly plans **15% OFF** the first year · code `BF26YEAR` | 🟢 Nov 24, 2026 - Dec 1, 2026 |
 
 ## 📣 Marketing, Social & Lead Gen
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -351,7 +351,7 @@ Add it to your website, README, or launch post:
 | [Narrareach](https://www.narrareach.com/pricing?utm_source=shortlisted&utm_medium=directory&utm_campaign=bfcm_2026) | Draft in your own voice and schedule articles and short posts across Substack, Medium, LinkedIn, X, WordPress, Ghost and more | **30% OFF** the first year of annual plans (Audience Builder $199 → $139.30, Revenue Writer $390 → $273) · auto-applied · new customers | 🟢 Nov 23, 2026 - Nov 25, 2026 |
 | [Clothsy AI](https://clothsyai.fabricvton.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Virtual try-on for Shopify and WooCommerce fashion stores: a Try It On button shows shoppers the garment on their own photo | 💸 **50% OFF** the first month of any monthly plan (Starter $19.99 → $9.99, Growth $49.99 → $24.99) · no code needed | 🟢 Nov 23, 2026 - Nov 27, 2026 |
 | [WhatsTeam](https://whats.team/?utm_source=twf-nikhila&utm_medium=deal-listing&utm_campaign=blackfriday2026) | Shared WhatsApp inbox for sales and support teams on the official WhatsApp Business API, with broadcast campaigns, chat assignment and AI agents | **40% OFF** first 6 months of any monthly plan (Starter $29 → $17.40/mo) · code `BLACKFRIDAY40` · new subscriptions | 🟢 Nov 22, 2026 - Dec 1, 2026 |
-| [Loudwell](https://loudwell.app/black-friday/?s=bf-twf) | Mac app that plans a week of social posts from the photos and clips on your Mac, writes captions in your voice and waits for your approval on iPhone before posting | **40% OFF** your first year (Solo £49.99 → £29.99/yr, Studio £99.99 → £59.99/yr) · code `BF40` | Nov 27, 2026 - Dec 1, 2026 |
+| [Loudwell](https://loudwell.app/black-friday/?s=bf-twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac app that plans a week of social posts from the photos and clips on your Mac, writes captions in your voice and waits for your approval on iPhone before posting | **40% OFF** your first year (Solo £49.99 → £29.99/yr, Studio £99.99 → £59.99/yr) · code `BF40` | ⏳ Nov 27, 2026 - Dec 1, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
