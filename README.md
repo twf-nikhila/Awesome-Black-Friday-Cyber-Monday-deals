@@ -809,6 +809,7 @@ Add it to your website, README, or launch post:
 | [DailyRemote](https://dailyremote.com/get-started?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Remote job board that shows new remote jobs hours after they are posted, with salary filters and daily job alerts | **39% OFF** Premium monthly, quarterly and yearly plans · code `BFBNRTZSY` | 🟢 Nov 12, 2026 - Dec 1, 2026 |
 | [BizPeel](https://bizpeel.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Verified revenue, traffic sources, SEO and ad breakdowns for 700+ real startups, on the web or via MCP in Claude Code and Cursor | 💸 **50% OFF** first month on all plans · **20% OFF** first year · auto-applied | 🟢 Nov 19, 2026 - Nov 30, 2026 |
 | [EarlyLore](https://earlylore.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI product discovery and competitive intelligence across 540K+ products, with traffic data and 14 MCP tools | **25% OFF** first year of Annual (Pro $144 → $108, Max $384 → $288) · code `BF2026` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
+| [Quiet Winners](https://quietwinners.com/) | Monthly leaderboard of fast-growing websites making real money under the radar, with a 10,000+ word teardown of each one | 💸 **50% OFF** first month or year of Pro ($39 → $19.50 monthly, $312 → $156 yearly) · auto-applied | Nov 25, 2026 - Dec 1, 2026 |
 
 ## 🎁 Free Stuff
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
