@@ -356,6 +356,7 @@ Add it to your website, README, or launch post:
 | [WhatsTeam](https://whats.team/?utm_source=twf-nikhila&utm_medium=deal-listing&utm_campaign=blackfriday2026) | Shared WhatsApp inbox for sales and support teams on the official WhatsApp Business API, with broadcast campaigns, chat assignment and AI agents | **40% OFF** first 6 months of any monthly plan (Starter $29 → $17.40/mo) · code `BLACKFRIDAY40` · new subscriptions | 🟢 Nov 22, 2026 - Dec 1, 2026 |
 | [Loudwell](https://loudwell.app/black-friday/?s=bf-twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac app that plans a week of social posts from the photos and clips on your Mac, writes captions in your voice and waits for your approval on iPhone before posting | **40% OFF** your first year (Solo £49.99 → £29.99/yr, Studio £99.99 → £59.99/yr) · code `BF40` | ⏳ Nov 27, 2026 - Dec 1, 2026 |
 | [surl.li](https://surl.li/en) | URL shortener with custom domains, QR codes, click analytics, an API and an MCP server for AI agents | 💸 **60% OFF** all plans · no code needed | Nov 25, 2026 - Dec 1, 2026 |
+| [utobo Email](https://utobo.com/email/pricing) | Transactional API/SMTP email, marketing campaigns with AI-assisted writing and cold outreach for developers and small teams | 💸 **50% OFF** first year of any annual plan · code `BFF50` · new customers | Nov 21, 2026 - Nov 30, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
