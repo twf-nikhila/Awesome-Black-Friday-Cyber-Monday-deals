@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """Update deal counts in the README's Table of Contents and the stats line,
-and tag outbound deal links with UTM params.
+tag outbound deal links with UTM params, and mark each deal's status in its
+date cell (🟢 live, ⏳ not started yet, struck through once ended).
 
 Run from the repo root: python3 scripts/update_stats.py
-Also runs in .github/workflows/update-stats.yml on every push to main.
+Also runs in .github/workflows/update-stats.yml on every push to main and
+once a day, so statuses change even when nothing is merged.
 """
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from utm import add_utm
@@ -16,6 +18,10 @@ STATS_RE = re.compile(r"<!-- stats:start -->.*?<!-- stats:end -->", re.S)
 TOC_RE = re.compile(r"^(\* \S+ \[([^\]]+)\]\([^)]+\))(?: \(\d+\))?(.*)$")
 DEAL_ROW_RE = re.compile(r"^\|\s*\[")
 LINK_RE = re.compile(r"\]\((https?://[^)\s]+)\)")
+DATE = r"[A-Z][a-z]{2} \d{1,2}, \d{4}"
+# The date cell, with or without a status we added on an earlier run
+DATES_RE = re.compile(rf"\| *(?:🟢|⏳)? *(?:~~)?({DATE}) - ({DATE})(?:~~)? *\|\s*$")
+LIVE, SOON = "🟢", "⏳"
 
 
 def count_deals(lines):
@@ -44,9 +50,43 @@ def tag_links(lines):
             lines[i] = LINK_RE.sub(lambda m: "](" + add_utm(m.group(1), "github") + ")", line)
 
 
+def deal_status(start, end, now):
+    """A deal starts with the UTC day and only ends once its last day is over
+    everywhere on Earth (UTC-12), so nothing live is ever shown as ended."""
+    if now.date() < start:
+        return "soon"
+    if (now - timedelta(hours=12)).date() > end:
+        return "ended"
+    return "live"
+
+
+def mark_status(lines, now):
+    """Prefix each deal's dates with its status; makers never type it."""
+    in_deals = False
+    for i, line in enumerate(lines):
+        if line.startswith("## "):
+            in_deals = True
+        elif line.startswith("# "):
+            in_deals = False
+        m = DATES_RE.search(line) if in_deals and DEAL_ROW_RE.match(line) else None
+        if not m:
+            continue
+        try:
+            start, end = (datetime.strptime(d, "%b %d, %Y").date() for d in m.groups())
+        except ValueError:
+            continue
+        dates = f"{m.group(1)} - {m.group(2)}"
+        cell = {"live": f"{LIVE} {dates}", "soon": f"{SOON} {dates}", "ended": f"~~{dates}~~"}[
+            deal_status(start, end, now)
+        ]
+        lines[i] = f"{line[:m.start()]}| {cell} |"
+
+
 def main():
     lines = README.read_text().split("\n")
+    now = datetime.now(timezone.utc)
     tag_links(lines)
+    mark_status(lines, now)
     counts = count_deals(lines)
 
     in_toc = False
@@ -60,7 +100,6 @@ def main():
             lines[i] = m.group(1) + (f" ({n})" if n else "") + m.group(3)
 
     total = sum(counts.values())
-    now = datetime.now(timezone.utc)
     updated = f"{now:%b} {now.day}, {now.year}"
     # Stay blank until the first deal is added
     stats = f"🔥 <b>{total} deals listed</b> · Updated {updated}" if total else ""

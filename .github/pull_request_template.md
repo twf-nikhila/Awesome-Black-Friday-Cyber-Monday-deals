@@ -13,7 +13,7 @@ Add your row at the **end** of the right category's table in `README.md`. Pick t
 - **Name**: product name linked to the product or deal page
 - **Description**: one line, no feature lists
 - **Deal details**: discount first, then the coupon code (or "auto-applied" if no code is needed). Start with 💸 if the discount is 50% or more, and ♾️ if it's a lifetime or buy-once deal
-- **Start-End date**: `Mon D, YYYY - Mon D, YYYY`, e.g. `Nov 24, 2026 - Dec 1, 2026`
+- **Start-End date**: `Mon D, YYYY - Mon D, YYYY`, e.g. `Nov 24, 2026 - Dec 1, 2026`. Just the dates: the 🟢 / ⏳ status is added automatically
 
 ## Checklist
 

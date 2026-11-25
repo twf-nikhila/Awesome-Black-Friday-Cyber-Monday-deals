@@ -4,6 +4,9 @@ on:
   push:
     branches: [main]
     paths: [README.md]
+  # Daily, so deal statuses (live / not started / ended) change with the dates
+  schedule:
+    - cron: "5 0,12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -19,7 +22,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update deal counts and last-updated date
+      - name: Update deal counts, statuses and last-updated date
         run: python3 scripts/update_stats.py
 
       # Pushes made with GITHUB_TOKEN don't trigger workflows, so this can't loop.

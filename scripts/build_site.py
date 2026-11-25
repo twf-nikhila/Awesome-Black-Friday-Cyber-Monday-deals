@@ -68,6 +68,25 @@ def is_lifetime(deal):
     return "♾" in deal or bool(re.search(r"lifetime|buy once|one[- ]time|pay once", deal, re.I))
 
 
+DATE_FMT = "%b %d, %Y"
+DATES_RE = re.compile(r"([A-Z][a-z]{2} \d{1,2}, \d{4}) - ([A-Z][a-z]{2} \d{1,2}, \d{4})")
+
+
+def parse_dates(cell):
+    """Dates without the status marker update_stats.py adds to the README;
+    the page works the status out itself from start/end, so it is never stale."""
+    text = strip_tags(inline_md(cell)).replace("~~", "")
+    text = re.sub(r"^[🟢⏳]\s*", "", text).strip()
+    out = {"dates": text, "start": None, "end": None}
+    m = DATES_RE.search(text)
+    if m:
+        try:
+            out["start"], out["end"] = (datetime.strptime(d, DATE_FMT).date().isoformat() for d in m.groups())
+        except ValueError:
+            pass
+    return out
+
+
 def parse_deal_row(line):
     cells = [c.strip() for c in line.strip().strip("|").split("|")]
     if cells and re.fullmatch(r"\d+", cells[0]):  # pre-2026 tables had a # column
@@ -83,7 +102,7 @@ def parse_deal_row(line):
         "url": url,
         "description": inline_md(cells[1]),
         "deal": inline_md(deal),
-        "dates": strip_tags(inline_md(cells[3])) if len(cells) > 3 else "",
+        **parse_dates(cells[3] if len(cells) > 3 else ""),
         "big": is_big(deal),
         "lifetime": is_lifetime(deal),
     }
