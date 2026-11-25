@@ -803,6 +803,7 @@ Add it to your website, README, or launch post:
 | [The Art of Copywriting](https://lifemathmoney.gumroad.com/l/copy/BFCM2026?a=737795859&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Guide to writing copy that sells and landing copywriting clients, with 3 bonuses | 💸 ♾️ **50% OFF** ($89.99 → $44.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Live Intentionally](https://lifemathmoney.gumroad.com/l/tough/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 90-day program to fix your discipline, fitness and habits, with a workbook and 5-hour audiobook | 💸 ♾️ **50% OFF** ($29.99 → $14.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [No-BS Resume Guide](https://lifemathmoney.gumroad.com/l/resume/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Short, practical guide to writing a resume that gets interviews | 💸 ♾️ **50% OFF** ($9.99 → $4.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
+| [VimNinja](https://www.vimninja.com/upgrade) | Hands-on Vim course where every lesson runs in a real Vim editor in your browser, from first motions to your own Neovim config | ♾️ **34% OFF** lifetime Pro ($29 → $19) · auto-applied | Nov 25, 2026 - Nov 30, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
