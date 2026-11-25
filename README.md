@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>629 deals listed</b> · Updated Nov 25, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>634 deals listed</b> · Updated Nov 25, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -65,20 +65,20 @@ Add it to your website, README, or launch post:
 * 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (69) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (39) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (36) - AI chat apps, writing & rewriting, knowledge assistants, resumes
-* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (24) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
+* 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (25) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (47) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (52) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (65) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (19) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (28) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (19) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (73) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (76) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (54) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (29) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (31) - Fitness, nutrition, travel, home & personal apps
 * 📚 [Courses & Books](#-courses--books) (35) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (3) - Paid newsletters, communities, curated databases & lists
-* 🎁 [Free Stuff](#-free-stuff) (6) - Free credits, free plans, giveaways
+* 🎁 [Free Stuff](#-free-stuff) (7) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
 
 **Legend:** 💸 50% OFF or more · ♾️ Lifetime / buy-once deal · 🟢 Live now · ⏳ Not started yet · ~~Dates~~ Ended
@@ -301,7 +301,7 @@ Add it to your website, README, or launch post:
 | [AI Tool Trek](https://aitooltrek.com/submit?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI tools directory with 5,000+ tools where makers list their AI tool for discovery, traffic and dofollow backlinks | 💸 **50% OFF** Fast Track listing ($24.90 → $12.45) · code `BLACKFRIDAY50` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [SiteData](https://sitedata.dev/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Analyze website traffic, SEO keywords and competitor ads, and discover sites linked by shared AdSense publisher IDs | 💸 **50% OFF** annual plans · **30% OFF** monthly plans · kept on renewals while subscribed · auto-applied | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [Glocavo](https://gbpseotools.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Local SEO for businesses and agencies: Google Maps grid rank tracking, AI visibility checks, SERP tracking and Google Business Profile management | **30% OFF** first 3 months on any monthly plan · code `BF26MONTH` (applied at checkout) · Starter $21.99 → $15.39/mo · yearly plans **15% OFF** the first year · code `BF26YEAR` | 🟢 Nov 24, 2026 - Dec 1, 2026 |
-| [List My Site](https://listmy.site/) | Manual submission of your SaaS to 100+ high-authority directories for backlinks, Domain Rating and AI visibility | **6% OFF** the 100+ directories plan ($169 → $159) · code `GETCITED10` | Nov 25, 2026 - Nov 30, 2026 |
+| [List My Site](https://listmy.site/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Manual submission of your SaaS to 100+ high-authority directories for backlinks, Domain Rating and AI visibility | **6% OFF** the 100+ directories plan ($169 → $159) · code `GETCITED10` | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 
 ## 📣 Marketing, Social & Lead Gen
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -633,9 +633,9 @@ Add it to your website, README, or launch post:
 | [BetterDisplay](https://betterdisplay.pro/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Fine-tune scaling and brightness on your Mac's displays | ♾️ **33% OFF** Pro, one-time purchase with at least 2 years of free updates · code `BFCM2026` | ⏳ Nov 26, 2026 - Dec 1, 2026 |
 | [Dockspace](https://getdock.space/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Native macOS Dock replacement and widget bar with 174 live widgets, AI coding-agent quota meters, a cache cleaner and a notch clipboard shelf | 💸 ♾️ **50% OFF** all Pro plans (Lifetime $19.99 → $9.99, Forever $49.99 → $24.99, Yearly $11.99 → $5.99) · code `BLACKFRIDAY2026` (auto-applied) | 🟢 Nov 18, 2026 - Dec 1, 2026 |
 | [Zeptap](https://zeptap.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac app that lets Claude, Codex or any MCP agent use your real iPhone and its apps, with no Xcode and nothing to install on the phone | 💸 ♾️ **50% OFF** every plan (Lifetime $199 → $99, Lifetime Plus for 5 iPhones $399 → $199) · no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
-| [Ejectify 2](https://ejectify.app/?utm_source=bf2026-shortlisted) | Unmounts external drives before your Mac sleeps and remounts them when it wakes | ♾️ **29% OFF** one-time purchase (€6.99 → €4.99) · code `BLACKFRIDAY` (auto-applied) | Nov 24, 2026 - Nov 30, 2026 |
-| [Paste Formatter](https://paste-formatter.app/?utm_source=bf2026-shortlisted) | Removes unwanted fonts and colors from pasted text while keeping links and lists | ♾️ **40% OFF** one-time purchase (€4.99 → €2.99) · code `BLACKFRIDAY` (auto-applied) | Nov 24, 2026 - Nov 30, 2026 |
-| [Backup Status](https://backupstatus.app/?utm_source=bf2026-shortlisted) | Shows when Time Machine last backed up your Mac, right on your desktop | ♾️ **40% OFF** one-time purchase (€4.99 → €2.99) · code `BLACKFRIDAY` (auto-applied) | Nov 24, 2026 - Nov 30, 2026 |
+| [Ejectify 2](https://ejectify.app/?utm_source=bf2026-shortlisted) | Unmounts external drives before your Mac sleeps and remounts them when it wakes | ♾️ **29% OFF** one-time purchase (€6.99 → €4.99) · code `BLACKFRIDAY` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
+| [Paste Formatter](https://paste-formatter.app/?utm_source=bf2026-shortlisted) | Removes unwanted fonts and colors from pasted text while keeping links and lists | ♾️ **40% OFF** one-time purchase (€4.99 → €2.99) · code `BLACKFRIDAY` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
+| [Backup Status](https://backupstatus.app/?utm_source=bf2026-shortlisted) | Shows when Time Machine last backed up your Mac, right on your desktop | ♾️ **40% OFF** one-time purchase (€4.99 → €2.99) · code `BLACKFRIDAY` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -818,7 +818,7 @@ Add it to your website, README, or launch post:
 | [truediscount](https://emirmrkaljevic.github.io/truediscount/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Free, open-source Firefox add-on and userscript that checks if a Black Friday discount in an EU shop is real by comparing it with the shop's lowest price of the last 30 days | **FREE** · open source (MIT), no account, prices stay in your browser | 🟢 Nov 22, 2026 - Dec 1, 2026 |
 | [Oasis: Sleep & Nature Sounds](https://apps.apple.com/app/apple-store/id6759493932?pt=124024007&ct=bf_lists&mt=8&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Nature sound mixer for iPhone with 120 field recordings from 43 countries, binaural beats and a sleep timer | ♾️ **FREE** lifetime unlock (Oasis Infinite, normally $24.99 USD) · in-app purchase priced at $0 on the App Store, no code needed | 🟢 Nov 19, 2026 - Dec 1, 2026 |
 | [Heart: Locket & Couple Widget](https://apps.apple.com/app/heart-locket-couple-widget/id6452191888?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | iPhone widget for one special person: shows their photo and opens your conversation in your messaging app with one tap | ♾️ **FREE** for iPhone | 🟢 Oct 26, 2026 - Dec 31, 2026 |
-| [Nocala](https://apps.apple.com/app/apple-store/id6804729183?pt=118835098&ct=Nocala:%20Black%20Friday%202026&mt=8) | iOS app that turns your wake-up time into a calm evening plan, private and local with no account | ♾️ **FREE** lifetime unlock (normally $39.99) · claim on the in-app paywall, no code needed | Nov 25, 2026 - Dec 6, 2026 |
+| [Nocala](https://apps.apple.com/app/apple-store/id6804729183?pt=118835098&ct=Nocala:%20Black%20Friday%202026&mt=8&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | iOS app that turns your wake-up time into a calm evening plan, private and local with no account | ♾️ **FREE** lifetime unlock (normally $39.99) · claim on the in-app paywall, no code needed | 🟢 Nov 25, 2026 - Dec 6, 2026 |
 
 # 📅 Previous years
 
