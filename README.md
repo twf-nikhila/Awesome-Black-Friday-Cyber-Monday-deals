@@ -708,6 +708,7 @@ Add it to your website, README, or launch post:
 | [shepetal](https://shepetal.app/blog/black-friday-dictation-note-taking-deals?ref=twf-awesome-bf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Dictation and meeting notes for Mac that run on your Mac, with offline speech recognition | 💸 ♾️ **80% OFF** lifetime licence (€24 → €4.80) · code `BLACKFRIDAY` | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [Focusito](https://apps.apple.com/us/app/focusito-lofi-pomodoro-timer/id1473808464?ct=bf26_twf&mt=12) | Mac-native Pomodoro timer with a built-in LoFi player and ambient sounds | 💸 ♾️ **50% OFF** the full version, one-time purchase ($9.99 → $4.99) · Mac App Store price, no code | Nov 26, 2026 - Dec 1, 2026 |
 | [Mochi Type](https://apps.apple.com/us/app/mochi-type-typing-practice/id6766949692?ct=bf26_twf&mt=12) | Typing trainer for Mac: a guided touch-typing course plus practice on real words in 21 languages, on your own keyboard layout | 💸 ♾️ **54% OFF** one-time unlock ($12.99 → $5.99) · Mac App Store price, no code | Nov 26, 2026 - Dec 1, 2026 |
+| [Kiri](https://project-kiri.com/pricing?utm_source=twf-nikhila&utm_medium=list&utm_campaign=bf2026) | Focus timer in one browser tab, with a task list and background sounds such as rain and brown noise | 💸 ♾️ **50% OFF** lifetime (€39 → €19.50) · code `BF2026` | Nov 25, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
