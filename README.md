@@ -478,6 +478,8 @@ Add it to your website, README, or launch post:
 | [Synap402](https://synap402.com/?utm_source=github&utm_medium=awesome-bfcm&utm_campaign=black-friday-2026) | One OpenAI-compatible API key for open models (DeepSeek, Qwen, GLM, Gemma, gpt-oss), with zero data retention | **$1 for your first 7 days** on the Start plan (then $20/mo) · **25% extra credit** on every card purchase · no code needed | 🟢 Nov 1, 2026 - Nov 30, 2026 |
 | [GridPin](https://gridpin.dev/buy?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#snapshot) | Offline geocoder for 13 countries: one file per country, no API key, addresses never leave your machine | ♾️ **40% OFF** the one-time Snapshot ($199 → $119, paid in USDC) · auto-applied | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Spring Prompt](https://springprompt.com/plans?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Tests every LLM prompt in your app on other models and wordings, and shows when a cheaper model or a prompt fix would do | **40% OFF** first 3 months of either monthly plan (Basic $49 → $29.40/mo, Pro $200 → $120/mo) · code `BF2026` · new subscriptions | 🟢 Nov 25, 2026 - Dec 1, 2026 |
+| [surl.li](https://surl.li/en) | URL shortener with custom domains, QR codes, click analytics, API, and MCP server for AI agents. | 💸 60% OFF all plans · no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
+
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
