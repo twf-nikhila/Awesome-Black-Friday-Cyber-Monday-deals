@@ -370,6 +370,7 @@ Add it to your website, README, or launch post:
 | [Adstudio](https://useadstudio.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI ad management for Google Ads, Meta Ads, TikTok Ads and more: build and optimize campaigns across platforms in one workspace | 💸 **50% OFF** first year on yearly plans · no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [BetterMerge](https://bettermerge.com/pricing?billing=year&utm_source=awesome-bfcm-twf&utm_medium=deal-list&utm_campaign=blackfriday2026) | Mail merge for Gmail and Google Sheets: personalized emails from your own Gmail, with scheduling, per-person attachments and open and click tracking | 💸 **50% OFF** first year of any yearly plan (Lite $39.95, Plus $84.95, Pro $149.95) · no code needed | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 | [innernote](https://www.innernote.space/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Grow your LinkedIn personal brand on autopilot | **40% OFF** the annual plan · code `BLACKFRIDAY40` | 🟢 Nov 26, 2026 - Dec 4, 2026 |
+| [MailSketch](https://mailsketch.com/?utm_source=twf_nikhila&utm_medium=directory&utm_campaign=bf2026) | Email template builder: 1,200+ templates, pre-send checks and export to Klaviyo, Mailchimp, Brevo or MailerLite | ♾️ **Lifetime plan from $99 once** (Team $249, Business $499) · no code needed | Nov 26, 2026 - Dec 31, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
