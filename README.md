@@ -832,6 +832,7 @@ Add it to your website, README, or launch post:
 | [Live Intentionally](https://lifemathmoney.gumroad.com/l/tough/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 90-day program to fix your discipline, fitness and habits, with a workbook and 5-hour audiobook | 💸 ♾️ **50% OFF** ($29.99 → $14.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [No-BS Resume Guide](https://lifemathmoney.gumroad.com/l/resume/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Short, practical guide to writing a resume that gets interviews | 💸 ♾️ **50% OFF** ($9.99 → $4.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [VimNinja](https://www.vimninja.com/upgrade?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on Vim course where every lesson runs in a real Vim editor in your browser, from first motions to your own Neovim config | ♾️ **34% OFF** lifetime Pro ($29 → $19) · auto-applied | 🟢 Nov 25, 2026 - Nov 30, 2026 |
+| [SecDim](https://secdim.com/pricing) | Secure coding wargames: find, exploit and fix real-world vulnerabilities in hands-on labs, and learn to verify AI-generated code | **35% OFF** Professional ($239.88 → $155.92/yr) · code `APPSECONABUDGET2026` · **25% OFF** Team ($348 → $261/user/yr) · code `APPSECTEAM2026` | Nov 20, 2026 - Dec 5, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
