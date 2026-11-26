@@ -685,6 +685,7 @@ Add it to your website, README, or launch post:
 | [Tidyware](https://tidyware.app/) | 5 native Mac apps from one indie studio: on-device transcription, Apple Notes for Claude and Cursor, a duplicate finder, a batch HEIC/WebP converter and a keep-awake menu bar app | ♾️ **30% OFF** every one-time licence ($19 → $13.30, $15 → $10.50, $9 → $6.30) · code `BF2026` | Nov 24, 2026 - Dec 1, 2026 |
 | [AbcTab](https://solocraft.app/abctab) | Native macOS ⌘-Tab switcher with first-letter jump and multi-window and terminal tab lists, with no Screen Recording permission and no telemetry | 💸 ♾️ **50% OFF** lifetime licence ($9.99 → $4.99) · code `BF50` | Nov 27, 2026 - Dec 2, 2026 |
 | [Switchy](https://getswitchy.app/black-friday) | Menu bar utility with 31 one-click Mac switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits | 💸 ♾️ **50% OFF** one-time purchase ($4.99 → $2.49, up to 3 Macs) · code `BLACKFRIDAY50` (pre-filled by the Buy button) · free 7-day trial | Nov 23, 2026 - Dec 1, 2026 |
+| [PasteNotch](https://pastenotch.com/black-friday) | The clipboard manager in your notch: every clip (text, links, images, files) searchable, one shortcut away | 💸 ♾️ **50% OFF** one-time purchase ($4.99 → $2.49) · code `BLACKFRIDAY50` (pre-filled by the Buy button) · 14-day free trial | Nov 23, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
