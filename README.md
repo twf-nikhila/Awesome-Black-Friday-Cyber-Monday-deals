@@ -723,6 +723,7 @@ Add it to your website, README, or launch post:
 | [Kiri](https://project-kiri.com/pricing?utm_source=twf-nikhila&utm_medium=list&utm_campaign=bf2026) | Focus timer in one browser tab, with a task list and background sounds such as rain and brown noise | 💸 ♾️ **50% OFF** lifetime (€39 → €19.50) · code `BF2026` | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Do Everything](https://doeverything.app/pricing?utm_source=twf-nikhila&utm_medium=github&utm_campaign=bf26) | Tasks, notes, a guided daily journal and a day planner in one app, for iPhone, Android and the web | 💸 **50% OFF** the first year of PRO ($39.99 → $19.99) · no code needed | 🟢 Nov 24, 2026 - Dec 6, 2026 |
 | [Astrolinks](https://astrolinks.org/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Automatic time tracking by client for Mac and Windows that writes your end-of-day client reports and invoices, with no screenshots | 💸 **60% OFF** first year of Pro Yearly ($90 → $36) · code `BF60YEAR` (auto-applied) | 🟢 Nov 26, 2026 - Dec 1, 2026 |
+| [FreeAppsHub](https://free-apps-hub.pages.dev/) | Free tools, apps and guides — 21 in-browser tools, GTA 6 and Free Fire guides, planner and printables | 💸 ♾ **50% OFF** all paid guides and packs · code `BLACKFRIDAY50` | Nov 26, 2026 - Nov 30, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
