@@ -91,23 +91,28 @@ Add it to your website, README, or launch post:
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://formnx.com"><img src="assets/sponsors/formnx.svg" width="72" height="72" alt="FormNX"></a><br>
       <a href="https://formnx.com"><b>FormNX</b></a><br>
       The most affordable no-code drag-n-drop form builder<br>
       🔥 <b>50% OFF</b> all plans · code <code>BFCM26</code>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://blackfriday.lifemathmoney.com/"><img src="assets/sponsors/strongland.png" width="72" height="72" alt="STRONGLAND Publishing"></a><br>
       <a href="https://blackfriday.lifemathmoney.com/"><b>STRONGLAND Publishing</b></a><br>
       Learn from people with real life experience with what they teach<br>
       🔥 <b>Black Friday deal</b> · code <code>BFCM26</code>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="25%">
       <a href="https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026featured"><img src="assets/sponsors/gojiberry.png" width="72" height="72" alt="Gojiberry.ai"></a><br>
       <a href="https://gojiberry.ai/?utm_source=github&utm_medium=nikhila&utm_campaign=bf2026featured"><b>Gojiberry.ai</b></a><br>
       AI sales agent that finds high-intent prospects and contacts them for you, 24/7<br>
       🔥 <b>40% OFF</b> yearly plan · no code needed
+    </td>
+    <td align="center" width="25%">
+      <a href="Sponsorship.md"><b>Your logo here</b></a><br>
+      Reach developers, indie hackers and founders hunting for deals this Black Friday<br><br>
+      <a href="Sponsorship.md"><b>Become a sponsor →</b></a>
     </td>
   </tr>
 </table>
