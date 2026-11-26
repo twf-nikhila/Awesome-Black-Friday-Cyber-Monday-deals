@@ -675,6 +675,7 @@ Add it to your website, README, or launch post:
 | [CacheFlo](https://www.cacheflo.net/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Privacy-focused Mac cleaner: cleans junk and app leftovers, finds duplicates and checks your Mac's security, sending nothing anywhere | ♾️ **20% OFF** one-time licence (€39.99 → €31.99) · code `CYBERMONDAY26` | ⏳ Nov 27, 2026 - Nov 30, 2026 |
 | [Mole](https://mole.fit/?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Native Mac cleaner from the maker of the open-source Mole CLI: clears caches and old AI tool data, uninstalls and updates apps, maps your disk; also on Windows | ♾️ **20% OFF** one-time ($19 → $15.20) · auto-applied | Nov 25, 2026 - Nov 30, 2026 |
 | [Clearpane](https://getclearpane.app/?utm_source=twf-bf&utm_campaign=bf2026#pricing) | Activity Monitor in plain English: one sentence on what's slowing your Mac, every process explained, and whether it's safe to quit | 💸 ♾️ **53% OFF** one-time ($19 → $9, 2 Macs) · no code needed | 🟢 Nov 26, 2026 - Dec 1, 2026 |
+| [Falconry Drive](https://falconrylabs.com/drive/) | Read and write NTFS drives on macOS 27 (Apple silicon), built on Apple's FSKit with no kernel extension and writing the NTFS journal the way Windows does | **30% OFF** the first year of the yearly licence ($27.99 → $19.60), renews at $27.99 · code `BLACKFRIDAY30` · 14-day free trial | Nov 26, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
