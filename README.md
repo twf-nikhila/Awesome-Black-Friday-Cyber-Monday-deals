@@ -371,6 +371,7 @@ Add it to your website, README, or launch post:
 | [BetterMerge](https://bettermerge.com/pricing?billing=year&utm_source=awesome-bfcm-twf&utm_medium=deal-list&utm_campaign=blackfriday2026) | Mail merge for Gmail and Google Sheets: personalized emails from your own Gmail, with scheduling, per-person attachments and open and click tracking | 💸 **50% OFF** first year of any yearly plan (Lite $39.95, Plus $84.95, Pro $149.95) · no code needed | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 | [innernote](https://www.innernote.space/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Grow your LinkedIn personal brand on autopilot | **40% OFF** the annual plan · code `BLACKFRIDAY40` | 🟢 Nov 26, 2026 - Dec 4, 2026 |
 | [Startup Buffer](https://startupbuffer.com/promote) | Startup directory with 33,000+ listings, offering homepage features, newsletter and social placements for your product | 💸 **50% OFF** homepage features (2 weeks $49 → $24.50, 3 months $299 → $149.50) · auto-applied | Nov 26, 2026 - Dec 4, 2026 |
+| [HeadsUp](https://headsup.bot/black-friday?ref=twf) | AI agent that tells you the day a competitor changes its pricing, features or messaging | ♾️ **Lifetime deal**: Pro $349 once (normally $468/yr), Solo $199, Team $599 | Nov 25, 2026 - Nov 30, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
