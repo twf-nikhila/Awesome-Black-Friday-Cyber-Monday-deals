@@ -561,6 +561,7 @@ Add it to your website, README, or launch post:
 | [A1](https://www.a1.gallery/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026) | Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours | **33% OFF** Pro yearly ($72 → $48 a year, kept while subscribed) · no code needed | 🟢 Nov 19, 2026 - Nov 30, 2026 |
 | [ReUI](https://reui.io/pricing?utm_source=twf-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | The agent-ready layer for shadcn/ui | **30% OFF** every licence · no code needed | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [Jiggicons](https://jiggicons.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | 6,010 animated SVG icons in 4 styles for React, React Native, Vue, Flutter, SwiftUI and Jetpack Compose, with a CLI, shadcn registry and MCP server | ♾️ **Up to 40% OFF** lifetime licences (Personal $79 → $49, Team $199 → $129, Business $499 → $299) · no code needed | 🟢 Nov 23, 2026 - Dec 7, 2026 |
+| [Pixels71](https://www.pixels71.com/pricing) | Website templates for Framer, Next.js and Astro, plus Figma design files | ♾️ **40% OFF** the All-Access Pass, $59 once (was $99) · no code needed | Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
