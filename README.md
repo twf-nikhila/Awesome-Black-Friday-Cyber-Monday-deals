@@ -659,6 +659,7 @@ Add it to your website, README, or launch post:
 | [EasySwitch](https://easyswitch.realbrain.cc/pricing) | Software KVM for macOS, Windows and Linux: one keyboard and mouse across your computers on the local network, with a shared clipboard and file transfer | 💸 ♾️ **34–51% OFF** one-time purchase (Pro $49 → $29) · auto-applied | Nov 27, 2026 - Nov 30, 2026 |
 | [Horcrux Email Backup](https://thehorcrux.com/pricing/#black-friday-2026) | Back up Gmail, Outlook and IMAP mail on your Mac, search saved messages offline and restore them to another mailbox | ♾️ **30% OFF** Horcrux 5 one-time purchase ($49.99 → $34.99) · code `BLACKFRIDAY2026` | Nov 25, 2026 - Dec 1, 2026 |
 | [Lunille](https://lunille.com/?ref=gh-twf-bfcm) | Mac notch app where Luni, a little moon behind the camera, reacts to your music, AirPods and the weather | ♾️ **Launch price $9.99** one-time, up to 3 Macs ($14.99 from Dec 1) · auto-applied | Oct 17, 2026 - Nov 30, 2026 |
+| [DockMagic](https://dockmagic.app/?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=bf_2026#dm-pricing) | A second Dock for your Mac that keeps live widgets, from Claude and Codex usage limits to site uptime, next to your apps | 💸 ♾️ **Up to 50% OFF** lifetime licences (1 Mac $25 → $12.99, 2 Macs $40 → $19.99, 3 Macs $60 → $29.99) · auto-applied | Nov 3, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
