@@ -654,6 +654,7 @@ Add it to your website, README, or launch post:
 | [FileBo](https://apps.apple.com/us/app/filebo-recent-files-items/id6785596150?ct=bf26_twf&mt=12&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Pop-up window with the files and folders you recently used, saved or downloaded on your Mac, ready to open or drag into any app | 💸 ♾️ **50% OFF** one-time unlock ($9.99 → $4.99) · Mac App Store price, no code | ⏳ Nov 26, 2026 - Dec 1, 2026 |
 | [Stepfinch](https://stepfinch.app/?utm_source=twf-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide with a screenshot of every click, with private info blurred | ♾️ **26% OFF** lifetime ($39 → $29, 3 Macs) · auto-applied | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [EasySwitch](https://easyswitch.realbrain.cc/pricing) | Software KVM for macOS, Windows and Linux: one keyboard and mouse across your computers on the local network, with a shared clipboard and file transfer | 💸 ♾️ **34–51% OFF** one-time purchase (Pro $49 → $29) · auto-applied | Nov 27, 2026 - Nov 30, 2026 |
+| [Horcrux Email Backup](https://thehorcrux.com/pricing/#black-friday-2026) | Back up Gmail, Outlook and IMAP mail on your Mac, search saved messages offline and restore them to another mailbox | ♾️ **30% OFF** Horcrux 5 one-time purchase ($49.99 → $34.99) · code `BLACKFRIDAY2026` | Nov 25, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
