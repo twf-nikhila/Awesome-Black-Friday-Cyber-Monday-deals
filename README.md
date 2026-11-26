@@ -648,6 +648,7 @@ Add it to your website, README, or launch post:
 | [Backup Status](https://backupstatus.app/?utm_source=bf2026-shortlisted) | Shows when Time Machine last backed up your Mac, right on your desktop | ♾️ **40% OFF** one-time purchase (€4.99 → €2.99) · code `BLACKFRIDAY` (auto-applied) | 🟢 Nov 24, 2026 - Nov 30, 2026 |
 | [FileBo](https://apps.apple.com/us/app/filebo-recent-files-items/id6785596150?ct=bf26_twf&mt=12&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Pop-up window with the files and folders you recently used, saved or downloaded on your Mac, ready to open or drag into any app | 💸 ♾️ **50% OFF** one-time unlock ($9.99 → $4.99) · Mac App Store price, no code | ⏳ Nov 26, 2026 - Dec 1, 2026 |
 | [Stepfinch](https://stepfinch.app/?utm_source=twf-bf&utm_campaign=bf2026#pricing) | Mac app that turns a task you do once into a step-by-step guide with a screenshot of every click, with private info blurred | ♾️ **26% OFF** lifetime ($39 → $29, 3 Macs) · auto-applied | 🟢 Nov 23, 2026 - Dec 1, 2026 |
+| [DockMagic](https://dockmagic.app/?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=bf_2026#dm-pricing) | A second Dock for your Mac that keeps live widgets, from Claude and Codex usage limits to site uptime, next to your apps | 💸 ♾️ **Up to 50% OFF** lifetime licenses (1 Mac $25 → $12.99, 2 Macs $40 → $19.99, 3 Macs $60 → $29.99) · auto-applied, no code | Nov 3, 2026 - Nov 30, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
