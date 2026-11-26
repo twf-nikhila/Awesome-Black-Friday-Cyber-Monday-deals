@@ -725,6 +725,7 @@ Add it to your website, README, or launch post:
 | [Do Everything](https://doeverything.app/pricing?utm_source=twf-nikhila&utm_medium=github&utm_campaign=bf26) | Tasks, notes, a guided daily journal and a day planner in one app, for iPhone, Android and the web | 💸 **50% OFF** the first year of PRO ($39.99 → $19.99) · no code needed | 🟢 Nov 24, 2026 - Dec 6, 2026 |
 | [Astrolinks](https://astrolinks.org/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Automatic time tracking by client for Mac and Windows that writes your end-of-day client reports and invoices, with no screenshots | 💸 **60% OFF** first year of Pro Yearly ($90 → $36) · code `BF60YEAR` (auto-applied) | 🟢 Nov 26, 2026 - Dec 1, 2026 |
 | [DoMyWork](https://domywork.ai/bf2026/) | Workspace with databases, docs, tasks and dashboards, where your team and AI agents work together | **First 3 months free** for new companies, all features and unlimited agents · no card, no code needed | Nov 26, 2026 - Nov 30, 2026 |
+| [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12) | Colorful tabs at the edge of your Mac hold each project's files, PDFs and notebook, with animated desktop pets living on them | ♾️ **Black Friday price $12.99** one-time on the Mac App Store · no code needed | Nov 25, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
