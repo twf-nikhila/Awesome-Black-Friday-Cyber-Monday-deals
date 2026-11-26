@@ -679,6 +679,7 @@ Add it to your website, README, or launch post:
 | [Clearpane](https://getclearpane.app/?utm_source=twf-bf&utm_campaign=bf2026#pricing) | Activity Monitor in plain English: one sentence on what's slowing your Mac, every process explained, and whether it's safe to quit | 💸 ♾️ **53% OFF** one-time ($19 → $9, 2 Macs) · no code needed | 🟢 Nov 26, 2026 - Dec 1, 2026 |
 | [Falconry Drive](https://falconrylabs.com/drive/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Read and write NTFS drives on macOS 27 (Apple silicon), built on Apple's FSKit with no kernel extension and writing the NTFS journal the way Windows does | **30% OFF** the first year of the yearly licence ($27.99 → $19.60), renews at $27.99 · code `BLACKFRIDAY30` · 14-day free trial | 🟢 Nov 26, 2026 - Dec 1, 2026 |
 | [Tidyware](https://tidyware.app/) | 5 native Mac apps from one indie studio: on-device transcription, Apple Notes for Claude and Cursor, a duplicate finder, a batch HEIC/WebP converter and a keep-awake menu bar app | ♾️ **30% OFF** every one-time licence ($19 → $13.30, $15 → $10.50, $9 → $6.30) · code `BF2026` | Nov 24, 2026 - Dec 1, 2026 |
+| [AbcTab](https://solocraft.app/abctab) | Native macOS ⌘-Tab switcher with first-letter jump and multi-window and terminal tab lists, with no Screen Recording permission and no telemetry | 💸 ♾️ **50% OFF** lifetime licence ($9.99 → $4.99) · code `BF50` | Nov 27, 2026 - Dec 2, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
