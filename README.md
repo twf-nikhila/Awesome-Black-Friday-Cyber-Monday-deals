@@ -420,6 +420,7 @@ Add it to your website, README, or launch post:
 | [BugSmash](https://bugsmash.io/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Visual feedback on live websites, videos, PDFs and images; clients comment from a link with no account | 💸 **50% OFF** first year on yearly plans (Starter $228 → $114/yr) · auto-applied | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Autentique](https://www.autentique.com.br/en?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | E-signature platform with unlimited documents, users and signers, plus an API | **30% OFF** annual Professional plan ($179 → $119/year) · auto-applied · extra 20% off with code `BFF61H8` | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [Cogitas](https://cogitas.ai/en/black-friday/) | AI assistant that answers customer questions from your website and documents, cites sources and hands off to your team | **40% OFF** the first billing period of new subscriptions (first year on annual, first month on monthly) · code `BLACKFRIDAY40` | Nov 25, 2026 - Dec 1, 2026 |
+| [Thastock](https://thastock.com/black-friday) | AI second opinion on any US stock: the strongest bull case, bear case and a verdict with a confidence score, backed by live data · free plan available | **44% OFF** Pro for as long as you stay subscribed ($9 → $5/mo) · no code needed | Nov 26, 2026 - Nov 30, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
