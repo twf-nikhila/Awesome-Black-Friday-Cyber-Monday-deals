@@ -689,6 +689,10 @@ Add it to your website, README, or launch post:
 | [AbcTab](https://solocraft.app/abctab?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS ⌘-Tab switcher with first-letter jump and multi-window and terminal tab lists, with no Screen Recording permission and no telemetry | 💸 ♾️ **50% OFF** lifetime licence ($9.99 → $4.99) · code `BF50` | ⏳ Nov 27, 2026 - Dec 2, 2026 |
 | [Switchy](https://getswitchy.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Menu bar utility with 31 one-click Mac switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits | 💸 ♾️ **50% OFF** one-time purchase ($4.99 → $2.49, up to 3 Macs) · code `BLACKFRIDAY50` (pre-filled by the Buy button) · free 7-day trial | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [PasteNotch](https://pastenotch.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The clipboard manager in your notch: every clip (text, links, images, files) searchable, one shortcut away | 💸 ♾️ **50% OFF** one-time purchase ($4.99 → $2.49) · code `BLACKFRIDAY50` (pre-filled by the Buy button) · 14-day free trial | 🟢 Nov 23, 2026 - Dec 1, 2026 |
+| [Once Upon Your Mac](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git) | A collection of 12 indie Mac apps at a fairy-tale price. | 💸 **75% OFF** the full bundle ($239 → $59.99), or 50% OFF individual apps | Nov 26 - Dec 10, 2026 |
+| [DaisyDisk](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git#DAISYDISK) | Find out what’s taking up your disk space and recover it in the most efficient and easy way. | 💸 **50% OFF** ($10 → $5) | Nov 26 - Dec 10, 2026 |
+| [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git#UNCLUTTER) | Your Mac’s new favorite shelf. Notes, files, and clipboard history — one gesture away. | 💸 **50% OFF** ($30 → $15) | Nov 26 - Dec 10, 2026 |
+
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
