@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>682 deals listed</b> · Updated Nov 26, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>690 deals listed</b> · Updated Nov 26, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -66,14 +66,14 @@ Add it to your website, README, or launch post:
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (40) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (37) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (27) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (51) - Social media, lead finding & outreach, email marketing, launch directories
-* 💼 [Business, Finance & Operations](#-business-finance--operations) (57) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (69) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (52) - Social media, lead finding & outreach, email marketing, launch directories
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (58) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (70) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (20) - Code templates & components to ship a SaaS or app faster
-* 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (29) - Tailwind/React components, Figma kits, icons, themes, animations
+* 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (30) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (20) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (83) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
-* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (62) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (86) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (63) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (30) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (32) - Fitness, nutrition, travel, home & personal apps
 * 📚 [Courses & Books](#-courses--books) (37) - Courses, books, certifications & guides
@@ -369,7 +369,7 @@ Add it to your website, README, or launch post:
 | [utobo Email](https://utobo.com/email/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Transactional API/SMTP email, marketing campaigns with AI-assisted writing and cold outreach for developers and small teams | 💸 **50% OFF** first year of any annual plan · code `BFF50` · new customers | 🟢 Nov 21, 2026 - Nov 30, 2026 |
 | [Adstudio](https://useadstudio.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI ad management for Google Ads, Meta Ads, TikTok Ads and more: build and optimize campaigns across platforms in one workspace | 💸 **50% OFF** first year on yearly plans · no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [BetterMerge](https://bettermerge.com/pricing?billing=year&utm_source=awesome-bfcm-twf&utm_medium=deal-list&utm_campaign=blackfriday2026) | Mail merge for Gmail and Google Sheets: personalized emails from your own Gmail, with scheduling, per-person attachments and open and click tracking | 💸 **50% OFF** first year of any yearly plan (Lite $39.95, Plus $84.95, Pro $149.95) · no code needed | 🟢 Nov 26, 2026 - Nov 30, 2026 |
-| [innernote](https://www.innernote.space/) | Grow your LinkedIn personal brand on autopilot | **40% OFF** the annual plan · code `BLACKFRIDAY40` | Nov 26, 2026 - Dec 4, 2026 |
+| [innernote](https://www.innernote.space/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Grow your LinkedIn personal brand on autopilot | **40% OFF** the annual plan · code `BLACKFRIDAY40` | 🟢 Nov 26, 2026 - Dec 4, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -431,7 +431,7 @@ Add it to your website, README, or launch post:
 | [Cogitas](https://cogitas.ai/en/black-friday/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI assistant that answers customer questions from your website and documents, cites sources and hands off to your team | **40% OFF** the first billing period of new subscriptions (first year on annual, first month on monthly) · code `BLACKFRIDAY40` | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Thastock](https://thastock.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI second opinion on any US stock: the strongest bull case, bear case and a verdict with a confidence score, backed by live data · free plan available | **44% OFF** Pro for as long as you stay subscribed ($9 → $5/mo) · no code needed | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 | [BrassWell](https://brasswell.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Bookkeeping for the self-employed on iPhone, iPad, Android and web: income, expenses, receipts, mileage, invoices and a running tax set-aside | **25% OFF** first year of Pro yearly ($299 → $224.25) · code `BLACKFRIDAY25` · new subscribers | 🟢 Nov 23, 2026 - Nov 30, 2026 |
-| [fynk](https://fynk.com/en/black-week/) | Contract management with AI: draft, review, sign and track every contract in one place | 💸 **50% OFF** any plan for the first 12 months (Essential €19 → €9.50/user/mo, billed yearly) · up to 5 users, new customers · code `BL4CKWEEK` | 🟢 Nov 25, 2026 - Dec 4, 2026 |
+| [fynk](https://fynk.com/en/black-week/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Contract management with AI: draft, review, sign and track every contract in one place | 💸 **50% OFF** any plan for the first 12 months (Essential €19 → €9.50/user/mo, billed yearly) · up to 5 users, new customers · code `BL4CKWEEK` | 🟢 Nov 25, 2026 - Dec 4, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -563,7 +563,7 @@ Add it to your website, README, or launch post:
 | [A1](https://www.a1.gallery/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026) | Hand-picked gallery of real, live websites for design inspiration, with sections, full pages, fonts and colours | **33% OFF** Pro yearly ($72 → $48 a year, kept while subscribed) · no code needed | 🟢 Nov 19, 2026 - Nov 30, 2026 |
 | [ReUI](https://reui.io/pricing?utm_source=twf-bfcm&utm_medium=directory&utm_campaign=reui-nov26) | The agent-ready layer for shadcn/ui | **30% OFF** every licence · no code needed | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [Jiggicons](https://jiggicons.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | 6,010 animated SVG icons in 4 styles for React, React Native, Vue, Flutter, SwiftUI and Jetpack Compose, with a CLI, shadcn registry and MCP server | ♾️ **Up to 40% OFF** lifetime licences (Personal $79 → $49, Team $199 → $129, Business $499 → $299) · no code needed | 🟢 Nov 23, 2026 - Dec 7, 2026 |
-| [Pixels71](https://www.pixels71.com/pricing) | Website templates for Framer, Next.js and Astro, plus Figma design files | ♾️ **40% OFF** the All-Access Pass, $59 once (was $99) · no code needed | Nov 24, 2026 - Dec 1, 2026 |
+| [Pixels71](https://www.pixels71.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Website templates for Framer, Next.js and Astro, plus Figma design files | ♾️ **40% OFF** the All-Access Pass, $59 once (was $99) · no code needed | 🟢 Nov 24, 2026 - Dec 1, 2026 |
 
 ## 🌐 Website Builders, No-Code & WordPress
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -675,9 +675,9 @@ Add it to your website, README, or launch post:
 | [Lunille](https://lunille.com/?ref=gh-twf-bfcm&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Mac notch app where Luni, a little moon behind the camera, reacts to your music, AirPods and the weather | ♾️ **Launch price $9.99** one-time, up to 3 Macs ($14.99 from Dec 1) · auto-applied | 🟢 Oct 17, 2026 - Nov 30, 2026 |
 | [DockMagic](https://dockmagic.app/?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=bf_2026#dm-pricing) | A second Dock for your Mac that keeps live widgets, from Claude and Codex usage limits to site uptime, next to your apps | 💸 ♾️ **Up to 50% OFF** lifetime licences (1 Mac $25 → $12.99, 2 Macs $40 → $19.99, 3 Macs $60 → $29.99) · auto-applied | 🟢 Nov 3, 2026 - Nov 30, 2026 |
 | [CacheFlo](https://www.cacheflo.net/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Privacy-focused Mac cleaner: cleans junk and app leftovers, finds duplicates and checks your Mac's security, sending nothing anywhere | ♾️ **20% OFF** one-time licence (€39.99 → €31.99) · code `CYBERMONDAY26` | ⏳ Nov 27, 2026 - Nov 30, 2026 |
-| [Mole](https://mole.fit/?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Native Mac cleaner from the maker of the open-source Mole CLI: clears caches and old AI tool data, uninstalls and updates apps, maps your disk; also on Windows | ♾️ **20% OFF** one-time ($19 → $15.20) · auto-applied | Nov 25, 2026 - Nov 30, 2026 |
+| [Mole](https://mole.fit/?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Native Mac cleaner from the maker of the open-source Mole CLI: clears caches and old AI tool data, uninstalls and updates apps, maps your disk; also on Windows | ♾️ **20% OFF** one-time ($19 → $15.20) · auto-applied | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [Clearpane](https://getclearpane.app/?utm_source=twf-bf&utm_campaign=bf2026#pricing) | Activity Monitor in plain English: one sentence on what's slowing your Mac, every process explained, and whether it's safe to quit | 💸 ♾️ **53% OFF** one-time ($19 → $9, 2 Macs) · no code needed | 🟢 Nov 26, 2026 - Dec 1, 2026 |
-| [Falconry Drive](https://falconrylabs.com/drive/) | Read and write NTFS drives on macOS 27 (Apple silicon), built on Apple's FSKit with no kernel extension and writing the NTFS journal the way Windows does | **30% OFF** the first year of the yearly licence ($27.99 → $19.60), renews at $27.99 · code `BLACKFRIDAY30` · 14-day free trial | Nov 26, 2026 - Dec 1, 2026 |
+| [Falconry Drive](https://falconrylabs.com/drive/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Read and write NTFS drives on macOS 27 (Apple silicon), built on Apple's FSKit with no kernel extension and writing the NTFS journal the way Windows does | **30% OFF** the first year of the yearly licence ($27.99 → $19.60), renews at $27.99 · code `BLACKFRIDAY30` · 14-day free trial | 🟢 Nov 26, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -744,7 +744,7 @@ Add it to your website, README, or launch post:
 | [DoMyWork](https://domywork.ai/bf2026/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Workspace with databases, docs, tasks and dashboards, where your team and AI agents work together | **First 3 months free** for new companies, all features and unlimited agents · no card, no code needed | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 | [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Colorful tabs at the edge of your Mac hold each project's files, PDFs and notebook, with animated desktop pets living on them | ♾️ **Black Friday price $12.99** one-time on the Mac App Store · no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Speakmac](https://www.speakmac.app/buy?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private, offline voice dictation in any Mac app and bot-free meeting notes with on-device speech recognition | ♾️ **35% OFF** one-time Mac licences (1 Mac $29 → $18.85, 2 Macs $39 → $25.35) · code `BF2026` (auto-applied) | 🟢 Nov 26, 2026 - Dec 7, 2026 |
-| [Sidekick](https://heysidekick.app/black-friday/?utm_source=twf-deals&utm_medium=directory&utm_campaign=black-friday-2026) | Google Tasks in Claude, ChatGPT and other AI apps, and as a floating list on your Mac's desktop | ♾️ **33% OFF** Premium, paid once ($9 → $6) · code `BLACKFRIDAY` | Nov 26, 2026 - Dec 4, 2026 |
+| [Sidekick](https://heysidekick.app/black-friday/?utm_source=twf-deals&utm_medium=directory&utm_campaign=black-friday-2026) | Google Tasks in Claude, ChatGPT and other AI apps, and as a floating list on your Mac's desktop | ♾️ **33% OFF** Premium, paid once ($9 → $6) · code `BLACKFRIDAY` | 🟢 Nov 26, 2026 - Dec 4, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
