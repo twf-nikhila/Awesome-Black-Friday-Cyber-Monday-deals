@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>746 deals listed</b> · Updated Nov 27, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>754 deals listed</b> · Updated Nov 27, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -64,7 +64,7 @@ Add it to your website, README, or launch post:
 
 * 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (73) - Video editing, AI video & music, screen recording, captions, transcription
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (46) - Image editing & compression, AI images, screenshots, color tools
-* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (39) - AI chat apps, writing & rewriting, knowledge assistants, resumes
+* 📝 [AI Assistants & Writing](#-ai-assistants--writing) (41) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (27) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (59) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (63) - Invoicing, expenses, customer feedback & support, e-signature, team admin
@@ -72,10 +72,10 @@ Add it to your website, README, or launch post:
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (20) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (32) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (21) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (97) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (99) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (70) - Notes, tasks, time tracking, focus & blocking, journaling, email
-* 🔐 [Security & Privacy](#-security--privacy) (30) - Pentesting, threat monitoring, encrypted email & files, privacy tools
-* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (38) - Fitness, nutrition, travel, home & personal apps
+* 🔐 [Security & Privacy](#-security--privacy) (31) - Pentesting, threat monitoring, encrypted email & files, privacy tools
+* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (41) - Fitness, nutrition, travel, home & personal apps
 * 📚 [Courses & Books](#-courses--books) (40) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (8) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (8) - Free credits, free plans, giveaways
@@ -292,8 +292,8 @@ Add it to your website, README, or launch post:
 | [Screenpipe](https://screenpipe.com/black-friday?utm_content=twf-nikhila) | Local screen and audio capture turned into searchable memory and reusable workflows for Claude, Codex and Cursor, on macOS, Windows and Linux | **20% OFF** first year of annual plans (Basic $250 → $200, Business $500 → $400/seat) · no code needed | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [Sky OS AI](https://skyrunapp.com/?src=gh-awesome-black-friday-cyber-mon&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI that does the work on your own Mac: ask from your phone or the web, and it uses your apps, files and browser, showing every step | **30% OFF** your first month on any monthly plan · auto-applied | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 | [ONE Personal Assistant](https://brazn.one/en?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The new AI personal assistant for Windows and Mac, powered by your AI of choice | 💸 **Up to 80% OFF** Personal $1/month billed annually (list $5) · Collaboration 70% off, $3/month (list $10) · Teams 66% off, $5 per user/month (list $15) | 🟢 Nov 27, 2026 - Nov 30, 2026 |
-| [VoxWrite](https://voxwrite.app/#pricing) | Voice-to-text extension for Chrome, Edge and Brave that turns what you say in any text field into a finished email, message, post or note | ♾️ **30% OFF** Lifetime (€39.99 → €27.99) · code `BF2026` · or 30% off the first 4 months of the managed plan · code `BF2026SAAS` | Nov 27, 2026 - Dec 31, 2026 |
-| [Rakazo](https://rakazo.com/black-friday) | Open-source platform for persistent AI agents, each with its own computer, memory and scheduled routines, reachable from Slack, Teams or email and working with Claude, ChatGPT or any model | **30% OFF** first year of any yearly plan (Standard $144 → $100.80/yr) · code `BLACKFRIDAY30` · new yearly subscriptions only | Nov 27, 2026 - Nov 30, 2026 |
+| [VoxWrite](https://voxwrite.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Voice-to-text extension for Chrome, Edge and Brave that turns what you say in any text field into a finished email, message, post or note | ♾️ **30% OFF** Lifetime (€39.99 → €27.99) · code `BF2026` · or 30% off the first 4 months of the managed plan · code `BF2026SAAS` | 🟢 Nov 27, 2026 - Dec 31, 2026 |
+| [Rakazo](https://rakazo.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Open-source platform for persistent AI agents, each with its own computer, memory and scheduled routines, reachable from Slack, Teams or email and working with Claude, ChatGPT or any model | **30% OFF** first year of any yearly plan (Standard $144 → $100.80/yr) · code `BLACKFRIDAY30` · new yearly subscriptions only | 🟢 Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -720,8 +720,8 @@ Add it to your website, README, or launch post:
 | [Pake](https://pake.run/?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Turns any website into a lightweight desktop app with its own icon and window on Mac, Windows and Linux, from the maker of the open-source Pake CLI | ♾️ **20% OFF** one-time ($19 → $15.20) · auto-applied | 🟢 Nov 25, 2026 - Dec 15, 2026 |
 | [KopiaLens](https://kopialens.com/pricing?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Free, open-source backup app for Windows, Mac, Linux and Docker that lets you see inside your backups and clear out what's quietly bloating them | ♾️ **30% OFF** Pro · Lifetime $50 → $35, or $14 for the first year · code `BLACKFRIDAY2026` | 🟢 Nov 27, 2026 - Jan 1, 2027 |
 | [PixaFind](https://pixafind.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Search the files on your computer by describing them, with local AI that works offline on Windows, Mac and Linux · free for one folder | 💸 ♾️ **50% OFF** Lifetime ($249 → $124.50), first year of Pro yearly ($96 → $48) or first month of Pro monthly · auto-applied | 🟢 Nov 27, 2026 - Nov 30, 2026 |
-| [SMBAct](https://smblob.com/products/smbact/?promo=BF2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Window manager and app switcher for Windows, macOS and Linux, with keyboard layouts, edge snapping and a local MCP server; one licence covers all three systems | ♾️ **30% OFF** every one-time licence (1 PC €14.99 → €10.49, 3 PCs €29.99 → €20.99) · code `BF2026` (auto-applied) | Nov 27, 2026 - Dec 31, 2026 |
-| [iKnowMyMac](https://iknowmymac.com/?utm_source=nikhila#pricing) | Menu bar app for Apple silicon Macs that tracks CPU, memory, disk, network and battery history and explains 343 macOS processes in plain English | ♾️ **Launch price $4.99** one-time (planned price $24.99) · auto-applied · or both iKnow apps for $5.99 | Nov 27, 2026 - Dec 1, 2026 |
+| [SMBAct](https://smblob.com/products/smbact/?promo=BF2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Window manager and app switcher for Windows, macOS and Linux, with keyboard layouts, edge snapping and a local MCP server; one licence covers all three systems | ♾️ **30% OFF** every one-time licence (1 PC €14.99 → €10.49, 3 PCs €29.99 → €20.99) · code `BF2026` (auto-applied) | 🟢 Nov 27, 2026 - Dec 31, 2026 |
+| [iKnowMyMac](https://iknowmymac.com/?utm_source=nikhila#pricing) | Menu bar app for Apple silicon Macs that tracks CPU, memory, disk, network and battery history and explains 343 macOS processes in plain English | ♾️ **Launch price $4.99** one-time (planned price $24.99) · auto-applied · or both iKnow apps for $5.99 | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -830,7 +830,7 @@ Add it to your website, README, or launch post:
 | [EasyGuard VPN](https://easyguard.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#deal) | No-logs WireGuard VPN for Windows, iPhone, iPad, Android and Apple TV that gets round ISP blocks and throttling | 💸 ♾️ **Up to 75% OFF** every plan · one-time payment, 10 devices · auto-applied | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [Scarlet Shark](https://scarletshark.com/promo/cybermonday2026.html?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Cyber threat intelligence platform for security analysts: investigate threats, monitor SaaS uptime and track malicious infrastructure and actors | 💸 **100% OFF** the Basic plan for 5 months · auto-applied | 🟢 Nov 24, 2026 - Jan 30, 2027 |
 | [Pulsedive](https://pulsedive.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Community threat intelligence platform with URL and IP scanning, threat tracking, integrations and bulk enrichment · free tier available | **35% OFF** first year of annual Pulsedive Pro plans · code `BFCM26` | 🟢 Nov 24, 2026 - Dec 1, 2026 |
-| [OSINTverse](https://osintverse.com/pricing) | OSINT investigation platform for security teams: search emails, usernames, domains, IPs and more across 17 sources, with cases, a team graph, an API and an MCP server | **10% OFF** any credit top-up · code `BLACKFRIDAY10` | Nov 27, 2026 - Nov 30, 2026 |
+| [OSINTverse](https://osintverse.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | OSINT investigation platform for security teams: search emails, usernames, domains, IPs and more across 17 sources, with cases, a team graph, an API and an MCP server | **10% OFF** any credit top-up · code `BLACKFRIDAY10` | 🟢 Nov 27, 2026 - Nov 30, 2026 |
 
 ## 📱 Lifestyle, Health & Travel
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -873,9 +873,9 @@ Add it to your website, README, or launch post:
 | [BabyAnalytic](https://babyanalytic.com/black-friday-2026/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Baby tracker for iPhone and Apple Watch: feeds, sleep and diapers in one tap, charts, a pediatrician report and partner sharing | 💸 ♾️ **50% OFF** Pro Lifetime ($49.99 → $24.99) · no code needed | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 | [Math Daily](https://getmathdaily.com/black-friday-2026/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Daily mental math games for iPhone and iPad: short rounds that keep arithmetic sharp, with streaks and progress | 💸 **50% OFF** first year of Pro Yearly ($29.99 → $14.99) · new subscribers · no code needed | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 | [Core: Interval & HIIT Timer](https://foca.work/core.html?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Interval timer for HIIT, Tabata, circuits and boxing that is big, clear and easy to follow mid-workout | ♾️ **47% OFF** lifetime access ($14.99 → $7.99, US App Store) · no code needed | 🟢 Nov 27, 2026 - Dec 1, 2026 |
-| [Domenu](https://domenu.kalifi.ai/recipe-app-no-subscription/?r=gh-twf-bf) | Offline-first recipe keeper, weekly meal planner and grocery list for iPhone, iPad and Apple Watch, with import from Instagram, TikTok, the web and Paprika | 💸 ♾️ **96% OFF** Lifetime ($24.99 → $0.99) · auto-applied in the app | Nov 24, 2026 - Nov 30, 2026 |
-| [ChattyFit](https://chatty.fit/?ct=bf-twf) | AI personal trainer for iPhone that builds workouts around the equipment you have and swaps moves on request · 3 free workouts a month | 💸 **60% OFF** first year of Annual ($99.99 → $39.99) · code [`BLACKFRIDAY60`](https://apps.apple.com/redeem?ctx=offercodes&id=6748089571&code=BLACKFRIDAY60) · first-time subscribers | Nov 26, 2026 - Dec 1, 2026 |
-| [Diet Tracker](https://diettracker.me/?utm_source=awesome-bfcm-twf&utm_medium=github&utm_campaign=bfcm2026) | Minimal food diary: log meals in seconds, daily and weekly reports, PDF and Excel export. No calorie counting. | 💸 ♾️ **60% OFF** lifetime ($50 → $20 one-time) · code `BFCM26`, applied automatically at checkout | Nov 27, 2026 - Dec 1, 2026 |
+| [Domenu](https://domenu.kalifi.ai/recipe-app-no-subscription/?r=gh-twf-bf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Offline-first recipe keeper, weekly meal planner and grocery list for iPhone, iPad and Apple Watch, with import from Instagram, TikTok, the web and Paprika | 💸 ♾️ **96% OFF** Lifetime ($24.99 → $0.99) · auto-applied in the app | 🟢 Nov 24, 2026 - Nov 30, 2026 |
+| [ChattyFit](https://chatty.fit/?ct=bf-twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI personal trainer for iPhone that builds workouts around the equipment you have and swaps moves on request · 3 free workouts a month | 💸 **60% OFF** first year of Annual ($99.99 → $39.99) · code [`BLACKFRIDAY60`](https://apps.apple.com/redeem?ctx=offercodes&id=6748089571&code=BLACKFRIDAY60&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) · first-time subscribers | 🟢 Nov 26, 2026 - Dec 1, 2026 |
+| [Diet Tracker](https://diettracker.me/?utm_source=awesome-bfcm-twf&utm_medium=github&utm_campaign=bfcm2026) | Minimal food diary: log meals in seconds, daily and weekly reports, PDF and Excel export. No calorie counting | 💸 ♾️ **60% OFF** lifetime ($50 → $20 one-time) · code `BFCM26`, applied automatically at checkout | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
