@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>716 deals listed</b> · Updated Nov 27, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>721 deals listed</b> · Updated Nov 27, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -66,16 +66,16 @@ Add it to your website, README, or launch post:
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (41) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (38) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (27) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (55) - Social media, lead finding & outreach, email marketing, launch directories
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (57) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (60) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (72) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (20) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (31) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (21) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
 * 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (93) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
-* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (65) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (67) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (30) - Pentesting, threat monitoring, encrypted email & files, privacy tools
-* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (34) - Fitness, nutrition, travel, home & personal apps
+* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (35) - Fitness, nutrition, travel, home & personal apps
 * 📚 [Courses & Books](#-courses--books) (40) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (8) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (8) - Free credits, free plans, giveaways
@@ -768,7 +768,7 @@ Add it to your website, README, or launch post:
 | [Sidekick](https://heysidekick.app/black-friday/?utm_source=twf-deals&utm_medium=directory&utm_campaign=black-friday-2026) | Google Tasks in Claude, ChatGPT and other AI apps, and as a floating list on your Mac's desktop | ♾️ **33% OFF** Premium, paid once ($9 → $6) · code `BLACKFRIDAY` | 🟢 Nov 26, 2026 - Dec 4, 2026 |
 | [XeOS: External Display Desktop](https://apps.apple.com/us/app/xeos-external-display-desktop/id6758286241?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any monitor, TV or projector | ♾️ **25% OFF** lifetime ($39.99 → $29.99) · code `XEOSREDDIT` ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6758286241&code=XEOSREDDIT&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026)) | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 | [KillSwitch](https://killswitch.prodigysolutions.tech/?utm_source=nikhil) | One-click macOS focus blocker with no pause button and no blacklist setup: drops distractions while keeping work, AI, docs and dev tools open | ♾️ **30% OFF** perpetual licence (Solo $49 → $34.30, Duo $79 → $55.30) · code `BLACKFRIDAY2026` | 🟢 Nov 25, 2026 - Dec 1, 2026 |
-| [LocalInbox](https://localinbox.app/pricing) | Native email app for Mac, Windows, Linux, iPhone and iPad: Gmail, iCloud, Yahoo, Fastmail and any IMAP account in one inbox, with AI sorting, summaries and reply drafts that run on your device | ♾️ **49% OFF** lifetime licence ($99 → $49.99, up to 5 devices) · code `BLACKFRIDAY` · 7-day free trial | Nov 27, 2026 - Dec 7, 2026 |
+| [LocalInbox](https://localinbox.app/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native email app for Mac, Windows, Linux, iPhone and iPad: Gmail, iCloud, Yahoo, Fastmail and any IMAP account in one inbox, with AI sorting, summaries and reply drafts that run on your device | ♾️ **49% OFF** lifetime licence ($99 → $49.99, up to 5 devices) · code `BLACKFRIDAY` · 7-day free trial | 🟢 Nov 27, 2026 - Dec 7, 2026 |
 | [Voxipaw](https://voxipaw.kionesis.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Focus timer with a voxel pet (puppy, kitten, bunny, capybara, otter or crocodile) that grows up with every minute you focus · free in the browser, no account | 💸 ♾️ **51% OFF** Lifetime Plus ($99.99 → $49) · one payment · auto-applied | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
@@ -842,7 +842,7 @@ Add it to your website, README, or launch post:
 | [Rebit Pro](https://rebit.cc/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Play your own retro games on the web or your phone, with cloud saves and multiplayer | **40% OFF** first year of Pro on the web ($14.99 → $8.99) · code `BLACKFRIDAY40` | 🟢 Nov 22, 2026 - Dec 1, 2026 |
 | [RouteX](https://apps.apple.com/app/id6753095851?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | GPS route recording, golden hour sun tracking and an outdoor memories assistant for iOS | ♾️ **33% OFF** Lifetime ($14.99 → $9.99) · auto-applied in-app, no code needed | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 | [PLANE.DEALS](https://plane.deals/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Email alerts for cheap cash flight fares from the US airports you choose, with the bag limit on every deal | **First month free** on monthly plans · code `BFMONTHFREE` · **25% OFF** first year of annual plans (Pro $49 → $36.75) · code `BLACKFRIDAY25` | 🟢 Nov 26, 2026 - Nov 30, 2026 |
-| [PageCub](https://pagecub.com/pricing) | Personalized illustrated children's storybook written around your child: 10 chapters, 20 custom illustrations, a 49-page PDF delivered by email in about an hour | **25% OFF** the digital storybook ($19.99 → about $14.99) · applied automatically at checkout, no code needed | 🟢 Nov 27, 2026 - Dec 25, 2026 |
+| [PageCub](https://pagecub.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Personalized illustrated children's storybook written around your child: 10 chapters, 20 custom illustrations, a 49-page PDF delivered by email in about an hour | **25% OFF** the digital storybook ($19.99 → about $14.99) · applied automatically at checkout, no code needed | 🟢 Nov 27, 2026 - Dec 25, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
