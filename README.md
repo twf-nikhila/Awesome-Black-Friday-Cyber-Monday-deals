@@ -290,6 +290,7 @@ Add it to your website, README, or launch post:
 | [AxiomAI](https://axiom.stream/join?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private AI for chat, code and images, decrypted only inside a GPU enclave | **30% OFF** · no code needed | 🟢 Nov 25, 2026 - Dec 2, 2026 |
 | [Screenpipe](https://screenpipe.com/black-friday?utm_content=twf-nikhila) | Local screen and audio capture turned into searchable memory and reusable workflows for Claude, Codex and Cursor, on macOS, Windows and Linux | **20% OFF** first year of annual plans (Basic $250 → $200, Business $500 → $400/seat) · no code needed | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [Sky OS AI](https://skyrunapp.com/?src=gh-awesome-black-friday-cyber-mon&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI that does the work on your own Mac: ask from your phone or the web, and it uses your apps, files and browser, showing every step | **30% OFF** your first month on any monthly plan · auto-applied | 🟢 Nov 26, 2026 - Nov 30, 2026 |
+| [ONE Personal Assistant](https://brazn.one/en) | AI personal assistant for Windows and Mac that works with your Claude or ChatGPT subscription | 💸 **80% OFF** Personal for the first year ($60 → $12) · Collaboration 70% off, Teams 67% off · no code needed | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🔍 SEO & AI Search Visibility
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
