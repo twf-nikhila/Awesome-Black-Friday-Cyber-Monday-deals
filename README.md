@@ -709,6 +709,7 @@ Add it to your website, README, or launch post:
 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#UNCLUTTER) | A shelf for your Mac: notes, files and clipboard history, one gesture away | 💸 ♾️ **50% OFF** ($30 → $15) | 🟢 Nov 26, 2026 - Dec 10, 2026 |
 | [Yado](https://yado.house/?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Native Mac app that cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps, plus photo export, file transfer and local backups | ♾️ **20% OFF** one-time ($19 → $15.20) · auto-applied | 🟢 Nov 25, 2026 - Dec 30, 2026 |
 | [Pake](https://pake.run/?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Turns any website into a lightweight desktop app with its own icon and window on Mac, Windows and Linux, from the maker of the open-source Pake CLI | ♾️ **20% OFF** one-time ($19 → $15.20) · auto-applied | 🟢 Nov 25, 2026 - Dec 15, 2026 |
+| [KopiaLens](https://kopialens.com/pricing?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Free, open-source backup app for Windows, Mac, Linux and Docker that lets you see inside your backups and clear out what's quietly bloating them | ♾️ **30% OFF** Pro · Lifetime $50 → $35, or $14 for the first year · code `BLACKFRIDAY2026` | Nov 27, 2026 - Jan 1, 2027 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
