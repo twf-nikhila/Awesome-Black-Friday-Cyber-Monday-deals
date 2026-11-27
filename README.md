@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>690 deals listed</b> · Updated Nov 26, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>706 deals listed</b> · Updated Nov 26, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -66,17 +66,17 @@ Add it to your website, README, or launch post:
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (40) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (37) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (27) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (52) - Social media, lead finding & outreach, email marketing, launch directories
-* 💼 [Business, Finance & Operations](#-business-finance--operations) (58) - Invoicing, expenses, customer feedback & support, e-signature, team admin
-* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (70) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (55) - Social media, lead finding & outreach, email marketing, launch directories
+* 💼 [Business, Finance & Operations](#-business-finance--operations) (60) - Invoicing, expenses, customer feedback & support, e-signature, team admin
+* 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (72) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (20) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (30) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (20) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (86) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
-* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (63) - Notes, tasks, time tracking, focus & blocking, journaling, email
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (90) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (64) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (30) - Pentesting, threat monitoring, encrypted email & files, privacy tools
-* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (32) - Fitness, nutrition, travel, home & personal apps
-* 📚 [Courses & Books](#-courses--books) (37) - Courses, books, certifications & guides
+* 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (33) - Fitness, nutrition, travel, home & personal apps
+* 📚 [Courses & Books](#-courses--books) (40) - Courses, books, certifications & guides
 * 📩 [Newsletters, Communities & Databases](#-newsletters-communities--databases) (8) - Paid newsletters, communities, curated databases & lists
 * 🎁 [Free Stuff](#-free-stuff) (8) - Free credits, free plans, giveaways
 * 🔖 [Other places to list Black Friday Deals](#-other-places-to-list-black-friday-deals) - More lists and trackers to submit your deal to
@@ -370,6 +370,9 @@ Add it to your website, README, or launch post:
 | [Adstudio](https://useadstudio.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI ad management for Google Ads, Meta Ads, TikTok Ads and more: build and optimize campaigns across platforms in one workspace | 💸 **50% OFF** first year on yearly plans · no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [BetterMerge](https://bettermerge.com/pricing?billing=year&utm_source=awesome-bfcm-twf&utm_medium=deal-list&utm_campaign=blackfriday2026) | Mail merge for Gmail and Google Sheets: personalized emails from your own Gmail, with scheduling, per-person attachments and open and click tracking | 💸 **50% OFF** first year of any yearly plan (Lite $39.95, Plus $84.95, Pro $149.95) · no code needed | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 | [innernote](https://www.innernote.space/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Grow your LinkedIn personal brand on autopilot | **40% OFF** the annual plan · code `BLACKFRIDAY40` | 🟢 Nov 26, 2026 - Dec 4, 2026 |
+| [Startup Buffer](https://startupbuffer.com/promote?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Startup directory with 33,000+ listings, offering homepage features, newsletter and social placements for your product | 💸 **50% OFF** homepage features (2 weeks $49 → $24.50, 3 months $299 → $149.50) · auto-applied | 🟢 Nov 26, 2026 - Dec 4, 2026 |
+| [HeadsUp](https://headsup.bot/black-friday?ref=twf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI agent that tells you the day a competitor changes its pricing, features or messaging | ♾️ **Lifetime deal**: Pro $349 once (normally $468/yr), Solo $199, Team $599 | 🟢 Nov 25, 2026 - Nov 30, 2026 |
+| [MailSketch](https://mailsketch.com/?utm_source=twf_nikhila&utm_medium=directory&utm_campaign=bf2026) | Email builder: 1,200+ templates, pre-send checks and export to any email platform | ♾️ **Lifetime plan from $99 once** (Team $249, Business $499) · no code needed | 🟢 Nov 26, 2026 - Dec 31, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -432,6 +435,8 @@ Add it to your website, README, or launch post:
 | [Thastock](https://thastock.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI second opinion on any US stock: the strongest bull case, bear case and a verdict with a confidence score, backed by live data · free plan available | **44% OFF** Pro for as long as you stay subscribed ($9 → $5/mo) · no code needed | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 | [BrassWell](https://brasswell.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Bookkeeping for the self-employed on iPhone, iPad, Android and web: income, expenses, receipts, mileage, invoices and a running tax set-aside | **25% OFF** first year of Pro yearly ($299 → $224.25) · code `BLACKFRIDAY25` · new subscribers | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [fynk](https://fynk.com/en/black-week/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Contract management with AI: draft, review, sign and track every contract in one place | 💸 **50% OFF** any plan for the first 12 months (Essential €19 → €9.50/user/mo, billed yearly) · up to 5 users, new customers · code `BL4CKWEEK` | 🟢 Nov 25, 2026 - Dec 4, 2026 |
+| [LotsTech](https://www.lotstech.com/black-friday-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=black-friday-2026) | 12 connected apps for businesses, agencies and founders in one account, with an AI agent that asks before anything goes out | 💸 **70% OFF** yearly plans, kept every renewal · no code, auto-applied · 20% OFF monthly for 3 months | 🟢 Nov 26, 2026 - Nov 30, 2026 |
+| [Exit Loop](https://www.exitloop.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe | 💸 **50% OFF** first year of the yearly plan ($149 → $74.50) · code `BLACKFRIDAY50` | 🟢 Nov 26, 2026 - Dec 1, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -506,6 +511,8 @@ Add it to your website, README, or launch post:
 | [Vibe Island](https://vibeisland.app?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native Mac app that puts your AI coding agents in the notch: see what Claude Code, Codex and others are doing, approve requests and jump back to the right terminal | ♾️ **40% OFF** one-time licence (1 Mac $19.99 → $11.99, 2 Macs $21.99, 3 Macs $31.99) · no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Beamfar](https://appsumo.com/pl/gIBdNAh2EM/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | EU website and security monitoring for 10 sites: 1-minute checks, SSL/DNS alerts, leaked API key detection, client PDF reports and an MCP server | ♾️ **10% OFF** lifetime deal on AppSumo ($69 → $62.10) · auto-applied | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [OneHostBox](https://onehostbox.com/pricing/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hosting for static sites and frontend apps from GitHub, GitLab or Bitbucket, with PR previews, custom domains, forms and unlimited team members on Pro | **40% OFF** first 3 months of monthly plans (Starter $9 → $5.40/mo, Pro $19 → $11.40/mo, Advanced $49 → $29.40/mo) or first year of yearly plans · no code needed · new customers | 🟢 Nov 24, 2026 - Dec 1, 2026 |
+| [Elaichi](https://elaichi.ai/pricing/?utm_source=twf&utm_medium=deal-list&utm_campaign=bf2026) | One MCP endpoint that connects ChatGPT, Claude, Cursor and other AI apps to 1000+ work apps, with per-person permissions and an audit log | 💸 **50% OFF** the first year of yearly plans (Gold $120 → $60, Black $216 → $108 per user) · code `BLACKFRIDAY` · new customers | 🟢 Nov 25, 2026 - Dec 7, 2026 |
+| [PublicAPIs.io](https://publicapis.io/black-friday?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Directory of 1,500+ public APIs with an MCP server for AI agents; list or sponsor your API | 💸 **50% OFF** Pro listing, $99 → $49.50, or the first 3 months of a sponsorship ($699 → $349.50/mo) · code `BLACKFRIDAY50` | ⏳ Nov 27, 2026 - Dec 1, 2026 |
 | [Moordeck](https://moordeck.com/pricing) | Local-first anti-detect browser with isolated profiles and Zero-CDP AI agent control (Local MCP, CLI, Playwright), macOS Apple Silicon & Linux x64 (Windows coming soon) | ♾️ **25% OFF** Annual Year 1 (Pro $108 → $81/yr, Team $348 → $261/yr, renews at $108/$348) · code `BF2026` (auto-applied) · **Founding Solo Lifetime $79** ($129 reg., first 200 seats) | Nov 24, 2026 - Nov 30, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
@@ -679,6 +686,10 @@ Add it to your website, README, or launch post:
 | [Mole](https://mole.fit/?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Native Mac cleaner from the maker of the open-source Mole CLI: clears caches and old AI tool data, uninstalls and updates apps, maps your disk; also on Windows | ♾️ **20% OFF** one-time ($19 → $15.20) · auto-applied | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [Clearpane](https://getclearpane.app/?utm_source=twf-bf&utm_campaign=bf2026#pricing) | Activity Monitor in plain English: one sentence on what's slowing your Mac, every process explained, and whether it's safe to quit | 💸 ♾️ **53% OFF** one-time ($19 → $9, 2 Macs) · no code needed | 🟢 Nov 26, 2026 - Dec 1, 2026 |
 | [Falconry Drive](https://falconrylabs.com/drive/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Read and write NTFS drives on macOS 27 (Apple silicon), built on Apple's FSKit with no kernel extension and writing the NTFS journal the way Windows does | **30% OFF** the first year of the yearly licence ($27.99 → $19.60), renews at $27.99 · code `BLACKFRIDAY30` · 14-day free trial | 🟢 Nov 26, 2026 - Dec 1, 2026 |
+| [Tidyware](https://tidyware.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | 5 native Mac apps from one indie studio: on-device transcription, Apple Notes for Claude and Cursor, a duplicate finder, a batch HEIC/WebP converter and a keep-awake menu bar app | ♾️ **30% OFF** every one-time licence ($19 → $13.30, $15 → $10.50, $9 → $6.30) · code `BF2026` | 🟢 Nov 24, 2026 - Dec 1, 2026 |
+| [AbcTab](https://solocraft.app/abctab?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS ⌘-Tab switcher with first-letter jump and multi-window and terminal tab lists, with no Screen Recording permission and no telemetry | 💸 ♾️ **50% OFF** lifetime licence ($9.99 → $4.99) · code `BF50` | ⏳ Nov 27, 2026 - Dec 2, 2026 |
+| [Switchy](https://getswitchy.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Menu bar utility with 31 one-click Mac switches (Dark Mode, Keep Awake, hide desktop icons and more), plus deploy status, 2FA codes and Claude/Codex usage limits | 💸 ♾️ **50% OFF** one-time purchase ($4.99 → $2.49, up to 3 Macs) · code `BLACKFRIDAY50` (pre-filled by the Buy button) · free 7-day trial | 🟢 Nov 23, 2026 - Dec 1, 2026 |
+| [PasteNotch](https://pastenotch.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | The clipboard manager in your notch: every clip (text, links, images, files) searchable, one shortcut away | 💸 ♾️ **50% OFF** one-time purchase ($4.99 → $2.49) · code `BLACKFRIDAY50` (pre-filled by the Buy button) · 14-day free trial | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -746,6 +757,7 @@ Add it to your website, README, or launch post:
 | [Caddy Docs](https://apps.apple.com/us/app/caddy-docs/id6802867430?mt=12&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Colorful tabs at the edge of your Mac hold each project's files, PDFs and notebook, with animated desktop pets living on them | ♾️ **Black Friday price $12.99** one-time on the Mac App Store · no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Speakmac](https://www.speakmac.app/buy?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Private, offline voice dictation in any Mac app and bot-free meeting notes with on-device speech recognition | ♾️ **35% OFF** one-time Mac licences (1 Mac $29 → $18.85, 2 Macs $39 → $25.35) · code `BF2026` (auto-applied) | 🟢 Nov 26, 2026 - Dec 7, 2026 |
 | [Sidekick](https://heysidekick.app/black-friday/?utm_source=twf-deals&utm_medium=directory&utm_campaign=black-friday-2026) | Google Tasks in Claude, ChatGPT and other AI apps, and as a floating list on your Mac's desktop | ♾️ **33% OFF** Premium, paid once ($9 → $6) · code `BLACKFRIDAY` | 🟢 Nov 26, 2026 - Dec 4, 2026 |
+| [XeOS: External Display Desktop](https://apps.apple.com/us/app/xeos-external-display-desktop/id6758286241?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Desktop mode for iPhone and iPad: windows, files, mouse and keyboard and a real browser on any monitor, TV or projector | ♾️ **25% OFF** lifetime ($39.99 → $29.99) · code `XEOSREDDIT` ([redeem](https://apps.apple.com/redeem?ctx=offercodes&id=6758286241&code=XEOSREDDIT&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026)) | ⏳ Nov 27, 2026 - Dec 1, 2026 |
 
 ## 🔐 Security & Privacy
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -816,6 +828,7 @@ Add it to your website, README, or launch post:
 | [Baby Monitor: Private Cam](https://apps.apple.com/app/id6785552555?ct=gh-awesome-black-friday-cyber-monday-deals&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn two phones into a private baby monitor over your home WiFi, with no cloud and no account (iPhone and Android) | 💸 **50% OFF** first year of Pro yearly on iPhone ($14.99 → $7.49) · code `BLACKFRIDAY50` · iOS only | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Home Pet Monitor](https://apps.apple.com/app/id6790505643?ct=gh-awesome-black-friday-cyber-monday-deals&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Turn an old phone into a private pet camera and watch your cat or dog live, encrypted end to end (iPhone and Android) | 💸 **50% OFF** first year of Pro yearly on iPhone ($14.99 → $7.49) · code `BLACKFRIDAY50` · iOS only | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [Rebit Pro](https://rebit.cc/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Play your own retro games on the web or your phone, with cloud saves and multiplayer | **40% OFF** first year of Pro on the web ($14.99 → $8.99) · code `BLACKFRIDAY40` | 🟢 Nov 22, 2026 - Dec 1, 2026 |
+| [RouteX](https://apps.apple.com/app/id6753095851?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | GPS route recording, golden hour sun tracking and an outdoor memories assistant for iOS | ♾️ **33% OFF** Lifetime ($14.99 → $9.99) · auto-applied in-app, no code needed | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 
 ## 📚 Courses & Books
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -857,6 +870,9 @@ Add it to your website, README, or launch post:
 | [No-BS Resume Guide](https://lifemathmoney.gumroad.com/l/resume/BFCM2026?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Short, practical guide to writing a resume that gets interviews | 💸 ♾️ **50% OFF** ($9.99 → $4.99) · auto-applied, no code needed | 🟢 Nov 25, 2026 - Dec 1, 2026 |
 | [VimNinja](https://www.vimninja.com/upgrade?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Hands-on Vim course where every lesson runs in a real Vim editor in your browser, from first motions to your own Neovim config | ♾️ **34% OFF** lifetime Pro ($29 → $19) · auto-applied | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [SecDim](https://secdim.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Secure coding wargames: find, exploit and fix real-world vulnerabilities in hands-on labs, and learn to verify AI-generated code | **35% OFF** Professional ($239.88 → $155.92/yr) · code `APPSECONABUDGET2026` · **25% OFF** Team ($348 → $261/user/yr) · code `APPSECTEAM2026` | 🟢 Nov 20, 2026 - Dec 5, 2026 |
+| [Exploring Java Libraries (Volume 1)](https://leanpub.com/java-libraries-guide-1/c/BLACKFRIDAY50?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Practical guide to 250 Java libraries for core systems, NIO, concurrency and JVM internals (also on [Gumroad](https://solisdynamics.gumroad.com/l/java-libraries-guide-1?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026)) | 💸 ♾️ **50% OFF** ($19.99 → $10) · code `BLACKFRIDAY50` | 🟢 Nov 25, 2026 - Dec 10, 2026 |
+| [Exploring Java Libraries (Volume 2)](https://leanpub.com/java-libraries-guide-2/c/BLACKFRIDAY50?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Advanced guide to 200+ Java libraries for performance, networking, data processing and architecture (also on [Gumroad](https://solisdynamics.gumroad.com/l/java-libraries-guide-2?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026)) | 💸 ♾️ **50% OFF** ($19.99 → $10) · code `BLACKFRIDAY50` | 🟢 Nov 25, 2026 - Dec 10, 2026 |
+| [Android Applications Hacking for Bug Bounty and Pentesting](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Udemy course on pentesting Android applications with current techniques and tools | 💸 ♾️ **80% OFF** one-time purchase ($49.99 → $9.99) · code `BLACKFRIDAY2026` | ⏳ Nov 27, 2026 - Dec 1, 2026 |
 
 ## 📩 Newsletters, Communities & Databases
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -901,3 +917,5 @@ Add it to your website, README, or launch post:
 [Micro SaaS Examples](https://www.microsaasexamples.com/black-friday-saas-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) - Curated Black Friday & Cyber Monday 2026 deals for SaaS, AI tools, Mac apps and developer tools; makers can list a deal from $3.
 
 [StartupPerks](https://startupperks.co/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) - Black Friday & Cyber Monday 2026 software deals for startups (AI, hosting, marketing, SEO and finance tools); companies list a deal free.
+
+[Startup Buffer Black Friday Deals](https://startupbuffer.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) - 850+ Black Friday 2026 deals for founders on SaaS, AI and developer tools; makers list their deal free, with an optional $29 pin to the top.
