@@ -113,7 +113,7 @@ Add it to your website, README, or launch post:
       <a href="https://genaisecuritylab.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026featured"><img src="assets/sponsors/genaisecuritylab.png" width="163" height="72" alt="GenAI Security Lab"></a><br>
       <a href="https://genaisecuritylab.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026featured"><b>GenAI Security Lab</b></a><br>
       Hands-on AI security training: 200+ labs on LLM, MCP and agentic AI security<br>
-      🔥 <b>40% OFF</b> yearly + 4-Month Pass · code <code>BLACKFRIDAY40</code>
+      🔥 <b>40% OFF</b> yearly + 4-Month Pass · no code needed
     </td>
   </tr>
 </table>
