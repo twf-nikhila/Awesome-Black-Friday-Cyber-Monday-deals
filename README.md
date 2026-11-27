@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>736 deals listed</b> · Updated Nov 27, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>738 deals listed</b> · Updated Nov 27, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -63,7 +63,7 @@ Add it to your website, README, or launch post:
 # Table of Contents
 
 * 🎬 [Video, Audio & Podcasting](#-video-audio--podcasting) (73) - Video editing, AI video & music, screen recording, captions, transcription
-* 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (43) - Image editing & compression, AI images, screenshots, color tools
+* 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (44) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (38) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (27) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
 * 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (58) - Social media, lead finding & outreach, email marketing, launch directories
@@ -72,7 +72,7 @@ Add it to your website, README, or launch post:
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (20) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (32) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (21) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (95) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (96) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (69) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (30) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (38) - Fitness, nutrition, travel, home & personal apps
@@ -246,7 +246,7 @@ Add it to your website, README, or launch post:
 | [holoform](https://holoform.cc/pricing?promo=BLACKFRIDAY&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Browser studio for layered trading cards and photocards with 3D holographic and foil previews, 300 DPI exports and AI line art | **20% OFF** one-time AI credit packs + 10% bonus credits · code `BLACKFRIDAY` | 🟢 Nov 26, 2026 - Dec 1, 2026 |
 | [Rindraw](https://apps.apple.com/app/id6818370032?pt=129529936&ct=github-awesome-bf-deals&mt=8&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Drawing, painting and animation app for iPad, iPhone and Mac: strokes stay editable, and it opens .procreate and .psd files with their layers | 💸 ♾️ **50% OFF** ($12.99 → $6.49), one purchase for iPad, iPhone and Mac · no code needed | 🟢 Nov 23, 2026 - Dec 1, 2026 |
 | [CleanStorage](https://cleanstorage.sawirstudio.com/black-friday-2026/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Finds duplicate photos, large videos and files, and repeated contacts on iPhone, checked on the device, then frees up space | ♾️ **37% OFF** CleanStorage Pro one-time unlock ($7.99 → $4.99) · no code needed | 🟢 Nov 27, 2026 - Nov 30, 2026 |
-| [ImageTiny](https://apps.apple.com/us/app/imagetiny-compress-photo-size/id6755773326) | Compress and resize batches of photos on iPhone and iPad before sharing or uploading | ♾️ **25% OFF** Pro Lifetime ($19.99 → $14.99, US price) · no code needed | Nov 27, 2026 - Nov 28, 2026 |
+| [ImageTiny](https://apps.apple.com/us/app/imagetiny-compress-photo-size/id6755773326?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Compress and resize batches of photos on iPhone and iPad before sharing or uploading | ♾️ **25% OFF** Pro Lifetime ($19.99 → $14.99, US price) · no code needed | 🟢 Nov 27, 2026 - Nov 28, 2026 |
 
 ## 📝 AI Assistants & Writing
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -710,7 +710,7 @@ Add it to your website, README, or launch post:
 | [Unclutter](https://unclutterapp.com/bundle/?coupon=UN-BLACKFRIDAY-2026&s=git&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#UNCLUTTER) | A shelf for your Mac: notes, files and clipboard history, one gesture away | 💸 ♾️ **50% OFF** ($30 → $15) | 🟢 Nov 26, 2026 - Dec 10, 2026 |
 | [Yado](https://yado.house/?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Native Mac app that cleans up an iPhone from the Mac: duplicate photos, large videos and unused apps, plus photo export, file transfer and local backups | ♾️ **20% OFF** one-time ($19 → $15.20) · auto-applied | 🟢 Nov 25, 2026 - Dec 30, 2026 |
 | [Pake](https://pake.run/?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Turns any website into a lightweight desktop app with its own icon and window on Mac, Windows and Linux, from the maker of the open-source Pake CLI | ♾️ **20% OFF** one-time ($19 → $15.20) · auto-applied | 🟢 Nov 25, 2026 - Dec 15, 2026 |
-| [KopiaLens](https://kopialens.com/pricing?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Free, open-source backup app for Windows, Mac, Linux and Docker that lets you see inside your backups and clear out what's quietly bloating them | ♾️ **30% OFF** Pro · Lifetime $50 → $35, or $14 for the first year · code `BLACKFRIDAY2026` | Nov 27, 2026 - Jan 1, 2027 |
+| [KopiaLens](https://kopialens.com/pricing?utm_source=awesome-black-friday-deals&utm_campaign=bf2026) | Free, open-source backup app for Windows, Mac, Linux and Docker that lets you see inside your backups and clear out what's quietly bloating them | ♾️ **30% OFF** Pro · Lifetime $50 → $35, or $14 for the first year · code `BLACKFRIDAY2026` | 🟢 Nov 27, 2026 - Jan 1, 2027 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
