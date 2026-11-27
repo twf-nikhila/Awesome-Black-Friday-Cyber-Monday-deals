@@ -110,9 +110,10 @@ Add it to your website, README, or launch post:
       🔥 <b>40% OFF</b> yearly plan · no code needed
     </td>
     <td align="center" width="25%">
-      <a href="Sponsorship.md"><b>Your logo here</b></a><br>
-      Reach developers, indie hackers and founders hunting for deals this Black Friday<br><br>
-      <a href="Sponsorship.md"><b>Become a sponsor →</b></a>
+      <a href="https://genaisecuritylab.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026featured"><img src="assets/sponsors/genaisecuritylab.png" width="163" height="72" alt="GenAI Security Lab"></a><br>
+      <a href="https://genaisecuritylab.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bf2026featured"><b>GenAI Security Lab</b></a><br>
+      Hands-on AI security training: 200+ labs on LLM, MCP and agentic AI security<br>
+      🔥 <b>40% OFF</b> yearly + 4-Month Pass · code <code>BLACKFRIDAY40</code>
     </td>
   </tr>
 </table>

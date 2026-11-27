@@ -37,7 +37,7 @@
   .sponsors { display:grid; grid-template-columns:repeat(auto-fill,minmax(260px,1fr)); gap:12px; margin-bottom:40px }
   .sponsor { display:flex; gap:14px; align-items:center; padding:16px; border:1px solid var(--line); border-radius:14px; background:var(--card); text-decoration:none }
   .sponsor:hover { border-color:#444 }
-  .sponsor img { width:48px; height:48px; border-radius:10px; flex:none }
+  .sponsor img { height:48px; width:auto; max-width:110px; object-fit:contain; border-radius:10px; flex:none }
   .sponsor b { display:block }
   .sponsor small { color:var(--muted); display:block; line-height:1.35 }
   .sponsor .sdeal { color:var(--y); font-size:13px; font-weight:600; margin-top:2px }
