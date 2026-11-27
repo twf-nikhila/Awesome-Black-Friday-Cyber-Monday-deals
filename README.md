@@ -437,7 +437,7 @@ Add it to your website, README, or launch post:
 | [fynk](https://fynk.com/en/black-week/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Contract management with AI: draft, review, sign and track every contract in one place | 💸 **50% OFF** any plan for the first 12 months (Essential €19 → €9.50/user/mo, billed yearly) · up to 5 users, new customers · code `BL4CKWEEK` | 🟢 Nov 25, 2026 - Dec 4, 2026 |
 | [LotsTech](https://www.lotstech.com/black-friday-deals?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=black-friday-2026) | 12 connected apps for businesses, agencies and founders in one account, with an AI agent that asks before anything goes out | 💸 **70% OFF** yearly plans, kept every renewal · no code, auto-applied · 20% OFF monthly for 3 months | 🟢 Nov 26, 2026 - Nov 30, 2026 |
 | [Exit Loop](https://www.exitloop.app/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Cancel flows and failed-payment recovery for SaaS companies that bill with Stripe | 💸 **50% OFF** first year of the yearly plan ($149 → $74.50) · code `BLACKFRIDAY50` | 🟢 Nov 26, 2026 - Dec 1, 2026 |
-| [NFT-Chain](https://nft-chain.org/campaigns/blackfriday) | Back an early-stage Eco-AI-Blockchain and lock in +25% future Airdrop | **+25% Airdrop** for every $1 spent | 🟢 Nov 26, 2026 - Dec 31, 2026 |
+| [NFT-Chain](https://nft-chain.org/campaigns/blackfriday) | Back an early-stage Eco-AI-Blockchain and lock in +25% future Airdrop | **+25% Airdrop** for every $1 spent · no code needed | 🟢 Nov 26, 2026 - Dec 31, 2026 |
 
 ## 🧑‍💻 Developer Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
