@@ -6,7 +6,7 @@
 
 Black Friday, Cyber Monday & holiday deals for developers, techies & entrepreneurs
 
-<!-- stats:start -->🔥 <b>773 deals listed</b> · Updated Nov 28, 2026<!-- stats:end -->
+<!-- stats:start -->🔥 <b>775 deals listed</b> · Updated Nov 28, 2026<!-- stats:end -->
 
 🔎 **[Browse & search all deals](https://twf-nikhila.github.io/Awesome-Black-Friday-Cyber-Monday-deals/)** · 📬 **[Subscribe to get the best deals in your inbox](https://app.vbout.com/subscribe-twf/f/63323)**
 
@@ -66,13 +66,13 @@ Add it to your website, README, or launch post:
 * 📸 [Photo, Image & Screenshot](#-photo-image--screenshot) (46) - Image editing & compression, AI images, screenshots, color tools
 * 📝 [AI Assistants & Writing](#-ai-assistants--writing) (42) - AI chat apps, writing & rewriting, knowledge assistants, resumes
 * 🔍 [SEO & AI Search Visibility](#-seo--ai-search-visibility) (28) - SEO, backlinks, rankings, getting recommended by ChatGPT & co.
-* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (61) - Social media, lead finding & outreach, email marketing, launch directories
+* 📣 [Marketing, Social & Lead Gen](#-marketing-social--lead-gen) (62) - Social media, lead finding & outreach, email marketing, launch directories
 * 💼 [Business, Finance & Operations](#-business-finance--operations) (64) - Invoicing, expenses, customer feedback & support, e-signature, team admin
 * 🧑‍💻 [Developer Tools](#%E2%80%8D-developer-tools) (80) - Git, databases, APIs, debugging, testing, deploys, servers, monitoring
 * 🧱 [Boilerplates & Starter Kits](#-boilerplates--starter-kits) (20) - Code templates & components to ship a SaaS or app faster
 * 🎨 [UI Kits, Icons & Design Assets](#-ui-kits-icons--design-assets) (32) - Tailwind/React components, Figma kits, icons, themes, animations
 * 🌐 [Website Builders, No-Code & WordPress](#-website-builders-no-code--wordpress) (21) - Site builders, no-code & vibe-coding tools, WordPress themes & plugins
-* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (103) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
+* 💻 [Mac & Desktop Utilities](#-mac--desktop-utilities) (104) - Clipboard, window & Dock managers, launchers, menu bar, disk & file tools
 * ✅ [Productivity, Notes & Focus](#-productivity-notes--focus) (72) - Notes, tasks, time tracking, focus & blocking, journaling, email
 * 🔐 [Security & Privacy](#-security--privacy) (32) - Pentesting, threat monitoring, encrypted email & files, privacy tools
 * 📱 [Lifestyle, Health & Travel](#-lifestyle-health--travel) (41) - Fitness, nutrition, travel, home & personal apps
@@ -394,7 +394,7 @@ Add it to your website, README, or launch post:
 | [MailValid](https://mailvalid.io/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Email verification, unknowns free, credits never expire | 💸 **50% OFF** first 3 months of any Plus plan or your first pay-as-you-go pack · code `BLACKFRIDAY50` | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 | [SyncBooster](https://syncbooster.pl/cennik?utm_source=twf&utm_medium=deal_directory&utm_campaign=bf2026) | AI assistant for social media: photos plus one sentence become ready posts for Facebook, Instagram, LinkedIn, X, YouTube, TikTok and Google Business Profile | **40% OFF** monthly plans for the first 3 months (Start 129 → 77.40 PLN, Business 249 → 149.40 PLN) · code `BLACK40` | 🟢 Nov 27, 2026 - Nov 30, 2026 |
 | [Simplified](https://app.simplified.com/billing/checkout/smp-one-business-y-v3?promo_code=BFCY2026&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI marketing platform for content, images, video, social scheduling, inbox and analytics, usable from Claude or ChatGPT | 💸 **50% OFF** the first year of Business yearly · code `BFCY2026` · new plans and upgrades, renews at standard price | 🟢 Nov 27, 2026 - Dec 1, 2026 |
-| [BuzzBuff](https://buzzbuff.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Paste any YouTube channel and get a visual report of what works on it: breakout videos, momentum, best video length and posting rhythm, from public data | **40% OFF** your first payment (Pro yearly $95 → $57, Max yearly $287 → $172.20) · code `CYBER40` | Nov 28, 2026 - Dec 2, 2026 |
+| [BuzzBuff](https://buzzbuff.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Paste any YouTube channel and get a visual report of what works on it: breakout videos, momentum, best video length and posting rhythm, from public data | **40% OFF** your first payment (Pro yearly $95 → $57, Max yearly $287 → $172.20) · code `CYBER40` | 🟢 Nov 28, 2026 - Dec 2, 2026 |
 
 ## 💼 Business, Finance & Operations
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
@@ -739,7 +739,7 @@ Add it to your website, README, or launch post:
 | [ProMax Display](https://promaxdisplay.com/?ref=twf-bf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Makes full-screen apps on notched MacBooks use the whole screen, including the strip beside the notch. Plus the Dynamic Island on notched MacBooks, trackpad gestures and Window Corners | ♾️ **30% OFF** one-time purchase ($9.99 → $6.99) · no code needed · 7-day free trial · direct from the website | 🟢 Nov 27, 2026 - Nov 30, 2026 |
 | [Exhibit](https://chatexhibit.me?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Native macOS app that exports iMessage, WhatsApp, Signal and more to one court-ready PDF | ♾️ **30% OFF** one-time (Personal $19.99 → $13.99, Firm $59 → $41.30) · code `EXHIBITBF30` | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 | [Command Reopen](https://commandreopen.com/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Makes native Cmd+Tab bring back minimized windows or open a new window when apps have none | 💸 ♾️ **50% OFF** Lifetime in-app purchase ($9.99 → $4.99 USD) · Apple code `BF2026` in ten selected Mac App Store regions | 🟢 Nov 27, 2026 - Nov 30, 2026 |
-| [Zhenzhu](https://zhenzhu.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Offline Chinese & Japanese pop-up dictionary, Apple Vision screen OCR, and one-click Anki sentence mining for macOS | 💸 ♾️ **69% OFF** Pro lifetime ($29 → $9, covers 3 Macs & all future updates) · code `BF2026` (auto-applied via /buy) | Nov 22, 2026 - Dec 1, 2026 |
+| [Zhenzhu](https://zhenzhu.app/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026#pricing) | Offline Chinese & Japanese pop-up dictionary, Apple Vision screen OCR, and one-click Anki sentence mining for macOS | 💸 ♾️ **69% OFF** Pro lifetime ($29 → $9, covers 3 Macs & all future updates) · code `BF2026` (auto-applied via /buy) | 🟢 Nov 22, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
