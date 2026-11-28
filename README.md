@@ -536,7 +536,7 @@ Add it to your website, README, or launch post:
 | [APXY](https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026) | Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends, on macOS and Linux | ♾️ **30% OFF** APXY Pro one-time licence for 3 devices ($99 → $69.30) · code `APXY2026` | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 | [Bordfeed](https://bordfeed.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Job data API for agents and builders: 500k+ live jobs from company hiring pages, via API, webhooks, email or MCP | 💸 **50% OFF** first 3 months on any plan, Pro $79 → $39.50/mo · code `BFCM50` (new subscriptions) | 🟢 Nov 27, 2026 - Dec 4, 2026 |
 
-## 🧱 Boilerplates & Starter Kits
+| [Relaybrook n8n Workflow Packs](https://relaybrook.bytesell.app) | Ready-to-import n8n automation packs: AI lead enrichment, AI inbox triage, content repurposing, crypto alerts | **40% OFF** all packs · code `BLACKFRIDAY40` | Nov 18, 2026 - Dec 1, 2026 |
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
 |:-:|:-:|:-:|:-:|
 | [ShipAhead](https://shipahe.ad?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Ship your SaaS in a weekend with Nuxt Starter Kit | 💸 ♾️ **50% OFF** · auto-applied | 🟢 Nov 1, 2026 - Dec 31, 2026 |
