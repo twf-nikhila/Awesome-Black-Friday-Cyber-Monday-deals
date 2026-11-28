@@ -537,6 +537,7 @@ Add it to your website, README, or launch post:
 | [AlertOnDown](https://alertondown.com/black-friday?utm_source=bfcm-twf&utm_medium=referral&utm_campaign=bfcm2026) | Uptime monitoring from multiple networks, with HTTP waterfalls, white-label status pages, SSL and DNS checks, on-call rotations and an MCP server | **30% OFF** first 12 months · code `BFCM2026` · or ♾️ Founder lifetime deal from $49 | 🟢 Nov 27, 2026 - Dec 16, 2026 |
 | [APXY](https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026) | Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends, on macOS and Linux | ♾️ **30% OFF** APXY Pro one-time licence for 3 devices ($99 → $69.30) · code `APXY2026` | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 | [Bordfeed](https://bordfeed.com/black-friday?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Job data API for agents and builders: 500k+ live jobs from company hiring pages, via API, webhooks, email or MCP | 💸 **50% OFF** first 3 months on any plan, Pro $79 → $39.50/mo · code `BFCM50` (new subscriptions) | 🟢 Nov 27, 2026 - Dec 4, 2026 |
+| [Beam](https://www.beam.cloud/pricing) | Serverless GPUs, sandboxes and VMs for AI apps and agents, billed by usage | **2x credits**: credit purchases matched 1:1, up to $100 free (buy $20, get $20) · auto-applied · new and existing accounts | Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
