@@ -398,6 +398,7 @@ Add it to your website, README, or launch post:
 | [MailSketch](https://mailsketch.com/?utm_source=twf_nikhila&utm_medium=directory&utm_campaign=bf2026) | Email builder: 1,200+ templates, pre-send checks and export to any email platform | ♾️ **Lifetime plan from $99 once** (Team $249, Business $499) · no code needed | 🟢 Nov 26, 2026 - Dec 31, 2026 |
 | [BlueChimp](https://www.blue-chimp.com/pricing?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Warm B2B lead finder · matches buyer intent signals with your LinkedIn network to find the warmest path into high-intent accounts · MCP server for ChatGPT and Claude | 💸 **50% OFF** Growth and Dealflow plans · 6 months on monthly, 1 year on annual · code `BFIntent` (Growth $699 → $349.50/mo, Dealflow $1,200 → $600/mo) | 🟢 Nov 27, 2026 - Nov 29, 2026 |
 | [MailValid](https://mailvalid.io/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Email verification, unknowns free, credits never expire | 💸 **50% OFF** first 3 months of any Plus plan or your first pay-as-you-go pack · code `BLACKFRIDAY50` | 🟢 Nov 27, 2026 - Dec 1, 2026 |
+| [refer.is](https://refer.is/pricing?utm_source=github&utm_medium=deal-list&utm_campaign=bfcm-2026&utm_content=twf) | Link shortener with QR codes and click analytics | **30% OFF** all plans · code `BF2026` | Nov 28, 2026 - Dec 1, 2026 |
 
 ## 💬 Social Media Tools
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
