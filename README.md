@@ -735,6 +735,7 @@ Add it to your website, README, or launch post:
 | [iKnowMyMac](https://iknowmymac.com/?utm_source=nikhila#pricing) | Menu bar app for Apple silicon Macs that tracks CPU, memory, disk, network and battery history and explains 343 macOS processes in plain English | ♾️ **Launch price $4.99** one-time (planned price $24.99) · auto-applied · or both iKnow apps for $5.99 | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 | [Rotara](https://getrotara.app/?ref=bfcm) | Per-project workspaces for Mac: each project gets its own windows, switched with a pie menu at your cursor · 14-day free trial | ♾️ **35% OFF** one-time purchase (Standard $29 → $19, Lifetime $49 → $32) · auto-applied | Nov 27, 2026 - Dec 31, 2026 |
 | [ProMax Display](https://promaxdisplay.com/?ref=twf-bf&utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Makes full-screen apps on notched MacBooks use the whole screen, including the strip beside the notch. Plus the Dynamic Island on notched MacBooks, trackpad gestures and Window Corners | ♾️ **30% OFF** one-time purchase ($9.99 → $6.99) · no code needed · 7-day free trial · direct from the website | 🟢 Nov 27, 2026 - Nov 30, 2026 |
+| [Exhibit](https://chatexhibit.me) | Native macOS app that exports iMessage, WhatsApp, Signal and more to one court-ready PDF. | ♾️ **30% OFF** one-time (Personal $19.99 → $13.99, Firm $59 → $41.30) · code `EXHIBITBF30` | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 
 ## ✅ Productivity, Notes & Focus
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
