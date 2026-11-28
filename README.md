@@ -200,6 +200,7 @@ Add it to your website, README, or launch post:
 | [FireCut](https://firecut.ai/pricing/all/?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | AI video editing plugin for Premiere Pro and DaVinci Resolve | 💸 **50% OFF** new annual plans (Max $59 → $29.50/mo, Pro $34 → $17/mo, billed yearly) · auto-applied | 🟢 Nov 25, 2026 - Nov 30, 2026 |
 | [QuickSnip](https://quicksnip.com/pricing?utm_source=twf-nikhila&utm_medium=deal-list&utm_campaign=bf2026) | Screen recorder with instant share links for Mac and Windows: record your screen and send a link the moment you stop | 💸 **50% OFF** first year of Pro or Team (Pro $60 → $30/yr or $6 → $3/mo) · code `BLACKFRIDAY` | 🟢 Nov 23, 2026 - Nov 30, 2026 |
 | [AI Teleprompter](https://aiteleprompterapp.com?utm_source=awesome-black-friday-deals&utm_medium=github&utm_campaign=bfcm2026) | Voice-follow teleprompter for iPhone and iPad: the script scrolls as you speak, with floating mode and one-tap recording | 💸 ♾️ **50% OFF** Lifetime ($49.99 → $24.99) and the first year of Annual ($39.99 → $19.99) · auto-applied, new subscribers | 🟢 Nov 20, 2026 - Jan 1, 2027 |
+| [Aloud](https://aloudapp.app/black-friday/) | Native Mac app that reads selected text, PDFs, screenshots and web articles out loud, with on-device voices | ♾️ **30% OFF** one-time ($19 → $13.30) · code `BF30` | 🟢 Nov 27, 2026 - Dec 1, 2026 |
 
 ## 📸 Photo, Image & Screenshot
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
