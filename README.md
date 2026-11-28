@@ -545,6 +545,7 @@ Add it to your website, README, or launch post:
 | [OpenComputer](https://opencomputer.dev/blog/black-friday-2026/) | Open-source cloud coding agent in Slack: give @Computer a task, it works in its own cloud computer and opens a PR | 💸 **50% OFF** Pro ($20 → $10/mo) and Max ($200 → $100/mo) with double the work minutes · 12 months for the first 50 workspaces, then 3 months · auto-applied | Nov 27, 2026 - Nov 30, 2026 |
 | [Context.dev](https://www.context.dev/pricing) | Web search, scraping and crawling APIs for AI agents and applications. | **30% OFF** new purchases of paid plans for **1 year** · auto-applied, no code needed | Nov 27, 2026 - Dec 1, 2026 |
 | [AGNT](https://agnt.gg/pricing?utm_source=twf-nikhila&utm_medium=github&utm_campaign=bf2026#deal) | Desktop AI agent platform for building agents and workflows that run on your computer or a dedicated cloud instance | **40% OFF** the first year of yearly plans, Pro $290 → $174, Team $990 → $594 · code `BLACKFRIDAY` (applied at checkout) | 🟢 Nov 18, 2026 - Nov 30, 2026 |
+| [Staxa](https://staxa.dev/#pricing) | Hosting for SaaS with an isolated app, database, subdomain and SSL per customer, provisioned from a dashboard or one API call | 💸 **50% OFF** the first 3 months of Starter ($49 → $24.50/mo) or Growth ($199 → $99.50/mo) · code `STAXABF50` · monthly billing, new subscriptions, first 100 customers | 🟢 Nov 27, 2026 - Nov 30, 2026 |
 
 ## 🧱 Boilerplates & Starter Kits
 | **Name** | **Description**| **Deal details** (Discount & coupon code)| **Start-End date** |
